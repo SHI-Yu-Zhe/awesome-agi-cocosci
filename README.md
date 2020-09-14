@@ -15,6 +15,10 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019.
 
+## Related Work
+
+[Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) ***ICML'20***, 2020.
+
 
 ## Project 
 [ABL-HED](https://github.com/AbductiveLearning/ABL-HED) Learning Handwritten Equations by ABL.
