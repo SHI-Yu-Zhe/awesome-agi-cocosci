@@ -28,4 +28,3 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 ## Project 
 [ABL-HED](https://github.com/AbductiveLearning/ABL-HED) Learning Handwritten Equations by ABL.
-[
