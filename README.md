@@ -4,8 +4,8 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 ## Leading Research Groups & Resesarchers
 * [LAMDA](http://www.lamda.nju.edu.cn/MainPage.ashx) Nanjing University, LAMDA: Zhi-Hua Zhou.
 * [Wang-Zhou Dai](https://daiwz.net/) Imperial College London, Wang-Zhou Dai.
-  ** [Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)
-  ** [PhD-thesis](https://daiwz.net/org/pdf/daiwz_PhD.pdf)
+  * [Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)
+  * [PhD-thesis](https://daiwz.net/org/pdf/daiwz_PhD.pdf)
 
 ## Books
 [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
