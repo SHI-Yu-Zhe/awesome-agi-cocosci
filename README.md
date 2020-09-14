@@ -23,8 +23,9 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 ### Real Tasks
 
-[The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. [Project](https://github.com/Microsoft/malmo#getting-started)
+[The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. [[Malmo](https://github.com/Microsoft/malmo#getting-started)] [[Malmo-env](https://github.com/Microsoft/malmo/tree/master/MalmoEnv)]
 
 
 ## Project 
 [ABL-HED](https://github.com/AbductiveLearning/ABL-HED) Learning Handwritten Equations by ABL.
+[
