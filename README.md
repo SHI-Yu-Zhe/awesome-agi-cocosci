@@ -1,8 +1,11 @@
 # Awesome Abductive Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An **awesome** list for abductive learning, a machine learning methodology that combines neural perception with logical reasoning. The concept "abduction" is borrowed from cognitive psychology and can be interpretted as a mental process that try to find an interpretion to make observation fact consistent with background knowledge. We believe that integrating data-driven methodology with knowledge-driven methodology is a potential way towards our final goal: artificial general intelligence with human-level intelligence.
 
-## Leading Research Groups
-[LAMDA](http://www.lamda.nju.edu.cn/MainPage.ashx) Nanjing University, LAMDA: Zhi-Hua Zhou, Wang-Zhou Dai.
+## Leading Research Groups & Resesarchers
+* [LAMDA](http://www.lamda.nju.edu.cn/MainPage.ashx) Nanjing University, LAMDA: Zhi-Hua Zhou.
+* [Wang-Zhou Dai](https://daiwz.net/) Imperial College London, Wang-Zhou Dai.
+** [Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)
+** [PhD-thesis](https://daiwz.net/org/pdf/daiwz_PhD.pdf)
 
 ## Books
 [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
