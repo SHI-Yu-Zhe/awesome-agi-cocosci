@@ -21,6 +21,8 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) ***ICML'20***, 2020.
 
+* [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978) 2020.
+
 ### Real Tasks
 
 * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
