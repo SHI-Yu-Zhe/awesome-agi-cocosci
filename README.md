@@ -40,6 +40,7 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [Learning Skill Hierarchies from Predicate Descriptions and Self-Supervision](http://web.mit.edu/tslvr/www/papers/genplan20_camera_ready.pdf) ***AAAI GenPlan Workshop***, 2020.
   * [AMRL: Aggregated Memory for Reinforcement Learning](https://openreview.net/pdf?id=Bkl7bREtDr) ***ICLR'20***, 2020.
   * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020.
+  * [Generative Design in Minecraft: Chronicle Challenge] ***ICCC'20***, 2020.
   * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019.
   * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages] (http://todigra.org/index.php/todigra/article/view/88/139) ***DiGRA***, 2018.
   * [Asynchronous Data Aggregation for Training End to End Visual Control Networks] (https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/fp185-monfort-1.pdf) ***AAMAS'17***, 2017.
