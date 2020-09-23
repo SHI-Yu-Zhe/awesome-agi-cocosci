@@ -32,7 +32,7 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [[Malmo-Tutorials](https://microsoft.github.io/malmo/0.17.0/Python_Examples/Tutorial.pdf)]
   * [[MineRL](https://minerl.io/)]
   * [[MarLo Challenge 2018](https://github.com/crowdAI/marLo)]
-#### **Works exploiting Minecraft**
+#### **Researches exploiting Minecraft**
 #####  **Artificial Intelligence**
   * [The AI Settlement Generation Challenge in Minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0), ***KI***, 2020.
   * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/), ***ACL'20***, 2020.
