@@ -25,15 +25,15 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 ### Real Tasks
 
-* **Malmo Platform for Minecraft AI**
+#### **Malmo Platform for Minecraft AI**
   * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
   * [[Malmo](https://github.com/Microsoft/malmo#getting-started)] 
   * [[Malmo-env](https://github.com/Microsoft/malmo/tree/master/MalmoEnv)] 
   * [[Malmo-Tutorials](https://microsoft.github.io/malmo/0.17.0/Python_Examples/Tutorial.pdf)]
   * [[MineRL](https://minerl.io/)]
   * [[MarLo Challenge 2018](https://github.com/crowdAI/marLo)]
-* **Works exploiting Minecraft**
-  **Artificial Intelligence**
+#### **Works exploiting Minecraft**
+#####  **Artificial Intelligence**
   * [The AI Settlement Generation Challenge in Minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0), ***KI***, 2020.
   * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/), ***ACL'20***, 2020.
   * [Collaborative Dialogue in Minecraft](https://www.aclweb.org/anthology/P19-1537.pdf), ***ACL'19***, 2019.
@@ -46,7 +46,7 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14630/13950), ***AAAI'17***, 2017.
   * [Modular Multitask Reinforcement Learning with Policy Sketches](http://proceedings.mlr.press/v70/andreas17a.html), ***ICML'17***, 2017.
   * [Control of memory, active perception, and action in minecraft](http://proceedings.mlr.press/v48/oh16.pdf), ***ICML'16***, 2016.
-  **Cognitive Science**
+#####  **Cognitive Science**
   * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22), ***Spatial Cognition'20***, 2020.
   * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf), ***ICCC'20***, 2020.
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070), ***AAAI'20***, 2020.
