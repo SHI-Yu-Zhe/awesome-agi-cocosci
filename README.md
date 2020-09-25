@@ -49,6 +49,7 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [AMRL: Aggregated Memory for Reinforcement Learning](https://openreview.net/pdf?id=Bkl7bREtDr), ***ICLR'20***, 2020.
   * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020.
   * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019.
+  * [Design Mining for Minecraft Architecture](http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf), ***AAAI'18***, 2018.
   * [Asynchronous Data Aggregation for Training End to End Visual Control Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/fp185-monfort-1.pdf), ***AAMAS'17***, 2017.
   * [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14630/13950), ***AAAI'17***, 2017.
   * [Modular Multitask Reinforcement Learning with Policy Sketches](http://proceedings.mlr.press/v70/andreas17a.html), ***ICML'17***, 2017.
@@ -59,7 +60,6 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf), ***ICCC'20***, 2020.
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070), ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf), ***SIGDial'20***, 2020.
-  
 
 ## Project 
 * [ABL-HED](https://github.com/AbductiveLearning/ABL-HED) Learning Handwritten Equations by ABL.
