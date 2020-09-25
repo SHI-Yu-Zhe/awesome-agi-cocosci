@@ -19,9 +19,15 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 ### Neural-Symbolic Learning
 
-* [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) ***ICML'20***, 2020.
+* [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
 
-* [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978) ***CogSci'21***, 2021.
+* [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***CogSci'21***, 2021.
+
+### Comprehensibility of AI
+
+* [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***ML***, 2018.
+
+* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***PNAS***, 2020.
 
 ### Real Tasks
 
