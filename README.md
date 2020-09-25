@@ -47,12 +47,12 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [AMRL: Aggregated Memory for Reinforcement Learning](https://openreview.net/pdf?id=Bkl7bREtDr), ***ICLR'20***, 2020.
   * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020.
   * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019.
-  * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages](http://todigra.org/index.php/todigra/article/view/88/139), ***DiGRA***, 2018.
   * [Asynchronous Data Aggregation for Training End to End Visual Control Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/fp185-monfort-1.pdf), ***AAMAS'17***, 2017.
   * [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14630/13950), ***AAAI'17***, 2017.
   * [Modular Multitask Reinforcement Learning with Policy Sketches](http://proceedings.mlr.press/v70/andreas17a.html), ***ICML'17***, 2017.
   * [Control of memory, active perception, and action in minecraft](http://proceedings.mlr.press/v48/oh16.pdf), ***ICML'16***, 2016.
 #####  **Cognitive Science**
+  * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages](http://todigra.org/index.php/todigra/article/view/88/139), ***DiGRA***, 2018.
   * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22), ***Spatial Cognition'20***, 2020.
   * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf), ***ICCC'20***, 2020.
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070), ***AAAI'20***, 2020.
