@@ -23,6 +23,8 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 * [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***CogSci'21***, 2021.
 
+* [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf), ***Science Advances***, 2019.
+
 ### Comprehensibility of AI
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***ML***, 2018.
