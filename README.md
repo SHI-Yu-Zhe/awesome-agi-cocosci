@@ -54,6 +54,7 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020.
   * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019.
   * [Design Mining for Minecraft Architecture](http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf), ***AAAI'18***, 2018.
+  * [Adaptive Agents in Minecraft: A Hybrid Paradigm for Combining Domain Knowledge with Reinforcement Learning](https://link.springer.com/chapter/10.1007%2F978-3-319-71679-4_6), ***AAMAS'17***, 2017.
   * [Asynchronous Data Aggregation for Training End to End Visual Control Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/fp185-monfort-1.pdf), ***AAMAS'17***, 2017.
   * [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14630/13950), ***AAAI'17***, 2017.
   * [Modular Multitask Reinforcement Learning with Policy Sketches](http://proceedings.mlr.press/v70/andreas17a.html), ***ICML'17***, 2017.
