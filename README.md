@@ -61,6 +61,8 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14630/13950), ***AAAI'17***, 2017.
   * [Modular Multitask Reinforcement Learning with Policy Sketches](http://proceedings.mlr.press/v70/andreas17a.html), ***ICML'17***, 2017.
   * [Control of memory, active perception, and action in minecraft](http://proceedings.mlr.press/v48/oh16.pdf), ***ICML'16***, 2016.
+  * [Learning Behavior from Demonstration in Minecraft via Symbolic Similarity Measures](fdg2015.org/papers/fdg2015_paper_11.pdf), ***FDG'15***, 2015.
+  
 #####  **Cognitive Science**
   * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages](http://todigra.org/index.php/todigra/article/view/88/139), ***DiGRA***, 2018.
   * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22), ***Spatial Cognition'20***, 2020.
