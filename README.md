@@ -17,6 +17,10 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 ## Related Work
 
+### Cognitive Machine Learning
+
+* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), 2020.
+
 ### Neural-Symbolic Learning
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
