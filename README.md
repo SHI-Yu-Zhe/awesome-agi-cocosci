@@ -6,13 +6,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 ## Papers
 
+### Cognitive Machine Learning
+
 * [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
 
 * [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***SCIENCE CHINA Information Sciences, Volume 62***, 2019.
-
-## Related Work
-
-### Cognitive Machine Learning
 
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015.
 
@@ -21,10 +19,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), 2020.
 
 * [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/2007.16189.pdf), 2020.
-
-* [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
-
-* [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
 
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017.
 
@@ -47,6 +41,12 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***PNAS***, 2020.
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018.
+
+## Inductive Logic Programming
+
+* [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
+
+* [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
 
 
 ### Real Tasks
