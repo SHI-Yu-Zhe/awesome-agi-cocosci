@@ -2,9 +2,9 @@
 An **awesome** list for abductive learning, a machine learning methodology that combines neural perception with logical reasoning. The concept "abduction" is borrowed from cognitive psychology and can be interpretted as a mental process that try to find an interpretion to make observation fact consistent with background knowledge. We believe that integrating data-driven methodology with knowledge-driven methodology is a potential way towards our final goal: artificial general intelligence with human-level intelligence.
 
 ## Leading Research Groups & Resesarchers
-* [Wang-Zhou Dai](https://daiwz.net/) Imperial College London, Wang-Zhou Dai.
-  * [Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)
-  * [PhD-thesis](https://daiwz.net/org/pdf/daiwz_PhD.pdf)
+* [Wang-Zhou Dai](https://daiwz.net/) Imperial College London, Dr.Wang-Zhou Dai.
+  * [ABL-Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)
+  * [ABL-HED-project](https://github.com/AbductiveLearning/ABL-HED) Learning Handwritten Equations by ABL.
 
 ## Books
 * [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
@@ -22,6 +22,8 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
 
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), 2020.
+
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/2007.16189.pdf), 2020.
 
 ### Neural-Symbolic Learning
 
@@ -72,5 +74,4 @@ An **awesome** list for abductive learning, a machine learning methodology that 
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070), ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf), ***SIGDial'20***, 2020.
 
-## Project 
-* [ABL-HED](https://github.com/AbductiveLearning/ABL-HED) Learning Handwritten Equations by ABL.
+
