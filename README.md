@@ -1,17 +1,12 @@
 # Awesome Abductive Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An **awesome** list for abductive learning, a machine learning methodology that combines neural perception with logical reasoning. The concept "abduction" is borrowed from cognitive psychology and can be interpretted as a mental process that try to find an interpretion to make observation fact consistent with background knowledge. We believe that integrating data-driven methodology with knowledge-driven methodology is a potential way towards our final goal: artificial general intelligence with human-level intelligence.
 
-## Leading Research Groups & Resesarchers
-* [Wang-Zhou Dai](https://daiwz.net/) Imperial College London, Dr.Wang-Zhou Dai.
-  * [ABL-Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)
-  * [ABL-HED-project](https://github.com/AbductiveLearning/ABL-HED) Learning Handwritten Equations by ABL.
-
 ## Books
 * [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
 
 ## Papers
 
-* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019.
+* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
 
 * [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***SCIENCE CHINA Information Sciences, Volume 62***, 2019.
 
