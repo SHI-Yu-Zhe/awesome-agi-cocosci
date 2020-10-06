@@ -26,7 +26,7 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 * [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
 
-* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2016.
+* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017.
 
 
 ### Neural-Symbolic Learning
