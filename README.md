@@ -30,11 +30,13 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 * [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf), ***Science Advances***, 2019.
 
+* [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018.
+
 ### Comprehensibility of AI
 
-* [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***ML***, 2018.
-
 * [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***PNAS***, 2020.
+
+* [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***ML***, 2018.
 
 ### Real Tasks
 
