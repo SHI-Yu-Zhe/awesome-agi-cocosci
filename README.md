@@ -14,11 +14,20 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 ### Cognitive Machine Learning
 
+* [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015.
+
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
 
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), 2020.
 
 * [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/2007.16189.pdf), 2020.
+
+* [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
+
+* [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
+
+* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2016.
+
 
 ### Neural-Symbolic Learning
 
@@ -32,11 +41,13 @@ An **awesome** list for abductive learning, a machine learning methodology that 
 
 * [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018.
 
+
 ### Comprehensibility of AI
 
 * [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***PNAS***, 2020.
 
-* [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***ML***, 2018.
+* [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018.
+
 
 ### Real Tasks
 
