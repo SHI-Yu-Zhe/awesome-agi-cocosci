@@ -1,5 +1,5 @@
 # Awesome Cognitive Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An **awesome & curated** list for **cognitive machine learning**, an emerging inter-discipline field that combines machine learning and cognitive science. We believe that the reciprocative research of machine learning and cognitive science is a potential way towards our final goal: artificial general intelligence which has the capacity to human-level tasks like abstracting, planning and making decisions.
+An **awesome & curated** list for **cognitive machine learning**, an emerging inter-discipline field that combines machine learning and cognitive science. We want to promote high-level machine learning by observing the way that human learns and thinks, while obtaining a deeper understanding of human cognition. We believe that this kind of reciprocative research of machine learning and cognitive science is a potential way towards our final goal: artificial general intelligence which has the capacity to human-level tasks like abstracting, planning and making decisions.
 
 ## Books
 * [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
