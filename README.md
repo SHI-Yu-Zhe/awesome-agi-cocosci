@@ -1,5 +1,5 @@
 # Awesome Cognitive Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An **awesome & curated** list for **cognitive machine learning**, an emerging inter-discipline field that combines machine learning and cognitive science. We want to promote high-level machine learning by observing the way that human learns and thinks, while obtaining a deeper understanding of human cognition. We believe that this kind of reciprocative research of machine learning and cognitive science is a potential way towards our final goal: artificial general intelligence which has the capacity to human-level tasks like abstracting, planning and making decisions.
+An **awesome & curated** list for **cognitive machine learning**, an emerging inter-discipline field that combines machine learning and cognitive science as majority, alone with philosophy, neuroscience, human-computer interaction and sociology. We want to promote high-level machine learning by observing the way that human learns and thinks, while obtaining a deeper understanding of human cognition. We believe that this kind of reciprocative research of machine learning and cognitive science is a potential way towards our final goal: artificial general intelligence which has the capacity to human-level tasks like abstracting, planning and making decisions.
 
 ## Reviews & Surveys
 
@@ -8,7 +8,12 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) ***Nature***, 2015.
 
 ## Books
+
+### Cognitive Science
+
 * [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
+
+* [Cognitive Science: An Introduction to the Science of the Mind](https://www.cambridge.org/highereducation/books/cognitive-science/F80164BE3B87C24494283F4FA4F79AB2?__cf_chl_jschl_tk__=e992a9980dff71178cd071bfa0f943cd9325c267-1602038291-0-AbLbwp1YRci43jda0pH4US34EaA5X_eZP3OEGQFDYOX-BG1v2q9wzoQwWGlclVyE4_V-I0LaFwwq59ncOSaBLm5es3FnJtFVSf-z0dCoMooCytySyd9MVJhcDjGo2U-H1jGZ1l1iEiaUS4671tTO6mwO64e1BqGP_dcvGCzPLTr3rxJ8zkvaGBIeu6AfFMJe2eB5MysXlmda5onMgmyaPk8AmBiHV1fKG59VMNrHxDM9HFqda7_M00OWeLhRJzFaHmahW3TxHpjPPv3odz7M_chzu7CB_CrUQPB-awYN9ljBsioK0ItnprSVZilJ_WaawoYk3nud7FFTIswT6mq3DS_3ksoKEy9leMBfmFtHlE4uschNmNhoJTbnJhC9RpipEAMdaY_X2bRNu13ICVxwTMMmFmS1WuCn3K1JvIGcNyolQT77CD34I9ITAdhx6baqVA) ***Cambridge University Press***, 2014.
 
 ## Papers
 
