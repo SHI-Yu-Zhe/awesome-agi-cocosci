@@ -35,6 +35,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
 
+* [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539), 2020.
+
 
 ### Neural-Symbolic Learning
 
