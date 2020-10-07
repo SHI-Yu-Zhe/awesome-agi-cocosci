@@ -64,7 +64,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 ### Real Tasks
 
-#### **Malmo Platform for Minecraft AI**
+#### Abstract Reasoning Challenge
+  * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf), ***Google Research***, 2019.
+  * [Abstract Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/)
+
+#### Malmo Platform for Minecraft AI
   * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
   * [[Malmo](https://github.com/Microsoft/malmo#getting-started)] 
   * [[Malmo-env](https://github.com/Microsoft/malmo/tree/master/MalmoEnv)] 
