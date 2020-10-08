@@ -39,6 +39,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
 
+* [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019.
 
 ### Neural-Symbolic Learning
 
