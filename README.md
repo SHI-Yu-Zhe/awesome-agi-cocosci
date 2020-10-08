@@ -3,9 +3,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 ## Reviews & Surveys
 
-* [Recognition-by-Components: A Theory of Human Image Understanding.](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) ***Psychological Review***, 1987.
-
 * [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) ***Nature***, 2015.
+
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989.
+
+* [Recognition-by-Components: A Theory of Human Image Understanding.](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) ***Psychological Review***, 1987.
 
 ## Books
 
