@@ -57,6 +57,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 ### Cognitive Psychology
 
+* [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
+
 * [Action understanding as inverse planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009.
 
 ### Inductive Logic Programming
