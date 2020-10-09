@@ -89,6 +89,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [[MineRL](https://minerl.io/)]
   * [[MarLo Challenge 2018](https://github.com/crowdAI/marLo)]
 #### **Researches exploiting Minecraft**
+  * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278), ***Journal on Eduction Technology & Society***, 2016.
 #####  **Artificial Intelligence**
   * [The AI Settlement Generation Challenge in Minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0), ***KI***, 2020.
   * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/), ***ACL'20***, 2020.
