@@ -81,15 +81,16 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf), ***Google Research***, 2019.
   * [Abstract Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/)
 
-#### Malmo Platform for Minecraft AI
+
+#### **Researches exploiting Minecraft**
+  * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278), ***Journal on Eduction Technology & Society***, 2016.
+##### Malmo Platform for Minecraft AI
   * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
   * [[Malmo](https://github.com/Microsoft/malmo#getting-started)] 
   * [[Malmo-env](https://github.com/Microsoft/malmo/tree/master/MalmoEnv)] 
   * [[Malmo-Tutorials](https://microsoft.github.io/malmo/0.17.0/Python_Examples/Tutorial.pdf)]
   * [[MineRL](https://minerl.io/)]
   * [[MarLo Challenge 2018](https://github.com/crowdAI/marLo)]
-#### **Researches exploiting Minecraft**
-  * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278), ***Journal on Eduction Technology & Society***, 2016.
 #####  **Artificial Intelligence**
   * [The AI Settlement Generation Challenge in Minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0), ***KI***, 2020.
   * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/), ***ACL'20***, 2020.
