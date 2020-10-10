@@ -64,7 +64,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
 
-* [Action understanding as inverse planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009.
+* [Action understanding as inverse planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]
 
 * [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) ***Emotion***, 2019.
 
