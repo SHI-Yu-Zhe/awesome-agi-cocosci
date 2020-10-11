@@ -41,6 +41,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019.
 
+* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004.
+
 ### Neural-Symbolic Learning
 
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020.
