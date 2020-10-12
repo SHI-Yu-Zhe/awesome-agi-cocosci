@@ -3,6 +3,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 ## Reviews & Surveys
 
+* [Artificial Intelligence Review](https://www.springer.com/journal/10462/?gclid=EAIaIQobChMIgO3k8sOu7AIVRCKWCh3hZQWLEAEYASAAEgJkzfD_BwE), ***Springer***.
+
 * [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) ***Nature***, 2015.
 
 * [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989.
