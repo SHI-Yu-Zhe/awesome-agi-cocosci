@@ -78,7 +78,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
 
-### Life-Long Learning
+### Continual Learning
+
+* [Continual Learning Literature](https://github.com/optimass/continual_learning_papers), ***GitHub***.
 
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning), ***GitHub***.
 
