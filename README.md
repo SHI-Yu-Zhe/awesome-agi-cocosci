@@ -80,6 +80,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 ### Life-Long Learning
 
+* [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning), ***GitHub***.
+
 * [Mnemonics Training: Multi-Class Incremental Learning without Forgetting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157659), ***CVPR'20***, 2020.
 
 
