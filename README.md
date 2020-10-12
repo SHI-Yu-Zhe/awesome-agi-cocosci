@@ -84,6 +84,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning), ***GitHub***.
 
+* [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf), ***CVPR'19***, 2019.
+
 * [Mnemonics Training: Multi-Class Incremental Learning without Forgetting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157659), ***CVPR'20***, 2020.
 
 
