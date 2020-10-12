@@ -76,6 +76,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
 
+### Life-Long Learning
+
+* [Mnemonics Training: Multi-Class Incremental Learning without Forgetting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157659), ***CVPR'20***, 2020.
+
 
 ### Real Tasks
 
