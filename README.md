@@ -57,6 +57,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018.
 
+* [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf), ***NIPS'19***, 2019.
+
 
 ### Comprehensibility of AI
 
