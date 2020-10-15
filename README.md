@@ -77,6 +77,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) ***Emotion***, 2019.
 
+* [Waiting and weighting: Information sampling is a balance between efficiency and error-reduction](https://linkinghub.elsevier.com/retrieve/pii/S0010027712002235), ***Cognition***, 2013.
+
 ### Inductive Logic Programming
 
 * [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
