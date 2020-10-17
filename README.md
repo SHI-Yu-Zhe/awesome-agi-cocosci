@@ -99,6 +99,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [iCaRL: Incremental Classifier and Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100070), ***CVPR'17***, 2017.
 
+* [Visual Question Generation for Class Acquisition of Unknown Objects](https://link.springer.com/chapter/10.1007%2F978-3-030-01258-8_30), ***ECCV'18***, 2018.
+
+* [Learning to Caption Images Through a Lifetime by Asking Questions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009050), ***ICCV'19***, 2019.
+
 
 ### Real Tasks
 
