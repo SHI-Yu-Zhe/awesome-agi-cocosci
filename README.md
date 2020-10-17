@@ -93,6 +93,12 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning), ***GitHub***.
 
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015.
+
+* [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016.
+
+* [iCaRL: Incremental Classifier and Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100070), ***CVPR'17***, 2017.
+
 
 ### Real Tasks
 
