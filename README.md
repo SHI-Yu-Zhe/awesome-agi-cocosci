@@ -103,6 +103,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning to Caption Images Through a Lifetime by Asking Questions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009050), ***ICCV'19***, 2019.
 
+* [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) 2020.
+
 
 ### Real Tasks
 
