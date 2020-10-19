@@ -93,7 +93,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning), ***GitHub***.
 
-* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015.
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[Citations](https://academic.microsoft.com/paper/1917989004/citedby/search?q=Towards%20Open%20World%20Recognition&qe=RId%3D1917989004&f=&orderBy=0&skip=0&take=10)]
 
 * [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016.
 
