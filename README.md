@@ -45,6 +45,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004.
 
+* [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***. 2020. [[Project](http://sketchx.ai/pixelor)]
+
 ### Neural-Symbolic Learning
 
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020.
