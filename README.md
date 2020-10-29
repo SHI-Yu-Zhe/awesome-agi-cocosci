@@ -103,13 +103,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016.
 
-* [iCaRL: Incremental Classifier and Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100070), ***CVPR'17***, 2017.
-
-* [Visual Question Generation for Class Acquisition of Unknown Objects](https://link.springer.com/chapter/10.1007%2F978-3-030-01258-8_30), ***ECCV'18***, 2018.
-
-* [Learning to Caption Images Through a Lifetime by Asking Questions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009050), ***ICCV'19***, 2019.
-
 * [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020.
+
+* [Online incremental hierarchical classification resonance network](https://www.sciencedirect.com/science/article/pii/S0031320320304751?via%3Dihub), ***Pattern Recognition***, 2021.
 
 
 ### Real Tasks
