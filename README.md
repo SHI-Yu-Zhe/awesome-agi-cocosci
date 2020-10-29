@@ -109,8 +109,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020.
 
-* [Online incremental hierarchical classification resonance network](https://www.sciencedirect.com/science/article/pii/S0031320320304751?via%3Dihub), ***Pattern Recognition***, 2021.
-
 
 ### Real Tasks
 
