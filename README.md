@@ -49,6 +49,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[Project](http://sketchx.ai/pixelor)]
 
+* [Abductive Commonsence Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020.
+
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
 ### Neural-Symbolic Learning
