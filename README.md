@@ -29,7 +29,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
 
-* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***SCIENCE CHINA Information Sciences, Volume 62***, 2019.
+* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Science CHINA***, 2019.
 
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015.
 
@@ -70,7 +70,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 ### Comprehensibility of AI
 
-* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***PNAS***, 2020.
+* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Science***, 2020.
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018.
 
