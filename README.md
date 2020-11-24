@@ -31,6 +31,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Science CHINA***, 2019.
 
+* [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.), 2020.
+
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015.
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
