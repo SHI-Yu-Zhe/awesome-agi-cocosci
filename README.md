@@ -45,8 +45,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
 
-* [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019.
-
 * [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004.
 
 * [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[Project](http://sketchx.ai/pixelor)]
@@ -55,7 +53,12 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
+* [Learning and development in neural networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584), ***Cognition***, 1993.
+
+* [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311), ***Cognition***, 1999.
+
 * [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380), ***ICML'09***, 2009.
+
 
 ### Neural-Symbolic Learning
 
@@ -85,7 +88,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
 
-* [Action understanding as inverse planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]
+* [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]
+
+* [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019.
 
 * [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) ***Emotion***, 2019.
 
