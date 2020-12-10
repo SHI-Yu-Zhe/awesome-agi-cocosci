@@ -55,6 +55,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
+* [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380), ***ICML'09***, 2009.
+
 ### Neural-Symbolic Learning
 
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020.
