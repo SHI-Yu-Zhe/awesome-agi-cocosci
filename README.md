@@ -59,6 +59,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380), ***ICML'09***, 2009.
 
+* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), ***Artificial Intelligence***, 1986.
+
 
 ### Neural-Symbolic Learning
 
