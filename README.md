@@ -37,6 +37,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), 2020.
 
+* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020.
+
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015.
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
