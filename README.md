@@ -110,11 +110,13 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Disentangling the Independent Contributions of Visual and Conceptual Features to the Spatiotemporal Dynamics of Scene Categorization.](https://www.jneurosci.org/content/40/27/5283), ***The Journal of Neuroscience***, 2020.
 
-### Inductive Logic Programming
+### Logic Programming
 
 * [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
 
 * [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
+
+* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), 1986.
 
 ### Learning in the Open World
 
