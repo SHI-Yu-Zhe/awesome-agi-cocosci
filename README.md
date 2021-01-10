@@ -7,15 +7,16 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Reviews & Surveys](#rs)
 
 * [Books](#bk)
+   * [Cognitive Science](#cs)
 
 * [Papers](#p)
-    * [Cognitive Machine Learning](#cml)
-    * [Neural-Symbolic Learning](#nsl)
-    * [Comprehensibility of AI](#cal)
-    * [Cognitive Psychology](#cp)
-    * [Logic Programming](#lp)
-    * [Learning in the Open World](#ow)
-    * [Real Tasks](#rt)
+   * [Cognitive Machine Learning](#cml)
+   * [Neural-Symbolic Learning](#nsl)
+   * [Comprehensibility of AI](#cal)
+   * [Cognitive Psychology](#cp)
+   * [Logic Programming](#lp)
+   * [Learning in the Open World](#ow)
+   * [Real Tasks](#rt)
 
 
 <span id = "rs"></span>
@@ -35,7 +36,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 <span id = "bk"></span>
 ## Books
-
+<span id = "cs"></span>
 ### Cognitive Science
 
 * [Cognitive Psychology](https://www.pdf-book-search.com/psychology/cognitive-psychology-8th-edition-by-robert-l-solso-m.html) ***Pearson***, 2007.
