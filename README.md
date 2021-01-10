@@ -1,6 +1,24 @@
 # Awesome Cognitive Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An **awesome & curated** list for **cognitive machine learning**, an emerging inter-discipline field that combines machine learning and cognitive science as majority, alone with philosophy, neuroscience, human-computer interaction and sociology. We want to promote high-level machine learning by observing the way that human learns and thinks, while obtaining a deeper understanding of human cognition. We believe that this kind of reciprocative research of machine learning and cognitive science is a potential way towards our final goal: artificial general intelligence which has the capacity to human-level tasks like abstracting, planning and making decisions.
 
+<span id = "c"></span>
+## Table of Contents
+
+*[Reviews & Surveys](#rs)
+
+*[Books](#bk)
+
+*[Papers](#p)
+    *[Cognitive Machine Learning](#cml)
+    *[Neural-Symbolic Learning](#nsl)
+    *[Comprehensibility of AI](#cal)
+    *[Cognitive Psychology](#cp)
+    *[Logic Programming](#lp)
+    *[Learning in the Open World](#ow)
+    *[Real Tasks](#rt)
+
+
+<span id = "rs"></span>
 ## Reviews & Surveys
 
 * [Artificial Intelligence Review](https://www.springer.com/journal/10462/?gclid=EAIaIQobChMIgO3k8sOu7AIVRCKWCh3hZQWLEAEYASAAEgJkzfD_BwE), ***Springer***.
@@ -13,6 +31,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) ***Annual Review of Psychology***, 2017.
 
+*[Back to Top](#c)
+
+<span id = "bk"></span>
 ## Books
 
 ### Cognitive Science
@@ -25,8 +46,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.semanticscholar.org/paper/Other-Minds%3A-The-Octopus%2C-the-Sea%2C-and-the-Deep-of-Aloraifi/8742d5d7debd28cbd75d77641f9b2286366a6f95) ***Farrar, Straus and Giroux***, 2016.
 
-## Papers
+*[Back to Top](#c)
 
+<span id = "p"></span>
+## Papers
+<span id = "cml"></span>
 ### Cognitive Machine Learning
 
 * [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
@@ -69,7 +93,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), ***Artificial Intelligence***, 1986.
 
+*[Back to Top](#c)
 
+<span id = "nsl"></span>
 ### Neural-Symbolic Learning
 
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020.
@@ -84,7 +110,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf), ***NIPS'19***, 2019.
 
+*[Back to Top](#c)
 
+<span id = "cai"></span>
 ### Comprehensibility of AI
 
 * [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Science***, 2020.
@@ -93,7 +121,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), ***NIPS'19***, 2019.
 
+*[Back to Top](#c)
 
+<span id = "cp"></span>
 ### Cognitive Psychology
 
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
@@ -112,6 +142,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Disentangling the Independent Contributions of Visual and Conceptual Features to the Spatiotemporal Dynamics of Scene Categorization.](https://www.jneurosci.org/content/40/27/5283), ***The Journal of Neuroscience***, 2020.
 
+*[Back to Top](#c)
+
+<span id = "lp"></span>
 ### Logic Programming
 
 * [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
@@ -120,6 +153,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), 1986.
 
+*[Back to Top](#c)
+
+<span id = "ow"></span>
 ### Learning in the Open World
 
 * [Open Set Recognition](https://github.com/iCGY96/awesome_OpenSetRecognition_list), ***GitHub***.
@@ -134,7 +170,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020.
 
+*[Back to Top](#c)
 
+<span id = "rt"></span>
 ### Real Tasks
 
 #### First-Person Vision
@@ -178,4 +216,5 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070), ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf), ***SIGDial'20***, 2020.
 
+*[Back to Top](#c)
 
