@@ -4,19 +4,18 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "c"></span>
 ## Table of Contents
 
-*[Reviews & Surveys](#rs)
+* [Reviews & Surveys](#rs)
 
-*[Books](#bk)
+* [Books](#bk)
 
-*[Papers](#p)
-
-    *[Cognitive Machine Learning](#cml)
-    *[Neural-Symbolic Learning](#nsl)
-    *[Comprehensibility of AI](#cal)
-    *[Cognitive Psychology](#cp)
-    *[Logic Programming](#lp)
-    *[Learning in the Open World](#ow)
-    *[Real Tasks](#rt)
+* [Papers](#p)
+    * [Cognitive Machine Learning](#cml)
+    * [Neural-Symbolic Learning](#nsl)
+    * [Comprehensibility of AI](#cal)
+    * [Cognitive Psychology](#cp)
+    * [Logic Programming](#lp)
+    * [Learning in the Open World](#ow)
+    * [Real Tasks](#rt)
 
 
 <span id = "rs"></span>
