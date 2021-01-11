@@ -149,6 +149,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217), ***CVPR'19***, 2019.
 
+* [Visual Commonsense R-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156347), ***CVPR'20***, 2020.
+
 * [Abductive Commonsence Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020.
 
 *[Back to Top](#c)
