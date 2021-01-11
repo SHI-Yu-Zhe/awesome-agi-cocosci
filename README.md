@@ -66,7 +66,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), 2020. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
 
-* [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015.
+* [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
 
