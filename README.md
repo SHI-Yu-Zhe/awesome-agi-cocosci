@@ -153,6 +153,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Visual Commonsense R-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156347), ***CVPR'20***, 2020.
 
+* [Learning Visual Commonsense for Robust Scene Graph Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-58592-1_38), ***ECCV'20***, 2020.
+
 * [Abductive Commonsence Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020.
 
 *[Back to Top](#c)
