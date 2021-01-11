@@ -14,6 +14,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Neural-Symbolic Learning](#nsl)
    * [Comprehensibility of AI](#cal)
    * [Cognitive Psychology](#cp)
+   * [Commonsense Reasoning](#cms)
    * [Logic Programming](#lp)
    * [Learning in the Open World](#ow)
    * [Real Tasks](#rt)
@@ -82,8 +83,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[Project](http://sketchx.ai/pixelor)]
 
-* [Abductive Commonsence Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020.
-
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
 * [Learning and development in neural networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584), ***Cognition***, 1993.
@@ -142,6 +141,15 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Using human brain activity to guide machine learning.](https://www.nature.com/articles/s41598-018-23618-6), ***Nature: Scientific Report***, 2018.
 
 * [Disentangling the Independent Contributions of Visual and Conceptual Features to the Spatiotemporal Dynamics of Scene Categorization.](https://www.jneurosci.org/content/40/27/5283), ***The Journal of Neuroscience***, 2020.
+
+*[Back to Top](#c)
+
+<span id = "cms"></span>
+### Commonsense Reasoning
+
+* [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217), ***CVPR'19***, 2019.
+
+* [Abductive Commonsence Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020.
 
 *[Back to Top](#c)
 
