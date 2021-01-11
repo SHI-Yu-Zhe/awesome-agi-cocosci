@@ -185,6 +185,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020.
 
+* [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf), ***ICML'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
