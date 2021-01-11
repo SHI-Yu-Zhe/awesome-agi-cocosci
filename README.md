@@ -147,6 +147,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "cms"></span>
 ### Commonsense Reasoning
 
+* [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59), ***FSTTCS***, 1990.
+
 * [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217), ***CVPR'19***, 2019. [[Project](http://visualcommonsense.com/)]
 
 * [Visual Commonsense R-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156347), ***CVPR'20***, 2020.
