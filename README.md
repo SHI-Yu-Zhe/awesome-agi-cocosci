@@ -194,8 +194,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 #### First-Person Vision
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.
+  
+  * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)] [[Paper](https://dl.acm.org/doi/10.1145/3379156.3391365)]
+      
  
-
 #### Abstract Reasoning Challenge
   * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf), ***Google Research***, 2019.
   * [Abstract Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/)
