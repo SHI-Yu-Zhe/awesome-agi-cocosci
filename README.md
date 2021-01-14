@@ -126,6 +126,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "cp"></span>
 ### Cognitive Psychology
 
+* [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
+
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
 
 * [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]
