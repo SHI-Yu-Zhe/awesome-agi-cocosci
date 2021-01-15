@@ -168,9 +168,23 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "lp"></span>
 ### Logic Programming
 
+* [Meta-interpretive learning: application to grammatical inference](https://link.springer.com/article/10.1007/s10994-013-5358-3), ***Machine Learning***, 2014.
+
+* [Learning Efficient Logical Robot Strategies Involving Composable Objects.](http://andrewcropper.com/pubs/ijcai15-metagolo.pdf), ***IJCAI'15***, 2015.
+
+* [Learning Higher-Order Logic Programs through Abstraction and Invention.](http://andrewcropper.com/pubs/ijcai16-metafunc.pdf), ***IJCAI'16***, 2016.
+
 * [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
 
-* [Logical Vision: One-Shot Meta-Interpretive Learning from Real Images](https://link.springer.com/chapter/10.1007%2F978-3-319-78090-0_4), ***ILP'17***, 2017.
+* [Learning efficient logic programs](http://andrewcropper.com/pubs/mlj18-metaopt.pdf), ***Machine Learning***, 2018.
+
+* [Learning higher-order logic programs](http://andrewcropper.com/pubs/mlj19-metaho.pdf), ***Machine Learning***, 2019.
+
+* [Logical reduction of metarules](http://andrewcropper.com/pubs/mlj19-reduce.pdf), ***Machine Learning***, 2019.
+
+* [Playgol: Learning Programs Through Play](http://andrewcropper.com/pubs/ijcai19-playgol.pdf), ***IJCAI'19***, 2019.
+
+* [Forgetting to Learn Logic Programs](http://andrewcropper.com/pubs/aaai20-forgetgol.pdf), ***AAAI'20***, 2020.
 
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), 1986.
 
