@@ -12,7 +12,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Papers](#p)
    * [Cognitive Machine Learning](#cml)
    * [Neural-Symbolic Learning](#nsl)
-   * [Comprehensibility of AI](#cal)
+   * [Comprehensibility of AI](#cai)
    * [Cognitive Psychology](#cp)
    * [Commonsense Reasoning](#cms)
    * [Logic Programming](#lp)
