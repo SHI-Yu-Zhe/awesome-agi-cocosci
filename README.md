@@ -123,6 +123,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), 2020.
 
+* [SegNBDT: Visual Decision Rules for Segmentation.](http://export.arxiv.org/pdf/2006.06868), 2020.
+
 *[Back to Top](#c)
 
 <span id = "cp"></span>
