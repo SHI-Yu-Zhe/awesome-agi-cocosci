@@ -123,7 +123,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), ***NIPS'19***, 2019.
 
-* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), 2020.
+* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), 2020. [[code](https://github.com/alvinwan/neural-backed-decision-trees)]
 
 * [SegNBDT: Visual Decision Rules for Segmentation.](http://export.arxiv.org/pdf/2006.06868), 2020.
 
