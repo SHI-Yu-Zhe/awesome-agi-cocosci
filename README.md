@@ -63,8 +63,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.), 2020.
 
-* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), 2020.
-
 * [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020.
 
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), 2020. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
@@ -122,6 +120,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018.
 
 * [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), ***NIPS'19***, 2019.
+
+* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), 2020.
 
 *[Back to Top](#c)
 
