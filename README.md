@@ -110,6 +110,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf), ***NIPS'19***, 2019.
 
+* [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855), ***Artificial Intelligence***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
