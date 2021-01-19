@@ -59,6 +59,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Science CHINA***, 2019.
 
+* [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf), 2021.
+
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
 
 * [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.), 2020.
