@@ -4,7 +4,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "c"></span>
 ## Table of Contents
 
-* [Reviews & Surveys](#rs)
+* [Reviews & Surveys & Venues](#rs)
 
 * [Books](#bk)
    * [Cognitive Science](#cs)
@@ -21,7 +21,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 
 <span id = "rs"></span>
-## Reviews & Surveys
+## Reviews & Surveys & Venues
+
+* [Annual Meeting of the Cognitive Science Society (CogSci)](https://dblp.uni-trier.de/search?q=CogSci), ***Cognitive Science Society***.
 
 * [Artificial Intelligence Review](https://www.springer.com/journal/10462/?gclid=EAIaIQobChMIgO3k8sOu7AIVRCKWCh3hZQWLEAEYASAAEgJkzfD_BwE), ***Springer***.
 
