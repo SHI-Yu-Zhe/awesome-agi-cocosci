@@ -133,6 +133,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf), 2020. [[Project](https://gradientscience.org/background/)]
 
+* [Time for a Background Check! Uncovering the impact of Background Features on Deep Neural Networks](https://arxiv.org/pdf/2006.14077.pdf), 2020.
+
 *[Back to Top](#c)
 
 <span id = "cp"></span>
