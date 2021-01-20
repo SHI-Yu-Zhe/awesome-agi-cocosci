@@ -225,7 +225,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf), 2020.
 
-* [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), 2020.
+* [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), 2020. [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
 
 *[Back to Top](#c)
 
