@@ -156,6 +156,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Disentangling the Independent Contributions of Visual and Conceptual Features to the Spatiotemporal Dynamics of Scene Categorization.](https://www.jneurosci.org/content/40/27/5283), ***The Journal of Neuroscience***, 2020.
 
+* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
