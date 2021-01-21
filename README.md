@@ -118,6 +118,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf), ***ICML'20***, 2020.
 
+* [Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions](https://arxiv.org/pdf/2007.08751.pdf), ***ECCV'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
