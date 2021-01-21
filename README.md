@@ -116,6 +116,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855), ***Artificial Intelligence***, 2021.
 
+* [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf), ***ICML'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
