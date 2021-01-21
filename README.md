@@ -120,6 +120,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions](https://arxiv.org/pdf/2007.08751.pdf), ***ECCV'20***, 2020.
 
+* [Interpretable Neural Computation for Real-World Compositional Visual Question Answering](https://link.springer.com/chapter/10.1007%2F978-3-030-60636-7_8), ***PRCV'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
