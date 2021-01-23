@@ -122,6 +122,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Interpretable Neural Computation for Real-World Compositional Visual Question Answering](https://link.springer.com/chapter/10.1007%2F978-3-030-60636-7_8), ***PRCV'20***, 2020.
 
+* [Interpretable Visual Reasoning via Probabilistic Formulation Under Natural Supervision](https://link.springer.com/chapter/10.1007%2F978-3-030-58545-7_32), ***ECCV'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
