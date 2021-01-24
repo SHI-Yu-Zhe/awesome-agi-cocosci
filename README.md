@@ -89,7 +89,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
-* [Learning and development in neural networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584), ***Cognition***, 1993.
+* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584), ***Cognition***, 1993.
 
 * [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311), ***Cognition***, 1999.
 
@@ -101,6 +101,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 <span id = "nsl"></span>
 ### Neural-Symbolic Learning
+
+* [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
 
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020.
 
