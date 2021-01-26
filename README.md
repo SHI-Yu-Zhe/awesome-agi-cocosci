@@ -111,7 +111,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
 
-* [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***CogSci'21***, 2021.
+* [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***CogSci'20***, 2020.
 
 * [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf), ***Science Advances***, 2019.
 
