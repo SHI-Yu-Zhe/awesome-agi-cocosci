@@ -46,7 +46,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
 
-* [Cognitive Science: An Introduction to the Science of the Mind](https://www.cambridge.org/highereducation/books/cognitive-science/F80164BE3B87C24494283F4FA4F79AB2?__cf_chl_jschl_tk__=e992a9980dff71178cd071bfa0f943cd9325c267-1602038291-0-AbLbwp1YRci43jda0pH4US34EaA5X_eZP3OEGQFDYOX-BG1v2q9wzoQwWGlclVyE4_V-I0LaFwwq59ncOSaBLm5es3FnJtFVSf-z0dCoMooCytySyd9MVJhcDjGo2U-H1jGZ1l1iEiaUS4671tTO6mwO64e1BqGP_dcvGCzPLTr3rxJ8zkvaGBIeu6AfFMJe2eB5MysXlmda5onMgmyaPk8AmBiHV1fKG59VMNrHxDM9HFqda7_M00OWeLhRJzFaHmahW3TxHpjPPv3odz7M_chzu7CB_CrUQPB-awYN9ljBsioK0ItnprSVZilJ_WaawoYk3nud7FFTIswT6mq3DS_3ksoKEy9leMBfmFtHlE4uschNmNhoJTbnJhC9RpipEAMdaY_X2bRNu13ICVxwTMMmFmS1WuCn3K1JvIGcNyolQT77CD34I9ITAdhx6baqVA) ***Cambridge University Press***, 2014.
+* [Cognitive Science: An Introduction to the Science of the Mind](https://www.cambridge.org/highereducation/books/cognitive-science/) ***Cambridge University Press***, 2014.
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) ***Basic Books***, 2018.
 
