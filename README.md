@@ -68,7 +68,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
 
-* [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.#:~:text=A%20Theoretical%20Computer%20Science%20Perspective%20on%20Consciousness%20Manuel,consciousness%20from%20the%20perspective%20of%20theoretical%20computer%20science.), 2020.
+* [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf), 2020.
 
 * [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020.
 
@@ -97,6 +97,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311), ***Cognition***, 1999.
 
 * [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380), ***ICML'09***, 2009.
+
+* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf), ***ICLR'15***, 2015.
 
 * [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf), ***CVPR'19***, 2019.
 
