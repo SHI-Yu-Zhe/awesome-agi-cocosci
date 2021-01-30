@@ -102,6 +102,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf), ***CVPR'19***, 2019.
 
+* [Learning to Collocate Neural Modules for Image Captioning](https://ieeexplore.ieee.org/document/9010688), ***ICCV'19***, 2019.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
