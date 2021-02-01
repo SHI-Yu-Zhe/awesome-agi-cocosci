@@ -68,10 +68,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
 
-* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871), ***Science***, 2017.
-
-* [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf), 2020.
-
 * [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020.
 
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), 2020. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
@@ -178,6 +174,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Disentangling the Independent Contributions of Visual and Conceptual Features to the Spatiotemporal Dynamics of Scene Categorization.](https://www.jneurosci.org/content/40/27/5283), ***The Journal of Neuroscience***, 2020.
 
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020.
+
+* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871), ***Science***, 2017.
+
+* [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf), 2020.
 
 *[Back to Top](#c)
 
