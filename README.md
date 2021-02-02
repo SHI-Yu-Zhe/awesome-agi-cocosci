@@ -102,6 +102,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning to Collocate Neural Modules for Image Captioning](https://ieeexplore.ieee.org/document/9010688), ***ICCV'19***, 2019.
 
+* [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf), ***NIPS'17***, 2017.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
