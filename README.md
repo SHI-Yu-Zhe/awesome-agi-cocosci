@@ -104,6 +104,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf), ***NIPS'17***, 2017.
 
+* [An Image is Worth 16\(times\) 16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ***ICLR'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
