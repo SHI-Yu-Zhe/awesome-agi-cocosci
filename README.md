@@ -183,6 +183,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf), 2020.
 
+* [Unit of visual working memory: A Boolean map provides a better account than an object does.](https://psycnet.apa.org/record/2019-27729-001), ***Journal of Experimental Psychology***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
