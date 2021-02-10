@@ -154,6 +154,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Time for a Background Check! Uncovering the impact of Background Features on Deep Neural Networks](https://arxiv.org/pdf/2006.14077.pdf), ***ICML'20 Workshop***, 2020.
 
+* [Deep Forest: Towards An Alternative to Deep Neural Networks.](https://www.ijcai.org/Proceedings/2017/497), ***IJCAI'17***, 2017. [[Project](https://github.com/LAMDA-NJU/Deep-Forest)]
+
 *[Back to Top](#c)
 
 <span id = "cp"></span>
