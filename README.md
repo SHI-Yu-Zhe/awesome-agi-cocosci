@@ -98,6 +98,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf), ***ICLR'15***, 2015.
 
+* [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279), ***ICCV'11***, 2011.
+
 * [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf), ***CVPR'19***, 2019.
 
 * [Learning to Collocate Neural Modules for Image Captioning](https://ieeexplore.ieee.org/document/9010688), ***ICCV'19***, 2019.
