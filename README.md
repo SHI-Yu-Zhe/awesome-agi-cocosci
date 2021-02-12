@@ -167,7 +167,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
 
-* [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]
+* [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)] [[Citations](https://academic.microsoft.com/paper/2151516755/citedby/search?q=Action%20understanding%20as%20inverse%20planning.&qe=RId%253D2151516755&f=&orderBy=0)]
 
 * [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019.
 
