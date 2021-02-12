@@ -100,6 +100,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279), ***ICCV'11***, 2011.
 
+* [Sequence to Sequence – Video to Text](https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf), ***ICCV'15***, 2015.
+
 * [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf), ***CVPR'19***, 2019.
 
 * [Learning to Collocate Neural Modules for Image Captioning](https://ieeexplore.ieee.org/document/9010688), ***ICCV'19***, 2019.
