@@ -102,6 +102,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning to Collocate Neural Modules for Image Captioning](https://ieeexplore.ieee.org/document/9010688), ***ICCV'19***, 2019.
 
+* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf), ***NIPS'13***, 2013.
+
 * [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf), ***NIPS'17***, 2017.
 
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ***ICLR'21***, 2021.
