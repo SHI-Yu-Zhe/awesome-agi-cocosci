@@ -193,6 +193,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Unit of visual working memory: A Boolean map provides a better account than an object does.](https://psycnet.apa.org/record/2019-27729-001), ***Journal of Experimental Psychology***, 2020.
 
+* [Finding Action Tubes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298676), ***CVPR'15***, 2015.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
