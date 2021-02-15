@@ -68,10 +68,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
 
-* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020.
-
-* [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), 2020. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
-
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
@@ -85,6 +81,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
 
 * [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004.
+
+* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020.
+
+* [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), 2020. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
+
 
 * [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[Project](http://sketchx.ai/pixelor)]
 
