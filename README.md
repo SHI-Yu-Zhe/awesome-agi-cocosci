@@ -198,6 +198,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Finding Action Tubes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298676), ***CVPR'15***, 2015.
 
+* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
