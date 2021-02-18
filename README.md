@@ -153,6 +153,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Science***, 2020.
 
+* [Network dissection: Quantifying interpretability of deep visual representations.](https://ieeexplore.ieee.org/document/8099837), ***CVPR'17***, 2017.
+
 * [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/), ***Distill***, 2020.
 
 * [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/file/c74956ffb38ba48ed6ce977af6727275-Paper.pdf), ***NIPS'20***, 2020.
