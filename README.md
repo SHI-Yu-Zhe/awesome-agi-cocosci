@@ -72,7 +72,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
 
-* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), 2020.
+* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), ***Engineering***, 2020.
 
 * [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/2007.16189.pdf), 2020.
 
