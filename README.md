@@ -180,6 +180,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)] [[Citations](https://academic.microsoft.com/paper/2151516755/citedby/search?q=Action%20understanding%20as%20inverse%20planning.&qe=RId%253D2151516755&f=&orderBy=0)]
 
+* [Theory of mind as inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S2352154618302055?via%3Dihub), ***Current Opinion in Behavioral Sciences***, 2019.
+
 * [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172), ***ICRA'20***, 2020.
 
 * [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation.](http://export.arxiv.org/pdf/2011.09854), 2020.
