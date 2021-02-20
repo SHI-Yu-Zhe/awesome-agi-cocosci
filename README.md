@@ -180,7 +180,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)] [[Citations](https://academic.microsoft.com/paper/2151516755/citedby/search?q=Action%20understanding%20as%20inverse%20planning.&qe=RId%253D2151516755&f=&orderBy=0)]
 
-* [The Naïve Utility Calculus as a unified, quantitative framework for action understanding.](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognition***, 2021.
+* [The Naïve Utility Calculus as a unified, quantitative framework for action understanding.](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021.
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
 
