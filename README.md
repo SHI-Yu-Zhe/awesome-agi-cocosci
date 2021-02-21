@@ -216,6 +216,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
 
+* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
