@@ -262,6 +262,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), 1986.
 
+* [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf), ***IJCAI'16***, 2016.
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
