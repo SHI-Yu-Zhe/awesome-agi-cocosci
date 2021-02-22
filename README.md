@@ -295,6 +295,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
   * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)] [[Paper](https://dl.acm.org/doi/10.1145/3379156.3391365)]
   * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41), ***ECCV'20***, 2020.
+  * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828), ***TCSVT***, 2021.
       
  
 #### Abstract Reasoning Challenge
