@@ -182,6 +182,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Theory of mind as inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S2352154618302055?via%3Dihub), ***Current Opinion in Behavioral Sciences***, 2019.
 
+* [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371), ***Topics in Cognitive Science***, 2019.
+
 * [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172), ***ICRA'20***, 2020.
 
 * [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation.](http://export.arxiv.org/pdf/2011.09854), 2020.
