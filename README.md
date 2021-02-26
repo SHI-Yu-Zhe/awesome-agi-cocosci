@@ -239,6 +239,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive Commonsence Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020.
 
+* [Beyond Holistic Object Recognition: Enriching Image Understanding with Part States](http://ai.ucsd.edu/~haosu/papers/cvpr18_partstate.pdf), ***CVPR'18***, 2018. [[Project](http://hake-mvig.cn/home/)]
+
 *[Back to Top](#c)
 
 <span id = "lp"></span>
