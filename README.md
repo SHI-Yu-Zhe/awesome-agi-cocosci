@@ -122,6 +122,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
 
+* [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf), ***ICML'19***, 2019.
+
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020.
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
