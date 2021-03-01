@@ -272,6 +272,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
 
+* [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16), ***The Logic Programming Paradigms***, 1999.
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
