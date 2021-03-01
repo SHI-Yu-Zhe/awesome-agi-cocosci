@@ -270,6 +270,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf), ***IJCAI'16***, 2016.
 
+* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
