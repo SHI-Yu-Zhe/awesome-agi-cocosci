@@ -42,15 +42,15 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "cs"></span>
 ### Cognitive Science
 
-* [Cognitive Psychology](https://www.pdf-book-search.com/psychology/cognitive-psychology-8th-edition-by-robert-l-solso-m.html) ***Pearson***, 2007.
+* [Cognitive Psychology](https://www.pdf-book-search.com/psychology/cognitive-psychology-8th-edition-by-robert-l-solso-m.html), ***Pearson***, 2007.
 
-* [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065) ***Springer***, 2006.
+* [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065), ***Springer***, 2006.
 
-* [Cognitive Science: An Introduction to the Science of the Mind](https://www.cambridge.org/highereducation/books/cognitive-science/) ***Cambridge University Press***, 2014.
+* [Cognitive Science: An Introduction to the Science of the Mind](https://www.cambridge.org/highereducation/books/cognitive-science/), ***Cambridge University Press***, 2014.
 
-* [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) ***Basic Books***, 2018.
+* [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/), ***Basic Books***, 2018.
 
-* [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.semanticscholar.org/paper/Other-Minds%3A-The-Octopus%2C-the-Sea%2C-and-the-Deep-of-Aloraifi/8742d5d7debd28cbd75d77641f9b2286366a6f95) ***Farrar, Straus and Giroux***, 2016.
+* [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.semanticscholar.org/paper/Other-Minds%3A-The-Octopus%2C-the-Sea%2C-and-the-Deep-of-Aloraifi/8742d5d7debd28cbd75d77641f9b2286366a6f95), ***Farrar, Straus and Giroux***, 2016.
 
 
 *[Back to Top](#c)
