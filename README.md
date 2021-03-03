@@ -10,7 +10,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Cognitive Science](#cs)
 
 * [Papers](#p)
-   * [Cognitive Machine Learning](#cml)
+   * [Machine Learning](#cml)
    * [Neural-Symbolic Learning](#nsl)
    * [Comprehensibility of AI](#cai)
    * [Cognitive Psychology](#cp)
@@ -58,15 +58,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "p"></span>
 ## Papers
 <span id = "cml"></span>
-### Cognitive Machine Learning
-
-* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
-
-* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Science CHINA***, 2019.
-
-* [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf), 2021.
-
-* [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
+### Machine Learning
 
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
@@ -121,6 +113,14 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 <span id = "nsl"></span>
 ### Neural-Symbolic Learning
+
+* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
+
+* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Sci CHINA***, 2019.
+
+* [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf), 2021.
+
+* [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
 
 * [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
 
