@@ -91,6 +91,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
+* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092), 2020.
+
 * [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584), ***Cognition***, 1993.
 
 * [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311), ***Cognition***, 1999.
