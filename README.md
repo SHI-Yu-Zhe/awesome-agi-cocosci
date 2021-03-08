@@ -190,6 +190,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172), ***ICRA'20***, 2020.
 
+* [It is not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction](https://arxiv.org/pdf/2004.02025.pdf), ***ECCV'20***, 2020.
+
 * [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation.](http://export.arxiv.org/pdf/2011.09854), 2020.
 
 * [The Naïve Utility Calculus as a unified, quantitative framework for action understanding.](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021.
