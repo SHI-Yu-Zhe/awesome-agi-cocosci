@@ -194,7 +194,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation.](http://export.arxiv.org/pdf/2011.09854), 2020.
 
-* [The Naïve Utility Calculus as a unified, quantitative framework for action understanding.](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021.
+* [The Naïve Utility Calculus as a unified, quantitative framework for action understanding.](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021. [[Project](http://www.github.com/julianje/bishop)]
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
 
