@@ -186,6 +186,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064), ***Nature Human Behavior***, 2017.
 
+* [Machine theory of mind](http://proceedings.mlr.press/v80/rabinowitz18a/rabinowitz18a.pdf), ***ICML'18***, 2018.
+
 * [Theory of mind as inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S2352154618302055?via%3Dihub), ***Current Opinion in Behavioral Sciences***, 2019.
 
 * [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371), ***Topics in Cognitive Science***, 2019.
