@@ -124,7 +124,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf), ***ICML'19***, 2019.
 
-* [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020.
+* [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020. [[Project](https://github.com/gblackout/NLIL)]
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
 
