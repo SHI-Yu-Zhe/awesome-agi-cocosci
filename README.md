@@ -192,6 +192,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf), ***CogSci'11***, 2011.
 
+* [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768), ***MIT PhD Thesis***, 2012.
+
 * [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub), ***Trends in Cognitive Science***, 2016.
 
 * [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064), ***Nature Human Behavior***, 2017.
