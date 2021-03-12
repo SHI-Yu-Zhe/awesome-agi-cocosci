@@ -10,7 +10,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Cognitive Science](#cs)
 
 * [Papers](#p)
-   * [Machine Learning](#cml)
+   * [Machine Learning with Cognitive Plausibility](#cml)
    * [Neural-Symbolic Learning](#nsl)
    * [Comprehensibility of AI](#cai)
    * [Cognitive Psychology](#cp)
@@ -58,7 +58,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "p"></span>
 ## Papers
 <span id = "cml"></span>
-### Machine Learning
+### Machine Learning with Cognitive Plausibility
 
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
@@ -100,6 +100,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf), ***ICLR'15***, 2015.
 
 * [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279), ***ICCV'11***, 2011.
+
+* [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387), ***ICCV'13***, 2013.
 
 * [Sequence to Sequence – Video to Text](https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf), ***ICCV'15***, 2015.
 
