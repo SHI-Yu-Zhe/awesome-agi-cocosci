@@ -270,6 +270,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "lp"></span>
 ### Logic Programming
 
+* [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999.
+
+* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf), ***Computat. Logic***, 2002.
+
 * [Meta-interpretive learning: application to grammatical inference](https://link.springer.com/article/10.1007/s10994-013-5358-3), ***Machine Learning***, 2014.
 
 * [Learning Efficient Logical Robot Strategies Involving Composable Objects.](http://andrewcropper.com/pubs/ijcai15-metagolo.pdf), ***IJCAI'15***, 2015.
