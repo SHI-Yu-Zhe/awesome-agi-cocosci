@@ -334,13 +334,14 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [MIT CSAIL](https://github.com/CSAILVision) Repository of Vision Datasets provided by MIT CSAIL.
 
 #### First-Person Vision
-  * [The Evolution of First Person Vision Methods: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7055926), ***TCSVT***, 2015.
+  * [The Evolution of First Person Vision Methods: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7055926), ***Trans. CSVT***, 2015.
   * [Understanding the Nature of First-Person Videos: Characterization and Classification using Low-Level Features](http://vijaychan.github.io/Publications/2014%20CVPR%20Workshop%20-%20Understanding%20the%20Nature%20of%20First-Person%20Videos.pdf), ***CVPR'14***, 2014.
   * [Pooled Motion Features for First-Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ryoo_Pooled_Motion_Features_2015_CVPR_paper.pdf), ***CVPR'15***, 2015.
   * [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sigurdsson_Actor_and_Observer_CVPR_2018_paper.pdf), ***CVPR'18***, 2018.
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
   * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)] [[Paper](https://dl.acm.org/doi/10.1145/3379156.3391365)]
   * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41), ***ECCV'20***, 2020.
+  * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213), ***Trans. PAMI***, 2020.
   * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828), ***TCSVT***, 2021.
       
  
