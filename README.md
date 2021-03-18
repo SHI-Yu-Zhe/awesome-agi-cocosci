@@ -271,7 +271,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "ps"></span>
 ### Program Synthesis
 
-* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Microsoft Research***, 2017.
+* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
 
 *[Back to Top](#c)
 
