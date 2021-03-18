@@ -16,6 +16,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Cognitive Science](#cp)
    * [Commonsense Reasoning](#cms)
    * [Logic Programming](#lp)
+   * [Program Synthesis](#ps)
    * [Learning in the Open World](#ow)
    * [Real Tasks](#rt)
 
@@ -299,6 +300,13 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
 
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16), ***The Logic Programming Paradigms***, 1999.
+
+*[Back to Top](#c)
+
+<span id = "ps"></span>
+### Program Synthesis
+
+* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Microsoft Research***, 2017.
 
 *[Back to Top](#c)
 
