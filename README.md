@@ -29,7 +29,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
 
-* [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.ijcai.org/Proceedings/11/Papers/492.pdf), ***IJCAI'13***, 2013.
+* [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf), ***IJCAI'11***, 2011.
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021.
 
