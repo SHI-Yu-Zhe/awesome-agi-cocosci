@@ -5,6 +5,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 ## Table of Contents
 
 * [Papers](#p)
+   * [Abduction](#abd)
    * [Machine Learning with Cognitive Plausibility](#cml)
    * [Neural-Symbolic Learning](#nsl)
    * [Comprehensibility of AI](#cai)
@@ -23,6 +24,15 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 <span id = "p"></span>
 ## Papers
+<span id = "abd"></span>
+### Abduction
+
+* [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
+
+* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021.
+
+*[Back to Top](#c)
+
 <span id = "cml"></span>
 ### Machine Learning with Cognitive Plausibility
 
@@ -179,8 +189,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation.](http://export.arxiv.org/pdf/2011.09854), 2020.
 
 * [The Naïve Utility Calculus as a unified, quantitative framework for action understanding.](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021. [[Project](http://www.github.com/julianje/bishop)]
-
-* [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
 
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
 
