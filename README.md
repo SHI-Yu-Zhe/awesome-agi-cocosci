@@ -27,7 +27,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "abd"></span>
 ### Abduction
 
-* [Peirce on Abduction](https://plato.stanford.edu/entries/abduction/peirce.html), ***Plato Stanford***.
+* [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***.
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
 
