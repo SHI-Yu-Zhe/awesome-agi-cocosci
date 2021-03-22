@@ -278,6 +278,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Forgetting to Learn Logic Programs](http://andrewcropper.com/pubs/aaai20-forgetgol.pdf), ***AAAI'20***, 2020.
 
+* [Turning 30: New Ideas in Inductive Logic Programming](https://www.ijcai.org/proceedings/2020/673), ***IJCAI'20***, 2020.
+
+* [Inductive logic programming at 30](https://arxiv.org/pdf/2102.10556.pdf), ***Machine Learning***, 2020.
+
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), 1986.
 
 * [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf), ***IJCAI'16***, 2016.
