@@ -140,6 +140,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf), ***NIPS'20***, 2020.
 
+* [An Explicitly Relational Neural Network Architecture](https://arxiv.org/pdf/1905.10307.pdf), ***ICML'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
