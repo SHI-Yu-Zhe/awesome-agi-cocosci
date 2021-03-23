@@ -417,5 +417,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.semanticscholar.org/paper/Other-Minds%3A-The-Octopus%2C-the-Sea%2C-and-the-Deep-of-Aloraifi/8742d5d7debd28cbd75d77641f9b2286366a6f95), ***Farrar, Straus and Giroux***, 2016.
 
+* [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d), ***MIT Press***, 1985.
+
 
 *[Back to Top](#c)
