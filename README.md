@@ -326,6 +326,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf), ***CVPR'21***, 2021. [[Project](https://github.com/JosephKJ/OWOD)]
 
+* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323), ***MM'17***, 2017.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
