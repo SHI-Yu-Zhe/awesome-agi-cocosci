@@ -230,6 +230,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019.
 
+* [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
