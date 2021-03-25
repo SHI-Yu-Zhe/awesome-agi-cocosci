@@ -232,6 +232,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
 
+* [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
