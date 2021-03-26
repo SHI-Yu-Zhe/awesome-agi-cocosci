@@ -262,6 +262,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "lp"></span>
 ### Logic Programming
 
+* [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/), ***Plato Stanford***.
+
 * [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10), ***ILP'01***, 2001.
