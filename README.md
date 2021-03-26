@@ -37,6 +37,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive inference within a pragmatic framework](https://link.springer.com/article/10.1007/s11229-018-1824-6), ***Synthese***, 2018.
 
+* [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x), ***New Generation Computing***, 2019.
+
 * [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021.
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021.
