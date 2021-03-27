@@ -54,7 +54,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), ***Engineering***, 2020.
 
-* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/2007.16189.pdf), 2020.
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf), ***NIPS'20***, 2020.
 
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017.
 
