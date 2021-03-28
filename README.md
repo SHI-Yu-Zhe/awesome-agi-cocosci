@@ -126,6 +126,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***CogSci'20***, 2020.
 
+* [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf), ***ICLR'21***, 2021.
+
 * [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf), ***Science Advances***, 2019.
 
 * [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018.
