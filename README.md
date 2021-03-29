@@ -155,9 +155,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018.
 
-* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Science***, 2020.
+* [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0), ***Machine Learning***, 2021.
 
 * [Network dissection: Quantifying interpretability of deep visual representations.](https://ieeexplore.ieee.org/document/8099837), ***CVPR'17***, 2017.
+
+* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Science***, 2020.
 
 * [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/), ***Distill***, 2020.
 
