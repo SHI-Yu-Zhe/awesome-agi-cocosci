@@ -35,6 +35,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf), ***IJCAI'11***, 2011.
 
+* [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf), ***ECML'11***, 2011.
+
 * [An Approach to Abductive Reasoning in Equational Logic](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6624/6619), ***IJCAI'13***, 2013.
 
 * [Abductive inference within a pragmatic framework](https://link.springer.com/article/10.1007/s11229-018-1824-6), ***Synthese***, 2018.
