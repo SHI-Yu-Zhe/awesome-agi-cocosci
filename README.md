@@ -33,6 +33,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
 
+* [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6), ***Advances in Bayesian Networks***, 2004.
+
 * [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf), ***IJCAI'11***, 2011.
 
 * [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf), ***ECML'11***, 2011.
