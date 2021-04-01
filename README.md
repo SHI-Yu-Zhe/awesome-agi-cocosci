@@ -76,10 +76,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), 2020. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
 
-* [Generalizing to generalize: Humans flexibly switch between compositional and conjunctive structures during reinforcement learning](http://ski.clps.brown.edu/papers/Franklin_gen2gen.pdf), ***PLOS Computational Biology***, 2020.
-
-* [A Study of Compositional Generalization in Neural Models](https://arxiv.org/pdf/2006.09437.pdf), 2020.
-
 * [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[Project](http://sketchx.ai/pixelor)]
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
