@@ -427,6 +427,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) ***Annual Review of Psychology***, 2017.
 
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) ***MIT, Harvard, Stanford, JHU...***
+
 *[Back to Top](#c)
 
 <span id = "bk"></span>
