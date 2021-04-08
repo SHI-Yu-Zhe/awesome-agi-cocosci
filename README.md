@@ -163,6 +163,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf), 2021.
 
+* [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf), ***NIPS'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
