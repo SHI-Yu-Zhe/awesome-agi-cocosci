@@ -49,6 +49,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x), ***New Generation Computing***, 2019.
 
+* [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964), ***AAAI'19***, 2019.
+
 * [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021.
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021.
