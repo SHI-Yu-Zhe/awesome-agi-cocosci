@@ -365,6 +365,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf), ***KR'20***, 2020.
 
+* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf), ***WWW'21***, 2021.
+
 * [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070), 2021.
 
 *[Back to Top](#c)
