@@ -363,6 +363,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323), ***MM'17***, 2017.
 
+* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070), 2021.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
