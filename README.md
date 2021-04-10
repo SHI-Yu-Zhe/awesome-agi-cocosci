@@ -385,6 +385,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612), ***CVPR'17***, 2017.
 
+* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
