@@ -349,12 +349,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "ow"></span>
 ### Learning in the Open World
 
-* [Open Set Recognition](https://github.com/iCGY96/awesome_OpenSetRecognition_list), ***GitHub***.
-
-* [Continual Learning Literature](https://github.com/optimass/continual_learning_papers), ***GitHub***.
-
-* [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning), ***GitHub***.
-
 * [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018.
 
 * [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[Citations](https://academic.microsoft.com/paper/1917989004/citedby/search?q=Towards%20Open%20World%20Recognition&qe=RId%3D1917989004&f=&orderBy=0&skip=0&take=10)]
@@ -386,6 +380,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612), ***CVPR'17***, 2017.
 
 * [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018.
+
+* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671), ***CVPR'19***, 2019.
 
 * [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505), ***CVPR'20***, 2020.
 
