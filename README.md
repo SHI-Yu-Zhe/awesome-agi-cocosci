@@ -239,6 +239,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Waiting and weighting: Information sampling is a balance between efficiency and error-reduction](https://linkinghub.elsevier.com/retrieve/pii/S0010027712002235), ***Cognition***, 2013.
 
+* [Learning Systems of Concepts with an Infinite Relational Model](https://www.aaai.org/Papers/AAAI/2006/AAAI06-061.pdf), ***AAAI'06***, 2006.
+
 * [Natural scene statistics account for the representation of scene categories in human visual cortex](https://www.sciencedirect.com/science/article/pii/S0896627313005503?via%3Dihub), ***Neuron***, 2013.
 
 * [Using human brain activity to guide machine learning.](https://www.nature.com/articles/s41598-018-23618-6), ***Nature: Scientific Report***, 2018.
