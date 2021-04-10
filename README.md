@@ -367,7 +367,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf), 2020.
 
-* [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), 2020. [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
+* [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), ***NIPS'20***, 2020. [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
 
 * [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf), ***CVPR'18***, 2018.
 
@@ -388,6 +388,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018.
 
 * [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505), ***CVPR'20***, 2020.
+
+* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf), ***NIPS'20***, 2020.
 
 *[Back to Top](#c)
 
