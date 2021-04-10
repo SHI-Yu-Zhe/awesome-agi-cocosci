@@ -126,6 +126,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009.
 
+* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
+
+* [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf), ***NIPS'15***, 2015.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
@@ -266,8 +270,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020.
-
-* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
 
 *[Back to Top](#c)
 
