@@ -55,6 +55,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021.
 
+* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
+
 *[Back to Top](#c)
 
 <span id = "cml"></span>
