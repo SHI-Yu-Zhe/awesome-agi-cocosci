@@ -383,6 +383,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070), 2021.
 
+* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612), ***CVPR'17***, 2017.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
