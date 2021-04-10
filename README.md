@@ -387,6 +387,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018.
 
+* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505), ***CVPR'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
