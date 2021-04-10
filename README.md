@@ -55,8 +55,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021.
 
-* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
-
 *[Back to Top](#c)
 
 <span id = "cml"></span>
@@ -265,6 +263,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020.
 
+* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
@@ -349,6 +349,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning), ***GitHub***.
 
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018.
+
 * [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[Citations](https://academic.microsoft.com/paper/1917989004/citedby/search?q=Towards%20Open%20World%20Recognition&qe=RId%3D1917989004&f=&orderBy=0&skip=0&take=10)]
 
 * [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016.
@@ -392,7 +394,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)] [[Paper](https://dl.acm.org/doi/10.1145/3379156.3391365)]
   * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41), ***ECCV'20***, 2020.
   * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213), ***Trans. PAMI***, 2020.
-  * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828), ***TCSVT***, 2021.
+  * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828), ***Trans. CSVT***, 2021.
       
  
 #### Abstract Reasoning Challenge
