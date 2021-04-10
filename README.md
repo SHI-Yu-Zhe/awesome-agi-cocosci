@@ -357,6 +357,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), 2020. [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
 
+* [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf), ***CVPR'18***, 2018.
+
 * [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf), ***ECCV'18***, 2018.
 
 * [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf), ***CVPR'21***, 2021. [[Project](https://github.com/JosephKJ/OWOD)]
