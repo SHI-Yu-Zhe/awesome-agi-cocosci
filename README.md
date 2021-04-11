@@ -389,6 +389,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf), ***NIPS'20***, 2020.
 
+* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
