@@ -393,6 +393,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020.
 
+* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655), ***CVPR'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "rt"></span>
