@@ -134,6 +134,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://www.aclweb.org/anthology/2020.figlang-1.19/), ***ACL'20***, 2020.
 
+* [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf), ***NIPS'19***, 2019.
+
+* [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://arxiv.org/abs/2103.16564), ***ICLR'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
