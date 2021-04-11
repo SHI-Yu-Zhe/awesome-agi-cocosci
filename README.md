@@ -296,6 +296,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Beyond Holistic Object Recognition: Enriching Image Understanding with Part States](http://ai.ucsd.edu/~haosu/papers/cvpr18_partstate.pdf), ***CVPR'18***, 2018. [[Project](http://hake-mvig.cn/home/)]
 
+* [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf), ***CVPR'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "lp"></span>
