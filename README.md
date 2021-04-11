@@ -130,6 +130,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf), ***NIPS'15***, 2015.
 
+* [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418), ***CVPR'19***, 2019.
+
 * [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://www.aclweb.org/anthology/2020.figlang-1.19/), ***ACL'20***, 2020.
 
 *[Back to Top](#c)
