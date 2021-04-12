@@ -189,6 +189,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf), ***NIPS'20***, 2020.
 
+* [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://openreview.net/pdf?id=H1eSS3CcKX), ***ICLR'19***, 2019.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
