@@ -362,6 +362,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
 
+* [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH), ***ICLR'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
