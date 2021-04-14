@@ -191,6 +191,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://openreview.net/pdf?id=H1eSS3CcKX), ***ICLR'19***, 2019.
 
+* [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf), ***ICLR'19***, 2019.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
