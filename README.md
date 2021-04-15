@@ -289,6 +289,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020.
 
+* [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
