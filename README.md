@@ -13,6 +13,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Commonsense Reasoning](#cms)
    * [Logic Programming](#lp)
    * [Program Synthesis](#ps)
+   * [Ontology](#ntl)
    * [Learning in the Open World](#ow)
    * [Real Tasks](#rt)
 
@@ -367,6 +368,13 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
 
 * [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH), ***ICLR'20***, 2020.
+
+*[Back to Top](#c)
+
+<span id = "ntl"></span>
+### Ontology
+
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/), ***Plato Stanford***.
 
 *[Back to Top](#c)
 
