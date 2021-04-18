@@ -91,6 +91,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7), ***Computational Brain & Behavior***, 2020.
 
+* [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118), ***Proceedings of National Academy of Science***, 2021.
+
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
 * [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092), 2020.
