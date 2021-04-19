@@ -524,7 +524,4 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d), ***MIT Press***, 1985.
 
-* [Metaphors we live by](https://nyshalong.com/public/archive/20150131/20150131_ref.pdf), ***The University of Chicago Press***, 2003.
-
-
 *[Back to Top](#c)
