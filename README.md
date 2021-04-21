@@ -437,6 +437,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 #### Dataset Aggregation
   * [MIT CSAIL](https://github.com/CSAILVision) Repository of Vision Datasets provided by MIT CSAIL.
 
+  * [VQA](https://visualqa.org/) Visual Question Answering.
+
 #### First-Person Vision
   * [The Evolution of First Person Vision Methods: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7055926), ***Trans. CSVT***, 2015.
   * [Understanding the Nature of First-Person Videos: Characterization and Classification using Low-Level Features](http://vijaychan.github.io/Publications/2014%20CVPR%20Workshop%20-%20Understanding%20the%20Nature%20of%20First-Person%20Videos.pdf), ***CVPR'14***, 2014.
