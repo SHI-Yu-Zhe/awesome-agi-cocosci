@@ -296,6 +296,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
 
+* [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830), ***Journal of Pragmatics***, 2014.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
