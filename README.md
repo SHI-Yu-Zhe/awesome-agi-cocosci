@@ -457,7 +457,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727), ***IROS'04***, 2004. [[Project](http://gazebosim.org/)]
   * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf), ***CIG'16***, 2016. [[Project](http://vizdoom.cs.put.edu.pl/)]
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
-  * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)] [[Paper](https://dl.acm.org/doi/10.1145/3379156.3391365)]
+  * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)] [[Publications](http://visualexperiencedatabase.org/publications.html)]
 
  
 #### Abstract Reasoning Challenge
