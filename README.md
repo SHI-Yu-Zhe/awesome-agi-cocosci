@@ -266,6 +266,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Naïve Utility Calculus as a unified, quantitative framework for action understanding.](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021. [[Project](http://www.github.com/julianje/bishop)]
 
+* [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf), ***ICML'21***, 2021.
+
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021.
 
 * [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019.
