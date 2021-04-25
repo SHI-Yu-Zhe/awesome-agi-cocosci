@@ -192,7 +192,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [An Explicitly Relational Neural Network Architecture](https://arxiv.org/pdf/1905.10307.pdf), ***ICML'20***, 2020.
 
-* [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf), 2021.
+* [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf), ***ICML'21***, 2021.
 
 * [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf), ***NIPS'20***, 2020.
 
