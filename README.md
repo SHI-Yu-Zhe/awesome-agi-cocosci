@@ -378,6 +378,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16), ***The Logic Programming Paradigms***, 1999.
 
+* [Finitely Generated Groups and First-Order Logic](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024610704006106), ***Journal of The London Mathematical Society-second Series***, 2005.
+
 *[Back to Top](#c)
 
 <span id = "ps"></span>
