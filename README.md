@@ -327,6 +327,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [VisualCOMET: Reasoning About the Dynamic Context of a Still Image](https://link.springer.com/chapter/10.1007%2F978-3-030-58558-7_30), ***ECCV'20***, 2020.
 
+* [Thinking Like a Skeptic: Defeasible Inference in Natural Language](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf), ***EMNLP'20***, 2020.
+
 * [Beyond Holistic Object Recognition: Enriching Image Understanding with Part States](http://ai.ucsd.edu/~haosu/papers/cvpr18_partstate.pdf), ***CVPR'18***, 2018. [[Project](http://hake-mvig.cn/home/)]
 
 * [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf), ***CVPR'21***, 2021.
