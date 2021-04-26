@@ -454,6 +454,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [VQA](https://visualqa.org/) Visual Question Answering.
 
 #### First-Person Vision
+  * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429), ***Proceedings of the IEEE***, 2012.
   * [The Evolution of First Person Vision Methods: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7055926), ***Trans. CSVT***, 2015.
   * [Understanding the Nature of First-Person Videos: Characterization and Classification using Low-Level Features](http://vijaychan.github.io/Publications/2014%20CVPR%20Workshop%20-%20Understanding%20the%20Nature%20of%20First-Person%20Videos.pdf), ***CVPR'14***, 2014.
   * [Pooled Motion Features for First-Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ryoo_Pooled_Motion_Features_2015_CVPR_paper.pdf), ***CVPR'15***, 2015.
@@ -461,7 +462,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41), ***ECCV'20***, 2020.
   * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213), ***Trans. PAMI***, 2020.
   * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828), ***Trans. CSVT***, 2021.
-#####  **Datasets**
+#####  **Datasets & Environments**
   * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727), ***IROS'04***, 2004. [[Project](http://gazebosim.org/)]
   * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf), ***CIG'16***, 2016. [[Project](http://vizdoom.cs.put.edu.pl/)]
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
