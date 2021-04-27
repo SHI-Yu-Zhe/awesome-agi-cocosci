@@ -362,6 +362,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Playgol: Learning Programs Through Play](http://andrewcropper.com/pubs/ijcai19-playgol.pdf), ***IJCAI'19***, 2019.
 
+* [Machine Discovery of Comprehensible Strategies for Simple Games Using Meta-interpretive Learning](https://link.springer.com/article/10.1007%2Fs00354-019-00054-2), ***New Generation Computing***, 2019.
+
 * [Forgetting to Learn Logic Programs](http://andrewcropper.com/pubs/aaai20-forgetgol.pdf), ***AAAI'20***, 2020.
 
 * [Turning 30: New Ideas in Inductive Logic Programming](https://www.ijcai.org/proceedings/2020/673), ***IJCAI'20***, 2020.
