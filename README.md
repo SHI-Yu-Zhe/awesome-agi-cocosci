@@ -225,7 +225,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [SegNBDT: Visual Decision Rules for Segmentation.](http://export.arxiv.org/pdf/2006.06868), 2020.
 
-* [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf), 2020. [[Project](https://gradientscience.org/background/)]
+* [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf), ***ICLR'21***, 2021. [[Project](https://gradientscience.org/background/)]
 
 * [Time for a Background Check! Uncovering the impact of Background Features on Deep Neural Networks](https://arxiv.org/pdf/2006.14077.pdf), ***ICML'20 Workshop***, 2020.
 
