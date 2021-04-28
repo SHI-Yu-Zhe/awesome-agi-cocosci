@@ -308,6 +308,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830), ***Journal of Pragmatics***, 2014.
 
+* [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
