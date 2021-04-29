@@ -395,6 +395,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH), ***ICLR'20***, 2020.
 
+* [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'2020***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "ntl"></span>
