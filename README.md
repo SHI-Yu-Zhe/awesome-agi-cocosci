@@ -248,6 +248,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/), ***Plato Stanford***.
 
+* [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/), ***Plato Stanford***.
+
 * [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)] [[Citations](https://academic.microsoft.com/paper/2151516755/citedby/search?q=Action%20understanding%20as%20inverse%20planning.&qe=RId%253D2151516755&f=&orderBy=0)]
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf), ***CogSci'11***, 2011.
