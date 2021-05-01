@@ -466,8 +466,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 #### Dataset Aggregation
   * [MIT CSAIL](https://github.com/CSAILVision) Repository of Vision Datasets provided by MIT CSAIL.
-
   * [VQA](https://visualqa.org/) Visual Question Answering.
+  * [Gazebo](http://gazebosim.org/) Environment for robot simulation.
 
 #### First-Person Vision
   * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429), ***Proceedings of the IEEE***, 2012.
