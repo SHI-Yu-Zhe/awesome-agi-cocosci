@@ -156,7 +156,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Sci CHINA***, 2019.
 
-* [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf), 2021.
+* [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf), ***IJCAI'21***, 2021.
+
+* [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf), ***CVPR'21***, 2021.
 
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
 
