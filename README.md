@@ -469,6 +469,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [VQA](https://visualqa.org/) Visual Question Answering.
   * [Gazebo](http://gazebosim.org/) Environment for robot simulation.
   * [MarioQA: Answering Questions by Watching Gameplay Videos](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237574), ***ICCV'17***, 2017. [[Project](http://cvlab.postech.ac.kr/research/MarioQA/)]
+  * [A Dataset and Architecture for Visual Reasoning with a Working Memory](https://link.springer.com/chapter/10.1007%2F978-3-030-01249-6_44), ***ECCV'18***, 2018. [[Project](https://github.com/google/cog)]
 
 #### First-Person Vision
   * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429), ***Proceedings of the IEEE***, 2012.
