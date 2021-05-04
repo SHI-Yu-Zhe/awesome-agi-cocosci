@@ -58,6 +58,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021.
 
+* [Abductive Recognition of Context-dependent Utterances in Human-robot Interaction](https://ieeexplore.ieee.org/document/9341155), ***IROS'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cml"></span>
