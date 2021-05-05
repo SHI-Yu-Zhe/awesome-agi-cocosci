@@ -11,7 +11,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Comprehensibility of AI](#cai)
    * [Cognitive Science](#cp)
    * [Commonsense Reasoning](#cms)
-   * [Logic Programming](#lp)
+   * [Inductive Logic](#lp)
    * [Program Synthesis](#ps)
    * [Ontology](#ntl)
    * [Learning in the Open World](#ow)
@@ -350,7 +350,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 *[Back to Top](#c)
 
 <span id = "lp"></span>
-### Logic Programming
+### Inductive Logic
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/), ***Plato Stanford***.
 
