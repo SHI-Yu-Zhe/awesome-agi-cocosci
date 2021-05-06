@@ -386,6 +386,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning programs by learning from failures](https://arxiv.org/pdf/2005.02259.pdf), ***Machine Learning***, 2020.
 
+* [Complete Bottom-Up Predicate Invention in Meta-Interpretive Learning](https://www.ijcai.org/proceedings/2020/320), ***IJCAI'20***, 2020.
+
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), ***Artificial Intelligence***, 1986.
 
 * [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf), ***IJCAI'16***, 2016.
