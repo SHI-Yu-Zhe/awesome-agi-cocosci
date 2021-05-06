@@ -11,9 +11,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Comprehensibility of AI](#cai)
    * [Cognitive Science](#cp)
    * [Commonsense Reasoning](#cms)
-   * [Inductive Logic](#lp)
-   * [Program Synthesis](#ps)
-   * [Ontology](#ntl)
+   * [Inductive Logic & Program Synthesis](#lp)
+   * [Knowledge Representation](#kr)
    * [Learning in the Open World](#ow)
    * [Real Tasks](#rt)
 
@@ -204,6 +203,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf), ***ICLR'19***, 2019.
 
+* [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH), ***ICLR'20***, 2020.
+
+* [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'2020***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cai"></span>
@@ -350,9 +353,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 *[Back to Top](#c)
 
 <span id = "lp"></span>
-### Inductive Logic
+### Inductive Logic & Program Synthesis
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/), ***Plato Stanford***.
+
+* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
 
 * [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999.
 
@@ -400,19 +405,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 *[Back to Top](#c)
 
-<span id = "ps"></span>
-### Program Synthesis
-
-* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
-
-* [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH), ***ICLR'20***, 2020.
-
-* [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'2020***, 2020.
-
-*[Back to Top](#c)
-
-<span id = "ntl"></span>
-### Ontology
+<span id = "kr"></span>
+### Knowledge Representation
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/), ***Plato Stanford***.
 
