@@ -410,6 +410,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/), ***Plato Stanford***.
 
+* [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/), ***Plato Stanford***.
+
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993.
 
 *[Back to Top](#c)
