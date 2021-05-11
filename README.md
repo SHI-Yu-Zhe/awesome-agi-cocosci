@@ -416,6 +416,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/), ***Plato Stanford***.
 
+* [Common Knowledge](https://plato.stanford.edu/entries/common-knowledge/), ***Plato Stanford***.
+
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993.
 
 *[Back to Top](#c)
