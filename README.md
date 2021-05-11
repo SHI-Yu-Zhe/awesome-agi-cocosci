@@ -371,6 +371,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning Higher-Order Logic Programs through Abstraction and Invention.](http://andrewcropper.com/pubs/ijcai16-metafunc.pdf), ***IJCAI'16***, 2016.
 
+* [How Much Can Experimental Cost Be Reduced in Active Learning of Agent Strategies?](https://link.springer.com/chapter/10.1007%2F978-3-319-99960-9_3), ***ILP'18***, 2018.
+
 * [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
 
 * [Learning efficient logic programs](http://andrewcropper.com/pubs/mlj18-metaopt.pdf), ***Machine Learning***, 2018.
