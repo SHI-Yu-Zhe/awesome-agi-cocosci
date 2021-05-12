@@ -245,6 +245,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/), ***Plato Stanford***.
 
+* [Epistemology](https://plato.stanford.edu/entries/epistemology/), ***Plato Stanford***.
+
 * [Mental Representation](https://plato.stanford.edu/entries/mental-representation/), ***Plato Stanford***.
 
 * [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/), ***Plato Stanford***.
