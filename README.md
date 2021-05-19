@@ -436,6 +436,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/), ***Plato Stanford***.
 
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/), ***Plato Stanford***.
+
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993.
 
 *[Back to Top](#c)
