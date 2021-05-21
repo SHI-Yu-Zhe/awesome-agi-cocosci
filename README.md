@@ -371,6 +371,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/), ***Plato Stanford***.
 
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/), ***Plato Stanford***.
+
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/), ***Plato Stanford***.
 
 * [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
