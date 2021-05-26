@@ -253,6 +253,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/), ***Plato Stanford***.
 
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/), ***Plato Stanford***.
+
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/), ***Plato Stanford***.
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
