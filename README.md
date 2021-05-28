@@ -257,6 +257,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/), ***Plato Stanford***.
 
+* [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/), ***Plato Stanford***.
+
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/), ***Plato Stanford***.
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
