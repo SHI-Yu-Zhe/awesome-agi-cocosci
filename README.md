@@ -532,7 +532,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Abstract Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/)
 
 
-#### **Researches exploiting Minecraft**
+#### AI Birds Challenge
+
+
+#### Minecraft
   * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278), ***Journal on Eduction Technology & Society***, 2016.
 ##### Malmo Platform for Minecraft AI
   * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
