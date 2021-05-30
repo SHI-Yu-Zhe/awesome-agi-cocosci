@@ -161,6 +161,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf), ***IJCAI'21***, 2021.
 
+* [Automated Biodesign Engineering by Abductive Meta-Interpretive Learning](https://arxiv.org/abs/2105.07758), ***AAAI Spring Symposium***, 2021.
+
 * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf), ***CVPR'21***, 2021.
 
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
