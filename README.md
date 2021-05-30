@@ -533,6 +533,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 
 #### AI Birds Challenge
+  * [AI-Birds](https://aibirds.org), ***IJCAI***.
 
 
 #### Minecraft
