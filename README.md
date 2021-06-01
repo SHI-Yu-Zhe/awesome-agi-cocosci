@@ -59,6 +59,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive Recognition of Context-dependent Utterances in Human-robot Interaction](https://ieeexplore.ieee.org/document/9341155), ***IROS'20***, 2020.
 
+* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf), ***COLING***, 1990.
+
 *[Back to Top](#c)
 
 <span id = "cml"></span>
