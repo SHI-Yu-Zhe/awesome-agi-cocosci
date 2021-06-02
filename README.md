@@ -177,7 +177,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
 
-* [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***CogSci'20***, 2020.
+* [Theory-Based Causal Transfer:Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020.
+
+* [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***NIPS'20***, 2020.
 
 * [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf), ***ICLR'21***, 2021.
 
