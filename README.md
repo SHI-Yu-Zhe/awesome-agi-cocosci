@@ -349,6 +349,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010.
 
+* [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
