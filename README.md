@@ -602,6 +602,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "cs"></span>
 ### Cognitive Science
 
+* [Origins of human communication](https://1lib.net/book/541274/39859f), ***MIT Press***, 2010.
+
 * [Cognitive Psychology](https://www.pdf-book-search.com/psychology/cognitive-psychology-8th-edition-by-robert-l-solso-m.html), ***Pearson***, 2007.
 
 * [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065), ***Springer***, 2006.
