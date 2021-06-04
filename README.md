@@ -616,4 +616,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d), ***MIT Press***, 1985.
 
+* [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86), ***Elsevier***, 2008. 
+
 *[Back to Top](#c)
