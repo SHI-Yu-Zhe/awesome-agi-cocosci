@@ -347,6 +347,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
 
+* [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Conitive Science***, 2010.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
