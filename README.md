@@ -452,6 +452,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/), ***Plato Stanford***.
 
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/), ***Plato Stanford***.
+
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993.
 
 * [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
