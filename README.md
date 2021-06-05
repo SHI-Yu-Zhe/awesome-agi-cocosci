@@ -349,7 +349,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010.
 
-* [Iconicity: From sign to system in human com- munication and language.](https://benjamins.com/catalog/pc.22.2.05fay), ***Pragmatics & Cognition***, 2014.
+* [Iconicity: From sign to system in human communication and language.](https://benjamins.com/catalog/pc.22.2.05fay), ***Pragmatics & Cognition***, 2014.
 
 * [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
 
