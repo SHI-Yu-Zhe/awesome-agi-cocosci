@@ -353,6 +353,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
 
+* [The Picture Exchange Communication System](https://journals.sagepub.com/doi/abs/10.1177/108835769400900301), ***Behavior Modification***, 1994.
+
 *[Back to Top](#c)
 
 <span id = "cms"></span>
