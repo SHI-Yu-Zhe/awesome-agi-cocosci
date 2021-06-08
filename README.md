@@ -568,7 +568,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Collaborative Dialogue in Minecraft](https://www.aclweb.org/anthology/P19-1537.pdf), ***ACL'19***, 2019.
   * [Learning Skill Hierarchies from Predicate Descriptions and Self-Supervision](http://web.mit.edu/tslvr/www/papers/genplan20_camera_ready.pdf), ***AAAI GenPlan Workshop***, 2020.
   * [AMRL: Aggregated Memory for Reinforcement Learning](https://openreview.net/pdf?id=Bkl7bREtDr), ***ICLR'20***, 2020.
-  * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019.
+  * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019. [[2020 Competition](https://arxiv.org/abs/2106.03748)]
   * [Design Mining for Minecraft Architecture](http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf), ***AAAI'18***, 2018.
   * [Adaptive Agents in Minecraft: A Hybrid Paradigm for Combining Domain Knowledge with Reinforcement Learning](https://link.springer.com/chapter/10.1007%2F978-3-319-71679-4_6), ***AAMAS'17***, 2017.
   * [Asynchronous Data Aggregation for Training End to End Visual Control Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/fp185-monfort-1.pdf), ***AAMAS'17***, 2017.
