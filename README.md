@@ -10,6 +10,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Neural-Symbolic Learning](#nsl)
    * [Comprehensibility of AI](#cai)
    * [Theory of Mind](#tom)
+   * [Pragmatics](#prm)
    * [Commonsense Reasoning](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
@@ -269,8 +270,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/), ***Plato Stanford***.
 
-* [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
-
 * [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/), ***Plato Stanford***.
 
 * [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/), ***Plato Stanford***.
@@ -345,9 +344,12 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
 
-* [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830), ***Journal of Pragmatics***, 2014.
+*[Back to Top](#c)
 
-* [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
+<span id = "prm"></span>
+### Pragmatics
+
+* [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010.
 
@@ -356,6 +358,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
 
 * [The Picture Exchange Communication System](https://journals.sagepub.com/doi/abs/10.1177/108835769400900301), ***Behavior Modification***, 1994.
+
+* [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830), ***Journal of Pragmatics***, 2014.
+
+* [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
 
 *[Back to Top](#c)
 
