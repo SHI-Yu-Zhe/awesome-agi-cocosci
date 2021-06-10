@@ -247,6 +247,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Deep Forest: Towards An Alternative to Deep Neural Networks.](https://www.ijcai.org/Proceedings/2017/497), ***IJCAI'17***, 2017. [[Project](https://github.com/LAMDA-NJU/Deep-Forest)]
 
+* [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643), ***AAAI'20***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "cp"></span>
