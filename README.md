@@ -253,7 +253,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/), ***Plato Stanford***.
 
-* [Intentionality (a.k.a. Theory of Mind)](https://plato.stanford.edu/entries/intentionality/), ***Plato Stanford***.
+* [Intentionality](https://plato.stanford.edu/entries/intentionality/), ***Plato Stanford***.
 
 * [Epistemology](https://plato.stanford.edu/entries/epistemology/), ***Plato Stanford***.
 
