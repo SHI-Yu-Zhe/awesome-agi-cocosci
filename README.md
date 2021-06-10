@@ -361,6 +361,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830), ***Journal of Pragmatics***, 2014.
 
+* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf), ***ICLR'17***, 2017.
+
+* [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf), ***CogSci'19***, 2019.
+
 * [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
 
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
