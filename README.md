@@ -9,7 +9,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Machine Learning with Cognitive Plausibility](#cml)
    * [Neural-Symbolic Learning](#nsl)
    * [Comprehensibility of AI](#cai)
-   * [Cognitive Science](#cp)
+   * [Theory of Mind](#tom)
    * [Commonsense Reasoning](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
@@ -249,7 +249,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 *[Back to Top](#c)
 
 <span id = "cp"></span>
-### Cognitive Science
+### Theory of Mind
 
 * [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/), ***Plato Stanford***.
 
