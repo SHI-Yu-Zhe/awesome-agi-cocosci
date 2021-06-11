@@ -351,17 +351,19 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
 
+* [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
+
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010.
 
 * [Iconicity: From sign to system in human communication and language.](https://benjamins.com/catalog/pc.22.2.05fay), ***Pragmatics & Cognition***, 2014.
-
-* [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
 
 * [The Picture Exchange Communication System](https://journals.sagepub.com/doi/abs/10.1177/108835769400900301), ***Behavior Modification***, 1994.
 
 * [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830), ***Journal of Pragmatics***, 2014.
 
 * [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf), ***ICLR'17***, 2017.
+
+* [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html), ***NIPS'18***, 2018.
 
 * [Emergent communication through negotiation.](https://arxiv.org/abs/1804.03980), ***ICLR'18***, 2018.
 
