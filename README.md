@@ -367,6 +367,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf), ***CogSci'19***, 2019.
 
+* [The language of generalization.](https://psycnet.apa.org/record/2019-07481-001), ***Psychological Review***, 2019.
+
 * [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
 
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
