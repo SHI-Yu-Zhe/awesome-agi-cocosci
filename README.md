@@ -558,6 +558,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 #### Embodied AI Environment
 
+  * [iGibson](http://svl.stanford.edu/igibson/), ***Stanford***.
+
 #### First-Person Vision
   * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429), ***Proceedings of the IEEE***, 2012.
   * [The Evolution of First Person Vision Methods: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7055926), ***Trans. CSVT***, 2015.
