@@ -153,6 +153,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://arxiv.org/abs/2103.16564), ***ICLR'21***, 2021.
 
+* [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
