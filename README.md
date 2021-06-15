@@ -155,6 +155,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
 
+* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020. [[Project](https://sites.google.com/view/virtualtoolsgame/home)]
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
@@ -331,8 +333,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Using human brain activity to guide machine learning.](https://www.nature.com/articles/s41598-018-23618-6), ***Nature: Scientific Report***, 2018.
 
 * [Disentangling the Independent Contributions of Visual and Conceptual Features to the Spatiotemporal Dynamics of Scene Categorization.](https://www.jneurosci.org/content/40/27/5283), ***The Journal of Neuroscience***, 2020.
-
-* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020.
 
 * [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871), ***Science***, 2017.
 
