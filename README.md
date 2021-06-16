@@ -561,6 +561,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Rearrangement: A Challenge for Embodied AI](https://arxiv.org/pdf/2011.01975.pdf), 2020.
   * [iGibson](http://svl.stanford.edu/igibson/), ***Stanford***. [[Paper](https://ieeexplore.ieee.org/document/8954627)]
   * [AI2-THOR](https://ai2thor.allenai.org/ithor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/1712.05474)]
+  * [Robo-THOR](https://ai2thor.allenai.org/robothor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/2004.06799)]
+  * [Manipula-THOR](https://ai2thor.allenai.org/manipulathor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/2104.11213)]
 
 #### First-Person Vision
   * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429), ***Proceedings of the IEEE***, 2012.
