@@ -357,6 +357,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
 
+* [Compositionality](https://plato.stanford.edu/entries/compositionality/), ***Plato Stanford***.
+
 * [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010.
