@@ -561,6 +561,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 #### Embodied AI Environment
 
   * [iGibson](http://svl.stanford.edu/igibson/), ***Stanford***. [[Paper](https://ieeexplore.ieee.org/document/8954627)]
+  * [AI2-THOR](https://ai2thor.allenai.org/ithor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/1712.05474)]
 
 #### First-Person Vision
   * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429), ***Proceedings of the IEEE***, 2012.
