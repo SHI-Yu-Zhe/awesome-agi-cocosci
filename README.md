@@ -159,6 +159,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020. [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
 
+* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU), 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
