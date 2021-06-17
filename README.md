@@ -558,6 +558,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [A Dataset and Architecture for Visual Reasoning with a Working Memory](https://link.springer.com/chapter/10.1007%2F978-3-030-01249-6_44), ***ECCV'18***, 2018. [[Project](https://github.com/google/cog)]
 
 #### Embodied AI Environment
+  * [ThreeDWorld](http://www.threedworld.org/), ***MIT-IBM***. [[Paper](https://arxiv.org/abs/2007.04954)]
   * [Rearrangement: A Challenge for Embodied AI](https://arxiv.org/pdf/2011.01975.pdf), 2020.
   * [iGibson](http://svl.stanford.edu/igibson/), ***Stanford***. [[Paper](https://ieeexplore.ieee.org/document/8954627)]
   * [AI2-THOR](https://ai2thor.allenai.org/ithor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/1712.05474)]
