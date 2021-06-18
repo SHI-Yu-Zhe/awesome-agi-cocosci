@@ -560,6 +560,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Gazebo](http://gazebosim.org/) Environment for robot simulation.
   * [MarioQA: Answering Questions by Watching Gameplay Videos](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237574), ***ICCV'17***, 2017. [[Project](http://cvlab.postech.ac.kr/research/MarioQA/)]
   * [A Dataset and Architecture for Visual Reasoning with a Working Memory](https://link.springer.com/chapter/10.1007%2F978-3-030-01249-6_44), ***ECCV'18***, 2018. [[Project](https://github.com/google/cog)]
+  * [Investigating Human Priors for Playing Video Games](https://arxiv.org/abs/1802.10217), ***ICLR'18***, 2018.
 
 #### Embodied AI Environment
   * [ThreeDWorld](http://www.threedworld.org/), ***MIT-IBM***. [[Paper](https://arxiv.org/abs/2007.04954)]
