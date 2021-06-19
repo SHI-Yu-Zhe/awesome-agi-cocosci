@@ -163,6 +163,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU), 2021.
 
+* [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
