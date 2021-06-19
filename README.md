@@ -352,6 +352,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019.
 
+* [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf), 2021.
+
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
 
 *[Back to Top](#c)
