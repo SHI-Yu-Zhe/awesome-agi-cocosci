@@ -597,6 +597,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 #### AI Birds Challenge
   * [AI-Birds](https://aibirds.org), ***IJCAI***.
+  * [Hi-Phy: A Benchmark for Hierarchical Physical Reasoning](https://openreview.net/forum?id=AcL1ORzw0Nf), 2021.
 
 
 #### Minecraft
