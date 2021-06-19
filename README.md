@@ -163,6 +163,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021.
 
+* [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127), ***IEEE Robotics and Automation Letters***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
