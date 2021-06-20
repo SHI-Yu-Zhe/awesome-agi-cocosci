@@ -161,6 +161,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020. [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
 
+* [Probabilistic Programming Bots in Intuitive Physics Game Play](https://ojs.aaai.org/index.php/AAAI/article/view/16159), ***AAAI'21***, 2021.
+
 * [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU), 2021.
 
 * [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021.
