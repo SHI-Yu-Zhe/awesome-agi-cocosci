@@ -567,6 +567,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [Investigating Human Priors for Playing Video Games](https://arxiv.org/abs/1802.10217), ***ICLR'18***, 2018.
   * [PHYRE: A New Benchmark for Physical Reasoning](https://research.fb.com/wp-content/uploads/2019/08/PHYRE-A-New-Benchmark-for-Physical-Reasoning-v4.pdf), ***NIPS'19***, 2019.
   * [CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning](https://openreview.net/forum?id=HJgzt2VKPB), ***ICLR'20***, 2020. [[Project](https://rohitgirdhar.github.io/CATER/)]
+  * [CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning](https://arxiv.org/abs/2010.04296), 2020.
 
 #### Embodied AI Environment
   * [ThreeDWorld](http://www.threedworld.org/), ***MIT-IBM***. [[Paper](https://arxiv.org/abs/2007.04954)]
