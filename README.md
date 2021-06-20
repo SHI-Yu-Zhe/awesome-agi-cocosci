@@ -230,7 +230,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH), ***ICLR'20***, 2020.
 
-* [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'2020***, 2020.
+* [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'20***, 2020.
+
+* [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), ***NIPS'20***, 2020.
 
 * [Temporal and Object Quantification Networks](https://jiajunwu.com/papers/toqnet_ijcai.pdf), ***IJCAI'21***, 2021.
 
