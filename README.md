@@ -373,6 +373,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/), ***Plato Stanford***.
 
+* [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf), ***Topoi***, 1994.
+
 * [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012.
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010.
