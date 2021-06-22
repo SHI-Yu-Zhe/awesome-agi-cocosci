@@ -362,8 +362,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf), 2021.
 
-* [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
-
 *[Back to Top](#c)
 
 <span id = "prm"></span>
@@ -513,6 +511,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
 
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16), ***The Logic Programming Paradigms***, 1999.
+
+* [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
 
 *[Back to Top](#c)
 
