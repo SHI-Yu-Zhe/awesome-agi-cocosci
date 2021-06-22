@@ -157,6 +157,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
 
+* [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036), ***Communication of the ACM***, 2019.
+
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110), ***ICML'20***, 2020.
 
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020. [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
