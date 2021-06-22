@@ -586,6 +586,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [AI2-THOR](https://ai2thor.allenai.org/ithor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/1712.05474)]
   * [Robo-THOR](https://ai2thor.allenai.org/robothor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/2004.06799)]
   * [Manipula-THOR](https://ai2thor.allenai.org/manipulathor), ***Allen Institute***. [[Paper](https://arxiv.org/abs/2104.11213)]
+  * [RLBench](https://sites.google.com/view/rlbench), ***Imperial College***. [[Paper](https://ieeexplore.ieee.org/document/9001253)]
 
 #### First-Person Vision
   * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429), ***Proceedings of the IEEE***, 2012.
