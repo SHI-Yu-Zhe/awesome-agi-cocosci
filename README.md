@@ -15,7 +15,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
    * [Learning in the Open World](#ow)
-   * [Real Tasks](#rt)
+   * [Tasks & Environments](#te)
 
 * [Reviews & Surveys & Venues](#rs)
 
@@ -565,8 +565,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 *[Back to Top](#c)
 
-<span id = "rt"></span>
-### Real Tasks
+<span id = "te"></span>
+### Tasks & Environments
 
 #### Dataset Aggregation
   * [MIT CSAIL](https://github.com/CSAILVision) Repository of Vision Datasets provided by MIT CSAIL.
