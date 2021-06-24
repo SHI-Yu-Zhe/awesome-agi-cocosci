@@ -364,6 +364,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf), 2021.
 
+* [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841), ***CVPR'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "prm"></span>
