@@ -414,8 +414,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/pdf/1911.11641.pdf), ***AAAI'20***, 2020.
 
-* [Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning](https://www.aclweb.org/anthology/2020.emnlp-main.58.pdf), ***EMNLP'20***, 2020.
-
 * [Visual Commonsense R-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156347), ***CVPR'20***, 2020.
 
 * [Learning Visual Commonsense for Robust Scene Graph Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-58592-1_38), ***ECCV'20***, 2020.
