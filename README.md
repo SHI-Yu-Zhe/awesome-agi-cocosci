@@ -569,7 +569,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 ### Tasks & Environments
 
 #### Dataset Aggregation
-  * [MIT CSAIL](https://github.com/CSAILVision) Repository of Vision Datasets provided by MIT CSAIL.
   * [VQA](https://visualqa.org/) Visual Question Answering.
   * [Gazebo](http://gazebosim.org/) Environment for robot simulation.
   * [MarioQA: Answering Questions by Watching Gameplay Videos](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237574), ***ICCV'17***, 2017. [[Project](http://cvlab.postech.ac.kr/research/MarioQA/)]
