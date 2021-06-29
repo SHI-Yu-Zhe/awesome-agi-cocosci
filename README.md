@@ -171,6 +171,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127), ***IEEE Robotics and Automation Letters***, 2021.
 
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
