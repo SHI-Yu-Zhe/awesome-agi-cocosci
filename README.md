@@ -615,6 +615,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 #### Minecraft
   * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278), ***Journal on Eduction Technology & Society***, 2016.
+
 ##### Malmo Platform for Minecraft AI
   * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
   * [[Malmo](https://github.com/Microsoft/malmo#getting-started)] 
@@ -622,7 +623,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
   * [[Malmo-Tutorials](https://microsoft.github.io/malmo/0.17.0/Python_Examples/Tutorial.pdf)]
   * [[MineRL](https://minerl.io/)]
   * [[MarLo Challenge 2018](https://github.com/crowdAI/marLo)]
+ 
 #####  **Artificial Intelligence**
+  * [Multi-task curriculum learning in a complex, visual, hard-exploration domain: Minecraft](https://arxiv.org/abs/2106.14876), 2021.
   * [The AI Settlement Generation Challenge in Minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0), ***KI***, 2020.
   * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/), ***ACL'20***, 2020.
   * [Collaborative Dialogue in Minecraft](https://www.aclweb.org/anthology/P19-1537.pdf), ***ACL'19***, 2019.
