@@ -497,6 +497,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Finitely Generated Groups and First-Order Logic](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024610704006106), ***Journal of The London Mathematical Society-second Series***, 2005.
 
+* [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381), 2020.
+
 *[Back to Top](#c)
 
 <span id = "kr"></span>
