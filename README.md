@@ -366,8 +366,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Unit of visual working memory: A Boolean map provides a better account than an object does.](https://psycnet.apa.org/record/2019-27729-001), ***Journal of Experimental Psychology***, 2020.
 
-* [Finding Action Tubes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298676), ***CVPR'15***, 2015.
-
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
 
 * [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019.
