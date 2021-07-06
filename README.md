@@ -179,6 +179,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139), ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021.
 
+* [Discovering Generalizable Skills via Automated Generation of Diverse Tasks](https://arxiv.org/abs/2106.13935), ***RSS'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
