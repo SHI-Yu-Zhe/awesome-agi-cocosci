@@ -140,6 +140,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ***ICLR'21***, 2021.
 
+* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884), 2021.
+
 * [Learning Systems of Concepts with an Infinite Relational Model](https://www.aaai.org/Papers/AAAI/2006/AAAI06-061.pdf), ***AAAI'06***, 2006.
 
 * [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009.
