@@ -11,6 +11,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Comprehensibility of AI](#xai)
    * [Theory of Mind](#tom)
    * [Pragmatics](#prm)
+   * [Analogy](#anl)
    * [Commonsense Reasoning](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
@@ -410,6 +411,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1), ***Nature***, 2021.
 
 * [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
+
+*[Back to Top](#c)
+
+<span id = "anl"></span>
+### Analogy
 
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
 
