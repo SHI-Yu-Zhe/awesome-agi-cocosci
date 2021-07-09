@@ -65,6 +65,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf), ***COLING***, 1990.
 
+* [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010.
+
 *[Back to Top](#c)
 
 <span id = "cml"></span>
