@@ -407,6 +407,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124), ***ACL'20***, 2020.
 
+* [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1), ***Nature***, 2021.
+
 * [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
 
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
