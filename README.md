@@ -142,14 +142,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009.
 
-* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
-
-* [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf), ***NIPS'15***, 2015.
-
-* [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418), ***CVPR'19***, 2019.
-
-* [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://www.aclweb.org/anthology/2020.figlang-1.19/), ***ACL'20***, 2020.
-
 * [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf), ***NIPS'19***, 2019.
 
 * [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://arxiv.org/abs/2103.16564), ***ICLR'21***, 2021.
@@ -417,9 +409,17 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/#:~:text=Analogical%20reasoning%20is%20any%20type%20of%20thinking%20that,support%20the%20conclusion%20that%20some%20further%20similarity%20exists.), ***Plato Stanford***.
 
+* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
+
+* [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf), ***NIPS'15***, 2015.
+
+* [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418), ***CVPR'19***, 2019.
+
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
 
 * [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120), ***ICLR'19***, 2019.
+
+* [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://www.aclweb.org/anthology/2020.figlang-1.19/), ***ACL'20***, 2020.
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020.
 
