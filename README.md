@@ -473,6 +473,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/), ***Plato Stanford***.
 
+* [The Emergence of First-Order Logic](https://plato.stanford.edu/entries/logic-firstorder-emergence/), ***Plato Stanford***.
+
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/), ***Plato Stanford***.
 
 * [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
