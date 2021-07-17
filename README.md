@@ -465,6 +465,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/), ***Plato Stanford***.
 
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/), ***Plato Stanford***.
+
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/), ***Plato Stanford***.
 
 * [Modal Logic](https://plato.stanford.edu/entries/logic-modal/), ***Plato Stanford***.
