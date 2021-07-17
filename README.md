@@ -419,6 +419,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/#:~:text=Analogical%20reasoning%20is%20any%20type%20of%20thinking%20that,support%20the%20conclusion%20that%20some%20further%20similarity%20exists.), ***Plato Stanford***.
 
+* [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf), ***ICCC'15***, 2015.
+
 * [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
 
 * [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf), ***NIPS'15***, 2015.
