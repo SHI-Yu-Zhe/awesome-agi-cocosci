@@ -29,6 +29,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "abd"></span>
 ### Abduction
 
+* [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5), ***Springer***, 2000.
+
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***.
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***.
