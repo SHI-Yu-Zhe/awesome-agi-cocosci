@@ -31,6 +31,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5), ***Springer***, 2000.
 
+* [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6), ***Springer***, 2009.
+
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***.
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***.
