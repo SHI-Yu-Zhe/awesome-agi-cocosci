@@ -491,7 +491,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999.
 
-* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf), ***Computat. Logic***, 2002.
+* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf), ***Computational Logic***, 2002.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10), ***ILP'01***, 2001.
 
