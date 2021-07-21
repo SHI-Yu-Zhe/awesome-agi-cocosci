@@ -377,6 +377,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841), ***CVPR'21***, 2021.
 
+* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003.
+
 *[Back to Top](#c)
 
 <span id = "prm"></span>
