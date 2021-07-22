@@ -289,8 +289,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "tom"></span>
 ### Theory of Mind
 
-* [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/), ***Plato Stanford***.
-
 * [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/), ***Plato Stanford***.
 
 * [Intentionality](https://plato.stanford.edu/entries/intentionality/), ***Plato Stanford***.
@@ -322,6 +320,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Practical Reason](https://plato.stanford.edu/entries/practical-reason/), ***Plato Stanford***.
 
 * [Memory](https://plato.stanford.edu/entries/memory/), ***Plato Stanford***.
+
+* [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/), ***Plato Stanford***.
 
 * [Externalism About the Mind](https://plato.stanford.edu/entries/content-externalism/), ***Plato Stanford***.
 
