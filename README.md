@@ -45,6 +45,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744), ***Philosophy of Science***, 1999.
 
+* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z), ***Synthese***, 2019.
+
 * [Probabilistic Horn abduction and Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/000437029390061F?via%3Dihub), ***Artificial Intelligence***, 1993.
 
 * [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14), ***Spatial Cognition***, 2002.
