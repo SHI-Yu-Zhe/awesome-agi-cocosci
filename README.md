@@ -184,6 +184,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021.
 
+* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html), ***ICML'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
