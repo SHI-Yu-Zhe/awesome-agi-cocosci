@@ -574,6 +574,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
 
+* [The discovery of structural form](https://www.pnas.org/content/105/31/10687), ***Proceedings of National Academy of Science***, 2008.
+
 * [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071), ***Cognitive Science***, 2008.
 
 * [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010.
