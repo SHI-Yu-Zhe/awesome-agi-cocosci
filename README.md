@@ -387,6 +387,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003.
 
+* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012.
+
 *[Back to Top](#c)
 
 <span id = "prm"></span>
