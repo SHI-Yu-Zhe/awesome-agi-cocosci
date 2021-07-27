@@ -75,8 +75,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010.
 
-* [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010.
-
 *[Back to Top](#c)
 
 <span id = "cml"></span>
@@ -575,6 +573,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16), ***The Logic Programming Paradigms***, 1999.
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
+
+* [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010.
 
 *[Back to Top](#c)
 
