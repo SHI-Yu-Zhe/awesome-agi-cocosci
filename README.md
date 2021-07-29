@@ -590,6 +590,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf), ***CogSci'21***, 2021.
 
+* [Connecting perceptual and procedural abstractions in physical construction](https://escholarship.org/uc/item/9j00x928), ***CogSci'21***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
