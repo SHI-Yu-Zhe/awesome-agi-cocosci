@@ -6,7 +6,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Papers](#p)
    * [Abduction](#abd)
-   * [Machine Learning with Cognitive Plausibility](#cml)
+   * [Learning with Cognitive Plausibility](#lcp)
    * [Neural-Symbolic Learning](#nsl)
    * [Comprehensibility of AI](#xai)
    * [Theory of Mind](#tom)
@@ -77,8 +77,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 *[Back to Top](#c)
 
-<span id = "cml"></span>
-### Machine Learning with Cognitive Plausibility
+<span id = "lcp"></span>
+### Learning with Cognitive Plausibility
 
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
 
