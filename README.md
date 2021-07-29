@@ -82,6 +82,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2011.
 
+* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
+
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
@@ -378,8 +380,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf), 2020.
 
 * [Unit of visual working memory: A Boolean map provides a better account than an object does.](https://psycnet.apa.org/record/2019-27729-001), ***Journal of Experimental Psychology***, 2020.
-
-* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
 
 * [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019.
 
