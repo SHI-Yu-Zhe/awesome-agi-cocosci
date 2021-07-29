@@ -86,13 +86,13 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
+* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017.
+
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
 
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), ***Engineering***, 2020.
 
 * [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf), ***NIPS'20***, 2020.
-
-* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017.
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
 
