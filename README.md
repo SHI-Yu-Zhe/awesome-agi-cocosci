@@ -80,9 +80,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "cml"></span>
 ### Machine Learning with Cognitive Plausibility
 
-* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2011.
-
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
+
+* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2011.
 
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
