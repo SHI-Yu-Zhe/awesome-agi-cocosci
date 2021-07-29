@@ -80,9 +80,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "lcp"></span>
 ### Learning with Cognitive Plausibility
 
-* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
+* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2006.
 
-* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2011.
+* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
 
