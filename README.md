@@ -586,6 +586,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010.
 
+* [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf), ***Psychological Review***, 2012.
+
 * [Theory Acquisition as Constraint-Based Program Synthesis](https://cogtoolslab.github.io/pdf/wang_cogsci_2021b.pdf), ***CogSci'21***, 2021.
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf), ***CogSci'21***, 2021.
