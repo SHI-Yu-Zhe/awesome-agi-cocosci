@@ -84,8 +84,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
 
-* [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
-
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017.
@@ -587,6 +585,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf), ***CogSci'08***, 2008.
 
 * [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010.
+
+* [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
 
 * [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf), ***Psychological Review***, 2012.
 
