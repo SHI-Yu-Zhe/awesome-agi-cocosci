@@ -229,8 +229,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions](https://arxiv.org/pdf/2007.08751.pdf), ***ECCV'20***, 2020.
 
-* [Interpretable Neural Computation for Real-World Compositional Visual Question Answering](https://link.springer.com/chapter/10.1007%2F978-3-030-60636-7_8), ***PRCV'20***, 2020.
-
 * [Interpretable Visual Reasoning via Probabilistic Formulation Under Natural Supervision](https://link.springer.com/chapter/10.1007%2F978-3-030-58545-7_32), ***ECCV'20***, 2020.
 
 * [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf), ***NIPS'20***, 2020.
