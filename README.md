@@ -134,8 +134,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf), ***NIPS'13***, 2013.
 
-* [Causual Induction from Visual Observations for Goal Directed Tasks](https://arxiv.org/pdf/1910.01751.pdf), 2019.
-
 * [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172), ***ICRA'20***, 2020.
 
 * [Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf), ***CVPR'20***, 2020.
