@@ -122,10 +122,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380), ***ICML'09***, 2009.
 
-* [Circle Loss: A Unified Perspective of Pair Similarity Optimization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf), ***CVPR'20***, 2020.
-
-* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf), ***ICLR'15***, 2015.
-
 * [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279), ***ICCV'11***, 2011.
 
 * [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387), ***ICCV'13***, 2013.
