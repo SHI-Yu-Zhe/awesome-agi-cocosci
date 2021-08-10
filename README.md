@@ -140,10 +140,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf), ***CVPR'20***, 2020.
 
-* [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf), ***NIPS'17***, 2017.
-
-* [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ***ICLR'21***, 2021.
-
 * [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884), 2021.
 
 * [Learning Systems of Concepts with an Infinite Relational Model](https://www.aaai.org/Papers/AAAI/2006/AAAI06-061.pdf), ***AAAI'06***, 2006.
