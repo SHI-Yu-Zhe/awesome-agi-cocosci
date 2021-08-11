@@ -219,8 +219,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf), ***ICML'20***, 2020.
 
-* [Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions](https://arxiv.org/pdf/2007.08751.pdf), ***ECCV'20***, 2020.
-
 * [Interpretable Visual Reasoning via Probabilistic Formulation Under Natural Supervision](https://link.springer.com/chapter/10.1007%2F978-3-030-58545-7_32), ***ECCV'20***, 2020.
 
 * [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf), ***NIPS'20***, 2020.
