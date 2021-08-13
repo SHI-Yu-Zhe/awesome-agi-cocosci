@@ -233,6 +233,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), ***NIPS'20***, 2020.
 
+* [Neural Logic Machines](https://arxiv.org/pdf/1904.11694.pdf), ***ICLR'19***, 2019.
+
 * [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf), ***ICLR'19***, 2019.
 
 * [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf), ***NIPS'19***, 2019.
