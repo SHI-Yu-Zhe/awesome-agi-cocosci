@@ -227,13 +227,13 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://openreview.net/pdf?id=H1eSS3CcKX), ***ICLR'19***, 2019.
 
-* [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf), ***ICLR'19***, 2019.
-
 * [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH), ***ICLR'20***, 2020.
 
 * [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'20***, 2020.
 
 * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), ***NIPS'20***, 2020.
+
+* [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf), ***ICLR'19***, 2019.
 
 * [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf), ***NIPS'19***, 2019.
 
