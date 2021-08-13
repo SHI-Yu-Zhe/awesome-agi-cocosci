@@ -191,6 +191,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
 
+* [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
+
 * [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf), ***ICML'19***, 2019.
 
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020. [[Project](https://github.com/gblackout/NLIL)]
@@ -232,8 +234,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'20***, 2020.
 
 * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), ***NIPS'20***, 2020.
-
-* [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
 
 * [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf), ***NIPS'19***, 2019.
 
