@@ -146,10 +146,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009.
 
-* [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf), ***NIPS'19***, 2019.
-
-* [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://arxiv.org/abs/2103.16564), ***ICLR'21***, 2021.
-
 * [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Science***, 2013. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
 
 * [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
@@ -203,7 +199,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
 
-* [Theory-Based Causal Transfer:Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020.
+* [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020.
 
 * [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***NIPS'20***, 2020.
 
@@ -238,6 +234,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html), ***NIPS'20***, 2020.
 
 * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), ***NIPS'20***, 2020.
+
+* [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf), ***NIPS'19***, 2019.
+
+* [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://arxiv.org/abs/2103.16564), ***ICLR'21***, 2021.
 
 * [Temporal and Object Quantification Networks](https://jiajunwu.com/papers/toqnet_ijcai.pdf), ***IJCAI'21***, 2021.
 
