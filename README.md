@@ -168,6 +168,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175), ***Journal of Artificial Intelligence Research***, 2018.
 
+* [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626), ***Robotics: Science and Systems***, 2018.
+
 * [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139), ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021.
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021.
