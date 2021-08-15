@@ -375,6 +375,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012.
 
+* [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1&isAllowed=y), ***Science***, 2017.
+
 * [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747), ***Proceedings of National Academy of Science***, 2019.
 
 *[Back to Top](#c)
