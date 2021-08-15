@@ -375,6 +375,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012.
 
+* [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747), ***Proceedings of National Academy of Science***, 2019.
+
 *[Back to Top](#c)
 
 <span id = "prm"></span>
