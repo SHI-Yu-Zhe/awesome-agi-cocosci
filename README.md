@@ -96,6 +96,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004.
 
+* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ***ICLR'19***, 2019.
+
 * [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689), ***ICRA'18***, 2018.
 
 * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020.
