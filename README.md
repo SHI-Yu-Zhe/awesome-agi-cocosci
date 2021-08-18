@@ -596,6 +596,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Introduction to The Fluent Calculus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.4086&rep=rep1&type=pdf), ***Linkoeping University Electronic Press***, 1998.
 
+* [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338), ***Artificial Intelligence***, 1999.
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
