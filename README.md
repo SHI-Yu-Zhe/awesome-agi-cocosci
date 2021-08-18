@@ -594,6 +594,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf), 2021.
 
+* [Introduction to The Fluent Calculus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.4086&rep=rep1&type=pdf), ***Linkoeping University Electronic Press***, 1998.
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
