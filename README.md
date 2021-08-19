@@ -539,6 +539,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381), 2020.
 
+* [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137), 2021.
+
 * [Meta-Interpretive Learning as Metarule Specialisation](https://arxiv.org/pdf/2106.07464.pdf), ***Machine Learning***, 2021.
 
 *[Back to Top](#c)
