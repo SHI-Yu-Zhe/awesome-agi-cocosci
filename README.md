@@ -606,6 +606,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "cogdev"></span>
 ### Cognitive Development
 
+* [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development), ***Wikipedia***.
+
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981.
 
 * [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007.
