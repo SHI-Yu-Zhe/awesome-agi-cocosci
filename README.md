@@ -15,7 +15,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Commonsense Reasoning](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
-   * [Developmental Psychology](#dvpsy)
+   * [Cognitive Development](#cogdev)
    * [Learning in the Open World](#ow)
    * [Tasks & Environments](#te)
 
@@ -603,8 +603,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 *[Back to Top](#c)
 
-<span id = "dvpsy"></span>
-### Developmental Psychology
+<span id = "cogdev"></span>
+### Cognitive Development
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981.
 
