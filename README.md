@@ -608,6 +608,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981.
 
+* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007.
+
 * [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017.
 
 *[Back to Top](#c)
