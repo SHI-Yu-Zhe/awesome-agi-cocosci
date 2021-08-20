@@ -15,6 +15,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Commonsense Reasoning](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
+   * [Developmental Psychology](#dvpsy)
    * [Learning in the Open World](#ow)
    * [Tasks & Environments](#te)
 
@@ -601,6 +602,11 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338), ***Artificial Intelligence***, 1999.
 
 *[Back to Top](#c)
+
+<span id = "dvpsy"></span>
+### Developmental Psychology
+
+* [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981.
 
 <span id = "ow"></span>
 ### Learning in the Open World
