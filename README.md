@@ -608,6 +608,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981.
 
+*[Back to Top](#c)
+
 <span id = "ow"></span>
 ### Learning in the Open World
 
