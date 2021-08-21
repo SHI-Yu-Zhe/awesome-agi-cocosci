@@ -8,7 +8,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Abduction](#abd)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Neural-Symbolic Learning](#nsl)
-   * [Comprehensibility of AI](#xai)
+   * [Explainable AI](#xai)
    * [Theory of Mind](#tom)
    * [Pragmatics](#prm)
    * [Analogy](#anl)
@@ -253,7 +253,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 *[Back to Top](#c)
 
 <span id = "xai"></span>
-### Comprehensibility of AI
+### Explainable AI
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018.
 
