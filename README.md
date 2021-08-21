@@ -9,6 +9,7 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
    * [Learning with Cognitive Plausibility](#lcp)
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
+   * [Embodied Intelligence & Extended Mind](#eiem)
    * [Theory of Mind](#tom)
    * [Pragmatics](#prm)
    * [Analogy](#anl)
@@ -289,6 +290,13 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 *[Back to Top](#c)
 
+<span id = "eiem"></span>
+### Embodied Intelligence & Extended Mind
+
+* [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/), ***Plato Stanford***.
+
+*[Back to Top](#c)
+
 <span id = "tom"></span>
 ### Theory of Mind
 
@@ -309,8 +317,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/), ***Plato Stanford***.
 
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/), ***Plato Stanford***.
-
-* [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/), ***Plato Stanford***.
 
 * [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/), ***Plato Stanford***.
 
