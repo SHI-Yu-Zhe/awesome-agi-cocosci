@@ -293,6 +293,10 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/), ***Plato Stanford***.
 
+* [Externalism About the Mind](https://plato.stanford.edu/entries/content-externalism/), ***Plato Stanford***.
+
+* [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998.
+
 * [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf), ***Behavioral and Brain Sciences***, 2012.
 
 *[Back to Top](#c)
@@ -331,10 +335,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [Memory](https://plato.stanford.edu/entries/memory/), ***Plato Stanford***.
 
 * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/), ***Plato Stanford***.
-
-* [Externalism About the Mind](https://plato.stanford.edu/entries/content-externalism/), ***Plato Stanford***.
-
-* [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998.
 
 * [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)] [[Citations](https://academic.microsoft.com/paper/2151516755/citedby/search?q=Action%20understanding%20as%20inverse%20planning.&qe=RId%253D2151516755&f=&orderBy=0)]
 
