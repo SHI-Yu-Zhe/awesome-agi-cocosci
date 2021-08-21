@@ -34,6 +34,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***.
 
+* [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/), ***Plato Stanford***.
+
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8), ***Courier Corporation***, 1955.
 
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5), ***Springer***, 2000.
