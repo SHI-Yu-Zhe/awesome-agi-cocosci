@@ -186,21 +186,25 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 <span id = "nsl"></span>
 ### Neural-Symbolic Learning
 
+* [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018.
+
+* [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
+
+* [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
+
+* [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf), ***ICML'19***, 2019.
+
 * [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
 
-* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Sci CHINA***, 2019.
+* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Science China***, 2019.
 
 * [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf), ***IJCAI'21***, 2021.
 
 * [Automated Biodesign Engineering by Abductive Meta-Interpretive Learning](https://arxiv.org/abs/2105.07758), ***AAAI Spring Symposium***, 2021.
 
+* [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855), ***Artificial Intelligence***, 2021.
+
 * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf), ***CVPR'21***, 2021.
-
-* [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf), ***AAAI'17***, 2017.
-
-* [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
-
-* [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf), ***ICML'19***, 2019.
 
 * [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB), ***ICLR'20***, 2020. [[Project](https://github.com/gblackout/NLIL)]
 
@@ -212,13 +216,9 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf), ***ICLR'21***, 2021.
 
-* [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf), ***Science Advances***, 2019.
-
-* [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018.
+* [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf), ***Science***, 2019.
 
 * [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf), ***NIPS'19***, 2019.
-
-* [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855), ***Artificial Intelligence***, 2021.
 
 * [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf), ***ICML'20***, 2020.
 
