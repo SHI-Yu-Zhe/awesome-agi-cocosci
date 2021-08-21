@@ -154,8 +154,6 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 
 * [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Science***, 2013. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
 
-* [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
-
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036), ***Communication of the ACM***, 2019.
 
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110), ***ICML'20***, 2020.
@@ -298,6 +296,8 @@ An **awesome & curated** list for **cognitive machine learning**, an emerging in
 * [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998.
 
 * [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf), ***Behavioral and Brain Sciences***, 2012.
+
+* [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
 
 *[Back to Top](#c)
 
