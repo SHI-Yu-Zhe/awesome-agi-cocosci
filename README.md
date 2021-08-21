@@ -626,6 +626,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development), ***Wikipedia***.
 
+* [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+Development%3A+an+information+processing+approach&btnG=), ***B.Blackwell***, 1991.
+
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981.
 
 * [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007.
