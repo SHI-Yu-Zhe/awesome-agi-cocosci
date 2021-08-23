@@ -305,6 +305,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
 
+* [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf), ***RSS'19***, 2019.
+
 * [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021.
 
 * [Robotic hand augmentation drives changes in neural body representation](https://robotics.sciencemag.org/content/6/54/eabd7935.abstract), ***Science Robotics***, 2021.
