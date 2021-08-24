@@ -11,7 +11,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
    * [Theory of Mind](#tom)
-   * [Pragmatics](#prm)
+   * [Pragmatics & Communications](#prgmcomm)
    * [Analogy](#anl)
    * [Commonsense Reasoning](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
@@ -408,8 +408,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 *[Back to Top](#c)
 
-<span id = "prm"></span>
-### Pragmatics
+<span id = "prgmcomm"></span>
+### Pragmatics & Communications
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
 
