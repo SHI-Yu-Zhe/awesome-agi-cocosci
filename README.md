@@ -305,6 +305,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Robotic hand augmentation drives changes in neural body representation](https://robotics.sciencemag.org/content/6/54/eabd7935.abstract), ***Science Robotics***, 2021.
 
+* [Expert Tool Users Show Increased Differentiation between Visual Representations of Hands and Tools](https://www.jneurosci.org/content/jneuro/41/13/2980.full.pdf), ***Journal of Neuroscience***, 2021.
+
 * [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021.
 
 * [A Relational Approach to Tool-Use Learning in Robots](https://link.springer.com/chapter/10.1007/978-3-642-38812-5_1), ***ILP'12***, 2012.
