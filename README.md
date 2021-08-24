@@ -293,7 +293,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998.
 
-* [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962), ***Psychological Science***, 2010.
+* [Rapid Assimilation of External Objects Into the Body Schema](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5), ***Psychological Science***, 2010.
 
 * [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf), ***Behavioral and Brain Sciences***, 2012.
 
