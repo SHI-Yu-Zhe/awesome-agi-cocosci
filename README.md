@@ -591,6 +591,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/), ***Plato Stanford***.
 
+* [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/), ***Plato Stanford***.
+
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993.
 
 * [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
