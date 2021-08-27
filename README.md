@@ -320,6 +320,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "tom"></span>
 ### Theory of Mind
 
+* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind), ***Wikipedia***.
+
 * [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/), ***Plato Stanford***.
 
 * [Intentionality](https://plato.stanford.edu/entries/intentionality/), ***Plato Stanford***.
