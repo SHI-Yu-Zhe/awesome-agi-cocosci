@@ -13,6 +13,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Theory of Mind](#tom)
    * [Pragmatics & Communications](#prgmcomm)
    * [Analogy](#anl)
+   * [Causal Reasoning](#caus)
    * [Commonsense Reasoning](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
@@ -473,6 +474,13 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://www.aclweb.org/anthology/2020.figlang-1.19/), ***ACL'20***, 2020.
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020.
+
+*[Back to Top](#c)
+
+<span id = "caus"></span>
+### Causal Reasoning
+
+* [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5), ***The Oxford Handbook of Cognitive Psychology***, 2013.
 
 *[Back to Top](#c)
 
