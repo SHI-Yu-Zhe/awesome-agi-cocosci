@@ -629,6 +629,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [A taxonomy of inductive problems](http://www.charleskemp.com/papers/kempj_ataxonomyofinductiveproblems.pdf), ***Psychonomic Bulletin & Review***, 2014.
 
+* [The Logical Primitives of Thought: Empirical Foundations for Compositional Cognitive Models](http://colala.berkeley.edu/papers/piantadosi2016logical.pdf), ***Psychological Review***, 2016.
+
 * [Theory Acquisition as Constraint-Based Program Synthesis](https://cogtoolslab.github.io/pdf/wang_cogsci_2021b.pdf), ***CogSci'21***, 2021.
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf), ***CogSci'21***, 2021.
