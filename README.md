@@ -310,6 +310,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021.
 
+* [Behavior-grounded representation of tool affordances](https://www.cc.gatech.edu/ai/robot-lab/online-publications/StoytchevICRA2005.pdf), ***ICRA'05***, 2005.
+
 * [A Relational Approach to Tool-Use Learning in Robots](https://link.springer.com/chapter/10.1007/978-3-642-38812-5_1), ***ILP'12***, 2012.
 
 * [Relational affordances for multiple-object manipulation](https://link.springer.com/article/10.1007/s10514-017-9637-x), ***Autonomous Robots***, 2017.
