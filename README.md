@@ -19,6 +19,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Knowledge Representation](#kr)
    * [Cognitive Development](#cogdev)
    * [Learning in the Open World](#ow)
+   * [Human-level Problem Solving](#hps)
    * [Tasks & Environments](#te)
 
 * [Reviews & Surveys & Venues](#rs)
@@ -706,6 +707,13 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020.
 
 * [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655), ***CVPR'20***, 2020.
+
+*[Back to Top](#c)
+
+<span id = "hps"></span>
+### Human-level Problem Solving
+
+* [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021.
 
 *[Back to Top](#c)
 
