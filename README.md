@@ -177,8 +177,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021.
 
-* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html), ***ICML'21***, 2021.
-
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
@@ -479,6 +477,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 ### Causal Reasoning
 
 * [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5), ***The Oxford Handbook of Cognitive Psychology***, 2013.
+
+* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html), ***ICML'21***, 2021.
 
 *[Back to Top](#c)
 
