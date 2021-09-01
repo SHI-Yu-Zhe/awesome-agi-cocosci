@@ -324,6 +324,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
 
+* [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019.
+
 * [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021.
 
 *[Back to Top](#c)
