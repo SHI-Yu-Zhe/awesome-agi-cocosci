@@ -330,6 +330,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf), ***CogSci'16***, 2016.
 
+* [Do People Ask Good Questions?](https://link.springer.com/article/10.1007/s42113-018-0005-5), ***Computational Brain & Behavior***, 2018.
+
 * [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf), ***CogSci'19***, 2019.
 
 * [People Infer Recursive Visual Concepts from Just a Few Examples](https://link.springer.com/content/pdf/10.1007/s42113-019-00053-y.pdf), ***Computational Brain & Behavior***, 2020.
