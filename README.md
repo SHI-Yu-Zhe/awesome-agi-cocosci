@@ -10,6 +10,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
+   * [Human-level Intelligence Experiments](#hie)
    * [Theory of Mind](#tom)
    * [Pragmatics & Communications](#prgmcomm)
    * [Analogy](#anl)
@@ -19,7 +20,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Knowledge Representation](#kr)
    * [Cognitive Development](#cogdev)
    * [Learning in the Open World](#ow)
-   * [Human Intelligence Experiments](#hie)
    * [Tasks & Environments](#te)
 
 * [Reviews & Surveys & Venues](#rs)
@@ -316,6 +316,15 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Relational affordances for multiple-object manipulation](https://link.springer.com/article/10.1007/s10514-017-9637-x), ***Autonomous Robots***, 2017.
 
 * [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf), ***RSS'19***, 2019.
+
+*[Back to Top](#c)
+
+<span id = "hie"></span>
+### Human-level Intelligence Experiments
+
+* [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
+
+* [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021.
 
 *[Back to Top](#c)
 
@@ -707,15 +716,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020.
 
 * [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655), ***CVPR'20***, 2020.
-
-*[Back to Top](#c)
-
-<span id = "hie"></span>
-### Human-level Intelligence Experiments
-
-* [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
-
-* [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021.
 
 *[Back to Top](#c)
 
