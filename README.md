@@ -178,6 +178,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021.
 
+* [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
