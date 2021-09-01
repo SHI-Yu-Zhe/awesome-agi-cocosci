@@ -19,7 +19,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Knowledge Representation](#kr)
    * [Cognitive Development](#cogdev)
    * [Learning in the Open World](#ow)
-   * [Human-level Problem Solving](#hps)
+   * [Human Intelligence Experiments](#hie)
    * [Tasks & Environments](#te)
 
 * [Reviews & Surveys & Venues](#rs)
@@ -710,8 +710,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 *[Back to Top](#c)
 
-<span id = "hps"></span>
-### Human-level Problem Solving
+<span id = "hie"></span>
+### Human-level Intelligence Experiments
 
 * [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
 
