@@ -328,6 +328,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short), ***Proceedings of National Academy of Sciences***, 2015.
 
+* [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf), ***CogSci'16***, 2016.
+
 * [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019.
