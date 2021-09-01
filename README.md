@@ -713,6 +713,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "hps"></span>
 ### Human-level Problem Solving
 
+* [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
+
 * [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021.
 
 *[Back to Top](#c)
@@ -722,7 +724,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 #### Dataset Aggregation
   * [A Dataset and Architecture for Visual Reasoning with a Working Memory](https://link.springer.com/chapter/10.1007%2F978-3-030-01249-6_44), ***ECCV'18***, 2018. [[Project](https://github.com/google/cog)]
-  * [Investigating Human Priors for Playing Video Games](https://arxiv.org/abs/1802.10217), ***ICLR'18***, 2018.
   * [PHYRE: A New Benchmark for Physical Reasoning](https://research.fb.com/wp-content/uploads/2019/08/PHYRE-A-New-Benchmark-for-Physical-Reasoning-v4.pdf), ***NIPS'19***, 2019.
   * [CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning](https://openreview.net/forum?id=HJgzt2VKPB), ***ICLR'20***, 2020. [[Project](https://rohitgirdhar.github.io/CATER/)]
   * [CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning](https://arxiv.org/abs/2010.04296), 2020.
