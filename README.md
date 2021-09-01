@@ -330,6 +330,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf), ***CogSci'16***, 2016.
 
+* [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf), ***CogSci'19***, 2019.
+
 * [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019.
