@@ -81,6 +81,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010.
 
+* [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021.
+
 *[Back to Top](#c)
 
 <span id = "lcp"></span>
