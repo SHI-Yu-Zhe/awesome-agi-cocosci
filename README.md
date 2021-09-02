@@ -83,6 +83,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf), ***COLING***, 1990.
 
+* [The order effect in human abductive reasoning: an empirical and computational study](https://www.tandfonline.com/doi/full/10.1080/09528130600558141?scroll=top&needAccess=true), ***Journal of Experimental & Theoretical Artificial Intelligence***, 2006.
+
 * [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010.
 
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021.
