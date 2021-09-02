@@ -49,6 +49,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6), ***Springer***, 2009.
 
+* [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short), ***Proceedings of National Academy of Sciences***, 2013.
+
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993.
 
 * [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4), ***Synthese***, 2007.
