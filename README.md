@@ -128,7 +128,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7), ***Computational Brain & Behavior***, 2020.
 
-* [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118), ***Proceedings of National Academy of Science***, 2021.
+* [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118), ***Proceedings of National Academy of Sciences***, 2021.
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
 
@@ -164,11 +164,11 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009.
 
-* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Science***, 2013. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
+* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Sciences***, 2013. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
 
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110), ***ICML'20***, 2020.
 
-* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Science***, 2020. [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
+* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Sciences***, 2020. [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
 
 * [Probabilistic Programming Bots in Intuitive Physics Game Play](https://ojs.aaai.org/index.php/AAAI/article/view/16159), ***AAAI'21***, 2021.
 
@@ -266,7 +266,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Network dissection: Quantifying interpretability of deep visual representations.](https://ieeexplore.ieee.org/document/8099837), ***CVPR'17***, 2017. [[Dataset: Places365](http://places2.csail.mit.edu/index.html)]
 
-* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Science***, 2020.
+* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Sciences***, 2020.
 
 * [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/), ***Distill***, 2020.
 
@@ -274,7 +274,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), ***NIPS'19***, 2019.
 
-* [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf), ***Proceedings of National Academy of Science***, 2019.
+* [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf), ***Proceedings of National Academy of Sciences***, 2019.
 
 * [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), ***NIPS'20***, 2020. [[code](https://github.com/alvinwan/neural-backed-decision-trees)]
 
@@ -435,7 +435,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1&isAllowed=y), ***Science***, 2017.
 
-* [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747), ***Proceedings of National Academy of Science***, 2019.
+* [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747), ***Proceedings of National Academy of Sciences***, 2019.
 
 *[Back to Top](#c)
 
@@ -651,7 +651,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
 
-* [The discovery of structural form](https://www.pnas.org/content/105/31/10687), ***Proceedings of National Academy of Science***, 2008.
+* [The discovery of structural form](https://www.pnas.org/content/105/31/10687), ***Proceedings of National Academy of Sciences***, 2008.
 
 * [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071), ***Cognitive Science***, 2008.
 
