@@ -14,8 +14,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Theory of Mind](#tom)
    * [Pragmatics & Communications](#prgmcomm)
    * [Analogy](#anl)
-   * [Causal Reasoning](#caus)
-   * [Commonsense Reasoning](#cms)
+   * [Causality](#caus)
+   * [Commonsense](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
    * [Cognitive Development](#cogdev)
@@ -500,7 +500,9 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 *[Back to Top](#c)
 
 <span id = "caus"></span>
-### Causal Reasoning
+### Causality
+
+* [Causality](https://en.wikipedia.org/wiki/Causality), ***Wikipedia***.
 
 * [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/), ***Plato Stanford***.
 
@@ -515,7 +517,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 *[Back to Top](#c)
 
 <span id = "cms"></span>
-### Commonsense Reasoning
+### Commonsense
 
 * [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59), ***FSTTCS***, 1990.
 
