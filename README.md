@@ -657,6 +657,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The Logical Primitives of Thought: Empirical Foundations for Compositional Cognitive Models](http://colala.berkeley.edu/papers/piantadosi2016logical.pdf), ***Psychological Review***, 2016.
 
+* [The Emergence of Organizing Structure in Conceptual Representation](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12580), ***Cognitive Science***, 2018.
+
 * [Theory Acquisition as Constraint-Based Program Synthesis](https://cogtoolslab.github.io/pdf/wang_cogsci_2021b.pdf), ***CogSci'21***, 2021.
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf), ***CogSci'21***, 2021.
