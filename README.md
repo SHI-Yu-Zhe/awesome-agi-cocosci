@@ -342,6 +342,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [People Infer Recursive Visual Concepts from Just a Few Examples](https://link.springer.com/content/pdf/10.1007/s42113-019-00053-y.pdf), ***Computational Brain & Behavior***, 2020.
 
+* [One-shot learning of generative speech concepts](https://escholarship.org/content/qt3xf2n3vc/qt3xf2n3vc.pdf), ***CogSci'14***, 2014.
+
 * [Human few-shot learning of compositional instructions](https://arxiv.org/abs/1901.04587), ***CogSci'19***, 2019.
 
 * [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021.
