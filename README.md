@@ -213,8 +213,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649), ***ICML'20***, 2020.
 
-* [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020.
-
 * [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978), ***NIPS'20***, 2020.
 
 * [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf), ***ICLR'21***, 2021.
@@ -367,10 +365,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/), ***Plato Stanford***.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/), ***Plato Stanford***.
-
-* [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/), ***Plato Stanford***.
-
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/), ***Plato Stanford***.
 
 * [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/), ***Plato Stanford***.
@@ -508,9 +502,13 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "caus"></span>
 ### Causal Reasoning
 
+* [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/), ***Plato Stanford***.
+
 * [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5), ***The Oxford Handbook of Cognitive Psychology***, 2013.
 
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036), ***Communication of the ACM***, 2019.
+
+* [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020.
 
 * [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html), ***ICML'21***, 2021.
 
@@ -618,6 +616,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 ### Knowledge Representation
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/), ***Plato Stanford***.
+
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/), ***Plato Stanford***.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/), ***Plato Stanford***.
 
