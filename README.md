@@ -31,7 +31,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "p"></span>
 ## Papers
 <span id = "abd"></span>
-### Abduction
+### Abduction & Explanation & Bayesianism
 
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***.
 
