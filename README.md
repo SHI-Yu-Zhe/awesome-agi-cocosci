@@ -41,6 +41,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8), ***Courier Corporation***, 1955.
 
+* [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532), ***The Philosophical Review***, 1965.
+
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5), ***Springer***, 2000.
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6), ***Springer***, 2009.
