@@ -91,6 +91,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021.
 
+* [Abduction: Can Non-human Animals Make Discoveries?](https://link.springer.com/article/10.1007/s12304-017-9300-0), ***Biosemiotics***, 2017.
+
 *[Back to Top](#c)
 
 <span id = "lcp"></span>
