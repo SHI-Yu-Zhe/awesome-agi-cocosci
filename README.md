@@ -516,6 +516,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Causality](https://en.wikipedia.org/wiki/Causality), ***Wikipedia***.
 
+* [Causal Models](https://plato.stanford.edu/entries/causal-models/), ***Plato Stanford***.
+
 * [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/), ***Plato Stanford***.
 
 * [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5), ***The Oxford Handbook of Cognitive Psychology***, 2013.
