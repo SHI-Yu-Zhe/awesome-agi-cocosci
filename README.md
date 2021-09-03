@@ -311,6 +311,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The embodied mind extended: using words as social tools](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00214/full), ***Frontiers in Psychology***, 2013.
 
+* [Tool use as adaptation](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0408), ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2013.
+
 * [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://www.sciencedirect.com/science/article/pii/S0028393214000232), ***Neuropsychologia***, 2014.
 
 * [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
