@@ -190,6 +190,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020.
 
+* [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021.
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
