@@ -334,6 +334,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short), ***Proceedings of National Academy of Sciences***, 2015.
 
+* [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf), ***CogSci'16***, 2016.
+
 * [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf), ***CogSci'16***, 2016.
 
 * [Do People Ask Good Questions?](https://link.springer.com/article/10.1007/s42113-018-0005-5), ***Computational Brain & Behavior***, 2018.
