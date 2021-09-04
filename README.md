@@ -315,7 +315,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Tool use as adaptation](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0408), ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2013.
 
-* [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://www.sciencedirect.com/science/article/pii/S0028393214000232), ***Neuropsychologia***, 2014.
+* [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5), ***Neuropsychologia***, 2014.
 
 * [Tool use and affordance: Manipulation-based versus reasoning-based approaches](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000027), ***Psychological Review***, 2016.
 
