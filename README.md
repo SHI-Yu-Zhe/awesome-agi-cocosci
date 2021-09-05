@@ -98,35 +98,35 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "lcp"></span>
 ### Learning with Cognitive Plausibility
 
-* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2006.
+* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2006. [[All Versions]()]
 
-* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011.
+* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011. [[All Versions]()]
 
-* [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
+* [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[All Versions]()] [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
-* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017.
+* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017. [[All Versions]()]
 
-* [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019.
+* [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019. [[All Versions]()]
 
-* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), ***Engineering***, 2020.
+* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), ***Engineering***, 2020. [[All Versions]()]
 
-* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf), ***NIPS'20***, 2020.
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf), ***NIPS'20***, 2020. [[All Versions]()]
 
-* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004.
+* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004. [[All Versions]()]
 
-* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ***ICLR'19***, 2019.
+* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ***ICLR'19***, 2019. [[All Versions]()]
 
-* [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689), ***ICRA'18***, 2018.
+* [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689), ***ICRA'18***, 2018. [[All Versions]()]
 
-* [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020.
+* [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020. [[All Versions]()]
 
-* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020.
+* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020. [[All Versions]()]
 
-* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/file/bf15e9bbff22c7719020f9df4badc20a-Paper.pdf), ***NIPS'20***, 2020.
+* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/file/bf15e9bbff22c7719020f9df4badc20a-Paper.pdf), ***NIPS'20***, 2020. [[All Versions]()]
 
-* [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), ***ICLR'20***, 2020. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
+* [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), ***ICLR'20***, 2020. [[All Versions]()] [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
 
-* [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[Project](http://sketchx.ai/pixelor)]
+* [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[All Versions]()] [[Project](http://sketchx.ai/pixelor)]
 
 * [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7), ***Computational Brain & Behavior***, 2020.
 
