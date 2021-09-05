@@ -340,6 +340,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "hie"></span>
 ### Human-level Intelligence Experiments
 
+* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. 
+
 * [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short), ***Proceedings of National Academy of Sciences***, 2015.
 
 * [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf), ***CogSci'16***, 2016.
