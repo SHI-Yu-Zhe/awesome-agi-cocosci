@@ -98,99 +98,93 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "lcp"></span>
 ### Learning with Cognitive Plausibility
 
-* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2006. [[All Versions]()]
+* [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446&hl=en&as_sdt=0,5)]
 
-* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011. [[All Versions]()]
+* [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097&hl=en&as_sdt=0,5)]
 
-* [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[All Versions]()] [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
+* [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)] [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
 
-* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017. [[All Versions]()]
+* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), ***Behavioral and Brain Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5)]
 
-* [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019. [[All Versions]()]
+* [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092&hl=en&as_sdt=0,5)]
 
-* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), ***Engineering***, 2020. [[All Versions]()]
+* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://arxiv.org/pdf/2004.09044.pdf), ***Engineering***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161&hl=en&as_sdt=0,5)]
 
-* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf), ***NIPS'20***, 2020. [[All Versions]()]
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf), ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5)]
 
-* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004. [[All Versions]()]
+* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707&hl=en&as_sdt=0,5)]
 
-* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ***ICLR'19***, 2019. [[All Versions]()]
+* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9128320307925997063&hl=en&as_sdt=0,5)]
 
-* [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689), ***ICRA'18***, 2018. [[All Versions]()]
+* [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689), ***ICRA'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7155333517647976638&hl=en&as_sdt=0,5)]
 
-* [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020. [[All Versions]()]
+* [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5103854692762145813&hl=en&as_sdt=0,5)]
 
-* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020. [[All Versions]()]
+* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442), ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338&hl=en&as_sdt=0,5)]
 
-* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/file/bf15e9bbff22c7719020f9df4badc20a-Paper.pdf), ***NIPS'20***, 2020. [[All Versions]()]
+* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/file/bf15e9bbff22c7719020f9df4badc20a-Paper.pdf), ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917&hl=en&as_sdt=0,5)]
 
-* [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), ***ICLR'20***, 2020. [[All Versions]()] [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
+* [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf), ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346&hl=en&as_sdt=0,5)] [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)]
 
-* [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[All Versions]()] [[Project](http://sketchx.ai/pixelor)]
+* [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006. [[All Versions]()]
 
-* [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7), ***Computational Brain & Behavior***, 2020.
+* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092), 2020. [[All Versions]()]
 
-* [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118), ***Proceedings of National Academy of Sciences***, 2021.
+* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584), ***Cognition***, 1993. [[All Versions]()]
 
-* [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874), ***ICML'06***, 2006.
+* [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311), ***Cognition***, 1999. [[All Versions]()]
 
-* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092), 2020.
+* [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380), ***ICML'09***, 2009. [[All Versions]()]
 
-* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584), ***Cognition***, 1993.
+* [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279), ***ICCV'11***, 2011. [[All Versions]()]
 
-* [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311), ***Cognition***, 1999.
+* [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387), ***ICCV'13***, 2013. [[All Versions]()]
 
-* [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380), ***ICML'09***, 2009.
+* [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf), ***CVPR'19***, 2019. [[All Versions]()]
 
-* [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279), ***ICCV'11***, 2011.
+* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf), ***NIPS'13***, 2013. [[All Versions]()]
 
-* [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387), ***ICCV'13***, 2013.
+* [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172), ***ICRA'20***, 2020. [[All Versions]()]
 
-* [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf), ***CVPR'19***, 2019.
+* [Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf), ***CVPR'20***, 2020. [[All Versions]()]
 
-* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf), ***NIPS'13***, 2013.
+* [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf), ***NIPS'20***, 2020. [[All Versions]()]
 
-* [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172), ***ICRA'20***, 2020.
+* [Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf), ***CVPR'20***, 2020. [[All Versions]()]
 
-* [Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf), ***CVPR'20***, 2020.
+* [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf), ***CVPR'20***, 2020. [[All Versions]()]
 
-* [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf), ***NIPS'20***, 2020.
+* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884), 2021. [[All Versions]()]
 
-* [Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf), ***CVPR'20***, 2020.
+* [Learning Systems of Concepts with an Infinite Relational Model](https://www.aaai.org/Papers/AAAI/2006/AAAI06-061.pdf), ***AAAI'06***, 2006. [[All Versions]()]
 
-* [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf), ***CVPR'20***, 2020.
+* [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009. [[All Versions]()]
 
-* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884), 2021.
+* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions]()] [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
 
-* [Learning Systems of Concepts with an Infinite Relational Model](https://www.aaai.org/Papers/AAAI/2006/AAAI06-061.pdf), ***AAAI'06***, 2006.
+* [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110), ***ICML'20***, 2020. [[All Versions]()]
 
-* [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009.
+* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Sciences***, 2020. [[All Versions]()] [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
 
-* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Sciences***, 2013. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
+* [Probabilistic Programming Bots in Intuitive Physics Game Play](https://ojs.aaai.org/index.php/AAAI/article/view/16159), ***AAAI'21***, 2021. [[All Versions]()]
 
-* [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110), ***ICML'20***, 2020.
+* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU), 2021. [[All Versions]()]
 
-* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Sciences***, 2020. [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
+* [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127), ***IEEE Robotics and Automation Letters***, 2021. [[All Versions]()]
 
-* [Probabilistic Programming Bots in Intuitive Physics Game Play](https://ojs.aaai.org/index.php/AAAI/article/view/16159), ***AAAI'21***, 2021.
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999. [[All Versions]()]
 
-* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU), 2021.
+* [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175), ***Journal of Artificial Intelligence Research***, 2018. [[All Versions]()]
 
-* [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127), ***IEEE Robotics and Automation Letters***, 2021.
+* [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626), ***Robotics: Science and Systems***, 2018. [[All Versions]()]
 
-* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999.
+* [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139), ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions]()]
 
-* [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175), ***Journal of Artificial Intelligence Research***, 2018.
+* [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021. [[All Versions]()]
 
-* [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626), ***Robotics: Science and Systems***, 2018.
+* [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions]()]
 
-* [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139), ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021.
-
-* [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021.
-
-* [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020.
-
-* [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021.
+* [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021. [[All Versions]()]
 
 *[Back to Top](#c)
 
@@ -489,6 +483,12 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1), ***Nature***, 2021.
 
 * [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998.
+
+* [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIGGraph'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081&hl=en&as_sdt=0,5)] [[Project](http://sketchx.ai/pixelor)]
+
+* [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7), ***Computational Brain & Behavior***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071&hl=en&as_sdt=0,5)]
+
+* [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118), ***Proceedings of National Academy of Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
