@@ -411,33 +411,33 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587&hl=en&as_sdt=0,5)] [[Project](http://www.github.com/julianje/bishop)]
 
-* [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf), ***ICML'21***, 2021. [[All Versions]()]
+* [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf), ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204&hl=en&as_sdt=0,5)]
 
-* [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021. [[All Versions]()]
+* [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718), ***Annual Review of Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4713510112126264116&hl=en&as_sdt=0,5)]
 
-* [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019. [[All Versions]()]
+* [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574), ***AAAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6755247312077985817&hl=en&as_sdt=0,5)]
 
-* [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) ***Emotion***, 2019. [[All Versions]()]
+* [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) ***Emotion***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9634378462684744548&hl=en&as_sdt=0,5)]
 
-* [Waiting and weighting: Information sampling is a balance between efficiency and error-reduction](https://linkinghub.elsevier.com/retrieve/pii/S0010027712002235), ***Cognition***, 2013. [[All Versions]()]
+* [Waiting and weighting: Information sampling is a balance between efficiency and error-reduction](https://linkinghub.elsevier.com/retrieve/pii/S0010027712002235), ***Cognition***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=12787722822882067638&hl=en&as_sdt=0,5)]
 
-* [Natural scene statistics account for the representation of scene categories in human visual cortex](https://www.sciencedirect.com/science/article/pii/S0896627313005503?via%3Dihub), ***Neuron***, 2013. [[All Versions]()]
+* [Natural scene statistics account for the representation of scene categories in human visual cortex](https://www.sciencedirect.com/science/article/pii/S0896627313005503?via%3Dihub), ***Neuron***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=14030885492052338412&hl=en&as_sdt=0,5)]
 
-* [Using human brain activity to guide machine learning.](https://www.nature.com/articles/s41598-018-23618-6), ***Nature: Scientific Report***, 2018. [[All Versions]()]
+* [Using human brain activity to guide machine learning](https://www.nature.com/articles/s41598-018-23618-6), ***Nature: Scientific Report***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12987955253653036948&hl=en&as_sdt=0,5)]
 
-* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871), ***Science***, 2017. [[All Versions]()]
+* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942&hl=en&as_sdt=0,5)]
 
-* [A Theoretical Computer Science Perspective on Conciousness](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf), 2020. [[All Versions]()]
+* [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028), ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)]
 
-* [Unit of visual working memory: A Boolean map provides a better account than an object does.](https://psycnet.apa.org/record/2019-27729-001), ***Journal of Experimental Psychology***, 2020. [[All Versions]()]
+* [Unit of visual working memory: A Boolean map provides a better account than an object does](https://psycnet.apa.org/record/2019-27729-001), ***Journal of Experimental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14909735035752892020&hl=en&as_sdt=0,5)]
 
-* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019. [[All Versions]()]
+* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)]
 
-* [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841), ***CVPR'21***, 2021. [[All Versions]()]
+* [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841), ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15365483338824697316&hl=en&as_sdt=0,5)]
 
-* [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1&isAllowed=y), ***Science***, 2017. [[All Versions]()]
+* [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1&isAllowed=y), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=11862940312128630925&hl=en&as_sdt=0,5)]
 
-* [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747), ***Proceedings of National Academy of Sciences***, 2019. [[All Versions]()]
+* [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747), ***Proceedings of National Academy of Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15973074852436355789&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -448,7 +448,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/), ***Plato Stanford***.
 
-* [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf), ***Topoi***, 1994.
+* [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf), ***Topoi***, 1994. [[All Versions]()]
 
 * [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235), ***Proceedings of the Evolution of Language Conference'06***, 2006. 
 
