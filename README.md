@@ -568,57 +568,57 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/), ***Plato Stanford***.
 
-* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017. [[All Versions]()]
+* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421&hl=en&as_sdt=0,5)]
 
-* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext), ***Journal of Logic Computation***, 1992. [[All Versions]()]
+* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext), ***Journal of Logic Computation***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518&hl=en&as_sdt=0,5)]
 
-* [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999.
+* [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5)]
 
-* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf), ***Computational Logic***, 2002.
+* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf), ***Computational Logic***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5)]
 
-* [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10), ***ILP'01***, 2001.
+* [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10), ***ILP'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)]
 
-* [Meta-interpretive learning: application to grammatical inference](https://link.springer.com/article/10.1007/s10994-013-5358-3), ***Machine Learning***, 2014.
+* [Meta-interpretive learning: application to grammatical inference](https://link.springer.com/article/10.1007/s10994-013-5358-3), ***Machine Learning***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592&hl=en&as_sdt=0,5)]
 
-* [Learning Efficient Logical Robot Strategies Involving Composable Objects.](http://andrewcropper.com/pubs/ijcai15-metagolo.pdf), ***IJCAI'15***, 2015.
+* [Learning Efficient Logical Robot Strategies Involving Composable Objects](http://andrewcropper.com/pubs/ijcai15-metagolo.pdf), ***IJCAI'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=5109851972354087162&hl=en&as_sdt=0,5)]
 
-* [Learning Higher-Order Logic Programs through Abstraction and Invention.](http://andrewcropper.com/pubs/ijcai16-metafunc.pdf), ***IJCAI'16***, 2016.
+* [Learning Higher-Order Logic Programs through Abstraction and Invention](http://andrewcropper.com/pubs/ijcai16-metafunc.pdf), ***IJCAI'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=10945054943203858325&hl=en&as_sdt=0,5)]
 
-* [How Much Can Experimental Cost Be Reduced in Active Learning of Agent Strategies?](https://link.springer.com/chapter/10.1007%2F978-3-319-99960-9_3), ***ILP'18***, 2018.
+* [How Much Can Experimental Cost Be Reduced in Active Learning of Agent Strategies?](https://link.springer.com/chapter/10.1007%2F978-3-319-99960-9_3), ***ILP'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8152380236842970357&hl=en&as_sdt=0,5)]
 
-* [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. 
+* [Meta-Interpretive Learning from noisy images](https://link.springer.com/article/10.1007/s10994-018-5710-8), ***Machine Learning***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=5719375383968868329&hl=en&as_sdt=0,5)]
 
-* [Learning efficient logic programs](http://andrewcropper.com/pubs/mlj18-metaopt.pdf), ***Machine Learning***, 2018.
+* [Learning efficient logic programs](http://andrewcropper.com/pubs/mlj18-metaopt.pdf), ***Machine Learning***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17955696870252443734&hl=en&as_sdt=0,5)]
 
-* [Learning higher-order logic programs](http://andrewcropper.com/pubs/mlj19-metaho.pdf), ***Machine Learning***, 2019.
+* [Learning higher-order logic programs](http://andrewcropper.com/pubs/mlj19-metaho.pdf), ***Machine Learning***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6723896359456002413&hl=en&as_sdt=0,5)]
 
-* [Logical reduction of metarules](http://andrewcropper.com/pubs/mlj19-reduce.pdf), ***Machine Learning***, 2019.
+* [Logical reduction of metarules](http://andrewcropper.com/pubs/mlj19-reduce.pdf), ***Machine Learning***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4577603126537024540&hl=en&as_sdt=0,5)]
 
-* [Playgol: Learning Programs Through Play](http://andrewcropper.com/pubs/ijcai19-playgol.pdf), ***IJCAI'19***, 2019.
+* [Playgol: Learning Programs Through Play](http://andrewcropper.com/pubs/ijcai19-playgol.pdf), ***IJCAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=556522464212000763&hl=en&as_sdt=0,5)]
 
-* [Machine Discovery of Comprehensible Strategies for Simple Games Using Meta-interpretive Learning](https://link.springer.com/article/10.1007%2Fs00354-019-00054-2), ***New Generation Computing***, 2019.
+* [Machine Discovery of Comprehensible Strategies for Simple Games Using Meta-interpretive Learning](https://link.springer.com/article/10.1007%2Fs00354-019-00054-2), ***New Generation Computing***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=11019349634035542991&hl=en&as_sdt=0,5)]
 
-* [Forgetting to Learn Logic Programs](http://andrewcropper.com/pubs/aaai20-forgetgol.pdf), ***AAAI'20***, 2020.
+* [Forgetting to Learn Logic Programs](http://andrewcropper.com/pubs/aaai20-forgetgol.pdf), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13676986733133377042&hl=en&as_sdt=0,5)]
 
-* [Turning 30: New Ideas in Inductive Logic Programming](https://www.ijcai.org/proceedings/2020/673), ***IJCAI'20***, 2020.
+* [Turning 30: New Ideas in Inductive Logic Programming](https://www.ijcai.org/proceedings/2020/673), ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17980870844719684257&hl=en&as_sdt=0,5)]
 
-* [Inductive logic programming at 30](https://arxiv.org/pdf/2102.10556.pdf), ***Machine Learning***, 2020.
+* [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912), ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302&hl=en&as_sdt=0,5)]
 
-* [Learning programs by learning from failures](https://arxiv.org/pdf/2005.02259.pdf), ***Machine Learning***, 2020.
+* [Learning programs by learning from failures](https://arxiv.org/pdf/2005.02259.pdf), ***Machine Learning***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6797200487935462023&hl=en&as_sdt=0,5)]
 
-* [Complete Bottom-Up Predicate Invention in Meta-Interpretive Learning](https://www.ijcai.org/proceedings/2020/320), ***IJCAI'20***, 2020.
+* [Complete Bottom-Up Predicate Invention in Meta-Interpretive Learning](https://www.ijcai.org/proceedings/2020/320), ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6085183078630665234&hl=en&as_sdt=0,5)]
 
-* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), ***Artificial Intelligence***, 1986.
+* [Meta-Interpretive Learning as Metarule Specialisation](https://arxiv.org/pdf/2106.07464.pdf), ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14684315775211086859&hl=en&as_sdt=0,5)]
 
-* [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf), ***IJCAI'16***, 2016.
+* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf), ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)]
 
-* [Finitely Generated Groups and First-Order Logic](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024610704006106), ***Journal of The London Mathematical Society-second Series***, 2005.
+* [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf), ***IJCAI'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=15955040483290586781&hl=en&as_sdt=0,5)]
 
-* [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381), 2020.
+* [Finitely Generated Groups and First-Order Logic](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024610704006106), ***Journal of The London Mathematical Society-second Series***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=3457158221419711506&hl=en&as_sdt=0,5)]
 
-* [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137), 2021.
+* [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381), 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844&hl=en&as_sdt=0,5)]
 
-* [Meta-Interpretive Learning as Metarule Specialisation](https://arxiv.org/pdf/2106.07464.pdf), ***Machine Learning***, 2021.
+* [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -647,7 +647,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus), ***Wikipedia***.
 
-* [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993.
+* [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993. [[All Versions]()]
 
 * [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
 
