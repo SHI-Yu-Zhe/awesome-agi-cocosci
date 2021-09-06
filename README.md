@@ -293,44 +293,44 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Tools, language and cognition in human evolution](https://psycnet.apa.org/record/1993-97340-000), ***Cambridge University Press***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=6046350461147957220&hl=en&as_sdt=0,5)]
 
-* [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998.
+* [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=9546561188261943866&hl=en&as_sdt=0,5)]
 
-* [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231), ***Trends in Cognitive Sciences***, 2004.
+* [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231), ***Trends in Cognitive Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=3612212926196611828&hl=en&as_sdt=0,5)]
 
-* [Rapid Assimilation of External Objects Into the Body Schema](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5), ***Psychological Science***, 2010.
+* [Rapid Assimilation of External Objects Into the Body Schema](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5), ***Psychological Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)]
 
-* [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf), ***Behavioral and Brain Sciences***, 2012.
+* [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf), ***Behavioral and Brain Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=4648150119820414671&hl=en&as_sdt=0,5)]
 
-* [The embodied mind extended: using words as social tools](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00214/full), ***Frontiers in Psychology***, 2013.
+* [The embodied mind extended: using words as social tools](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00214/full), ***Frontiers in Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=14719988081062606352&hl=en&as_sdt=0,5)]
 
-* [Tool use as adaptation](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0408), ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2013.
+* [Tool use as adaptation](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0408), ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=8060841461200774807&hl=en&as_sdt=0,5)]
 
-* [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5), ***Neuropsychologia***, 2014.
+* [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5), ***Neuropsychologia***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5)]
 
-* [Tool use and affordance: Manipulation-based versus reasoning-based approaches](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000027), ***Psychological Review***, 2016.
+* [Tool use and affordance: Manipulation-based versus reasoning-based approaches](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000027), ***Psychological Review***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3284942486402374505&hl=en&as_sdt=0,5)]
 
-* [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[Project](https://yzhu.io/publication/tool2015cvpr/)]
+* [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=4609926671953500969&hl=en&as_sdt=0,5)] [[Project](https://yzhu.io/publication/tool2015cvpr/)]
 
-* [Robotic hand augmentation drives changes in neural body representation](https://robotics.sciencemag.org/content/6/54/eabd7935.abstract), ***Science Robotics***, 2021.
+* [Robotic hand augmentation drives changes in neural body representation](https://robotics.sciencemag.org/content/6/54/eabd7935.abstract), ***Science Robotics***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1622125726197763917&hl=en&as_sdt=0,5)]
 
-* [Expert Tool Users Show Increased Differentiation between Visual Representations of Hands and Tools](https://www.jneurosci.org/content/jneuro/41/13/2980.full.pdf), ***Journal of Neuroscience***, 2021.
+* [Expert Tool Users Show Increased Differentiation between Visual Representations of Hands and Tools](https://www.jneurosci.org/content/jneuro/41/13/2980.full.pdf), ***Journal of Neuroscience***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=13454164767827515188&hl=en&as_sdt=0,5)]
 
-* [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021.
+* [Visual scoping operations for physical assembly](https://arxiv.org/pdf/2106.05654.pdf), ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7238090583833839&hl=en&as_sdt=0,5)]
 
-* [Behavior-grounded representation of tool affordances](https://www.cc.gatech.edu/ai/robot-lab/online-publications/StoytchevICRA2005.pdf), ***ICRA'05***, 2005.
+* [Behavior-grounded representation of tool affordances](https://www.cc.gatech.edu/ai/robot-lab/online-publications/StoytchevICRA2005.pdf), ***ICRA'05***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=6115815663915603675&hl=en&as_sdt=0,5)]
 
-* [A Relational Approach to Tool-Use Learning in Robots](https://link.springer.com/chapter/10.1007/978-3-642-38812-5_1), ***ILP'12***, 2012.
+* [A Relational Approach to Tool-Use Learning in Robots](https://link.springer.com/chapter/10.1007/978-3-642-38812-5_1), ***ILP'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=18374178227592386332&hl=en&as_sdt=0,5)]
 
-* [Relational affordances for multiple-object manipulation](https://link.springer.com/article/10.1007/s10514-017-9637-x), ***Autonomous Robots***, 2017.
+* [Relational affordances for multiple-object manipulation](https://link.springer.com/article/10.1007/s10514-017-9637-x), ***Autonomous Robots***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6357646940615855682&hl=en&as_sdt=0,5)]
 
-* [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf), ***RSS'19***, 2019.
+* [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf), ***RSS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4316276917607326251&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
 <span id = "hie"></span>
 ### Human-level Intelligence Experiments
 
-* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. 
+* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions]()]
 
 * [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short), ***Proceedings of National Academy of Sciences***, 2015.
 
