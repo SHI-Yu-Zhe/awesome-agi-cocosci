@@ -620,6 +620,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269&hl=en&as_sdt=0,5)]
 
+* [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf), ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?lookup=0&q=Learning+Part-Based+Abstractions+for+Visual+Object+Concepts&hl=en&as_sdt=0,5)]
+
 *[Back to Top](#c)
 
 <span id = "kr"></span>
@@ -647,45 +649,43 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus), ***Wikipedia***.
 
-* [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993. [[All Versions]()]
+* [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)]
 
-* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), 1999.
+* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5)]
 
-* [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16), ***The Logic Programming Paradigms***, 1999.
+* [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16), ***The Logic Programming Paradigms***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645&hl=en&as_sdt=0,5)]
 
-* [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990.
+* [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=6279614024681929496&hl=en&as_sdt=0,5)]
 
-* [The discovery of structural form](https://www.pnas.org/content/105/31/10687), ***Proceedings of National Academy of Sciences***, 2008.
+* [The discovery of structural form](https://www.pnas.org/content/105/31/10687), ***Proceedings of National Academy of Sciences***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486&hl=en&as_sdt=0,5)]
 
-* [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071), ***Cognitive Science***, 2008.
+* [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071), ***Cognitive Science***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=7765061503727822620&hl=en&as_sdt=0,5)]
 
-* [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf), ***CogSci'08***, 2008.
+* [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf), ***CogSci'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749&hl=en&as_sdt=0,5)]
 
-* [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010.
+* [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=16324634056226561429&hl=en&as_sdt=0,5)]
 
-* [A probabilistic model of theory formation](http://www.charleskemp.com/papers/kemptng09.pdf), ***Cognition***, 2010.
+* [A probabilistic model of theory formation](http://www.charleskemp.com/papers/kemptng09.pdf), ***Cognition***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=7705799129887482041&hl=en&as_sdt=0,5)]
 
-* [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012.
+* [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072), ***Cognition***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=13046606910781656302&hl=en&as_sdt=0,5)]
 
-* [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf), ***Psychological Review***, 2012.
+* [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf), ***Psychological Review***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)]
 
-* [A taxonomy of inductive problems](http://www.charleskemp.com/papers/kempj_ataxonomyofinductiveproblems.pdf), ***Psychonomic Bulletin & Review***, 2014.
+* [A taxonomy of inductive problems](http://www.charleskemp.com/papers/kempj_ataxonomyofinductiveproblems.pdf), ***Psychonomic Bulletin & Review***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=2571009743105592927&hl=en&as_sdt=0,5)]
 
-* [The Logical Primitives of Thought: Empirical Foundations for Compositional Cognitive Models](http://colala.berkeley.edu/papers/piantadosi2016logical.pdf), ***Psychological Review***, 2016.
+* [The Logical Primitives of Thought: Empirical Foundations for Compositional Cognitive Models](http://colala.berkeley.edu/papers/piantadosi2016logical.pdf), ***Psychological Review***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=5316027496661813145&hl=en&as_sdt=0,5)]
 
-* [The Emergence of Organizing Structure in Conceptual Representation](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12580), ***Cognitive Science***, 2018.
+* [The Emergence of Organizing Structure in Conceptual Representation](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12580), ***Cognitive Science***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=4986316323923233074&hl=en&as_sdt=0,5)]
 
-* [Theory Acquisition as Constraint-Based Program Synthesis](https://cogtoolslab.github.io/pdf/wang_cogsci_2021b.pdf), ***CogSci'21***, 2021.
+* [Theory Acquisition as Constraint-Based Program Synthesis](https://cogtoolslab.github.io/pdf/wang_cogsci_2021b.pdf), ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=525148607069840280&hl=en&as_sdt=0,5)]
 
-* [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf), ***CogSci'21***, 2021.
+* [Connecting perceptual and procedural abstractions in physical construction](https://escholarship.org/uc/item/9j00x928), ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Connecting+perceptual+and+procedural+abstractions+in+physical+construction&btnG=)]
 
-* [Connecting perceptual and procedural abstractions in physical construction](https://escholarship.org/uc/item/9j00x928), ***CogSci'21***, 2021.
+* [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17431019238600295521&hl=en&as_sdt=0,5)]
 
-* [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf), 2021.
+* [Introduction to The Fluent Calculus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.4086&rep=rep1&type=pdf), ***Linkoeping University Electronic Press***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=12069059079023496731&hl=en&as_sdt=0,5)]
 
-* [Introduction to The Fluent Calculus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.4086&rep=rep1&type=pdf), ***Linkoeping University Electronic Press***, 1998.
-
-* [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338), ***Artificial Intelligence***, 1999.
+* [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=10854895617698839149&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -694,17 +694,17 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development), ***Wikipedia***.
 
-* [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+Development%3A+an+information+processing+approach&btnG=), ***B.Blackwell***, 1991.
+* [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+Development%3A+an+information+processing+approach&btnG=), ***B.Blackwell***, 1991. [[All Versions]()]
 
-* [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981.
+* [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981. [[All Versions]()]
 
-* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003.
+* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003. [[All Versions]()]
 
-* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007.
+* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007. [[All Versions]()]
 
-* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012.
+* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012. [[All Versions]()]
 
-* [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017.
+* [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017. [[All Versions]()]
 
 *[Back to Top](#c)
 
