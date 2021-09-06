@@ -694,64 +694,64 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development), ***Wikipedia***.
 
-* [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+Development%3A+an+information+processing+approach&btnG=), ***B.Blackwell***, 1991. [[All Versions]()]
+* [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+Development%3A+an+information+processing+approach&btnG=), ***B.Blackwell***, 1991. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+development%3A+An+information+processing+approach&btnG=)]
 
-* [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981. [[All Versions]()]
+* [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981. [[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545&hl=en&as_sdt=0,5)]
 
-* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003. [[All Versions]()]
+* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380&hl=en&as_sdt=0,5)]
 
-* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007. [[All Versions]()]
+* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)]
 
-* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012. [[All Versions]()]
+* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5)]
 
-* [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017. [[All Versions]()]
+* [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
 <span id = "ow"></span>
 ### Learning in the Open World
 
-* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018.
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018. [[All Versions]()]
 
-* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. 
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[All Versions]()] 
 
-* [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016.
+* [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016. [[All Versions]()]
 
-* [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020.
+* [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020. [[All Versions]()]
 
-* [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf), ***ICML'20***, 2020.
+* [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf), ***ICML'20***, 2020. [[All Versions]()]
 
-* [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf), 2020.
+* [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf), 2020. [[All Versions]()]
 
-* [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), ***NIPS'20***, 2020. [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
+* [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), ***NIPS'20***, 2020. [[All Versions]()] [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
 
-* [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf), ***CVPR'18***, 2018.
+* [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf), ***CVPR'18***, 2018. [[All Versions]()]
 
-* [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf), ***ECCV'18***, 2018.
+* [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf), ***ECCV'18***, 2018. [[All Versions]()]
 
-* [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf), ***CVPR'21***, 2021. [[Project](https://github.com/JosephKJ/OWOD)]
+* [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf), ***CVPR'21***, 2021. [[All Versions]()] [[Project](https://github.com/JosephKJ/OWOD)]
 
-* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323), ***MM'17***, 2017.
+* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323), ***MM'17***, 2017. [[All Versions]()]
 
-* [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf), ***KR'20***, 2020.
+* [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf), ***KR'20***, 2020. [[All Versions]()]
 
-* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf), ***WWW'21***, 2021.
+* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf), ***WWW'21***, 2021. [[All Versions]()]
 
-* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070), 2021.
+* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070), 2021. [[All Versions]()]
 
-* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612), ***CVPR'17***, 2017.
+* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612), ***CVPR'17***, 2017. [[All Versions]()]
 
-* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018.
+* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018. [[All Versions]()]
 
-* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671), ***CVPR'19***, 2019.
+* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671), ***CVPR'19***, 2019. [[All Versions]()]
 
-* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505), ***CVPR'20***, 2020.
+* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505), ***CVPR'20***, 2020. [[All Versions]()]
 
-* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf), ***NIPS'20***, 2020.
+* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf), ***NIPS'20***, 2020. [[All Versions]()]
 
-* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020.
+* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020. [[All Versions]()]
 
-* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655), ***CVPR'20***, 2020.
+* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655), ***CVPR'20***, 2020. [[All Versions]()]
 
 *[Back to Top](#c)
 
