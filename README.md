@@ -491,23 +491,23 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/#:~:text=Analogical%20reasoning%20is%20any%20type%20of%20thinking%20that,support%20the%20conclusion%20that%20some%20further%20similarity%20exists.), ***Plato Stanford***.
 
-* [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775), ***Artificial Intelligence***, 1989.
+* [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775), ***Artificial Intelligence***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=16104901325436513899&hl=en&as_sdt=0,5)]
 
-* [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf), ***ICCC'15***, 2015.
+* [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf), ***ICCC'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862&hl=en&as_sdt=0,5)]
 
-* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013.
+* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf), ***ICML'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=9332855910734484101&hl=en&as_sdt=0,5)]
 
-* [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf), ***NIPS'15***, 2015.
+* [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf), ***NIPS'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654&hl=en&as_sdt=0,5)]
 
-* [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418), ***CVPR'19***, 2019.
+* [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418), ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16686853801653819556&hl=en&as_sdt=0,5)]
 
-* [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019.
+* [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863), ***Artificial Intelligence***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=1397905953174123757&hl=en&as_sdt=0,5)]
 
-* [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120), ***ICLR'19***, 2019.
+* [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120), ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15521573039503233138&hl=en&as_sdt=0,5)]
 
-* [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://www.aclweb.org/anthology/2020.figlang-1.19/), ***ACL'20***, 2020.
+* [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://aclanthology.org/2020.figlang-1.pdf#page=140), ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5747285277687442001&hl=en&as_sdt=0,5)]
 
-* [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020.
+* [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf), ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
