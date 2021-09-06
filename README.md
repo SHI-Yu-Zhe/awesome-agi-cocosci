@@ -297,6 +297,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Externalism About the Mind](https://plato.stanford.edu/entries/content-externalism/), ***Plato Stanford***.
 
+* [Tools, language and cognition in human evolution](https://psycnet.apa.org/record/1993-97340-000), ***Cambridge University Press***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=6046350461147957220&hl=en&as_sdt=0,5)]
+
 * [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998.
 
 * [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231), ***Trends in Cognitive Sciences***, 2004.
