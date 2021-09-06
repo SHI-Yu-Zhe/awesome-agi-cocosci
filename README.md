@@ -711,47 +711,47 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "ow"></span>
 ### Learning in the Open World
 
-* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018. [[All Versions]()]
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5)]
 
-* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[All Versions]()] 
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529&hl=en&as_sdt=0,5)] 
 
-* [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016. [[All Versions]()]
+* [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3571743951915089896&hl=en&as_sdt=0,5)]
 
-* [In the Wild: From ML Models to Pragmatic ML Systems.](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020. [[All Versions]()]
+* [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf) , ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346&hl=en&as_sdt=0,5)]
 
-* [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf), ***ICML'20***, 2020. [[All Versions]()]
+* [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf), ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11617966867048191189&hl=en&as_sdt=0,5)]
 
-* [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf), 2020. [[All Versions]()]
+* [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf), 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2640432662088551010&hl=en&as_sdt=0,5)]
 
-* [Energy-Based Models for Continual Learning.](https://arxiv.org/pdf/2011.12216.pdf), ***NIPS'20***, 2020. [[All Versions]()] [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
+* [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf), ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576&hl=en&as_sdt=0,5)] [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
 
-* [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf), ***CVPR'18***, 2018. [[All Versions]()]
+* [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf), ***CVPR'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6285495755337309034&hl=en&as_sdt=0,5)]
 
-* [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf), ***ECCV'18***, 2018. [[All Versions]()]
+* [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf), ***ECCV'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993&hl=en&as_sdt=0,5)]
 
-* [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf), ***CVPR'21***, 2021. [[All Versions]()] [[Project](https://github.com/JosephKJ/OWOD)]
+* [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf), ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151&hl=en&as_sdt=0,5)] [[Project](https://github.com/JosephKJ/OWOD)]
 
-* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323), ***MM'17***, 2017. [[All Versions]()]
+* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323), ***MM'17***, 2017. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)]
 
-* [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf), ***KR'20***, 2020. [[All Versions]()]
+* [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf), ***KR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1825132732653262003&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf), ***WWW'21***, 2021. [[All Versions]()]
+* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf), ***WWW'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1042573079110416209&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070), 2021. [[All Versions]()]
+* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070), ***IJCAI'21*** 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2596179801089642923&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612), ***CVPR'17***, 2017. [[All Versions]()]
+* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612), ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6959320578989247472&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018. [[All Versions]()]
+* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11), ***ECCV'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11627198158637727139&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671), ***CVPR'19***, 2019. [[All Versions]()]
+* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671), ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7363445845219257348&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505), ***CVPR'20***, 2020. [[All Versions]()]
+* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505), ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16870815556752021056&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf), ***NIPS'20***, 2020. [[All Versions]()]
+* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf), ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2543173389101020482&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020. [[All Versions]()]
+* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849), ***MM'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
-* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655), ***CVPR'20***, 2020. [[All Versions]()]
+* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655), ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)]
 
 *[Back to Top](#c)
 
