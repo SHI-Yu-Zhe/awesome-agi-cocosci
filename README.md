@@ -389,7 +389,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/), ***Plato Stanford***.
 
-* [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)] [[Citations](https://academic.microsoft.com/paper/2151516755/citedby/search?q=Action%20understanding%20as%20inverse%20planning.&qe=RId%253D2151516755&f=&orderBy=0)]
+* [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607), ***Cognition***, 2009. [[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)] 
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf), ***CogSci'11***, 2011.
 
@@ -721,7 +721,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018.
 
-* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[Citations](https://academic.microsoft.com/paper/1917989004/citedby/search?q=Towards%20Open%20World%20Recognition&qe=RId%3D1917989004&f=&orderBy=0&skip=0&take=10)]
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. 
 
 * [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542), ***CVPR'16***, 2016.
 
