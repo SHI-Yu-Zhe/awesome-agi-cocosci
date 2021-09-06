@@ -191,6 +191,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "nsl"></span>
 ### Neural-Symbolic Learning
 
+* [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172), ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5)]
+
 * [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018.
 
 * [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf), ***NIPS'19***, 2019.
