@@ -297,7 +297,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231), ***Trends in Cognitive Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=3612212926196611828&hl=en&as_sdt=0,5)]
 
-* [Rapid Assimilation of External Objects Into the Body Schema](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5), ***Psychological Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)]
+* [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962), ***Psychological Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)]
 
 * [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf), ***Behavioral and Brain Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=4648150119820414671&hl=en&as_sdt=0,5)]
 
@@ -305,7 +305,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Tool use as adaptation](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0408), ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=8060841461200774807&hl=en&as_sdt=0,5)]
 
-* [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5), ***Neuropsychologia***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5)]
+* [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://www.sciencedirect.com/science/article/pii/S0028393214000232), ***Neuropsychologia***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5)]
 
 * [Tool use and affordance: Manipulation-based versus reasoning-based approaches](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000027), ***Psychological Review***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3284942486402374505&hl=en&as_sdt=0,5)]
 
@@ -330,29 +330,29 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "hie"></span>
 ### Human-level Intelligence Experiments
 
-* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions]()]
+* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
 
-* [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short), ***Proceedings of National Academy of Sciences***, 2015.
+* [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short), ***Proceedings of National Academy of Sciences***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11085043350027609187&hl=en&as_sdt=0,5)]
 
-* [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf), ***CogSci'16***, 2016.
+* [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf), ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3398849603439166012&hl=en&as_sdt=0,5)]
 
-* [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf), ***CogSci'16***, 2016.
+* [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf), ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=34641833161282231&hl=en&as_sdt=0,5)]
 
-* [Do People Ask Good Questions?](https://link.springer.com/article/10.1007/s42113-018-0005-5), ***Computational Brain & Behavior***, 2018.
+* [Do People Ask Good Questions?](https://link.springer.com/article/10.1007/s42113-018-0005-5), ***Computational Brain & Behavior***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=14595996621617337270&hl=en&as_sdt=0,5)]
 
-* [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf), ***CogSci'19***, 2019.
+* [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf), ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=14185546187726917682&hl=en&as_sdt=0,5)]
 
-* [People Infer Recursive Visual Concepts from Just a Few Examples](https://link.springer.com/content/pdf/10.1007/s42113-019-00053-y.pdf), ***Computational Brain & Behavior***, 2020.
+* [People Infer Recursive Visual Concepts from Just a Few Examples](https://link.springer.com/content/pdf/10.1007/s42113-019-00053-y.pdf), ***Computational Brain & Behavior***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3871396883970734141&hl=en&as_sdt=0,5)]
 
-* [One-shot learning of generative speech concepts](https://escholarship.org/content/qt3xf2n3vc/qt3xf2n3vc.pdf), ***CogSci'14***, 2014.
+* [One-shot learning of generative speech concepts](https://escholarship.org/content/qt3xf2n3vc/qt3xf2n3vc.pdf), ***CogSci'14***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=15482292457660075957&hl=en&as_sdt=0,5)]
 
-* [Human few-shot learning of compositional instructions](https://arxiv.org/abs/1901.04587), ***CogSci'19***, 2019.
+* [Human few-shot learning of compositional instructions](https://arxiv.org/abs/1901.04587), ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=12841163907815018136&hl=en&as_sdt=0,5)]
 
-* [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021.
+* [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf), ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5294483826040237516&hl=en&as_sdt=0,5)]
 
-* [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018.
+* [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2202192690517876762&hl=en&as_sdt=0,5)]
 
-* [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019.
+* [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
