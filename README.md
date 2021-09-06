@@ -520,38 +520,32 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/), ***Plato Stanford***.
 
-* [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5), ***The Oxford Handbook of Cognitive Psychology***, 2013.
+* [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5), ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)]
 
-* [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036), ***Communication of the ACM***, 2019.
+* [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036), ***Communication of the ACM***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13296019510897277617&hl=en&as_sdt=0,5)]
 
-* [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020.
+* [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5)]
 
-* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html), ***ICML'21***, 2021.
+* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html), ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11606362305211066214&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
 <span id = "cms"></span>
 ### Commonsense
 
-* [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59), ***FSTTCS***, 1990.
+* [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59), ***FSTTCS***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)]
 
-* [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217), ***CVPR'19***, 2019. [[Project](http://visualcommonsense.com/)]
+* [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217), ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)] [[Project](http://visualcommonsense.com/)]
 
-* [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/pdf/1911.11641.pdf), ***AAAI'20***, 2020.
+* [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/pdf/1911.11641.pdf), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10110424163152713144&hl=en&as_sdt=0,5)]
 
-* [Visual Commonsense R-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156347), ***CVPR'20***, 2020.
+* [Visual Commonsense R-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156347), ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6886229776034162585&hl=en&as_sdt=0,5)]
 
-* [Learning Visual Commonsense for Robust Scene Graph Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-58592-1_38), ***ECCV'20***, 2020.
+* [Abductive Commonsense Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16544200144479839958&hl=en&as_sdt=0,5)]
 
-* [Abductive Commonsence Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB), ***ICLR'20***, 2020.
+* [VisualCOMET: Reasoning About the Dynamic Context of a Still Image](https://link.springer.com/chapter/10.1007%2F978-3-030-58558-7_30), ***ECCV'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7681600847940772451&hl=en&as_sdt=0,5)]
 
-* [VisualCOMET: Reasoning About the Dynamic Context of a Still Image](https://link.springer.com/chapter/10.1007%2F978-3-030-58558-7_30), ***ECCV'20***, 2020.
-
-* [Thinking Like a Skeptic: Defeasible Inference in Natural Language](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf), ***EMNLP'20***, 2020.
-
-* [Beyond Holistic Object Recognition: Enriching Image Understanding with Part States](http://ai.ucsd.edu/~haosu/papers/cvpr18_partstate.pdf), ***CVPR'18***, 2018. [[Project](http://hake-mvig.cn/home/)]
-
-* [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf), ***CVPR'21***, 2021.
+* [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf), ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -574,9 +568,9 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/), ***Plato Stanford***.
 
-* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017.
+* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017. [[All Versions]()]
 
-* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext), ***Journal of Logic Computation***, 1992.
+* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext), ***Journal of Logic Computation***, 1992. [[All Versions]()]
 
 * [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999.
 
