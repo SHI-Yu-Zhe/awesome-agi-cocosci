@@ -256,35 +256,31 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "xai"></span>
 ### Explainable AI
 
-* [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP. ](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018.
+* [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913&hl=en&as_sdt=0,5)]
 
-* [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0), ***Machine Learning***, 2021.
+* [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0), ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963&hl=en&as_sdt=0,5)]
 
-* [Network dissection: Quantifying interpretability of deep visual representations.](https://ieeexplore.ieee.org/document/8099837), ***CVPR'17***, 2017. [[Dataset: Places365](http://places2.csail.mit.edu/index.html)]
+* [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837), ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783&hl=en&as_sdt=0,5)] [[Dataset: Places365](http://places2.csail.mit.edu/index.html)] 
 
-* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Sciences***, 2020.
+* [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf), ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810&hl=en&as_sdt=0,5)]
 
-* [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/), ***Distill***, 2020.
+* [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/), ***Distill***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569&hl=en&as_sdt=0,5)]
 
-* [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/file/c74956ffb38ba48ed6ce977af6727275-Paper.pdf), ***NIPS'20***, 2020. [[Project](https://github.com/jayelm/compexp)]
+* [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/file/c74956ffb38ba48ed6ce977af6727275-Paper.pdf), ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738&hl=en&as_sdt=0,5)] [[Project](https://github.com/jayelm/compexp)]
 
-* [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), ***NIPS'19***, 2019.
+* [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf), ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719&hl=en&as_sdt=0,5)]
 
-* [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf), ***Proceedings of National Academy of Sciences***, 2019.
+* [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf), ***Proceedings of National Academy of Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526&hl=en&as_sdt=0,5)]
 
-* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), ***NIPS'20***, 2020. [[code](https://github.com/alvinwan/neural-backed-decision-trees)]
+* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221), ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819&hl=en&as_sdt=0,5)] [[code](https://github.com/alvinwan/neural-backed-decision-trees)]
 
-* [SegNBDT: Visual Decision Rules for Segmentation.](http://export.arxiv.org/pdf/2006.06868), 2020.
+* [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf), ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088&hl=en&as_sdt=0,5)] [[Project](https://gradientscience.org/background/)]
 
-* [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf), ***ICLR'21***, 2021. [[Project](https://gradientscience.org/background/)]
+* [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497), ***IJCAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007&hl=en&as_sdt=0,5)] [[Project](https://github.com/LAMDA-NJU/Deep-Forest)]
 
-* [Time for a Background Check! Uncovering the impact of Background Features on Deep Neural Networks](https://arxiv.org/pdf/2006.14077.pdf), ***ICML'20 Workshop***, 2020.
+* [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf), 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923&hl=en&as_sdt=0,5)]
 
-* [Deep Forest: Towards An Alternative to Deep Neural Networks.](https://www.ijcai.org/Proceedings/2017/497), ***IJCAI'17***, 2017. [[Project](https://github.com/LAMDA-NJU/Deep-Forest)]
-
-* [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf), 2019.
-
-* [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643), ***AAAI'20***, 2020.
+* [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
