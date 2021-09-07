@@ -882,10 +882,32 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html), [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html).
 
+* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing), [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/).
+
 *[Back to Top](#c)
 
 <span id = "ucb"></span>
 ### UC Berkeley
+
+* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (BabyLab)](https://babylab5.wixsite.com/bell).
+
+*[Back to Top](#c)
+
+<span id = "ucsd"></span>
+### UCSD
+
+* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html), [Cognitive Tools Lab](https://cogtoolslab.github.io/).
+
+*[Back to Top](#c)
+
+<span id = "bigai"></span>
+### BIGAI
+
+* [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/).
+
+* [Yixin Zhu](https://yzhu.io/), [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
+
+*[Back to Top](#c)
 
 
 <span id = "rs"></span>
