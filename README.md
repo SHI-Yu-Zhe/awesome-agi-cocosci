@@ -29,6 +29,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [UCLA](#ucla)
    * [UC Berkeley](#ucb)
    * [UCSD](#ucsd)
+   * [NYU](#nyu)
    * [BIGAI](#bigai)
 
 * [Reviews & Surveys & Venues](#rs)
@@ -889,7 +890,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "ucb"></span>
 ### UC Berkeley
 
-* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (BabyLab)](https://babylab5.wixsite.com/bell).
+* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell).
 
 *[Back to Top](#c)
 
@@ -899,6 +900,13 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html), [Cognitive Tools Lab](https://cogtoolslab.github.io/).
 
 *[Back to Top](#c)
+
+<span id = "nyu"></span>
+### NYU
+
+* [Brenden Lake](https://cims.nyu.edu/~brenden/), [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/).
+
+* [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html), [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/).
 
 <span id = "bigai"></span>
 ### BIGAI
