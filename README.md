@@ -33,11 +33,11 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "abd"></span>
 ### Abduction
 
-* [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***. [[All Versions](https://scholar.google.com/scholar?cluster=9597953912499088619&hl=en&as_sdt=0,5)]
+* [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***. 
 
-* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***. [[All Versions](https://scholar.google.com/scholar?cluster=9933120546573180335&hl=en&as_sdt=0,5)]
+* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***. 
 
-* [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/), ***Plato Stanford***. [[All Versions](https://scholar.google.com/scholar?cluster=11817541867802883276&hl=en&as_sdt=0,5)]
+* [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/), ***Plato Stanford***. 
 
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8), ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592&hl=en&as_sdt=0,5)]
 
