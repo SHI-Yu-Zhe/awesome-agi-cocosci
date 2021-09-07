@@ -905,7 +905,9 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/).
 
-* [Yixin Zhu](https://yzhu.io/), [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
+* [Yixin Zhu](https://yzhu.io/).
+
+* [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
 
 *[Back to Top](#c)
 
