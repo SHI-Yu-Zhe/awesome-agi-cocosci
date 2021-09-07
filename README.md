@@ -10,7 +10,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
-   * [Human-level Intelligence Experiments](#hie)
+   * [Human Intelligence Experiments](#hie)
    * [Theory of Mind](#tom)
    * [Pragmatics & Communications](#prgmcomm)
    * [Analogy](#anl)
@@ -338,7 +338,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 *[Back to Top](#c)
 
 <span id = "hie"></span>
-### Human-level Intelligence Experiments
+### Human Intelligence Experiments
 
 * [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
 
