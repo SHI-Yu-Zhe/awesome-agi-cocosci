@@ -22,6 +22,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Learning in the Open World](#ow)
    * [Tasks & Environments](#te)
 
+* [Researchers & Labs](#r&l)
+
 * [Reviews & Surveys & Venues](#rs)
 
 * [Books](#bk)
@@ -832,6 +834,14 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
   * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf), ***ICCC'20***, 2020.
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070), ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf), ***SIGDial'20***, 2020.
+
+*[Back to Top](#c)
+
+
+<span id = "r&l"></span>
+## Researchers & Labs
+
+
 
 *[Back to Top](#c)
 
