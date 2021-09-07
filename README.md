@@ -23,6 +23,13 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Tasks & Environments](#te)
 
 * [Researchers & Labs](#r&l)
+   * [MIT](#mit)
+   * [Stanford](#stfd)
+   * [Princeton](#prct)
+   * [UCLA](#ucla)
+   * [UC Berkeley](#ucb)
+   * [UCSD](#ucsd)
+   * [BIGAI](#bigai)
 
 * [Reviews & Surveys & Venues](#rs)
 
@@ -841,7 +848,23 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "r&l"></span>
 ## Researchers & Labs
 
+<span id = "mit"></span>
+### MIT
 
+* [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/).
+
+* [Josh Tenenbaum](https://cocosci.mit.edu/josh), [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/).
+
+* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe), [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/).
+
+*[Back to Top](#c)
+
+<span id = "stfd"></span>
+### Stanford
+
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html), [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/).
+
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/).
 
 *[Back to Top](#c)
 
