@@ -458,6 +458,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/), ***Plato Stanford***.
 
+* [Word learning as Bayesian inference](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245), ***Psychological Review***, 2007. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5476233692839102256)]
+
 * [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf), ***Topoi***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=10899040818001759322&hl=en&as_sdt=0,5)]
 
 * [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235), ***Proceedings of the Evolution of Language Conference'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5)]
