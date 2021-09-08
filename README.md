@@ -896,6 +896,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell).
 
+* [Alison Gopnik](http://alisongopnik.com/), [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/).
+
 *[Back to Top](#c)
 
 <span id = "ucsd"></span>
