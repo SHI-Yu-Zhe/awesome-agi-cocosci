@@ -887,6 +887,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing), [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/).
 
+* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html), [Cognitive Systems Lab](http://bayes.cs.ucla.edu/).
+
 *[Back to Top](#c)
 
 <span id = "ucb"></span>
