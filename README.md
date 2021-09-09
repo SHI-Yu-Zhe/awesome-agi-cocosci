@@ -824,7 +824,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
  
 #####  **Artificial Intelligence**
   * [Multi-task curriculum learning in a complex, visual, hard-exploration domain: Minecraft](https://arxiv.org/abs/2106.14876), 2021.
-  * [The AI Settlement Generation Challenge in Minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0), ***KI***, 2020.
   * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/), ***ACL'20***, 2020.
   * [Collaborative Dialogue in Minecraft](https://www.aclweb.org/anthology/P19-1537.pdf), ***ACL'19***, 2019.
   * [Learning Skill Hierarchies from Predicate Descriptions and Self-Supervision](http://web.mit.edu/tslvr/www/papers/genplan20_camera_ready.pdf), ***AAAI GenPlan Workshop***, 2020.
