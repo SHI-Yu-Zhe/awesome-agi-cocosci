@@ -859,6 +859,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe), [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/).
 
+* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz), [Early Childhood Cognition Lab](https://eccl.mit.edu/).
+
 *[Back to Top](#c)
 
 <span id = "stfd"></span>
