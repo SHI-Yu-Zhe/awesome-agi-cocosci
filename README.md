@@ -443,6 +443,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)]
 
+* [The logic of universalization guides moral judgment](https://www.pnas.org/content/117/42/26158.short), ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13482051983012049752&hl=en&as_sdt=0,5)]
+
 * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841), ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15365483338824697316&hl=en&as_sdt=0,5)]
 
 * [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1&isAllowed=y), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=11862940312128630925&hl=en&as_sdt=0,5)]
