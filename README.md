@@ -863,7 +863,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Laura Schulz](https://cbmm.mit.edu/about/people/schulz), [Early Childhood Cognition Lab](https://eccl.mit.edu/).
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/). [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/)
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/), [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/).
 
 *[Back to Top](#c)
 
