@@ -12,7 +12,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Embodied Intelligence & Extended Mind](#eiem)
    * [Human Intelligence Experiments](#hie)
    * [Theory of Mind](#tom)
-   * [Pragmatics & Communications](#prgmcomm)
+   * [Communications & Pragmatics](#prgmcomm)
    * [Analogy](#anl)
    * [Causality](#caus)
    * [Commonsense](#cms)
@@ -454,7 +454,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 *[Back to Top](#c)
 
 <span id = "prgmcomm"></span>
-### Pragmatics & Communications
+### Communications & Pragmatics
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
 
