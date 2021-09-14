@@ -35,7 +35,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Reviews & Surveys & Venues](#rs)
 
 * [Books](#bk)
-   * [Cognitive Sciences](#cs)
+   * [Ulf Grenander](#ug)
+   * [Judea Pearl](#jp)
 
 
 <span id = "p"></span>
@@ -958,6 +959,16 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 <span id = "bk"></span>
 ## Books
+<span id = "ug"></span>
+### Ulf Grenander
+
+* [A Calculus of Ideas: A Mathematical Study of Thinking](https://www.dam.brown.edu/ptg/REPORTS/calculustext.PDF), ***World Scientific Publishing Company***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=12182416000849265255&hl=en&as_sdt=0,5)]
+
+### Judea Pearl
+
+* [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/), ***Basic Books***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)]
+
+
 <span id = "cs"></span>
 ### Cognitive Sciences
 
@@ -965,11 +976,11 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Cognitive Psychology](https://www.pdf-book-search.com/psychology/cognitive-psychology-8th-edition-by-robert-l-solso-m.html), ***Pearson***, 2007.
 
-* [Abductive Reasoning](https://www.springer.com/gp/book/9781402039065), ***Springer***, 2006.
+
 
 * [Cognitive Science: An Introduction to the Science of the Mind](https://www.cambridge.org/highereducation/books/cognitive-science/), ***Cambridge University Press***, 2014.
 
-* [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/), ***Basic Books***, 2018.
+
 
 * [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.semanticscholar.org/paper/Other-Minds%3A-The-Octopus%2C-the-Sea%2C-and-the-Deep-of-Aloraifi/8742d5d7debd28cbd75d77641f9b2286366a6f95), ***Farrar, Straus and Giroux***, 2016.
 
