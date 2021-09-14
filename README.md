@@ -36,6 +36,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Books](#bk)
    * [Ulf Grenander](#ug)
+   * [Michael Tomasello](#mt)
    * [Judea Pearl](#jp)
 
 
@@ -646,6 +647,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "kr"></span>
 ### Knowledge Representation
 
+* [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86), ***Elsevier***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5)]
+
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/), ***Plato Stanford***.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/), ***Plato Stanford***.
@@ -964,15 +967,27 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [A Calculus of Ideas: A Mathematical Study of Thinking](https://www.dam.brown.edu/ptg/REPORTS/calculustext.PDF), ***World Scientific Publishing Company***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=12182416000849265255&hl=en&as_sdt=0,5)]
 
+*[Back to Top](#c)
+
+<span id = "mt"></span>
+### Michael Tomasello
+
+* [Origins of human communication](https://1lib.net/book/541274/39859f), ***MIT Press***, 2010. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2553369883266458474)]
+
+*[Back to Top](#c)
+
+<span id = "jp"></span>
 ### Judea Pearl
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/), ***Basic Books***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)]
+
+*[Back to Top](#c)
 
 
 <span id = "cs"></span>
 ### Cognitive Sciences
 
-* [Origins of human communication](https://1lib.net/book/541274/39859f), ***MIT Press***, 2010.
+
 
 * [Cognitive Psychology](https://www.pdf-book-search.com/psychology/cognitive-psychology-8th-edition-by-robert-l-solso-m.html), ***Pearson***, 2007.
 
@@ -986,6 +1001,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d), ***MIT Press***, 1985.
 
-* [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86), ***Elsevier***, 2008. 
+
 
 *[Back to Top](#c)
