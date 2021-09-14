@@ -942,26 +942,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 *[Back to Top](#c)
 
-
-<span id = "rs"></span>
-## Reviews & Surveys & Venues
-
-* [Annual Meeting of the Cognitive Science Society (CogSci)](https://dblp.uni-trier.de/search?q=CogSci), ***Cognitive Science Society***.
-
-* [Artificial Intelligence Review](https://www.springer.com/journal/10462/?gclid=EAIaIQobChMIgO3k8sOu7AIVRCKWCh3hZQWLEAEYASAAEgJkzfD_BwE), ***Springer***.
-
-* [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) ***Nature***, 2015.
-
-* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989.
-
-* [Recognition-by-Components: A Theory of Human Image Understanding.](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) ***Psychological Review***, 1987.
-
-* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) ***Annual Review of Psychology***, 2017.
-
-* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) ***MIT, Harvard, Stanford, JHU...***
-
-*[Back to Top](#c)
-
 <span id = "bk"></span>
 ## Books
 <span id = "ug"></span>
@@ -985,24 +965,23 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 *[Back to Top](#c)
 
+[/
+<span id = "rs"></span>
+## Reviews & Surveys & Venues
 
-<span id = "cs"></span>
-### Cognitive Sciences
+* [Annual Meeting of the Cognitive Science Society (CogSci)](https://dblp.uni-trier.de/search?q=CogSci), ***Cognitive Science Society***.
 
+* [Artificial Intelligence Review](https://www.springer.com/journal/10462/?gclid=EAIaIQobChMIgO3k8sOu7AIVRCKWCh3hZQWLEAEYASAAEgJkzfD_BwE), ***Springer***.
 
+* [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) ***Nature***, 2015.
 
-* [Cognitive Psychology](https://www.pdf-book-search.com/psychology/cognitive-psychology-8th-edition-by-robert-l-solso-m.html), ***Pearson***, 2007.
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989.
 
+* [Recognition-by-Components: A Theory of Human Image Understanding.](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) ***Psychological Review***, 1987.
 
+* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) ***Annual Review of Psychology***, 2017.
 
-* [Cognitive Science: An Introduction to the Science of the Mind](https://www.cambridge.org/highereducation/books/cognitive-science/), ***Cambridge University Press***, 2014.
-
-
-
-* [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.semanticscholar.org/paper/Other-Minds%3A-The-Octopus%2C-the-Sea%2C-and-the-Deep-of-Aloraifi/8742d5d7debd28cbd75d77641f9b2286366a6f95), ***Farrar, Straus and Giroux***, 2016.
-
-
-
-
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) ***MIT, Harvard, Stanford, JHU...***
 
 *[Back to Top](#c)
+/]
