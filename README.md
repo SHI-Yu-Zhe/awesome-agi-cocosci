@@ -6,7 +6,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Papers](#p)
    * [Abduction](#abd)
-   * [Learning with Cognitive Plausibility](#lcp)
+   * [Learning with Cognitive Plausibility](#lpcp)
    * [Communications & Pragmatics](#prgmcomm)
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
@@ -195,6 +195,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)]
 
 * [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)]
+
+* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277), 2021.
 
 *[Back to Top](#c)
 
