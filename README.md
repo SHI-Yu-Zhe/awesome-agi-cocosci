@@ -912,6 +912,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html), [Cognitive Tools Lab](https://cogtoolslab.github.io/).
 
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/), [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm).
+
 *[Back to Top](#c)
 
 <span id = "nyu"></span>
