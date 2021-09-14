@@ -511,6 +511,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/#:~:text=Analogical%20reasoning%20is%20any%20type%20of%20thinking%20that,support%20the%20conclusion%20that%20some%20further%20similarity%20exists.), ***Plato Stanford***.
 
+* [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d), ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+cognitive+theory+of+metaphor&btnG=)]
+
 * [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775), ***Artificial Intelligence***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=16104901325436513899&hl=en&as_sdt=0,5)]
 
 * [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf), ***ICCC'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862&hl=en&as_sdt=0,5)]
@@ -999,7 +1001,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.semanticscholar.org/paper/Other-Minds%3A-The-Octopus%2C-the-Sea%2C-and-the-Deep-of-Aloraifi/8742d5d7debd28cbd75d77641f9b2286366a6f95), ***Farrar, Straus and Giroux***, 2016.
 
-* [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d), ***MIT Press***, 1985.
+
 
 
 
