@@ -6,7 +6,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Papers](#p)
    * [Abduction](#abd)
-   * [Learning with Cognitive Plausibility](#lpcp)
+   * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
