@@ -110,6 +110,12 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "lcp"></span>
 ### Learning with Cognitive Plausibility
 
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989.
+
+* [Recognition-by-Components: A Theory of Human Image Understanding.](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf), ***Psychological Review***, 1987.
+
+* [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf), ***Nature***, 2015.
+
 * [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446&hl=en&as_sdt=0,5)]
 
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097&hl=en&as_sdt=0,5)]
@@ -394,6 +400,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 ### Human Intelligence Experiments
 
 * [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
+
+* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) ***Annual Review of Psychology***, 2017.
 
 * [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short), ***Proceedings of National Academy of Sciences***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11085043350027609187&hl=en&as_sdt=0,5)]
 
@@ -875,6 +883,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Leslie Kaelbling](https://people.csail.mit.edu/lpk/), [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/).
 
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science), ***MIT, Harvard, Stanford, JHU...***
+
 *[Back to Top](#c)
 
 <span id = "stfd"></span>
@@ -965,23 +975,3 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 *[Back to Top](#c)
 
-[/
-<span id = "rs"></span>
-## Reviews & Surveys & Venues
-
-* [Annual Meeting of the Cognitive Science Society (CogSci)](https://dblp.uni-trier.de/search?q=CogSci), ***Cognitive Science Society***.
-
-* [Artificial Intelligence Review](https://www.springer.com/journal/10462/?gclid=EAIaIQobChMIgO3k8sOu7AIVRCKWCh3hZQWLEAEYASAAEgJkzfD_BwE), ***Springer***.
-
-* [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) ***Nature***, 2015.
-
-* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989.
-
-* [Recognition-by-Components: A Theory of Human Image Understanding.](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) ***Psychological Review***, 1987.
-
-* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) ***Annual Review of Psychology***, 2017.
-
-* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) ***MIT, Harvard, Stanford, JHU...***
-
-*[Back to Top](#c)
-/]
