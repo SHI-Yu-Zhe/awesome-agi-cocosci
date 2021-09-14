@@ -32,8 +32,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [NYU](#nyu)
    * [BIGAI](#bigai)
 
-* [Reviews & Surveys & Venues](#rs)
-
 * [Books](#bk)
    * [Ulf Grenander](#ug)
    * [Michael Tomasello](#mt)
