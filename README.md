@@ -966,6 +966,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Origins of human communication](https://1lib.net/book/541274/39859f), ***MIT Press***, 2010. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2553369883266458474)]
 
+* [The cultural origins of human cognition](https://hk1lib.org/book/541275/1452f8?id=541275&secret=1452f8), ***Havard University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5000469061641945144)]
+
 *[Back to Top](#c)
 
 <span id = "jp"></span>
