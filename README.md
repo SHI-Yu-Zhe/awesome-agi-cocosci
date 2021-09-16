@@ -892,6 +892,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/).
 
+* [Jiajun Wu](https://jiajunwu.com/).
+
 *[Back to Top](#c)
 
 <span id = "prct"></span>
