@@ -906,7 +906,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "ucla"></span>
 ### UCLA
 
-* [Center for Vision, Cognition, Learning and Autonomy](http://vcla.stat.ucla.edu/).
+* [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/).
 
 * [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html), [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html).
 
