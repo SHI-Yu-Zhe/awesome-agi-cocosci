@@ -219,6 +219,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235), ***Proceedings of the Evolution of Language Conference'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5)]
 
+* [Graphical Language Games: Interactional Constraints on Representational Form](https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701221363), ***Cognitive Science***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=280214578402050136&hl=en&as_sdt=0,5)]
+
 * [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5)]
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5)]
