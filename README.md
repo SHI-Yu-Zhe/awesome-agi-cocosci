@@ -977,5 +977,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/), ***Basic Books***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)]
 
+* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1), ***Cambridge University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)]
+
 *[Back to Top](#c)
 
