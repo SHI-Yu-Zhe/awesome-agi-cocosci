@@ -8,11 +8,11 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Abduction](#abd)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
+   * [Planning](#plan)
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
    * [Human Intelligence Experiments](#hie)
-   * [Planning](#plan)
    * [Theory of Mind](#tom)
    * [Analogy](#anl)
    * [Causality](#caus)
@@ -248,6 +248,23 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 *[Back to Top](#c)
 
+<span id = "plan"></span>
+### Planning
+
+* [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e), ***Synthese***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)]
+
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]
+
+* [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175), ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)]
+
+* [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626), ***Robotics: Science and Systems***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10342169019935480143&hl=en&as_sdt=0,5)]
+
+* [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139), ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5)]
+
+* [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)]
+
+*[Back to Top](#c)
+
 <span id = "nsl"></span>
 ### Neural-Symbolic Learning
 
@@ -415,23 +432,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2202192690517876762&hl=en&as_sdt=0,5)]
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)]
-
-*[Back to Top](#c)
-
-<span id = "plan"></span>
-### Planning
-
-* [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e), ***Synthese***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)]
-
-* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]
-
-* [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175), ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)]
-
-* [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626), ***Robotics: Science and Systems***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10342169019935480143&hl=en&as_sdt=0,5)]
-
-* [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139), ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5)]
-
-* [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
