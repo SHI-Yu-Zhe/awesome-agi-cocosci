@@ -12,6 +12,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
    * [Human Intelligence Experiments](#hie)
+   * [Planning](#plan)
    * [Theory of Mind](#tom)
    * [Analogy](#anl)
    * [Causality](#caus)
@@ -424,6 +425,13 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2202192690517876762&hl=en&as_sdt=0,5)]
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)]
+
+*[Back to Top](#c)
+
+<span id = "plan"></span>
+### Planning
+
+* [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e), ***Synthese***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)]
 
 *[Back to Top](#c)
 
