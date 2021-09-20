@@ -9,7 +9,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
-   * [Planning & Learning in Envionrment](#plan)
+   * [Planning & Environment Modeling](#plan)
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
@@ -263,7 +263,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 *[Back to Top](#c)
 
 <span id = "plan"></span>
-### Planning & Learning in Environment
+### Planning & Environment Modeling
 
 * [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e), ***Synthese***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)]
 
