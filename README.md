@@ -131,11 +131,11 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 <span id = "lcp"></span>
 ### Learning with Cognitive Plausibility
 
-* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989.
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)]
 
-* [Recognition-by-Components: A Theory of Human Image Understanding.](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf), ***Psychological Review***, 1987.
+* [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf), ***Psychological Review***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5)]
 
-* [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf), ***Nature***, 2015.
+* [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf), ***Nature***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744&hl=en&as_sdt=0,5)]
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y), ***Nature***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092&hl=en&as_sdt=0,5)]
 
