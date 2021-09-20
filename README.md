@@ -124,7 +124,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Infinite Latent Feature Models and the Indian Buffet Process](http://mlg.eng.cam.ac.uk/zoubin/papers/ibptr.pdf), ***Gatsby Computational Neuroscience Unit Technical Report 2005-001***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=13180738480564152907&hl=en&as_sdt=0,5)]
 
-* [The Indian Buffet Process: An Introduction and Review](https://www.jmlr.org/papers/volume12/griffiths11a/griffiths11a.pdf), ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)]
+* [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html), ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
