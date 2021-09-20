@@ -110,6 +110,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/), ***Plato Stanford***. 
 
+* [The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies](https://dl.acm.org/doi/abs/10.1145/1667053.1667056), ***Journal of the ACM***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=8216933258869737505&hl=en&as_sdt=0,5)]
+
 * [The Indian Buffet Process: An Introduction and Review](https://www.jmlr.org/papers/volume12/griffiths11a/griffiths11a.pdf), ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
