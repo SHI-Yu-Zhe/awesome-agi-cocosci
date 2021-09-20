@@ -6,6 +6,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Papers](#p)
    * [Abduction](#abd)
+   * [Bayesian Statistics](#bys)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
    * [Planning](#plan)
@@ -103,6 +104,13 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)]
 
 * [Abduction: Can Non-human Animals Make Discoveries?](https://link.springer.com/article/10.1007/s12304-017-9300-0), ***Biosemiotics***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9154676333615766448&hl=en&as_sdt=0,5)]
+
+*[Back to Top](#c)
+
+<span id = "bys"></span>
+### Bayesian Statistics
+
+* [The Indian Buffet Process: An Introduction and Review](https://www.jmlr.org/papers/volume12/griffiths11a/griffiths11a.pdf), ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
