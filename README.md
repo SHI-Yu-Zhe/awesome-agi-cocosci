@@ -49,8 +49,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***. 
 
-* [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/), ***Plato Stanford***. 
-
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8), ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592&hl=en&as_sdt=0,5)]
 
 * [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532), ***The Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)]
@@ -109,6 +107,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 <span id = "bys"></span>
 ### Bayesian Statistics
+
+* [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/), ***Plato Stanford***. 
 
 * [The Indian Buffet Process: An Introduction and Review](https://www.jmlr.org/papers/volume12/griffiths11a/griffiths11a.pdf), ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)]
 
