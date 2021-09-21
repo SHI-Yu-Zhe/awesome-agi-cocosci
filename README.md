@@ -707,6 +707,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus), ***Wikipedia***.
 
+* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/), ***Plato Stanford***.
+
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf), ***Knowledge Acquisition***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)]
 
 * [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf), ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5)]
