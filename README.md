@@ -956,6 +956,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Zhuowen Tu](https://pages.ucsd.edu/~ztu/), [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm).
 
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html), [Computational Cognition Lab](http://www.evullab.org/index.html).
+
 *[Back to Top](#c)
 
 <span id = "nyu"></span>
