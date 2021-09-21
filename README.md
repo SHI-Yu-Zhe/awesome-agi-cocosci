@@ -279,6 +279,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Learning to act: qualitative learning of deterministic action models](https://academic.oup.com/logcom/article-abstract/28/2/337/4695480), ***Journal of Logic and Computation***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14570482854600886953&hl=en&as_sdt=0,5)]
 
+* [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)]
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
