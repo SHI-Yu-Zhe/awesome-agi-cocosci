@@ -614,8 +614,6 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/), ***Plato Stanford***.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/), ***Plato Stanford***.
-
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/), ***Plato Stanford***.
 
 * [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/), ***Plato Stanford***.
@@ -707,7 +705,11 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus), ***Wikipedia***.
 
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/), ***Plato Stanford***.
+
 * [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/), ***Plato Stanford***.
+
+* [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic), ***Wikipedia***.
 
 * [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e), ***Synthese***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)]
 
