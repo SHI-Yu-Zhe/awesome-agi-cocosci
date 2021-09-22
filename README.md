@@ -51,7 +51,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8), ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592&hl=en&as_sdt=0,5)]
 
-* [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532), ***The Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)]
+* [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532), ***Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)]
 
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5), ***Springer***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5)]
 
