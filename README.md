@@ -49,6 +49,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***. 
 
+* [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/), ***Plato Stanford***.
+
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8), ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592&hl=en&as_sdt=0,5)]
 
 * [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532), ***Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)]
