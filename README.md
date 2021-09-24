@@ -979,6 +979,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html), [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/).
 
+*[Back to Top](#c)
+
 <span id = "bigai"></span>
 ### BIGAI
 
