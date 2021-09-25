@@ -9,7 +9,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
-   * [Planning & Environment Modeling](#plan)
+   * [Problem Solving](#plbsov)
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
@@ -254,8 +254,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 *[Back to Top](#c)
 
-<span id = "plan"></span>
-### Planning & Environment Modeling
+<span id = "plbsov"></span>
+### Problem Solving
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]
 
