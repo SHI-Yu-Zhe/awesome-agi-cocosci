@@ -755,6 +755,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=10854895617698839149&hl=en&as_sdt=0,5)]
 
+* [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NIPS_2013.pdf), ***NIPS'13***, 2013. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4354984630817844670)]
+
 *[Back to Top](#c)
 
 <span id = "cogdev"></span>
