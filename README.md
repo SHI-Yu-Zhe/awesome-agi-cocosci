@@ -9,7 +9,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
-   * [Problem Solving](#plbsov)
+   * [Planning & Problem Solving](#plbsov)
    * [Neural-Symbolic Learning](#nsl)
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
@@ -255,7 +255,9 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 *[Back to Top](#c)
 
 <span id = "plbsov"></span>
-### Problem Solving
+### Planning & Problem Solving
+
+* [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926), ***Machine Learning***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)]
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]
 
