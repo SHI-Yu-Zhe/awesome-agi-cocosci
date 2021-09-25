@@ -394,6 +394,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Externalism About the Mind](https://plato.stanford.edu/entries/content-externalism/), ***Plato Stanford***.
 
+* [Cognitive engineering: Human problem solving with tools](https://www.researchgate.net/profile/David-Woods-19/publication/242545872_Cognitive_Engineering_Human_Problem_Solving_with_Tools/links/542becf70cf29bbc126ac097/Cognitive-Engineering-Human-Problem-Solving-with-Tools.pdf), ***Human Factors***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=14194840995416222723&hl=en&as_sdt=0,5)]
+
 * [Tools, language and cognition in human evolution](https://psycnet.apa.org/record/1993-97340-000), ***Cambridge University Press***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=6046350461147957220&hl=en&as_sdt=0,5)]
 
 * [The Extended Mind](https://icds.uoregon.edu/wp-content/uploads/2014/06/Clark-and-Chalmers-The-Extended-Mind.pdf), ***Analysis***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=9546561188261943866&hl=en&as_sdt=0,5)]
