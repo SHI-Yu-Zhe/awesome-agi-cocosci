@@ -435,6 +435,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 <span id = "hie"></span>
 ### Human Intelligence Experiments
 
+* [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001), ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]
+
 * [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001), ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5)]
