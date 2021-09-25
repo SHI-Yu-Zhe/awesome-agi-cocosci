@@ -674,6 +674,8 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 * [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381), 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844&hl=en&as_sdt=0,5)]
 
+* [Leveraging Language for Abstraction and Program Search](https://vigilworkshop.github.io/static/papers-2021/25.pdf), ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Language+for+Abstraction+and+Program+Search&btnG=)]
+
 * [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269&hl=en&as_sdt=0,5)]
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf), ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?lookup=0&q=Learning+Part-Based+Abstractions+for+Visual+Object+Concepts&hl=en&as_sdt=0,5)]
