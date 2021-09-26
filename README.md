@@ -59,6 +59,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5), ***Springer***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5)]
 
+* [Exploring science: The cognition and development of discovery processes](https://psycnet.apa.org/record/2000-03968-000), ***MIT Press***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=13091264356550286420&hl=en&as_sdt=2005&sciodt=0,5)]
+
 * [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook), ***Springer***, 2006. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation&btnG=)]
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6), ***Springer***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188&hl=en&as_sdt=0,5)]
