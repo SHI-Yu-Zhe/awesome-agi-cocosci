@@ -69,6 +69,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001), ***Psychological Review***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5)]
 
+* [Abduction: Can Non-human Animals Make Discoveries?](https://link.springer.com/article/10.1007/s12304-017-9300-0), ***Biosemiotics***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9154676333615766448&hl=en&as_sdt=0,5)]
+
 * [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)]
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322&hl=en&as_sdt=0,5)]
@@ -110,8 +112,6 @@ The author of this repo has been struggling to taxonomize related topics, since 
 * [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=14979764682921693390&hl=en&as_sdt=0,5)]
 
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)]
-
-* [Abduction: Can Non-human Animals Make Discoveries?](https://link.springer.com/article/10.1007/s12304-017-9300-0), ***Biosemiotics***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9154676333615766448&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
