@@ -291,7 +291,7 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)]
 
-* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short), ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)]
+* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short), ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)] [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]
 
 *[Back to Top](#c)
 
