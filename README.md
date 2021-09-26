@@ -471,6 +471,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)]
 
+* [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741), ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017)]
+
 *[Back to Top](#c)
 
 <span id = "tom"></span>
