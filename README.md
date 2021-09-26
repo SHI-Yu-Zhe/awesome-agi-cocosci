@@ -65,9 +65,11 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6), ***Springer***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188&hl=en&as_sdt=0,5)]
 
-* [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)]
-
 * [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1), ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001), ***Psychological Review***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)]
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322&hl=en&as_sdt=0,5)]
 
