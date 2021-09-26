@@ -414,6 +414,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Tool use and affordance: Manipulation-based versus reasoning-based approaches](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000027), ***Psychological Review***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3284942486402374505&hl=en&as_sdt=0,5)]
 
+* [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://escholarship.org/uc/item/5gf0m7x3), ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9713842177532954702)]
+
 * [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://yzhu.io/publication/tool2015cvpr/paper.pdf), ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=4609926671953500969&hl=en&as_sdt=0,5)] [[Project](https://yzhu.io/publication/tool2015cvpr/)]
 
 * [Robotic hand augmentation drives changes in neural body representation](https://robotics.sciencemag.org/content/6/54/eabd7935.abstract), ***Science Robotics***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1622125726197763917&hl=en&as_sdt=0,5)]
