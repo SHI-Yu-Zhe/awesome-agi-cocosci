@@ -103,6 +103,12 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6), ***Advances in Bayesian Networks***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212&hl=en&as_sdt=0,5)]
 
+* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext), ***Journal of Logic Computation***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518&hl=en&as_sdt=0,5)]
+
+* [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5)]
+
+* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf), ***Computational Logic***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5)]
+
 * [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf), ***IJCAI'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198&hl=en&as_sdt=0,5)]
 
 * [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf), ***ECML'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483&hl=en&as_sdt=0,5)]
@@ -653,12 +659,6 @@ The author of this repo has been struggling to taxonomize related topics, since 
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/), ***Plato Stanford***.
 
 * [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf), ***Foundations and Trends in Programming Languages***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421&hl=en&as_sdt=0,5)]
-
-* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext), ***Journal of Logic Computation***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518&hl=en&as_sdt=0,5)]
-
-* [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758), ***The Journal of Logic Programming***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5)]
-
-* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf), ***Computational Logic***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5)]
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10), ***ILP'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)]
 
