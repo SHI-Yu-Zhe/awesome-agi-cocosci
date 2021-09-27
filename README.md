@@ -47,6 +47,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 <span id = "abd"></span>
 ### Abduction
 
+#### Philosophy of Computation & Cognition
+
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***. 
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/), ***Plato Stanford***. 
@@ -71,17 +73,33 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)]
 
-* [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322&hl=en&as_sdt=0,5)]
-
 * [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4), ***Synthese***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385&hl=en&as_sdt=0,5)]
 
 * [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744), ***Philosophy of Science***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=13895790050138832555&hl=en&as_sdt=0,5)]
 
 * [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z), ***Synthese***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)]
 
-* [Probabilistic Horn abduction and Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/000437029390061F?via%3Dihub), ***Artificial Intelligence***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=7728248035489349629&hl=en&as_sdt=0,5)]
-
 * [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14), ***Spatial Cognition***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)]
+
+* [Abductive inference within a pragmatic framework](https://link.springer.com/article/10.1007/s11229-018-1824-6), ***Synthese***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10285954503043361393&hl=en&as_sdt=0,5)]
+
+* [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x), ***New Generation Computing***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6664745483675209831&hl=en&as_sdt=0,5)]
+
+* [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)]
+
+* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full), ***Frontiers in Psychology***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5)]
+
+* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5)]
+
+* [The order effect in human abductive reasoning: an empirical and computational study](https://www.tandfonline.com/doi/full/10.1080/09528130600558141?scroll=top&needAccess=true), ***Journal of Experimental & Theoretical Artificial Intelligence***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=3803536062463585043&hl=en&as_sdt=0,5)]
+
+* [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=14979764682921693390&hl=en&as_sdt=0,5)]
+
+#### Applications in AI
+
+* [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub), ***Artificial Intelligence***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322&hl=en&as_sdt=0,5)]
+
+* [Probabilistic Horn abduction and Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/000437029390061F?via%3Dihub), ***Artificial Intelligence***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=7728248035489349629&hl=en&as_sdt=0,5)]
 
 * [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6), ***Advances in Bayesian Networks***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212&hl=en&as_sdt=0,5)]
 
@@ -91,25 +109,11 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [An Approach to Abductive Reasoning in Equational Logic](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6624/6619), ***IJCAI'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=686895264429811190&hl=en&as_sdt=0,5)]
 
-* [Abductive inference within a pragmatic framework](https://link.springer.com/article/10.1007/s11229-018-1824-6), ***Synthese***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10285954503043361393&hl=en&as_sdt=0,5)]
-
-* [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x), ***New Generation Computing***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6664745483675209831&hl=en&as_sdt=0,5)]
-
 * [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964), ***AAAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7355960657107994022&hl=en&as_sdt=0,5)]
 
-* [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)]
-
-* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full), ***Frontiers in Psychology***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5)]
-
-* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5)]
+* [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)]
 
 * [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf), ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5)]
-
-* [The order effect in human abductive reasoning: an empirical and computational study](https://www.tandfonline.com/doi/full/10.1080/09528130600558141?scroll=top&needAccess=true), ***Journal of Experimental & Theoretical Artificial Intelligence***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=3803536062463585043&hl=en&as_sdt=0,5)]
-
-* [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=14979764682921693390&hl=en&as_sdt=0,5)]
-
-* [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
