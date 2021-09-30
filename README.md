@@ -616,6 +616,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5), ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)]
 
+* [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf), ***Proceedings of the Royal Society B: Biological Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5)]
+
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036), ***Communication of the ACM***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13296019510897277617&hl=en&as_sdt=0,5)]
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5)]
