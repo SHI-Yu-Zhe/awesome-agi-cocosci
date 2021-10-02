@@ -835,6 +835,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 <span id = "ow"></span>
 ### Learning in the Open World
 
+* [Online learning of symbolic concepts](https://www.sciencedirect.com/science/article/abs/pii/S002224961730010X), ***Journal of Mathematical Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8036476579458645432&scipsc=)]
+
 * [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121), ***Trans. PAMI***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5)]
 
 * [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799), ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529&hl=en&as_sdt=0,5)] 
