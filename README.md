@@ -311,6 +311,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)]
 
+* [Balancing exploration and exploitation with information and randomization](https://www.sciencedirect.com/science/article/pii/S2352154620301467), ***Current Opinion in Behavioral Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8164388137243077863&hl=en&as_sdt=2005&sciodt=0,5)]
+
 * [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)]
 
 * [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short), ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)] [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]
