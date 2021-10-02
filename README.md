@@ -73,6 +73,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6), ***Springer***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188&hl=en&as_sdt=0,5)]
 
+* [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf), ***The Oxford Handbook of Thinking and Reasoning***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562&hl=en&as_sdt=0,5)]
+
 * [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1), ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001), ***Psychological Review***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5)]
