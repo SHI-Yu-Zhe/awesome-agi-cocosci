@@ -1021,6 +1021,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [Alison Gopnik](http://alisongopnik.com/), [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/).
 
+* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/), [The computation and language lab (colala)](http://colala.berkeley.edu/).
+
 *[Back to Top](#c)
 
 <span id = "ucsd"></span>
