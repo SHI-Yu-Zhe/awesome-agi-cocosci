@@ -830,7 +830,7 @@ This reading list is far from covering the every aspect of AGI and CoCoSci. Sinc
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5)]
 
-* [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf), ***Rational Constructivism in Cognitive Development***, 2012. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+new+facts%3B+thinking+new+thoughts&btnG=)] 
+* [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf), ***Advances in Child Development and Behavior***, 2012. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+new+facts%3B+thinking+new+thoughts&btnG=)] 
 
 * [Theory learning as stochastic search in the language of thought](https://www.sciencedirect.com/science/article/pii/S0885201412000445), ***Cognitive Development***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=8036476579458645432&hl=en&as_sdt=0,5)]
 
