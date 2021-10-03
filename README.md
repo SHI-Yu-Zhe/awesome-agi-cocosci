@@ -777,6 +777,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071), ***Cognitive Science***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=7765061503727822620&hl=en&as_sdt=0,5)]
 
+* [Modeling semantic cognition as logical dimensionality reduction](https://escholarship.org/content/qt50r1c7qh/qt50r1c7qh.pdf), ***CogSci'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=17061801746839695691&hl=en&as_sdt=0,5)]
+
 * [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf), ***CogSci'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749&hl=en&as_sdt=0,5)]
 
 * [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf), ***CogSci'10***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=16324634056226561429&hl=en&as_sdt=0,5)]
