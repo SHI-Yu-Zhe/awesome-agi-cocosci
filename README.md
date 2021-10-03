@@ -107,8 +107,6 @@ This reading list is far from covering the every aspect of AGI and CoCoSci. Sinc
 
 * [Remembrance of inferences past: Amortization in human hypothesis generation](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301094), ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=190340622765037472&hl=en&as_sdt=2005&sciodt=0,5)]
 
-* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001), ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]
-
 #### Applications in AI
 
 * [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236), ***Nature***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182&hl=en&as_sdt=0,5)]
@@ -827,6 +825,8 @@ This reading list is far from covering the every aspect of AGI and CoCoSci. Sinc
 * [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380&hl=en&as_sdt=0,5)]
 
 * [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf), ***Developmental Psychology***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)]
+
+* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001), ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5)]
 
