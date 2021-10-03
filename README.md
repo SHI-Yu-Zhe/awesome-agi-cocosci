@@ -3,7 +3,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 The author of this repo has been struggling to taxonomize related topics, since there are so many perspectives to follow, such as task-oriented, technique-oriented, and metaphysics-oriented. Finally he decided to focus on the perspective of ***The Sciences of Intelligence***---each topic describes a phenomenon of intelligence, or an intelligent behavior---they show the objectives of reverse-engineering human intelligence for computational methods. These topics are never restricted to specific technical methods or tasks, but are trying to organize the nature of intelligence---from both *the software perspective* and *the hardware perspective*.
 
-This reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of literature reviews when the author is working on Abduction, other non-Abduction topics are also collected with biases, more or less. Abduction is the way humans explain and discover the world and requires much more investigations into its mathematical basis, cognitive underpinnings and applications to AI. Please feel free to contact the author if you are interested in about Abduction.
+This reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of literature reviews when the author is working on Abduction, other non-Abduction topics are also collected with biases, more or less. Abduction is the way humans explain and discover the world， requiring much more investigations into its mathematical basis, cognitive underpinnings and applications to AI. Please feel free to contact the author if you are interested in about Abduction.
 
 <span id = "c"></span>
 ## Table of Contents
@@ -106,6 +106,8 @@ This reading list is far from covering the every aspect of AGI and CoCoSci. Sinc
 * [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5), ***Model-Based Reasoning in Science and Technology***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=14979764682921693390&hl=en&as_sdt=0,5)]
 
 * [Remembrance of inferences past: Amortization in human hypothesis generation](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301094), ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=190340622765037472&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001), ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]
 
 #### Applications in AI
 
