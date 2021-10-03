@@ -773,6 +773,8 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf), ***Physica D: Nonlinear Phenomena***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=6279614024681929496&hl=en&as_sdt=0,5)]
 
+* [Learning Causal Schemata](https://escholarship.org/content/qt19v2r2ws/qt19v2r2ws.pdf), ***CogSci'07***, 2007, [[All Versions](https://scholar.google.com/scholar?cluster=5008191267417189643&hl=en&as_sdt=0,5)]
+
 * [The discovery of structural form](https://www.pnas.org/content/105/31/10687), ***Proceedings of National Academy of Sciences***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486&hl=en&as_sdt=0,5)]
 
 * [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071), ***Cognitive Science***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=7765061503727822620&hl=en&as_sdt=0,5)]
