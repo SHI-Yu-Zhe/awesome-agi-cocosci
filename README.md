@@ -107,6 +107,12 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Remembrance of inferences past: Amortization in human hypothesis generation](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301094), ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=190340622765037472&hl=en&as_sdt=2005&sciodt=0,5)]
 
+#### Computational Scientific Discovery
+
+* [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/), ***Plato Stanford***.
+
+* [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7), ***MIT Press***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5)]
+
 #### Applications in AI
 
 * [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236), ***Nature***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182&hl=en&as_sdt=0,5)]
