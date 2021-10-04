@@ -49,7 +49,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 <span id = "abd"></span>
 ### Abduction
 
-#### Philosophy of Computation & Cognition
+#### Computational Explanation
 
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html), ***Plato Stanford***. 
 
@@ -63,23 +63,13 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin), ***Routledge***, 1956. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5)]
 
-* [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3), ***Springer***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5)]
-
-* [Induction: Processes of Inference, Learning, and Discovery](https://hk1lib.org/book/701605/02b32a?id=701605&secret=02b32a), ***MIT Press***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=12402938838725132707&hl=en&as_sdt=0,5)]
-
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5), ***Springer***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5)]
-
-* [Exploring science: The cognition and development of discovery processes](https://psycnet.apa.org/record/2000-03968-000), ***MIT Press***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=13091264356550286420&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook), ***Springer***, 2006. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation&btnG=)]
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6), ***Springer***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188&hl=en&as_sdt=0,5)]
 
 * [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf), ***The Oxford Handbook of Thinking and Reasoning***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562&hl=en&as_sdt=0,5)]
-
-* [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1), ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)]
-
-* [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001), ***Psychological Review***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)]
 
@@ -95,8 +85,6 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x), ***New Generation Computing***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6664745483675209831&hl=en&as_sdt=0,5)]
 
-* [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)]
-
 * [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full), ***Frontiers in Psychology***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5)]
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571), ***ICAART***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5)]
@@ -111,7 +99,19 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/), ***Plato Stanford***.
 
+* [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3), ***Springer***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5)]
+
 * [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7), ***MIT Press***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5)]
+
+* [Induction: Processes of Inference, Learning, and Discovery](https://hk1lib.org/book/701605/02b32a?id=701605&secret=02b32a), ***MIT Press***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=12402938838725132707&hl=en&as_sdt=0,5)]
+
+* [Exploring science: The cognition and development of discovery processes](https://psycnet.apa.org/record/2000-03968-000), ***MIT Press***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=13091264356550286420&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1), ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001), ***Psychological Review***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)]
 
 #### Applications in AI
 
