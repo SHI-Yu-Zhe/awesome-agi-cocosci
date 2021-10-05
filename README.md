@@ -95,6 +95,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Remembrance of inferences past: Amortization in human hypothesis generation](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301094), ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=190340622765037472&hl=en&as_sdt=2005&sciodt=0,5)]
 
+* [The AHA! Experience: Creativity Through Emergent Binding in Neural Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2010.01142.x), ***Cognitive Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10006889101167052798&hl=en&as_sdt=0,5)]
+
 #### Computational Scientific Discovery
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/), ***Plato Stanford***.
