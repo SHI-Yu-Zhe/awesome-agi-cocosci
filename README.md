@@ -42,6 +42,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Ulf Grenander](#ug)
    * [Michael Tomasello](#mt)
    * [Judea Pearl](#jp)
+   * [Susan Carey](#sc)
 
 
 <span id = "p"></span>
@@ -1108,6 +1109,13 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/), ***Basic Books***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)]
 
 * [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1), ***Cambridge University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)]
+
+*[Back to Top](#c)
+
+<span id = "sc"></span>
+### Susan Carey
+
+* [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f), ***Oxford University Press***, . [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
