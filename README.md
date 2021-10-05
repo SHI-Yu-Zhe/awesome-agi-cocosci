@@ -1115,7 +1115,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 <span id = "sc"></span>
 ### Susan Carey
 
-* [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f), ***Oxford University Press***, . [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)]
+* [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f), ***Oxford University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
