@@ -114,6 +114,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1), ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)]
 
+* [Complexity Management in a Discovery Task](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/schunn-klahr.pdf), ***CogSci'92***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974&hl=en&as_sdt=2005&sciodt=0,5)]
+
 * [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324), ***International Journal of Human-Computer Studies***, 1996. [[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030), ***Cognitive Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5)]
