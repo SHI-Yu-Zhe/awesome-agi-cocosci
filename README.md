@@ -104,8 +104,6 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/), ***Plato Stanford***.
 
-* [Studies of scientific discovery: Complementary approaches and convergent findings](https://psycnet.apa.org/record/1999-03909-002), ***Psychological Bulletin***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=6839380095970608888&hl=en&as_sdt=0,5)]
-
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3), ***Springer***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5)]
 
 * [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7), ***MIT Press***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5)]
