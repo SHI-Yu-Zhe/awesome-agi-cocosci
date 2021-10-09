@@ -14,7 +14,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
    * [Planning & Problem Solving](#plbsov)
-   * [Hybrid Learning](#nsl)
+   * [Hybrid System 1 & 2](#nsl)
    * [Explainable AI](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
    * [Human Intelligence Experiments](#hie)
@@ -351,7 +351,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
-### Hybrid Learning
+### Hybrid System 1 & 2
 
 * [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172), ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5)]
 
