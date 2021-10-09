@@ -124,7 +124,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090), ***Memory & Cognition***, 1996. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5)]
 
-* [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001), ***Psychological Review***, 1987. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Confirmation%2C+disconfirmation+and+information+in+hypothesis+testing&btnG=)]
+* [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001), ***Psychological Review***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5)]
 
 * [Hypothesis generation, sparse categories, and the positive test strategy](https://psycnet.apa.org/record/2010-22980-001), ***Psychological Review***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=4329636480235863472&hl=en&as_sdt=2005&sciodt=0,5)]
 
