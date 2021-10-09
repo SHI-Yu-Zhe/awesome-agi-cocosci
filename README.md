@@ -413,6 +413,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Temporal and Object Quantification Networks](https://jiajunwu.com/papers/toqnet_ijcai.pdf), ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17251222943638414124&hl=en&as_sdt=0,5)]
 
+* [Regression Analysis for Interval-Valued Data](https://link.springer.com/chapter/10.1007/978-3-642-59789-3_58), ***Data Analysis, Classification, and Related Methods***, 2000. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+Billard+and+Diday+&btnG=)]
+
 *[Back to Top](#c)
 
 <span id = "xai"></span>
