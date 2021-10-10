@@ -302,6 +302,10 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 <span id = "plbsov"></span>
 ### Planning & Problem Solving
 
+* [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001), ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]
+
+* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
+
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926), ***Machine Learning***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)]
 
 * [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311), ***Trends in Cognitive Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226&hl=en&as_sdt=2005&sciodt=0,5)]
@@ -505,10 +509,6 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 <span id = "hie"></span>
 ### Human Intelligence Experiments
-
-* [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001), ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]
-
-* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001), ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5)]
 
