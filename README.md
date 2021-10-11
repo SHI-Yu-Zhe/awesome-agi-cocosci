@@ -30,7 +30,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Learning in the Open World](#ow)
    * [Tasks & Environments](#te)
 
-* [Institutes & Researchers](#r&l)
+* [Institute & Researcher](#r&l)
    * [MIT](#mit)
    * [Stanford](#stfd)
    * [Princeton](#prct)
@@ -40,7 +40,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [NYU](#nyu)
    * [BIGAI](#bigai)
 
-* [People & Books](#bk)
+* [People & Book](#bk)
    * [Ulf Grenander](#ug)
    * [Michael Tomasello](#mt)
    * [Judea Pearl](#jp)
