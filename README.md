@@ -1015,7 +1015,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 
 <span id = "r&l"></span>
-## Institutes & Researchers
+## Institute & Researcher
 
 <span id = "mit"></span>
 ### MIT
@@ -1108,7 +1108,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 *[Back to Top](#c)
 
 <span id = "bk"></span>
-## People & Books
+## People & Book
 <span id = "ug"></span>
 ### Ulf Grenander
 
