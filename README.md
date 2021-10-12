@@ -17,7 +17,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Communications & Pragmatics](#prgmcomm)
    * [Planning & Problem Solving](#plbsov)
    * [Hybrid System 1 & 2](#nsl)
-   * [Explainable AI](#xai)
+   * [Explainability](#xai)
    * [Embodied Intelligence & Extended Mind](#eiem)
    * [Human Intelligence Experiments](#hie)
    * [Theory of Mind](#tom)
@@ -428,7 +428,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 *[Back to Top](#c)
 
 <span id = "xai"></span>
-### Explainable AI
+### Explainability
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3), ***Machine Learning***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913&hl=en&as_sdt=0,5)]
 
