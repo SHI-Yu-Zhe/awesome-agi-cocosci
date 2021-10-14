@@ -263,6 +263,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5)]
 
+* [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X), ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5)]
+
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5)]
 
 * [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay), ***Pragmatics & Cognition***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567&hl=en&as_sdt=0,5)]
