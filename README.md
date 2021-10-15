@@ -889,6 +889,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Children selectively endorse speculative conjectures](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13647?saml_referrer), ***Child Development***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5672344544260882286&hl=en&as_sdt=2005&sciodt=0,5)]
 
+* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806), ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5)]
+
 * [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914&hl=en&as_sdt=0,5)]
 
 * [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741), ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017)]
