@@ -883,6 +883,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](http://web.mit.edu/maxs/www/papers/cogsci_2016_vapors.pdf), ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958&hl=en&as_sdt=2005&sciodt=0,5)]
 
+* [Cognitive pragmatism: Children flexibly choose between facts and conjectures](https://junyichu.mit.edu/sites/default/files/documents/2018-05-14%20CogSci%20Final.pdf), ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6978944437676543728&hl=en&as_sdt=2005&sciodt=0,5)]
+
 * [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914&hl=en&as_sdt=0,5)]
 
 * [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741), ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017)]
