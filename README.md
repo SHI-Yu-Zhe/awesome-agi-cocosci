@@ -308,6 +308,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5), ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
 
+* [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506), ***Artificial Intelligence***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)]
+
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926), ***Machine Learning***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)]
 
 * [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311), ***Trends in Cognitive Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226&hl=en&as_sdt=2005&sciodt=0,5)]
