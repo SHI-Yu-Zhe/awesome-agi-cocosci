@@ -162,6 +162,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf), ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5)]
 
+* [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250), ***Ph.D Dissertation MIT***, 2018. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+detection+through+explanations&btnG=)]
+
 *[Back to Top](#c)
 
 <span id = "bml"></span>
