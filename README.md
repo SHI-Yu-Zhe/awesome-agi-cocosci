@@ -585,6 +585,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768), ***Ph.D. Dissertation MIT***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224&hl=en&as_sdt=0,5)]
 
+* [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/), ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477&hl=en&as_sdt=0,5&as_ylo=2017)]
+
 * [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub), ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5)]
 
 * [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064), ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)]
@@ -896,8 +898,6 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [Children selectively endorse speculative conjectures](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13647?saml_referrer), ***Child Development***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5672344544260882286&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806), ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5)]
-
-* [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/), ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477&hl=en&as_sdt=0,5&as_ylo=2017)]
 
 * [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003), ***Developmental Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914&hl=en&as_sdt=0,5)]
 
