@@ -901,6 +901,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741), ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017)]
 
+* [Children’s exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2), ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)]
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
