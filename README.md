@@ -166,6 +166,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250), ***Ph.D Dissertation MIT***, 2018. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+detection+through+explanations&btnG=)]
 
+* [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530), ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)]
+
 *[Back to Top](#c)
 
 <span id = "bml"></span>
