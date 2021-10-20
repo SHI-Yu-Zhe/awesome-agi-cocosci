@@ -250,6 +250,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772), ***CVPR'09***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6853730684095116174&hl=en&as_sdt=0,5)]
 
+* [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257&hl=en&as_sdt=0,5)]
+
 *[Back to Top](#c)
 
 <span id = "prgmcomm"></span>
