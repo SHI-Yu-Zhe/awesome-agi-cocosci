@@ -18,7 +18,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Problem Solving](#plbsov)
    * [Hybrid System 1 & 2](#nsl)
    * [Explainability](#xai)
-   * [Embodied Intelligence & Extended Mind](#eiem)
+   * [Embodied Intelligence](#ei)
    * [Human Intelligence Experiments](#hie)
    * [Theory of Mind](#tom)
    * [Analogy](#anl)
@@ -474,8 +474,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 *[Back to Top](#c)
 
-<span id = "eiem"></span>
-### Embodied Intelligence & Extended Mind
+<span id = "ei"></span>
+### Embodied Intelligence
 
 * [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/), ***Plato Stanford***.
 
@@ -520,6 +520,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [Relational affordances for multiple-object manipulation](https://link.springer.com/article/10.1007/s10514-017-9637-x), ***Autonomous Robots***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6357646940615855682&hl=en&as_sdt=0,5)]
 
 * [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf), ***RSS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4316276917607326251&hl=en&as_sdt=0,5)]
+
+* [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://www.biorxiv.org/content/10.1101/2021.07.08.451333v1), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
