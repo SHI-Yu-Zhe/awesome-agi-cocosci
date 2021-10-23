@@ -897,6 +897,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Theory learning as stochastic search in the language of thought](https://www.sciencedirect.com/science/article/pii/S0885201412000445), ***Cognitive Development***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=8036476579458645432&hl=en&as_sdt=0,5)]
 
+* [Infants make more attempts to achieve a goal when they see adults persist](https://www.science.org/doi/abs/10.1126/science.aan2317), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=2617011825272996810&hl=en&as_sdt=0,5)]
+
 * [Bayesian Models of Conceptual Development: Learning as Building Models of the World](https://psyarxiv.com/aq3rp/), ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=646614032563248495&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Sticking to the Evidence? A Behavioral and Computational Case Study of Micro-Theory Change in the Domain of Magnetism](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12765), ***Cognitive Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4409900195679222965&hl=en&as_sdt=2005&sciodt=0,5)]
@@ -918,8 +920,6 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741), ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017)]
 
 * [Children’s exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2), ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)]
-
-* [Infants make more attempts to achieve a goal when they see adults persist](https://www.science.org/doi/abs/10.1126/science.aan2317), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=2617011825272996810&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
