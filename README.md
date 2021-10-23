@@ -919,6 +919,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Children’s exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2), ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)]
 
+* [Infants make more attempts to achieve a goal when they see adults persist](https://www.science.org/doi/abs/10.1126/science.aan2317), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=2617011825272996810&hl=en&as_sdt=0,5)]
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
