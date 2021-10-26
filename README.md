@@ -364,7 +364,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)] [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
 
-* [Probabilistic Programming Bots in Intuitive Physics Game Play](https://ojs.aaai.org/index.php/AAAI/article/view/16159), ***AAAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8743909447419452852&hl=en&as_sdt=0,5)]
+* [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/), ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)]
 
 * [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)]
 
