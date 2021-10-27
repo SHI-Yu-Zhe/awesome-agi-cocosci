@@ -943,6 +943,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Children’s exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2), ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)]
 
+* [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer), ***Child Development***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)]
+
 * [Rethinking Executive Function and Its Development](https://journals.sagepub.com/doi/pdf/10.1177/1745691620904771), ***Psychological Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16570230278367237499&hl=en&as_sdt=2005&sciodt=0,5)]
 
 *[Back to Top](#c)
