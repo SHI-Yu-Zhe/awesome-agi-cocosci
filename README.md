@@ -328,6 +328,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926), ***Machine Learning***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)]
 
+* [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226), ***Cognitive Science***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)]
+
 * [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311), ***Trends in Cognitive Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B), ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5)]
