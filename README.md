@@ -886,6 +886,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NIPS_2013.pdf), ***NIPS'13***, 2013. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4354984630817844670)]
 
+* [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246&hl=en&as_sdt=0,5)]
+
 *[Back to Top](#c)
 
 <span id = "cogdev"></span>
