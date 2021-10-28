@@ -888,6 +888,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246&hl=en&as_sdt=0,5)]
 
+* [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743), ***Cognition***, 1995. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=8852566070856662412)]
+
 *[Back to Top](#c)
 
 <span id = "cogdev"></span>
