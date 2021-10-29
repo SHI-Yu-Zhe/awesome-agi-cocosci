@@ -23,7 +23,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Theory of Mind](#tom)
    * [Analogy](#anl)
    * [Causality](#caus)
-   * [Commonsense](#cms)
+   * [Common Sense](#cms)
    * [Inductive Logic & Program Synthesis](#lp)
    * [Knowledge Representation](#kr)
    * [Cognitive Development](#cogdev)
@@ -716,7 +716,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 *[Back to Top](#c)
 
 <span id = "cms"></span>
-### Commonsense
+### Common Sense
 
 * [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf), ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)]
 
