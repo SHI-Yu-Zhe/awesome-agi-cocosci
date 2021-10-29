@@ -116,6 +116,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Exploring science: The cognition and development of discovery processes](https://psycnet.apa.org/record/2000-03968-000), ***MIT Press***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=13091264356550286420&hl=en&as_sdt=2005&sciodt=0,5)]
 
+* [Good Science is Abductive, Not Hypothetico-Deductive](http://web.psych.ualberta.ca/~rozeboom/files/1997_Good_science_is_abductive.pdf), 1997. [[All Versions](https://scholar.google.com/scholar?cluster=9618388974870220695&hl=en&as_sdt=0,5)]
+
 * [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1), ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Complexity Management in a Discovery Task](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/schunn-klahr.pdf), ***CogSci'92***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974&hl=en&as_sdt=2005&sciodt=0,5)]
