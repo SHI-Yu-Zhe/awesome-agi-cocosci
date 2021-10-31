@@ -389,6 +389,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 <span id = "nsl"></span>
 ### Hybrid System 1 & 2
 
+* [Dual coding of knowledge in the human brain](https://www.sciencedirect.com/science/article/pii/S1364661321001765), ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11751507203561842501&hl=en&as_sdt=0,5)]
+
 * [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172), ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5)]
 
 * [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872), ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6079567413300944995&hl=en&as_sdt=0,5)]
