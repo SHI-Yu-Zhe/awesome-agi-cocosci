@@ -74,6 +74,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf), ***The Oxford Handbook of Thinking and Reasoning***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562&hl=en&as_sdt=0,5)]
 
+* [How explanation guides belief change](https://www.sciencedirect.com/science/article/pii/S1364661321001790), ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15240531165875981526&hl=en&as_sdt=2005&sciodt=2005)]
+
 * [Use of current explanations in multicausal abductive reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2506_2), ***Cognitive Science***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=7816050625957759346&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)]
