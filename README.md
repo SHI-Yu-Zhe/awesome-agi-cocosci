@@ -13,6 +13,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [Papers](#p)
    * [Abduction](#abd)
       * [Computational Explanation](#compexp)
+      * [Computational Scientific Discovery](#compscidsc)
+      * [Applications in AI](#abdappai)
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
@@ -116,6 +118,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 *[Back to Top](#c)
 
+<span id = "compscidsc"></span>
 #### Computational Scientific Discovery
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/), ***Plato Stanford***.
@@ -148,6 +151,9 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)]
 
+*[Back to Top](#c)
+
+<span id = "abdappai"></span>
 #### Applications in AI
 
 * [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236), ***Nature***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182&hl=en&as_sdt=0,5)]
