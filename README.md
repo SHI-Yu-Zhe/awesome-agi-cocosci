@@ -18,7 +18,10 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
-   * [Problem Solving](#plbsov)
+   * [Problem Solving](#probsol)
+      * [Human Problem Solving](#hmprobsol)
+      * [Model-Based Planning](#mbplan)
+      * [Model-Free Reinforcement Learning](#mfrl)
    * [Hybrid System 1 & 2](#nsl)
    * [Explainability](#xai)
    * [Embodied Intelligence](#ei)
@@ -333,8 +336,23 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 *[Back to Top](#c)
 
-<span id = "plbsov"></span>
+<span id = "probsol"></span>
 ### Problem Solving
+
+<span id = "hmprobsol"></span>
+#### Human Problem Solving
+
+*[Back to Top](#c)
+
+<span id = "mbplan"></span>
+#### Model-Based Planning
+
+*[Back to Top](#c)
+
+<span id = "mfrl"></span>
+#### Model-Free Reinforcement Learning
+
+*[Back to Top](#c)
 
 * [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001), ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]
 
