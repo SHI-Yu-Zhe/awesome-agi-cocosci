@@ -12,6 +12,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Papers](#p)
    * [Abduction](#abd)
+      * [Computational Explanation](#compexp)
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
