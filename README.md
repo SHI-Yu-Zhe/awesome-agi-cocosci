@@ -19,9 +19,10 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
    * [Problem Solving](#probsol)
-      * [Human Problem Solving](#hmprobsol)
+      * [Human-Level Problem Solving](#hmprobsol)
       * [Model-Based Planning](#mbplan)
       * [Model-Free Reinforcement Learning](#mfrl)
+      * [Inverse Reinforcement Learning](#irl)
    * [Hybrid System 1 & 2](#nsl)
    * [Explainability](#xai)
    * [Embodied Intelligence](#ei)
@@ -340,19 +341,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 ### Problem Solving
 
 <span id = "hmprobsol"></span>
-#### Human Problem Solving
-
-*[Back to Top](#c)
-
-<span id = "mbplan"></span>
-#### Model-Based Planning
-
-*[Back to Top](#c)
-
-<span id = "mfrl"></span>
-#### Model-Free Reinforcement Learning
-
-*[Back to Top](#c)
+#### Human-Level Problem Solving
 
 * [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001), ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]
 
@@ -374,35 +363,49 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B), ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5)]
 
-* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]
+* [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)]
+
+* [Balancing exploration and exploitation with information and randomization](https://www.sciencedirect.com/science/article/pii/S2352154620301467), ***Current Opinion in Behavioral Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8164388137243077863&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)]
+
+* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short), ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)] [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]
+
+*[Back to Top](#c)
+
+<span id = "mbplan"></span>
+#### Model-Based Planning
 
 * [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175), ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)]
+
+* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=5892822406285231676&hl=en&as_sdt=0,5)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
 
 * [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626), ***Robotics: Science and Systems***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10342169019935480143&hl=en&as_sdt=0,5)]
 
 * [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139), ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5)]
 
+* [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf), ***CogSci'21***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]
+
+* [What Is the Model in Model-Based Planning?](https://onlinelibrary.wiley.com/doi/ftr/10.1111/cogs.12928), ***Cognitive Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10598397017491369972&hl=en&scisbd=1&as_sdt=2005&sciodt=0,5)]
+
+*[Back to Top](#c)
+
+<span id = "mfrl"></span>
+#### Model-Free Reinforcement Learning
+
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521), ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]
+
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM), ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)]
-
-* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707&hl=en&as_sdt=0,5)]
-
-* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9128320307925997063&hl=en&as_sdt=0,5)]
 
 * [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689), ***ICRA'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7155333517647976638&hl=en&as_sdt=0,5)]
 
-* [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5103854692762145813&hl=en&as_sdt=0,5)]
-
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110), ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)]
-
-* [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf), ***CogSci'21***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]
 
 * [Learning to act: qualitative learning of deterministic action models](https://academic.oup.com/logcom/article-abstract/28/2/337/4695480), ***Journal of Logic and Computation***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14570482854600886953&hl=en&as_sdt=0,5)]
 
 * [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)]
 
 * [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)]
-
-* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=5892822406285231676&hl=en&as_sdt=0,5)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]
 
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf), ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)] [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
 
@@ -412,15 +415,16 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127), ***Robotics and Automation Letters***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=3140653562829320759&hl=en&as_sdt=0,5)]
 
-* [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236), ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)]
+*[Back to Top](#c)
 
-* [Balancing exploration and exploitation with information and randomization](https://www.sciencedirect.com/science/article/pii/S2352154620301467), ***Current Opinion in Behavioral Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8164388137243077863&hl=en&as_sdt=2005&sciodt=0,5)]
+<span id = "irl"></span>
+#### Inverse Reinforcement Learning
 
-* [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369), ***Cell***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)]
+* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430), ***ICML'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707&hl=en&as_sdt=0,5)]
 
-* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short), ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)] [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]
+* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742), ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9128320307925997063&hl=en&as_sdt=0,5)]
 
-* [What Is the Model in Model-Based Planning?](https://onlinelibrary.wiley.com/doi/ftr/10.1111/cogs.12928), ***Cognitive Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10598397017491369972&hl=en&scisbd=1&as_sdt=2005&sciodt=0,5)]
+* [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf), ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5103854692762145813&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
