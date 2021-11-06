@@ -1203,6 +1203,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Brenden Lake](https://cims.nyu.edu/~brenden/), [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/).
 
+* [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html), [Computation & Cognition Lab](http://gureckislab.org/).
+
 * [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html), [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/).
 
 *[Back to Top](#c)
