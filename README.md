@@ -18,9 +18,9 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
-      * [Non-verbal Communication](#nvcomm)
+      * [Non-Verbal Communication](#nvcomm)
       * [Rational Speech Act](#rsa)
-      * [The Emergence of Lauguage](#eol)
+      * [Lauguage Compositionality](#lcps)
    * [Problem Solving](#probsol)
       * [Human-Level Problem Solving](#hmprobsol)
       * [Model-Based Planning](#mbplan)
@@ -210,6 +210,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343), ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446&hl=en&as_sdt=0,5)]
 
+* [Word learning as Bayesian inference](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245), ***Psychological Review***, 2007. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5476233692839102256)]
+
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://science.sciencemag.org/content/331/6022/1279), ***Science***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097&hl=en&as_sdt=0,5)]
 
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf), ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)] [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]
@@ -291,20 +293,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 ### Communications & Pragmatics
 
 <span id = "nvcomm"></span>
-
-* [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
-
-* [Compositionality](https://plato.stanford.edu/entries/compositionality/), ***Plato Stanford***.
-
-* [Word learning as Bayesian inference](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245), ***Psychological Review***, 2007. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5476233692839102256)]
-
-* [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf), ***Topoi***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=10899040818001759322&hl=en&as_sdt=0,5)]
-
-* [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235), ***Proceedings of the Evolution of Language Conference'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5)]
-
-* [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5)]
-
-* [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X), ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5)]
+#### Non-Verbal Communication
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x), ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5)]
 
@@ -316,29 +305,51 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830), ***Journal of Pragmatics***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=912273653379961242&hl=en&as_sdt=0,5)]
 
-* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf), ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5)]
-
-* [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html), ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808&hl=en&as_sdt=0,5)]
-
-* [Emergent communication through negotiation](https://arxiv.org/abs/1804.03980), ***ICLR'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8825869866742501521&hl=en&as_sdt=0,5)]
-
-* [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf), ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394&hl=en&as_sdt=0,5)]
-
-* [The language of generalization](https://psycnet.apa.org/record/2019-07481-001), ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7723877614160376324&hl=en&as_sdt=0,5)]
-
-* [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124), ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767&hl=en&as_sdt=0,5)]
-
-* [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1), ***Nature***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10144794357802769844&hl=en&as_sdt=0,5)]
-
-* [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=9127222314768938599&hl=en&as_sdt=0,5)]
-
 * [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf), ***SIG Graph***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081&hl=en&as_sdt=0,5)] [[Project](http://sketchx.ai/pixelor)]
 
 * [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7), ***Computational Brain & Behavior***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071&hl=en&as_sdt=0,5)]
 
 * [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118), ***Proceedings of National Academy of Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508&hl=en&as_sdt=0,5)]
 
+*[Back to Top](#c)
+
+<span id = "rsa"></span>
+#### Rational Speech Act
+
+* [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
+
+* [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998), ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5)]
+
+* [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X), ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5)]
+
+* [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf), ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394&hl=en&as_sdt=0,5)]
+
+* [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1), ***Nature***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10144794357802769844&hl=en&as_sdt=0,5)]
+
+* [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf), ***Semantics and Pragmatics***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=9127222314768938599&hl=en&as_sdt=0,5)]
+
 * [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3), ***Philosophical Studies***, 2021.
+
+*[Back to Top](#c)
+
+<span id = "lcps"></span>
+#### Language Compositionality
+
+* [Compositionality](https://plato.stanford.edu/entries/compositionality/), ***Plato Stanford***.
+
+* [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf), ***Topoi***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=10899040818001759322&hl=en&as_sdt=0,5)]
+
+* [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235), ***Proceedings of the Evolution of Language Conference'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5)]
+
+* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf), ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5)]
+
+* [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html), ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808&hl=en&as_sdt=0,5)]
+
+* [Emergent communication through negotiation](https://arxiv.org/abs/1804.03980), ***ICLR'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8825869866742501521&hl=en&as_sdt=0,5)]
+
+* [The language of generalization](https://psycnet.apa.org/record/2019-07481-001), ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7723877614160376324&hl=en&as_sdt=0,5)]
+
+* [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124), ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
