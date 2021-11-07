@@ -18,6 +18,9 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
    * [Bayesian Modeling & Learning](#bml)
    * [Learning with Cognitive Plausibility](#lcp)
    * [Communications & Pragmatics](#prgmcomm)
+      * [Non-verbal Communication](#nvcomm)
+      * [Rational Speech Act](#rsa)
+      * [The Emergence of Lauguage](#eol)
    * [Problem Solving](#probsol)
       * [Human-Level Problem Solving](#hmprobsol)
       * [Model-Based Planning](#mbplan)
@@ -286,6 +289,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 <span id = "prgmcomm"></span>
 ### Communications & Pragmatics
+
+<span id = "nvcomm"></span>
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), ***Plato Stanford***.
 
