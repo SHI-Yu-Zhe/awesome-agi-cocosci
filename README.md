@@ -195,6 +195,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530), ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)]
 
+* [Discovering a symbolic planning language from continuous experience](https://joaoloula.github.io/Discovering_a_Symbolic_Planning_Language_From_Continuous_Experience.pdf), ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=14400178089019636923&scipsc=&q=Discovering+a+symbolic+planning+language+from+continuous+experience&btnG=)]
+
 *[Back to Top](#c)
 
 <span id = "bml"></span>
