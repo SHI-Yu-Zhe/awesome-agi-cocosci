@@ -159,7 +159,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
-
+https://www.sciencedirect.com/science/article/pii/S1364661317301134
 <span id = "abdappai"></span>
 #### Applications in AI
 
@@ -378,6 +378,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [Representations in distributed cognitive tasks](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1801_3), ***Cognitive Science***, 1994. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14781266698447195483)]
 
 * [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226), ***Cognitive Science***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)]
+
+* [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134), ***Trends in Cognitive Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Learning physical parameters from dynamic scenes](https://www.sciencedirect.com/science/article/abs/pii/S0010028517301822), ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5103729321433959736&hl=en&as_sdt=0,5)]
 
