@@ -1185,6 +1185,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 <span id = "prct"></span>
 ### Princeton
 
+* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo), [Concepts & Cognition Lab](https://cognition.princeton.edu/).
+
 * [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php), [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php).
 
 *[Back to Top](#c)
