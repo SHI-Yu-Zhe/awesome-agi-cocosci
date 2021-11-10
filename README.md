@@ -89,6 +89,8 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 
 * [The structure and function of explanations](https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf), ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2849189270394400667&hl=en&as_sdt=0,5)]
 
+* [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf), ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465&hl=en&as_sdt=0,5)]
+
 * [How explanation guides belief change](https://www.sciencedirect.com/science/article/pii/S1364661321001790), ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15240531165875981526&hl=en&as_sdt=2005&sciodt=2005)]
 
 * [Use of current explanations in multicausal abductive reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2506_2), ***Cognitive Science***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=7816050625957759346&hl=en&as_sdt=2005&sciodt=0,5)]
@@ -161,7 +163,7 @@ Fairly speaking, this reading list is far from covering the every aspect of AGI 
 * [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf), ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
-https://www.sciencedirect.com/science/article/pii/S1364661317301134
+
 <span id = "abdappai"></span>
 #### Applications in AI
 
