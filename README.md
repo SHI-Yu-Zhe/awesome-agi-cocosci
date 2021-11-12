@@ -30,6 +30,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
    * [Explainability](#xai)
    * [Embodied Intelligence](#ei)
    * [Human Intelligence Experiments](#hie)
+   * [Metacognition](#metacog)
    * [Theory of Mind](#tom)
    * [Analogy](#anl)
    * [Causality](#caus)
@@ -196,8 +197,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf), ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5)]
 
 * [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250), ***Ph.D Dissertation MIT***, 2018. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+detection+through+explanations&btnG=)]
-
-* [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530), ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)]
 
 * [Discovering a symbolic planning language from continuous experience](https://joaoloula.github.io/Discovering_a_Symbolic_Planning_Language_From_Continuous_Experience.pdf), ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=14400178089019636923&scipsc=&q=Discovering+a+symbolic+planning+language+from+continuous+experience&btnG=)]
 
@@ -639,6 +638,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html), ***ICML'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2202192690517876762&hl=en&as_sdt=0,5)]
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622), ***Current Opinion in Behavioral Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)]
+
+*[Back to Top](#c)
+
+<span id = "metacog"></span>
+### Metacognition
+
+* [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530), ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
