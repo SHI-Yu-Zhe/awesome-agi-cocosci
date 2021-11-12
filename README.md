@@ -1231,6 +1231,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/), [The computation and language lab (colala)](http://colala.berkeley.edu/).
 
+* [Celeste Kidd](http://www.celestekidd.com/), [Kidd Lab](https://www.kiddlab.com/).
+
 *[Back to Top](#c)
 
 <span id = "ucsd"></span>
