@@ -31,6 +31,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
    * [Embodied Intelligence](#ei)
    * [Human Intelligence Experiments](#hie)
    * [Metacognition](#metacog)
+      * [Rationality & Rationalization](#r&r)
+      * [Cognitive Architecture](#cogarch)
    * [Theory of Mind](#tom)
    * [Analogy](#anl)
    * [Causality](#caus)
@@ -644,7 +646,27 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "metacog"></span>
 ### Metacognition
 
+<span id = "r&r"></span>
+#### Rationality & Rationalization 
+
+* [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/), ***Plato Stanford***.
+
+* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/), ***Plato Stanford***.
+
+* [Imagination and the generation of new ideas](https://www.sciencedirect.com/science/article/abs/pii/S0885201414000744), ***Cognitive Development***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=16920774374067505248&hl=en&as_sdt=2005&sciodt=0,5)]
+
+* [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](http://web.mit.edu/maxs/www/papers/cogsci_2016_vapors.pdf), ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958&hl=en&as_sdt=2005&sciodt=0,5)]
+
+*[Back to Top](#c)
+
+<span id = "cogarch"></span>
+#### Cognitive Architecture
+
 * [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530), ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)]
+
+* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942&hl=en&as_sdt=0,5)]
+
+* [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028), ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -670,10 +692,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/), ***Plato Stanford***.
 
 * [The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/), ***Plato Stanford***.
-
-* [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/), ***Plato Stanford***.
-
-* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/), ***Plato Stanford***.
 
 * [Practical Reason](https://plato.stanford.edu/entries/practical-reason/), ***Plato Stanford***.
 
@@ -719,13 +737,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Using human brain activity to guide machine learning](https://www.nature.com/articles/s41598-018-23618-6), ***Nature: Scientific Report***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12987955253653036948&hl=en&as_sdt=0,5)]
 
-* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871), ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942&hl=en&as_sdt=0,5)]
-
-* [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028), ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)]
-
 * [Unit of visual working memory: A Boolean map provides a better account than an object does](https://psycnet.apa.org/record/2019-27729-001), ***Journal of Experimental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14909735035752892020&hl=en&as_sdt=0,5)]
-
-* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)]
 
 * [The logic of universalization guides moral judgment](https://www.pnas.org/content/117/42/26158.short), ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13482051983012049752&hl=en&as_sdt=0,5)]
 
@@ -977,6 +989,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+Development%3A+an+information+processing+approach&btnG=), ***B.Blackwell***, 1991. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+development%3A+An+information+processing+approach&btnG=)]
 
+* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001), ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]
+
+* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153), ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)]
+
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001), ***Developmental Psychology***, 1981. [[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545&hl=en&as_sdt=0,5)]
 
 * [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224), ***Children Development***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380&hl=en&as_sdt=0,5)]
@@ -986,8 +1002,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Where science starts: Spontaneous experiments in preschoolers’ exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916), ***Cognition***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16321989770180281706)]
 
 * [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf), ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508&hl=en&as_sdt=2005)]
-
-* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001), ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301), ***Trends in Cognitive Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5)]
 
@@ -1002,10 +1016,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Bayesian Models of Conceptual Development: Learning as Building Models of the World](https://psyarxiv.com/aq3rp/), ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=646614032563248495&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Sticking to the Evidence? A Behavioral and Computational Case Study of Micro-Theory Change in the Domain of Magnetism](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12765), ***Cognitive Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4409900195679222965&hl=en&as_sdt=2005&sciodt=0,5)]
-
-* [Imagination and the generation of new ideas](https://www.sciencedirect.com/science/article/abs/pii/S0885201414000744), ***Cognitive Development***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=16920774374067505248&hl=en&as_sdt=2005&sciodt=0,5)]
-
-* [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](http://web.mit.edu/maxs/www/papers/cogsci_2016_vapors.pdf), ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958&hl=en&as_sdt=2005&sciodt=0,5)]
 
 * [Cognitive pragmatism: Children flexibly choose between facts and conjectures](https://junyichu.mit.edu/sites/default/files/documents/2018-05-14%20CogSci%20Final.pdf), ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6978944437676543728&hl=en&as_sdt=2005&sciodt=0,5)]
 
