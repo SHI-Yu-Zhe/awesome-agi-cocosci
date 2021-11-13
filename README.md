@@ -102,6 +102,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4), ***Synthese***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385&hl=en&as_sdt=0,5)]
 
+* [Abduction: A categorical characterization](https://www.sciencedirect.com/science/article/pii/S1570868314000895), ***Journal of Applied Logic***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=17834260152484836885&hl=en&as_sdt=2005&sciodt=0,5)]
+
 * [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744), ***Philosophy of Science***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=13895790050138832555&hl=en&as_sdt=0,5)]
 
 * [On the distinction between Peirce’s abduction and Lipton’s Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3), ***Synthese***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]
