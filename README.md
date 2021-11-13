@@ -666,6 +666,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506), ***Artificial Intelligence***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)]
 
+* [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf), ***Behavioral and Brain Sciences***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052&hl=en&as_sdt=0,5)]
+
 * [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530), ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)]
 
 * [Basic functional trade-offs in cognition: An integrative framework](https://www.sciencedirect.com/science/article/pii/S0010027718301604), ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11475742130443069967&hl=en&as_sdt=0,5)]
