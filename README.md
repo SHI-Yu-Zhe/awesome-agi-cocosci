@@ -58,6 +58,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
    * [Michael Tomasello](#mt)
    * [Judea Pearl](#jp)
    * [Susan Carey](#sc)
+   * [Daniel Kahneman](#dk)
 
 
 <span id = "p"></span>
@@ -1311,6 +1312,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 ### Susan Carey
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f), ***Oxford University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)]
+
+<span id = "dk"></span>
+### Daniel Kahneman
+
+* [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569&secret=f5e85a), ***Farrar Straus Giroux***. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3255681708785115121)]
 
 *[Back to Top](#c)
 
