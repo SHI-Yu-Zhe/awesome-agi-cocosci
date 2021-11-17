@@ -8,7 +8,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 **Academic Tools:** [[BibTex Template](BibTex/template.bib)]
 
 <span id = "c"></span>
-## Table of Contents
+## Contents
 
 * [Papers](#p)
    * [Abduction](#abd)
