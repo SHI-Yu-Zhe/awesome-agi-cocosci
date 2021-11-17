@@ -14,8 +14,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "c"></span>
 ## Contents
-
-- [Awesome Artificial General Intelligence and Computational Cognitive Sciences ![Awesome](https://awesome.re)](#awesome-artificial-general-intelligence-and-computational-cognitive-sciences-)
   - [Contents](#contents)
   - [Papers](#papers)
     - [Abduction](#abduction)
