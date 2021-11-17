@@ -95,6 +95,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf), ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465&hl=en&as_sdt=0,5)]
 
+* [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001), ***Journal of Experimental Psychology***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201)]
+
 * [How explanation guides belief change](https://www.sciencedirect.com/science/article/pii/S1364661321001790), ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15240531165875981526&hl=en&as_sdt=2005&sciodt=2005)]
 
 * [Use of current explanations in multicausal abductive reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2506_2), ***Cognitive Science***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=7816050625957759346&hl=en&as_sdt=2005&sciodt=0,5)]
