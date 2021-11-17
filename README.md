@@ -10,7 +10,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "c"></span>
 ## Contents
 
-* [Papers](#p)
+//* [Papers](#p)
+### Papers
    * [Abduction](#abd)
       * [Computational Explanation](#compexp)
       * [Computational Scientific Discovery](#compscidsc)
@@ -43,7 +44,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
    * [Learning in the Open World](#ow)
    * [Tasks & Environments](#te)
 
-* [Institute & Researcher](#r&l)
+### Institute & Researcher
+//* [Institute & Researcher](#r&l)
    * [MIT](#mit)
    * [Stanford](#stfd)
    * [Princeton](#prct)
@@ -53,7 +55,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
    * [NYU](#nyu)
    * [BIGAI](#bigai)
 
-* [People & Book](#bk)
+### People & Book
+//* [People & Book](#bk)
    * [Ulf Grenander](#ug)
    * [Michael Tomasello](#mt)
    * [Judea Pearl](#jp)
