@@ -1205,6 +1205,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "stfd"></span>
 ### Stanford
 
+* [Michael Frank](https://web.stanford.edu/~mcfrank/), [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/).
+
 * [Noah Goodman](https://cocolab.stanford.edu/ndg.html), [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/).
 
 * [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/).
