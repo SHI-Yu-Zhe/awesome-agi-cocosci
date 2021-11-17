@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="250" height="175" src="assets/abd_map.png" alt="Roadmap of studying Abduction">
+	<img width="400" height="253" src="assets/abd_map.png" alt="Roadmap of studying Abduction">
 </div>
 
 # Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
