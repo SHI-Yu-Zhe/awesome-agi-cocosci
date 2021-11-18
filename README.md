@@ -61,6 +61,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     - [Judea Pearl](#judea-pearl)
     - [Susan Carey](#susan-carey)
     - [Daniel Kahneman](#daniel-kahneman)
+    - [Karl Popper](#kpp)
 
 
 <span id = "p"></span>
@@ -1327,10 +1328,17 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44), ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=)]
 
+*[Back to Top](#c)
+
 <span id = "dk"></span>
 ### Daniel Kahneman
 
 * [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569&secret=f5e85a), ***Farrar Straus Giroux***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3255681708785115121)]
+
+*[Back to Top](#c)
+
+<span id = "kpp"></span>
+### Karl Popper
 
 *[Back to Top](#c)
 
