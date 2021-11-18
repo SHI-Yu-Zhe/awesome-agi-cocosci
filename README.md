@@ -1273,22 +1273,22 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "nyu"></span>
 ### NYU
 
-* [Brenden Lake](https://cims.nyu.edu/~brenden/), [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/).
+* [Brenden Lake](https://cims.nyu.edu/~brenden/) - ***NYU***, [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/) - ***NYU***.
 
-* [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html), [Computation & Cognition Lab](http://gureckislab.org/).
+* [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***NYU***, [Computation & Cognition Lab](http://gureckislab.org/) - ***NYU***.
 
-* [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html), [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/).
+* [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***NYU***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***NYU***.
 
 <!--*[Back to Top](#c)-->
 
 <span id = "bigai"></span>
 ### BIGAI
 
-* [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/).
+* [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/) - ***Beijing***.
 
-* [Yixin Zhu](https://yzhu.io/).
+* [Yixin Zhu](https://yzhu.io/) - ***BIGAI***.
 
-* [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
+* [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***BIGAI***.
 
 <!--*[Back to Top](#c)-->
 
