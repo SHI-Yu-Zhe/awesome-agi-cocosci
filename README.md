@@ -1199,13 +1199,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***NSF***.
 
-* [Josh Tenenbaum](https://cocosci.mit.edu/josh), [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+* [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
-* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe), [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***MIT***, [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
-* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz), [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***MIT***, [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/), [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***CSAIL, CBMM, MIT***.
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***CSAIL, CBMM, MIT***.
 
 * [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford, JHU***.
 
@@ -1214,11 +1214,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "stfd"></span>
 ### Stanford
 
-* [Michael Frank](https://web.stanford.edu/~mcfrank/), [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
+* [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Noah Goodman](https://cocolab.stanford.edu/ndg.html), [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Stanford***.
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
 
 * [Jiajun Wu](https://jiajunwu.com/) - ***Department of Computer Science, Stanford***.
 
@@ -1227,9 +1227,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "prct"></span>
 ### Princeton
 
-* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo), [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
+* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
 
-* [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php), [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
+* [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
 
 <!--*[Back to Top](#c)-->
 
@@ -1238,35 +1238,35 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/) - ***UCLA***.
 
-* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html), [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, UCLA***.
+* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, UCLA***.
 
-* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing), [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***.
+* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***.
 
-* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html), [Cognitive Systems Lab](http://bayes.cs.ucla.edu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
+* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) - ***UCLA***, [Cognitive Systems Lab](http://bayes.cs.ucla.edu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
 
 <!--*[Back to Top](#c)-->
 
 <span id = "ucb"></span>
 ### UC Berkeley
 
-* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
+* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***UCB***, [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
 
-* [Alison Gopnik](http://alisongopnik.com/), [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***Department of Psychology, UCB***.
+* [Alison Gopnik](http://alisongopnik.com/) - ***UCB***, [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***Department of Psychology, UCB***.
 
-* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/), [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***Department of Psychology, UCB***.
+* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) - ***UCB***, [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***Department of Psychology, UCB***.
 
-* [Celeste Kidd](http://www.celestekidd.com/), [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
+* [Celeste Kidd](http://www.celestekidd.com/) - ***UCB***, [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
 
 <!--*[Back to Top](#c)-->
 
 <span id = "ucsd"></span>
 ### UCSD
 
-* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html), [Cognitive Tools Lab](https://cogtoolslab.github.io/).
+* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***UCSD***.
 
-* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/), [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm).
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
 
-* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html), [Computational Cognition Lab](http://www.evullab.org/index.html).
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
 
 <!--*[Back to Top](#c)-->
 
