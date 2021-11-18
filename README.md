@@ -1197,11 +1197,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "mit"></span>
 ### MIT
 
-* [Center for Brains, Minds and Machines (CBMM)].(https://cbmm.mit.edu/) - ***NSF***.
+* [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***NSF***.
 
-* [Josh Tenenbaum](https://cocosci.mit.edu/josh), [Computational Cognitive Science Group (CoCoSci Group)].(https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+* [Josh Tenenbaum](https://cocosci.mit.edu/josh), [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
-* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe), [Social Cognitive Neuroscience Laboratory (SaxeLab)].(https://saxelab.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe), [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
 * [Laura Schulz](https://cbmm.mit.edu/about/people/schulz), [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
@@ -1216,9 +1216,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Michael Frank](https://web.stanford.edu/~mcfrank/), [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Noah Goodman](https://cocolab.stanford.edu/ndg.html), [Computation & Cognition Lab (CoCoLab)].(https://cocolab.stanford.edu/) - ***Department of Psychology, Stanford***.
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html), [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)].(https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
 
 * [Jiajun Wu](https://jiajunwu.com/) - ***Department of Computer Science, Stanford***.
 
@@ -1236,11 +1236,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "ucla"></span>
 ### UCLA
 
-* [Center for Vision, Cognition, Learning and Autonomy (VCLA)].(http://vcla.stat.ucla.edu/) - ***UCLA***.
+* [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/) - ***UCLA***.
 
 * [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html), [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, UCLA***.
 
-* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing), [Computational Vision and Learning Lab (CVL)].(http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***..
+* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing), [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***.
 
 * [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html), [Cognitive Systems Lab](http://bayes.cs.ucla.edu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
 
@@ -1249,11 +1249,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "ucb"></span>
 ### UC Berkeley
 
-* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (Xu Lab)].(https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
+* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
 
-* [Alison Gopnik](http://alisongopnik.com/), [Cognitive Development & Learning Lab (Gopnik Lab)].(http://www.gopniklab.berkeley.edu/) - ***Department of Psychology, UCB***.
+* [Alison Gopnik](http://alisongopnik.com/), [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***Department of Psychology, UCB***.
 
-* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/), [The computation and language lab (colala)].(http://colala.berkeley.edu/) - ***Department of Psychology, UCB***.
+* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/), [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***Department of Psychology, UCB***.
 
 * [Celeste Kidd](http://www.celestekidd.com/), [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
 
@@ -1264,7 +1264,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html), [Cognitive Tools Lab](https://cogtoolslab.github.io/).
 
-* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/), [Machine Learning, Perception, and Cognition Lab (mlPC)].(https://pages.ucsd.edu/~ztu/Group.htm).
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/), [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm).
 
 * [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html), [Computational Cognition Lab](http://www.evullab.org/index.html).
 
@@ -1273,7 +1273,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "nyu"></span>
 ### NYU
 
-* [Brenden Lake](https://cims.nyu.edu/~brenden/), [Human & Machine Learning Lab (Lake Lab)].(https://lake-lab.github.io/).
+* [Brenden Lake](https://cims.nyu.edu/~brenden/), [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/).
 
 * [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html), [Computation & Cognition Lab](http://gureckislab.org/).
 
@@ -1284,7 +1284,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "bigai"></span>
 ### BIGAI
 
-* [Beijing Institute for General Artificial Intelligence (BIGAI)].(https://bigai.ai/).
+* [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/).
 
 * [Yixin Zhu](https://yzhu.io/).
 
