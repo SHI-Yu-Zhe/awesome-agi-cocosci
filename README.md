@@ -16,7 +16,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 ## Contents
 - [Papers](#papers)
     - [Abduction](#abduction)
-      - [Computational Explanation](#computational-explanation)
+      //- [Computational Explanation](#computational-explanation)
       - [Computational Scientific Discovery](#computational-scientific-discovery)
       - [Applications in AI](#applications-in-ai)
     - [Bayesian Modeling & Learning](#bayesian-modeling--learning)
