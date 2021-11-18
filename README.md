@@ -15,7 +15,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "c"></span>
 ## Contents
 * [Papers](#papers)
-    * [Abduction](#abd)
+    * [Abduction](#abduction)
       <!--* [Computational Explanation](#compexp)
       * [Computational Scientific Discovery](#compscidsc)
       * [Applications in AI](#abdappai)-->
