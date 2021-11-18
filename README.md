@@ -2,7 +2,7 @@
 	<img width="400" height="253" src="assets/abd_map.png" alt="Roadmap of studying Abduction">
 </div>
 
-# Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)].(https://awesome.re)
+# Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An **awesome & curated** list for **Artificial General Intelligence**, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences as majority, alone with probability and mathematical statistics, formal logic, cognitive and developmental psychology, computational philosophy, cognitive neuroscience, and computational sociology. We are promoting high-level machine intelligence by getting inspirations from the way that human learns and thinks, while obtaining a deeper understanding of human cognition simultaneously. We believe that this kind of reciprocative research is a potential way towards our big picture: building intelligent agents with the capacity to handle human-level tasks such as abstracting, explaining, learning, planning, and making decisions.
 
