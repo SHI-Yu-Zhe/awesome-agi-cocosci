@@ -19,7 +19,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       <!--* [Computational Explanation](#compexp)
       * [Computational Scientific Discovery](#compscidsc)
       * [Applications in AI](#abdappai)-->
-    * [Bayesian Modeling & Learning](#bml)
+    * [Bayesian Modeling & Learning](#bayesian-modeling--learning)
     * [Learning with Cognitive Plausibility](#lcp)
     * [Communications & Pragmatics](#prgcomm)
       <!--* [Non-Verbal Communication](#nvcomm)
