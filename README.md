@@ -206,7 +206,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964) - ***AAAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7355960657107994022&hl=en&as_sdt=0,5)]
 
-* [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)]
+* [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)]
 
 * [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5)]
 
@@ -254,7 +254,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Gestalt Psychology](https://link.springer.com/article/10.1007/BF00422382) - ***Psychologische Forschung***, 1967. [[All Versions](https://scholar.google.com/scholar?cluster=16023098380090751616&hl=en&as_sdt=0,5)]
 
-* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) ***Annual Review of Psychology***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)]
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***Annual Review of Psychology***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)]
 
 * [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5)]
 
@@ -276,7 +276,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874) - ***ICML'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10708180947310062390&hl=en&as_sdt=0,5)]
 
-* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092), 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477&hl=en&as_sdt=0,5)]
+* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477&hl=en&as_sdt=0,5)]
 
 * [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***Cognition***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915&hl=en&as_sdt=0,5)]
 
@@ -302,11 +302,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6207193649298787857&hl=en&as_sdt=0,5)]
 
-* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147&hl=en&as_sdt=0,5)]
+* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147&hl=en&as_sdt=0,5)]
 
 * [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772) - ***CVPR'09***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6853730684095116174&hl=en&as_sdt=0,5)]
 
-* [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257&hl=en&as_sdt=0,5)]
+* [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -382,7 +382,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]
 
-* [Human Problem Solving](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5) - ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
+* [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]
 
 * [Learning to Solve Problems: A Handbook for Designing Problem-Solving Learning Environments](http://196.223.158.148/bitstream/handle/123456789/2978/596.pdf?sequence=1&isAllowed=y) - ***Taylorfrancis***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=13262690779319271809&hl=en&as_sdt=2005&sciodt=0,5)]
 
@@ -440,15 +440,15 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning to act: qualitative learning of deterministic action models](https://academic.oup.com/logcom/article-abstract/28/2/337/4695480) - ***Journal of Logic and Computation***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14570482854600886953&hl=en&as_sdt=0,5)]
 
-* [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)]
+* [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)]
 
-* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)]
+* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)]
 
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)] [[Project](https://sites.google.com/view/virtualtoolsgame/home)] [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]
 
 * [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)]
 
-* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)]
+* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)]
 
 * [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127) - ***Robotics and Automation Letters***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=3140653562829320759&hl=en&as_sdt=0,5)]
 
@@ -480,9 +480,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=18074632043038701502&hl=en&as_sdt=0,5)]
 
-* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288&hl=en&as_sdt=0,5)] [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
+* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288&hl=en&as_sdt=0,5)] [[slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)] [[code](https://github.com/AbductiveLearning/ABL-HED)]
 
-* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) ***Science China Information Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8541635351775190855&hl=en&as_sdt=0,5)]
+* [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) - ***Science China Information Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8541635351775190855&hl=en&as_sdt=0,5)]
 
 * [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf) - ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7027142960863064076&hl=en&as_sdt=0,5)]
 
@@ -561,7 +561,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007&hl=en&as_sdt=0,5)] [[Project](https://github.com/LAMDA-NJU/Deep-Forest)]
 
-* [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf), 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923&hl=en&as_sdt=0,5)]
+* [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf) - 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923&hl=en&as_sdt=0,5)]
 
 * [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183&hl=en&as_sdt=0,5)]
 
@@ -614,7 +614,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf) - ***RSS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4316276917607326251&hl=en&as_sdt=0,5)]
 
-* [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://www.biorxiv.org/content/10.1101/2021.07.08.451333v1), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702&hl=en&as_sdt=0,5)]
+* [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://www.biorxiv.org/content/10.1101/2021.07.08.451333v1) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -625,7 +625,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***Knowledge and cognition***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)]
 
-* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) ***Annual Review of Psychology***, 2017.
+* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017.
 
 * [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short) - ***Proceedings of National Academy of Sciences***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11085043350027609187&hl=en&as_sdt=0,5)]
 
@@ -731,7 +731,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)]
 
-* [The Bayesian Brain: An Introduction to Predictive Processing](https://www.mindcoolness.com/blog/bayesian-brain-predictive-processing/), 2018. 
+* [The Bayesian Brain: An Introduction to Predictive Processing](https://www.mindcoolness.com/blog/bayesian-brain-predictive-processing/) - 2018. 
 
 * [Machine theory of mind](http://proceedings.mlr.press/v80/rabinowitz18a/rabinowitz18a.pdf) - ***ICML'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6267278380616425333&hl=en&as_sdt=0,5)]
 
@@ -739,9 +739,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371) - ***Topics in Cognitive Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15919410726494658168&hl=en&as_sdt=0,5)]
 
-* [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation](http://export.arxiv.org/pdf/2011.09854), 2020. [[All Versions](https://scholar.google.com/scholar?cluster=18369106870663956780&hl=en&as_sdt=0,5)]
+* [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation](http://export.arxiv.org/pdf/2011.09854) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=18369106870663956780&hl=en&as_sdt=0,5)]
 
-* [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587&hl=en&as_sdt=0,5)] [[Project](http://www.github.com/julianje/bishop)]
+* [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587&hl=en&as_sdt=0,5)] [[Project](http://www.github.com/julianje/bishop)]
 
 * [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204&hl=en&as_sdt=0,5)]
 
@@ -749,7 +749,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574) - ***AAAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6755247312077985817&hl=en&as_sdt=0,5)]
 
-* [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) ***Emotion***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9634378462684744548&hl=en&as_sdt=0,5)]
+* [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) - ***Emotion***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9634378462684744548&hl=en&as_sdt=0,5)]
 
 * [Waiting and weighting: Information sampling is a balance between efficiency and error-reduction](https://linkinghub.elsevier.com/retrieve/pii/S0010027712002235) - ***Cognition***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=12787722822882067638&hl=en&as_sdt=0,5)]
 
@@ -805,7 +805,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/) - ***Plato Stanford***.
 
-* [Causal Reasoning](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5) - ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)]
+* [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)]
 
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036) - ***Communication of the ACM***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13296019510897277617&hl=en&as_sdt=0,5)]
 
@@ -821,9 +821,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Constraints on Hypothesis Selection in Causal Learning](https://cogsci.mindmodeling.org/2015/papers/0418/paper0418.pdf) - ***CogSci'15***, 2015. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=16920774374067505248&scipsc=&q=Constraints+on+hypothesis+selection+in+causal+learning&btnG=)]
 
-* [What happened? Reconstructing the past through vision and sound](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d0TfP8EAAAAJ&sortby=pubdate&citation_for_view=d0TfP8EAAAAJ:S16KYo8Pm5AC), 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12975579257004398798)]
+* [What happened? Reconstructing the past through vision and sound](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d0TfP8EAAAAJ&sortby=pubdate&citation_for_view=d0TfP8EAAAAJ:S16KYo8Pm5AC) - 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12975579257004398798)]
 
-* [How do people generalize causal relations over objects? A non-parametric Bayesian account](https://psyarxiv.com/x57hf/), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9078127785707706032&hl=en&as_sdt=0,5)]
+* [How do people generalize causal relations over objects? A non-parametric Bayesian account](https://psyarxiv.com/x57hf/) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9078127785707706032&hl=en&as_sdt=0,5)]
 
 *[Back to Top](#c)
 
@@ -834,7 +834,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)]
 
-* [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)] [[Project](http://visualcommonsense.com/)]
+* [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15467433880059136365&hl=en&as_sdt=0,5)] [[Project](http://visualcommonsense.com/)]
 
 * [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/pdf/1911.11641.pdf) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10110424163152713144&hl=en&as_sdt=0,5)]
 
@@ -907,11 +907,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Finitely Generated Groups and First-Order Logic](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024610704006106) - ***Journal of The London Mathematical Society-second Series***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=3457158221419711506&hl=en&as_sdt=0,5)]
 
-* [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381), 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844&hl=en&as_sdt=0,5)]
+* [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844&hl=en&as_sdt=0,5)]
 
 * [Leveraging Language for Abstraction and Program Search](https://vigilworkshop.github.io/static/papers-2021/25.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Language+for+Abstraction+and+Program+Search&btnG=)]
 
-* [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269&hl=en&as_sdt=0,5)]
+* [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269&hl=en&as_sdt=0,5)]
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?lookup=0&q=Learning+Part-Based+Abstractions+for+Visual+Object+Concepts&hl=en&as_sdt=0,5)]
 
@@ -990,7 +990,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Connecting perceptual and procedural abstractions in physical construction](https://escholarship.org/uc/item/9j00x928) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Connecting+perceptual+and+procedural+abstractions+in+physical+construction&btnG=)]
 
-* [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17431019238600295521&hl=en&as_sdt=0,5)]
+* [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17431019238600295521&hl=en&as_sdt=0,5)]
 
 * [Introduction to The Fluent Calculus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.4086&rep=rep1&type=pdf) - ***Linkoeping University Electronic Press***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=12069059079023496731&hl=en&as_sdt=0,5)]
 
@@ -998,7 +998,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NIPS_2013.pdf) - ***NIPS'13***, 2013. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4354984630817844670)]
 
-* [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt), 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246&hl=en&as_sdt=0,5)]
+* [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246&hl=en&as_sdt=0,5)]
 
 * [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=8852566070856662412)]
 
@@ -1021,7 +1021,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***Developmental Psychology***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)]
 
-* [Where science starts: Spontaneous experiments in preschoolers’ exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916) - ***Cognition***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16321989770180281706)]
+* [Where science starts: Spontaneous experiments in preschoolers' exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916) - ***Cognition***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16321989770180281706)]
 
 * [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508&hl=en&as_sdt=2005)]
 
@@ -1055,7 +1055,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Childhood as a solution to explore–exploit tensions](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0502) - ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11960188575664977017&hl=en&as_sdt=2005&sciodt=0,5)]
 
-* [Children’s exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)]
+* [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)]
 
 * [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***Child Development***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)]
 
@@ -1074,11 +1074,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542) - ***CVPR'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3571743951915089896&hl=en&as_sdt=0,5)]
 
-* [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf)  - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346&hl=en&as_sdt=0,5)]
+* [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346&hl=en&as_sdt=0,5)]
 
 * [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11617966867048191189&hl=en&as_sdt=0,5)]
 
-* [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf), 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2640432662088551010&hl=en&as_sdt=0,5)]
+* [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2640432662088551010&hl=en&as_sdt=0,5)]
 
 * [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576&hl=en&as_sdt=0,5)] [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)]
 
@@ -1112,7 +1112,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "te"></span>
+<!--<span id = "te"></span>
 ### Tasks & Environments
 
 #### Dataset Aggregation
@@ -1188,7 +1188,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070) - ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial'20***, 2020.
 
-*[Back to Top](#c)
+*[Back to Top](#c)-->
 
 
 <span id = "r&l"></span>
@@ -1197,65 +1197,65 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "mit"></span>
 ### MIT
 
-* [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/).
+* [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***NSF***.
 
-* [Josh Tenenbaum](https://cocosci.mit.edu/josh), [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/).
+* [Josh Tenenbaum](https://cocosci.mit.edu/josh), [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
-* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe), [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/).
+* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe), [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
-* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz), [Early Childhood Cognition Lab](https://eccl.mit.edu/).
+* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz), [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/), [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/).
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/), [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***CSAIL, CBMM, MIT***.
 
-* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford, JHU...***
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford, JHU***.
 
 *[Back to Top](#c)
 
 <span id = "stfd"></span>
 ### Stanford
 
-* [Michael Frank](https://web.stanford.edu/~mcfrank/), [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/).
+* [Michael Frank](https://web.stanford.edu/~mcfrank/), [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Noah Goodman](https://cocolab.stanford.edu/ndg.html), [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/).
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html), [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/).
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/), [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Jiajun Wu](https://jiajunwu.com/).
+* [Jiajun Wu](https://jiajunwu.com/) - ***Department of Computer Science, Stanford***.
 
 *[Back to Top](#c)
 
 <span id = "prct"></span>
 ### Princeton
 
-* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo), [Concepts & Cognition Lab](https://cognition.princeton.edu/).
+* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo), [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
 
-* [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php), [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php).
+* [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php), [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
 
 *[Back to Top](#c)
 
 <span id = "ucla"></span>
 ### UCLA
 
-* [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/).
+* [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/) - ***UCLA***.
 
-* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html), [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html).
+* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html), [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, UCLA***.
 
-* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing), [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/).
+* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing), [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***..
 
-* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html), [Cognitive Systems Lab](http://bayes.cs.ucla.edu/).
+* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html), [Cognitive Systems Lab](http://bayes.cs.ucla.edu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
 
 *[Back to Top](#c)
 
 <span id = "ucb"></span>
 ### UC Berkeley
 
-* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell).
+* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu), [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
 
-* [Alison Gopnik](http://alisongopnik.com/), [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/).
+* [Alison Gopnik](http://alisongopnik.com/), [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***Department of Psychology, UCB***.
 
-* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/), [The computation and language lab (colala)](http://colala.berkeley.edu/).
+* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/), [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***Department of Psychology, UCB***.
 
-* [Celeste Kidd](http://www.celestekidd.com/), [Kidd Lab](https://www.kiddlab.com/).
+* [Celeste Kidd](http://www.celestekidd.com/), [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
 
 *[Back to Top](#c)
 
