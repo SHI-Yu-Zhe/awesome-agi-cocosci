@@ -14,7 +14,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "c"></span>
 ## Contents
-* [Papers](#pp)
+* [Papers](#p)
     * [Abduction](#abd)
       <!--* [Computational Explanation](#compexp)
       * [Computational Scientific Discovery](#compscidsc)
@@ -64,7 +64,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Karl Popper](#kpp)
 
 
-<span id = "pp"></span>
+<span id = "p"></span>
 ## Papers
 <span id = "abd"></span>
 ### Abduction
