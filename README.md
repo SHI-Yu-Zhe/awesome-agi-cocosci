@@ -1340,7 +1340,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "kpp"></span>
 ### Karl Popper
 
-* [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)]. [[Epitome](http://www.math.chalmers.se/~ulfp/Review/problemsolve.pdf)].
+* [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
 
 <!--*[Back to Top](#c)-->
 
