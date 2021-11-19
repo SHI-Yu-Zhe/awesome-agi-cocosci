@@ -257,8 +257,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "lcp"></span>
 ### Learning with Cognitive Plausibility
 
-* [Gestalt Psychology](https://link.springer.com/article/10.1007/BF00422382) - ***Psychologische Forschung***, 1967. [[All Versions](https://scholar.google.com/scholar?cluster=16023098380090751616&hl=en&as_sdt=0,5)].
-
 * [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***Annual Review of Psychology***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)].
 
 * [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5)].
@@ -661,6 +659,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "gestalt"></span>
 #### Gestalt
+
+* [Gestalt theory](https://psycnet.apa.org/record/2007-10344-001) - ***A source book of Gestalt psychology***, 1938. [[All Versions](https://scholar.google.com/scholar?cluster=18133275659218646817&hl=en&as_sdt=0,5)].
+
+* [Gestalt Psychology](https://link.springer.com/article/10.1007/BF00422382) - ***Psychologische Forschung***, 1967. [[All Versions](https://scholar.google.com/scholar?cluster=16023098380090751616&hl=en&as_sdt=0,5)].
 
 * [Restructuring revisited I. Summary and critique of the Gestalt theory of problem solving](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01001.x) - ***Scandinavian Journal of Psychology***, 1984. [[All Versions](https://scholar.google.com/scholar?cluster=1540079499182933565&hl=en&as_sdt=0,5)].
 
