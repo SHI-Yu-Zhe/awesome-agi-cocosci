@@ -666,6 +666,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Restructuring revisited I. Summary and critique of the Gestalt theory of problem solving](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01001.x) - ***Scandinavian Journal of Psychology***, 1984. [[All Versions](https://scholar.google.com/scholar?cluster=1540079499182933565&hl=en&as_sdt=0,5)].
 
+* [PPS: Productive Problem Solving](https://b-ok.global/book/2884765/347879) - ***Human Resource Development Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PPS%2C+Productive+Problem+Solving+RR+Carkhuff&btnG=)]
+
 * [Productive problem solving](https://psycnet.apa.org/record/1995-97533-004) - ***The creative cognition approach, MIT Press***, 1995. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=productive+problem+solving+1995&btnG=)].
 
 <!--*[Back to Top](#c)-->
