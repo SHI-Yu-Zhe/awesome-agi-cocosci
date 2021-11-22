@@ -917,6 +917,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)].
 
+* [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386&hl=en&as_sdt=0,5)]
+
 * [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf) - ***IJCAI'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=15955040483290586781&hl=en&as_sdt=0,5)].
 
 * [Finitely Generated Groups and First-Order Logic](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024610704006106) - ***Journal of The London Mathematical Society-second Series***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=3457158221419711506&hl=en&as_sdt=0,5)].
