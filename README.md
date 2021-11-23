@@ -256,6 +256,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141&hl=en&as_sdt=2005&sciodt=0,5)]
 
+* [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704&hl=en&as_sdt=2005&sciodt=0,5)]
+
 *[Back to Top](#c)
 
 <span id = "lcp"></span>
