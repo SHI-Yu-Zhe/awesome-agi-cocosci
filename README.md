@@ -472,6 +472,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5103854692762145813&hl=en&as_sdt=0,5)].
 
+* [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation](http://export.arxiv.org/pdf/2011.09854) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=18369106870663956780&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
@@ -758,8 +760,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Theory of mind as inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S2352154618302055?via%3Dihub) - ***Current Opinion in Behavioral Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=14959443239271810913&hl=en&as_sdt=0,5)].
 
 * [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371) - ***Topics in Cognitive Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15919410726494658168&hl=en&as_sdt=0,5)].
-
-* [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation](http://export.arxiv.org/pdf/2011.09854) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=18369106870663956780&hl=en&as_sdt=0,5)].
 
 * [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587&hl=en&as_sdt=0,5)]. [[Project](http://www.github.com/julianje/bishop)].
 
