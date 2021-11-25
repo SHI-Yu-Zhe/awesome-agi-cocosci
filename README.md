@@ -10,7 +10,7 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 Obviously this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of literature reviews when the author is working on Abduction, other non-Abduction topics are also collected with biases, more or less. Abduction is the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings and applications to AI. Please feel free to contact the author if you are interested in Abduction.
 
-<!--**Academic Tools:** [[BibTex Template](BibTex/template.bib)]-->
+**Academic Tools:** [[BibTex Template](BibTex/template.bib)].
 
 <span id = "c"></span>
 ## Contents
