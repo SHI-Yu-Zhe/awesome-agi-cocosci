@@ -729,8 +729,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***Plato Stanford***.
 
-* [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***.
-
 * [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/) - ***Plato Stanford***.
 
 * [The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/) - ***Plato Stanford***.
@@ -791,6 +789,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "anl"></span>
 ### Analogy
+
+* [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***.
 
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/#:~:text=Analogical%20reasoning%20is%20any%20type%20of%20thinking%20that,support%20the%20conclusion%20that%20some%20further%20similarity%20exists.) - ***Plato Stanford***.
 
