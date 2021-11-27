@@ -55,6 +55,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [MIT](#mit)
     * [Stanford](#stanford)
     * [Princeton](#princeton)
+    * [Harvard](#harvard)
     * [UCLA](#ucla)
     * [UC Berkeley](#uc-berkeley)
     * [UCSD](#ucsd)
@@ -1252,6 +1253,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
 
 * [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
+
+*[Back to Top](#c)
+
+<span id = "harvard"></span>
+### Harvard
+
+* [Tomer Ullman](https://www.tomerullman.org/) - ***Harvard***, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
 
 *[Back to Top](#c)
 
