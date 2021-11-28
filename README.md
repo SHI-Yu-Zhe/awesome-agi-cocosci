@@ -1263,6 +1263,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Tomer Ullman](https://www.tomerullman.org/) - ***Harvard***, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
 
+* [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Department of Psychology, Harvard***.
+
 *[Back to Top](#c)
 
 <span id = "ucla"></span>
