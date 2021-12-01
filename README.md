@@ -853,8 +853,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "cms"></span>
 ### Commonsense
 
-* [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)].
-
 * [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)].
 
 * [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15467433880059136365&hl=en&as_sdt=0,5)]. [[Project](http://visualcommonsense.com/)].
@@ -1031,6 +1029,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "cogdev"></span>
 ### Cognitive Development
+
+* [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)].
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***Wikipedia***.
 
