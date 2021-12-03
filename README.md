@@ -1284,8 +1284,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***.
 
-* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) - ***UCLA***, [Cognitive Systems Lab](http://bayes.cs.ucla.edu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
-
 *[Back to Top](#c)
 
 <span id = "ucb"></span>
