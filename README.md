@@ -16,32 +16,28 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Academic Tools](#academic-tools)
 * [Papers](#papers)
     * [Abduction](#abduction)
-      <!--
       * [Computational Explanation](#compexp)
       * [Computational Scientific Discovery](#compscidsc)
-      * [Applications in AI](#abdappai)-->
+      * [Applications in AI](#abdappai)
     * [Bayesian Modeling & Learning](#bayesian-modeling--learning)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
-      <!--
       * [Non-Verbal Communication](#nvcomm)
       * [Rational Speech Act](#rsa)
-      * [Language Compositionality](#lcps)-->
+      * [Language Compositionality](#lcps)
     * [Problem Solving](#problem-solving)
-      <!--
       * [Human-Level Problem Solving](#hmprobsol)
       * [Model-Based Planning](#mbplan)
       * [Model-Free Reinforcement Learning](#mfrl)
-      * [Inverse Reinforcement Learning](#irl)-->
+      * [Inverse Reinforcement Learning](#irl)
     * [Hybrid System 1 & 2](#hybrid-system-1--2)
     * [Explainability](#explainability)
     * [Embodied Intelligence](#embodied-intelligence)
     * [Human Intelligence Experiments](#human-intelligence-experiments)
     * [Metacognition](#metacognition)
-      <!--
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
-      * [Cognitive Architecture](#cogarch)-->
+      * [Cognitive Architecture](#cogarch)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
