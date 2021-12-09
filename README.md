@@ -1277,8 +1277,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Department of Psychology, Harvard***.
 
-* [Joshua Greene](https://psychology.fas.harvard.edu/people/joshua-d-greene) - ***Harvard***, [Greene Lab](https://www.joshua-greene.net/) - ***Department of Psychology, Harvard***.
-
 *[Back to Top](#c)
 
 <span id = "ucla"></span>
