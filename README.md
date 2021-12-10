@@ -443,6 +443,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [What Is the Model in Model-Based Planning?](https://onlinelibrary.wiley.com/doi/ftr/10.1111/cogs.12928) - ***Cognitive Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10598397017491369972&hl=en&scisbd=1&as_sdt=2005&sciodt=0,5)].
 
+* [Discovering State and Action Abstractions for Generalized Task and Motion Planning](https://arxiv.org/pdf/2109.11082.pdf) - ***AAAI'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1054368060554971920)].
+
 *[Back to Top](#c)
 
 <span id = "mfrl"></span>
