@@ -450,8 +450,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "mfrl"></span>
 #### Model-Free Reinforcement Learning
 
-* [On the Expressivity of Markov Reward](https://papers.nips.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211&hl=en&as_sdt=0,5)].
-
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)].
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)].
@@ -473,6 +471,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)].
 
 * [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127) - ***Robotics and Automation Letters***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=3140653562829320759&hl=en&as_sdt=0,5)].
+
+* [A Survey of Preference-Based Reinforcement Learning Methods](https://www.jmlr.org/papers/volume18/16-634/16-634.pdf) - ***Journal of Machine Learning Research***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=13278778479251450967&hl=en&as_sdt=0,5)].
+
+* [On the Expressivity of Markov Reward](https://papers.nips.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
 
