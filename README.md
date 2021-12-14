@@ -346,6 +346,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7) - ***Computational Brain & Behavior***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071&hl=en&as_sdt=0,5)].
 
+* [Emergent Graphical Conventions in a Visual Communication Game](https://arxiv.org/abs/2111.14210) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=6476453985812346727&hl=en&as_sdt=0,5)].
+
 * [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of National Academy of Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
