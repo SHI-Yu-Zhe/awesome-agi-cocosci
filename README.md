@@ -72,6 +72,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***Courses on CoCoSci from MIT, Harvard, Stanford, and JHU***.
 
+* [Probabilistic Models of Cognition](https://probmods.org/) - ***The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models***.
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
