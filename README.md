@@ -332,6 +332,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444&hl=en&as_sdt=0,5)].
 
+* [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001), ***Journal of Experimental Psychology***, 1995. [[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "prgmcomm"></span>
