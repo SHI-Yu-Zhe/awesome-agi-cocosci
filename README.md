@@ -703,6 +703,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Restructuring revisited I. Summary and critique of the Gestalt theory of problem solving](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01001.x) - ***Scandinavian Journal of Psychology***, 1984. [[All Versions](https://scholar.google.com/scholar?cluster=1540079499182933565&hl=en&as_sdt=0,5)].
 
+* [Restructuring revisited II. An information processing theory of restructuring and insight](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01005.x) - ***Scandinavian Journal of Psychology***, 1984. [[All Versions](https://scholar.google.com/scholar?cluster=1821980539002417470&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "r&r"></span>
