@@ -20,6 +20,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Computational Scientific Discovery](#compscidsc)
       * [Applications in AI](#abdappai)
     * [Bayesian Modeling & Learning](#bayesian-modeling--learning)
+      * [Bayesian Induction](#bayesian-induction)
+      * [Nonparametric Model](#nonparametric-model)
+      * [Bayesian Optimization](#bayesian-optimization)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
       * [Non-Verbal Communication](#nvcomm)
@@ -231,6 +234,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "bml"></span>
 ### Bayesian Modeling & Learning
 
+<span id = "bayesian-induction"></span>
+#### Bayesian Induction
+
 * [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) - ***Plato Stanford***. 
 
 * [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) - ***Nature***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744&hl=en&as_sdt=0,5)].
@@ -238,10 +244,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***Behavioral and Brain Sciences***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565&hl=en&as_sdt=0,5)].
 
 * [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NIPS'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794&hl=en&as_sdt=0,5&as_vis=1)].
-
-* [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046&hl=en&as_sdt=0,5)].
-
-* [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***Statistical Science***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
 * [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343) - ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446&hl=en&as_sdt=0,5)].
 
@@ -252,6 +254,15 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Human-level concept learning through probabilistic program induction.](https://science.sciencemag.org/content/sci/350/6266/1332.full.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)].
 
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+<span id = "infinite-model"></span>
+#### Nonparametric Model
+
+* [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046&hl=en&as_sdt=0,5)].
+
+* [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***Statistical Science***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
 * [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5)].
 
@@ -268,6 +279,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704&hl=en&as_sdt=2005&sciodt=0,5)].
+
+*[Back to Top](#c)
+
+<span id "bayesian-optimization"></span>
+#### Bayesian Optimization
 
 * [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf) - ***NIPS'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705&hl=en&as_sdt=0,5)].
 
