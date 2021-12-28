@@ -21,6 +21,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Applications in AI](#abdappai)
     * [Bayesian Modeling & Learning](#bayesian-modeling--learning)
       * [Bayesian Induction](#bayesian-induction)
+      * [Generative Model](#generative-model)
       * [Nonparametric Model](#nonparametric-model)
       * [Bayesian Optimization](#bayesian-optimization)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
@@ -256,6 +257,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
+
+<span id = "generative-modeling"></span>
+#### Generative Model
+
+
 
 <span id = "nonparametric-model"></span>
 #### Nonparametric Model
