@@ -261,7 +261,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "generative-modeling"></span>
 #### Generative Model
 
+* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774)].
 
+*[Back to Top](#c)
 
 <span id = "nonparametric-model"></span>
 #### Nonparametric Model
