@@ -978,10 +978,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Meta-Interpretive Learning as Metarule Specialisation](https://arxiv.org/pdf/2106.07464.pdf) - ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14684315775211086859&hl=en&as_sdt=0,5)].
 
-* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)].
-
-* [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465)].
-
 * [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386&hl=en&as_sdt=0,5)]
 
 * [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf) - ***IJCAI'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=15955040483290586781&hl=en&as_sdt=0,5)].
@@ -1030,6 +1026,12 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/) - ***Plato Stanford***.
 
 * [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic) - ***Wikipedia***.
+
+* [Commonsense reasoning about causality: Deriving behavior from structure](https://www.sciencedirect.com/science/article/abs/pii/0004370284900390) - ***Artificial Intelligence***, 1984. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14940738362673077704)].
+
+* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)].
+
+* [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465)].
 
 * [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e) - ***Synthese***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)].
 
