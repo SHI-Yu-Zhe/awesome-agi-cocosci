@@ -261,7 +261,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "generative-modeling"></span>
 #### Generative Model
 
-* [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***IJCV***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240&hl=en&as_sdt=0,5)].
+* [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***International Journal of Computer Vision***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240&hl=en&as_sdt=0,5)].
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774)].
 
