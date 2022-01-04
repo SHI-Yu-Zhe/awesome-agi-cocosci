@@ -739,6 +739,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384&hl=en&as_sdt=2005&sciodt=0,5)].
 
+* [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***Cambridge University Press***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=231021877034210140)].
+
 *[Back to Top](#c)
 
 <span id = "r&r"></span>
