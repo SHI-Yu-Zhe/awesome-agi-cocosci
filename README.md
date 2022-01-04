@@ -737,6 +737,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Restructuring revisited II. An information processing theory of restructuring and insight](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01005.x) - ***Scandinavian Journal of Psychology***, 1984. [[All Versions](https://scholar.google.com/scholar?cluster=1821980539002417470&hl=en&as_sdt=0,5)].
 
+* [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384&hl=en&as_sdt=2005&sciodt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "r&r"></span>
