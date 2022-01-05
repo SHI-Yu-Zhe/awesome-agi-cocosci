@@ -267,6 +267,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NIPS'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760&hl=en&as_sdt=0,5)].
 
+* [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) -***Predicting Structured Data, MIT Press***, 2006. [[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "nonparametric-model"></span>
