@@ -541,6 +541,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation](http://export.arxiv.org/pdf/2011.09854) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=18369106870663956780&hl=en&as_sdt=0,5)].
 
+* [Inverse Constrained Reinforcement Learning](https://proceedings.mlr.press/v139/malik21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Inverse+Constrained+Reinforcement+Learning+S+Malik&btnG=)].
+
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
