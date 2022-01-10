@@ -1402,9 +1402,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/) - ***Beijing***.
 
-* [Yixin Zhu](https://yzhu.io/) - ***BIGAI***.
+* [Yixin Zhu](https://yzhu.io/) - ***BIGAI & PKU***.
 
-* [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***BIGAI***.
+* [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***BIGAI & PKU***.
 
 *[Back to Top](#c)
 
