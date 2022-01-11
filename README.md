@@ -910,8 +910,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5)].
 
-* [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***Proceedings of the Royal Society B: Biological Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5)].
-
 * [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11606362305211066214&hl=en&as_sdt=0,5)].
@@ -923,6 +921,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [How do people generalize causal relations over objects? A non-parametric Bayesian account](https://psyarxiv.com/x57hf/) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9078127785707706032&hl=en&as_sdt=0,5)].
 
 * [Causal Reasoning in Rats](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/2006_science.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=17987039255457850949&hl=en&as_sdt=0,5)].
+
+* [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***Proceedings of the Royal Society B: Biological Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
 
