@@ -267,6 +267,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Minimax entropy principle and its application to texture modeling](https://www.dam.brown.edu/people/mumford/vision/papers/1997e--MinimaxEntropy-NC.pdf) - ***Neural Computing***, 1997. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=407872717119429940)].
 
+* [Parameter Expansion for Data Augmentation](http://www.stat.ucla.edu/~ywu/research/papers/PXDA.pdf) - ***Journal of the American Statistical Association***, 1999. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15342818142955984734)].
+
 * [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491&hl=en&as_sdt=0,5)].
 
 * [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NIPS'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760&hl=en&as_sdt=0,5)].
