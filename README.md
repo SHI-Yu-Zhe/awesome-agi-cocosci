@@ -1160,8 +1160,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Explore, Exploit, Create: Inventing goals in play](https://escholarship.org/uc/item/3rt5512s) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=8024407177006571407)].
-
 * [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003) - ***Developmental Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914&hl=en&as_sdt=0,5)].
 
 * [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741) - ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017)].
