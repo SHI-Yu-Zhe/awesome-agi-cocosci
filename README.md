@@ -504,6 +504,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "mfrl"></span>
 #### Model-Free Reinforcement Learning
 
+* [Reinforcement learning: A survey](https://www.jair.org/index.php/jair/article/view/10166) - ***Journal of Artificial Intelligence Research***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4983604491168613713)].
+
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)].
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)].
