@@ -1368,7 +1368,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***.
 
-* [Guy van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
+* [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
 
 *[Back to Top](#c)
 
