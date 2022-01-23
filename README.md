@@ -1335,6 +1335,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
 
+* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Department of Computer Science, Stanford***.
+
 * [Jiajun Wu](https://jiajunwu.com/) - ***Department of Computer Science, Stanford***.
 
 *[Back to Top](#c)
