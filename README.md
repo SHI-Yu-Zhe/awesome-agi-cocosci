@@ -1449,7 +1449,7 @@ Cognitive scientist, set up the foundations of studying human communications.
 <span id = "jp"></span>
 ### Judea Pearl
 
-Statistician, proposed causal intervention on siamese bayesian networks. 
+Applied mathematician, proposed causal intervention on siamese bayesian networks. 
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***Basic Books***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)].
 
@@ -1471,6 +1471,8 @@ Developmental psychologist, proposed *object* as a core knowledge of human intel
 <span id = "dk"></span>
 ### Daniel Kahneman
 
+Computational cognitive scientist, set up the foundations for Decision Theory.
+
 * [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569&secret=f5e85a) - ***Farrar Straus Giroux***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3255681708785115121)].
 
 *[Back to Top](#c)
@@ -1478,7 +1480,7 @@ Developmental psychologist, proposed *object* as a core knowledge of human intel
 <span id = "kpp"></span>
 ### Karl Popper
 
-Scientific philosophor, the founder of the theories for scientific verification.
+Scientific philosophor, the founder of scientific verification theories.
 
 * [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
 
