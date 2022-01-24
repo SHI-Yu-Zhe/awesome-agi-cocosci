@@ -1427,6 +1427,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "ug"></span>
 ### Ulf Grenander
 
+Applied mathematician, the founder of General Pattern Theory.
+
 * [A Calculus of Ideas: A Mathematical Study of Thinking](https://www.dam.brown.edu/ptg/REPORTS/calculustext.PDF) - ***World Scientific Publishing Company***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=12182416000849265255&hl=en&as_sdt=0,5)].
 
 * [General Pattern Theory: A Mathematical Study of Regular Structures](https://global.oup.com/academic/product/general-pattern-theory-9780198536710?cc=lt&lang=de#) - ***Oxford University Press***, 1993. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=General+Pattern+Theory&btnG=)].
@@ -1435,6 +1437,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "mt"></span>
 ### Michael Tomasello
+
+Cognitive scientist, set up the foundations of studying human communications. 
 
 * [Origins of human communication](https://1lib.net/book/541274/39859f) - ***MIT Press***, 2010. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2553369883266458474)].
 
@@ -1445,6 +1449,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "jp"></span>
 ### Judea Pearl
 
+Statistician, proposed causal intervention on siamese bayesian networks. 
+
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***Basic Books***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)].
 
 * [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***Cambridge University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
@@ -1453,6 +1459,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "sc"></span>
 ### Susan Carey
+
+Developmental psychologist, proposed *object* as a core knowledge of human intelligence. 
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***Oxford University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)].
 
@@ -1469,6 +1477,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "kpp"></span>
 ### Karl Popper
+
+Scientific philosophor, the founder of the theories for scientific verification.
 
 * [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
 
