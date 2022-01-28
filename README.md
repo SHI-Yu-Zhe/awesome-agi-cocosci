@@ -472,7 +472,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***Trends in Cognitive Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5)].
 
+* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)]. [[Project](https://sites.google.com/view/virtualtoolsgame/home)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)].
+
 * [Learning physical parameters from dynamic scenes](https://www.sciencedirect.com/science/article/abs/pii/S0010028517301822) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5103729321433959736&hl=en&as_sdt=0,5)].
+
+* [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
+
+* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)].
 
 * [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236) - ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)].
 
@@ -525,12 +531,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)].
 
 * [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)].
-
-* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)]. [[Project](https://sites.google.com/view/virtualtoolsgame/home)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)].
-
-* [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
-
-* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)].
 
 * [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127) - ***Robotics and Automation Letters***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=3140653562829320759&hl=en&as_sdt=0,5)].
 
