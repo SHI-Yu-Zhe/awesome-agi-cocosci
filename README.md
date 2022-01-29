@@ -1077,6 +1077,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic) - ***Wikipedia***.
 
+* [The Perception of Relations](https://perception.jhu.edu/files/PDFs/21_Relations/HafriFirestone_2021_SeeingRelations_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12190078466818849725&hl=en&as_sdt=2005&sciodt=0,5)].
+
 * [Commonsense reasoning about causality: Deriving behavior from structure](https://www.sciencedirect.com/science/article/abs/pii/0004370284900390) - ***Artificial Intelligence***, 1984. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14940738362673077704)].
 
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)].
