@@ -961,6 +961,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "intuitive-physics"></span>
 #### Intuitive Physics
 
+* [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)].
+
 *[Back to Top](#c)
 
 *[Back to Top](#c)
