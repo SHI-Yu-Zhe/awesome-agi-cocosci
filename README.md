@@ -47,6 +47,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Causality](#causality)
     * [Commonsense](#commonsense)
       * [Intuitive Physics](#intuitive-physics)
+      * [Commonsense Reasoning](#commonsense-reasoning)
     * [Inductive Logic & Program Synthesis](#inductive-logic--program-synthesis)
     * [Knowledge Representation](#knowledge-representation)
     * [Cognitive Development](#cognitive-development)
@@ -942,6 +943,16 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "cms"></span>
 ### Commonsense
 
+<span id = "intuitive-physics"></span>
+#### Intuitive Physics
+
+* [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)].
+
+*[Back to Top](#c)
+
+<span id = "commonsense-reasoning"></span>
+#### Commonsense Reasoning
+
 * [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)].
 
 * [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15467433880059136365&hl=en&as_sdt=0,5)]. [[Project](http://visualcommonsense.com/)].
@@ -957,13 +968,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142&hl=en&as_sdt=0,5)].
 
 * [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5)].
-
-<span id = "intuitive-physics"></span>
-#### Intuitive Physics
-
-* [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)].
-
-*[Back to Top](#c)
 
 *[Back to Top](#c)
 
