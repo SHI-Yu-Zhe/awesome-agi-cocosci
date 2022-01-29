@@ -952,6 +952,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Limits on Simulation Approaches in Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S0010028521000190) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6329029167380621767)].
 
+* [Partial Mental Simulation Explains Fallacies in Physical Reasoning](https://psyarxiv.com/y4a8x/download?format=pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15541954459060383152&hl=en&as_sdt=2005)]. 
+
 *[Back to Top](#c)
 
 <span id = "commonsense-reasoning"></span>
