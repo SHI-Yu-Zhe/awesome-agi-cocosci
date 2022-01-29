@@ -472,8 +472,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)].
 
-* [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***Trends in Cognitive Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5)].
-
 * [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)]. [[Project](https://sites.google.com/view/virtualtoolsgame/home)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)].
 
 * [Learning physical parameters from dynamic scenes](https://www.sciencedirect.com/science/article/abs/pii/S0010028517301822) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5103729321433959736&hl=en&as_sdt=0,5)].
@@ -947,6 +945,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 #### Intuitive Physics
 
 * [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)].
+
+* [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***Trends in Cognitive Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5)].
 
 *[Back to Top](#c)
 
