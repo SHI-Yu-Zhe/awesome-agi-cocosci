@@ -495,8 +495,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)].
 
-* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf) - ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=5892822406285231676&hl=en&as_sdt=0,5)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)].
-
 * [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626) - ***Robotics: Science and Systems***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10342169019935480143&hl=en&as_sdt=0,5)].
 
 * [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5)].
@@ -943,6 +941,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 #### Intuitive Physics
 
 * [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)].
+
+* [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf) - ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=5892822406285231676&hl=en&as_sdt=0,5)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)].
 
 * [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***Trends in Cognitive Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5)].
 
