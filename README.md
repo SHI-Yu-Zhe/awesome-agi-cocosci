@@ -73,7 +73,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ## Academic Tools
 
-* [BibTex Template](BibTex/template.bib) - ***BibTex Template for including abbreviations of journals and conferences references***.
+* [BibTex Template](BibTex/template.bib) - ***BibTex Template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences***.
 
 * [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***Courses on CoCoSci from MIT, Harvard, Stanford, and JHU***.
 
