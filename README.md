@@ -868,6 +868,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747) - ***Proceedings of National Academy of Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15973074852436355789&hl=en&as_sdt=0,5)].
 
+* [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "anl"></span>
@@ -948,6 +950,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning physical parameters from dynamic scenes](https://www.sciencedirect.com/science/article/abs/pii/S0010028517301822) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5103729321433959736&hl=en&as_sdt=0,5)].
 
+* [Limits on Simulation Approaches in Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S0010028521000190) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6329029167380621767)].
+
 *[Back to Top](#c)
 
 <span id = "commonsense-reasoning"></span>
@@ -964,8 +968,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Abductive Commonsense Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16544200144479839958&hl=en&as_sdt=0,5)].
 
 * [VisualCOMET: Reasoning About the Dynamic Context of a Still Image](https://link.springer.com/chapter/10.1007%2F978-3-030-58558-7_30) - ***ECCV'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7681600847940772451&hl=en&as_sdt=0,5)].
-
-* [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142&hl=en&as_sdt=0,5)].
 
 * [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5)].
 
