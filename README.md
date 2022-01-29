@@ -46,6 +46,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Analogy](#analogy)
     * [Causality](#causality)
     * [Commonsense](#commonsense)
+      * [Intuitive Physics](#intuitive-physics)
     * [Inductive Logic & Program Synthesis](#inductive-logic--program-synthesis)
     * [Knowledge Representation](#knowledge-representation)
     * [Cognitive Development](#cognitive-development)
@@ -956,6 +957,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142&hl=en&as_sdt=0,5)].
 
 * [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5)].
+
+<span id = "intuitive-physics"></span>
+#### Intuitive Physics
+
+*[Back to Top](#c)
 
 *[Back to Top](#c)
 
