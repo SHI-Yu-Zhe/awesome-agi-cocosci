@@ -76,6 +76,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [BibTex Template](BibTex/template.bib) - ***BibTex Template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences***.
 
+* [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature official guideline for writing abstracts***.
+
 * [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***Courses on CoCoSci from MIT, Harvard, Stanford, and JHU***.
 
 * [Probabilistic Models of Cognition](https://probmods.org/) - ***The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models***.
