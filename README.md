@@ -34,7 +34,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Model-Based Planning](#mbplan)
       * [Model-Free Reinforcement Learning](#mfrl)
       * [Inverse Reinforcement Learning](#irl)
-    * [Hybrid System 1 & 2](#hybrid-system-1--2)
+    * [System 1 & System 2](#system-1--system-2)
     * [Explainability](#explainability)
     * [Embodied Intelligence](#embodied-intelligence)
     * [Human Intelligence Experiments](#human-intelligence-experiments)
@@ -562,7 +562,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 *[Back to Top](#c)
 
 <span id = "nsl"></span>
-### Hybrid System 1 & 2
+### System 1 & System 2
 
 * [Dual coding of knowledge in the human brain](https://www.sciencedirect.com/science/article/pii/S1364661321001765) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11751507203561842501&hl=en&as_sdt=0,5)].
 
