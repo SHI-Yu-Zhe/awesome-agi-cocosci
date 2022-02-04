@@ -594,7 +594,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://arxiv.org/abs/2006.14448) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1335404082385789329)].
 
-* [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3655502646441210453&hl=en&as_sdt=0,5)].
+* [Hybrid computing using a neural network with dynamic external memory](http://clgiles.ist.psu.edu/IST597/materials/slides/papers-memory/2016-graves.pdf) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=8100274942961380405&hl=en&as_sdt=0,5)].
+
+* [AI Feynman: A physics-inspired method for symbolic regression](https://advances.sciencemag.org/content/6/16/eaay2631/tab-pdf) - ***Science Advances***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3655502646441210453&hl=en&as_sdt=0,5)].
 
 * [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf) - ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=12691103404451941071&hl=en&as_sdt=0,5)].
 
