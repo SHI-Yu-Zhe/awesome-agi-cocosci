@@ -940,6 +940,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Constraints on Hypothesis Selection in Causal Learning](https://cogsci.mindmodeling.org/2015/papers/0418/paper0418.pdf) - ***CogSci'15***, 2015. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=16920774374067505248&scipsc=&q=Constraints+on+hypothesis+selection+in+causal+learning&btnG=)].
 
+* [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***Psychological Science***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17518200401109470519)].
+
 * [What happened? Reconstructing the past through vision and sound](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d0TfP8EAAAAJ&sortby=pubdate&citation_for_view=d0TfP8EAAAAJ:S16KYo8Pm5AC) - 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12975579257004398798)].
 
 * [How do people generalize causal relations over objects? A non-parametric Bayesian account](https://psyarxiv.com/x57hf/) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9078127785707706032&hl=en&as_sdt=0,5)].
