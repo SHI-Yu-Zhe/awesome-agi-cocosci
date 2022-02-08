@@ -882,6 +882,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142&hl=en&as_sdt=0,5)].
 
+* [Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics](https://www.tshu.io/HeiderSimmel/CogSci20/Flatland_CogSci20.pdf) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1928005249823745390&hl=en&as_sdt=0,5)].
+
 * [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16340001407726295133)].
 
 *[Back to Top](#c)
