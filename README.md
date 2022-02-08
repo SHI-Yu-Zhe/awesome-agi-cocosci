@@ -884,6 +884,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics](https://www.tshu.io/HeiderSimmel/CogSci20/Flatland_CogSci20.pdf) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1928005249823745390&hl=en&as_sdt=0,5)].
 
+* [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150&hl=en&as_sdt=0,5)]. [[Project](https://tshu.io/PHASE/)].
+
 * [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16340001407726295133)].
 
 *[Back to Top](#c)
