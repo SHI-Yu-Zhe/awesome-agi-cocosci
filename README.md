@@ -82,6 +82,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Probabilistic Models of Cognition](https://probmods.org/) - ***The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models***.
 
+* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***Guidelines for introducing a reproducible machine learning algorith***.
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
