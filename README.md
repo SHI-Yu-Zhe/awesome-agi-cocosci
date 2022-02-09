@@ -555,6 +555,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430) - ***ICML'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707&hl=en&as_sdt=0,5)].
 
+* [Bayesian Inverse Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/416.pdf) - ***IJCAI'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=4154724070362583557&hl=en&as_sdt=0,5)].
+
 * [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742) - ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9128320307925997063&hl=en&as_sdt=0,5)].
 
 * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5103854692762145813&hl=en&as_sdt=0,5)].
