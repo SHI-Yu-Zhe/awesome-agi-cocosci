@@ -15,6 +15,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 ## Contents
 * [Academic Tools](#academic-tools)
     * [Courses](#courses)
+    * [Programming](#programming)
 * [Papers](#papers)
     * [Abduction](#abduction)
       * [Computational Explanation](#compexp)
@@ -79,13 +80,17 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature official guidelines for abstracts***.
 
-* [Probabilistic Models of Cognition](https://probmods.org/) - ***The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models***.
-
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***Guidelines for introducing a reproducible machine learning algorithm***.
 
 ### Courses
 
 * [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***Courses on CoCoSci from MIT, Harvard, Stanford, and JHU***.
+
+*[Back to Top](#c)
+
+### Programming
+
+* [Probabilistic Models of Cognition](https://probmods.org/) - ***The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models***.
 
 *[Back to Top](#c)
 
