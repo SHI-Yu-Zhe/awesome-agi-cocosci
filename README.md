@@ -241,7 +241,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964) - ***AAAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7355960657107994022&hl=en&as_sdt=0,5)].
 
-* [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)].
+* [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf) - ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)].
 
 * [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5)].
 
