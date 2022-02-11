@@ -812,6 +812,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "cogarch"></span>
 #### Cognitive Architecture
 
+* [The secret life of predictive brains: what’s spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)].
+
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506) - ***Artificial Intelligence***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)].
 
 * [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052&hl=en&as_sdt=0,5)].
