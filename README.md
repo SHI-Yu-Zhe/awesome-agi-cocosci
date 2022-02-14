@@ -1468,6 +1468,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "nyu"></span>
 ### NYU
 
+* [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
+
 * [Brenden Lake](https://cims.nyu.edu/~brenden/) - ***NYU***, [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/) - ***NYU***.
 
 * [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***NYU***, [Computation & Cognition Lab](http://gureckislab.org/) - ***NYU***.
