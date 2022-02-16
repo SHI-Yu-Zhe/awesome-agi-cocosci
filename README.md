@@ -1128,6 +1128,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465)].
 
+* [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9033452473914228535)].
+
 * [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e) - ***Synthese***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)].
 
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***Knowledge Acquisition***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)].
