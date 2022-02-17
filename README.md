@@ -50,7 +50,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Causality](#causality)
     * [Commonsense](#commonsense)
       * [Intuitive Physics](#intuitive-physics)
-      * [Commonsense Reasoning](#commonsense-reasoning)
+      * [AI Commonsense Reasoning](#ai-commonsense-reasoning)
     * [Inductive Logic & Program Synthesis](#inductive-logic--program-synthesis)
     * [Knowledge Representation](#knowledge-representation)
     * [Cognitive Development](#cognitive-development)
@@ -998,7 +998,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 *[Back to Top](#c)
 
 <span id = "commonsense-reasoning"></span>
-#### Commonsense Reasoning
+#### AI Commonsense Reasoning
 
 * [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)].
 
