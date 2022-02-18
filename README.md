@@ -1272,25 +1272,25 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)].
 
-* [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf) - ***KR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1825132732653262003&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf) - ***KR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1825132732653262003&hl=en&as_sdt=0,5)].
 
-* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf) - ***WWW'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1042573079110416209&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf) - ***WWW'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1042573079110416209&hl=en&as_sdt=0,5)].
 
-* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070) - ***IJCAI'21*** 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2596179801089642923&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070) - ***IJCAI'21*** 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2596179801089642923&hl=en&as_sdt=0,5)].
 
-* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612) - ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6959320578989247472&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612) - ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6959320578989247472&hl=en&as_sdt=0,5)].
 
-* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11) - ***ECCV'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11627198158637727139&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11) - ***ECCV'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11627198158637727139&hl=en&as_sdt=0,5)].
 
-* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7363445845219257348&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7363445845219257348&hl=en&as_sdt=0,5)].
 
-* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16870815556752021056&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16870815556752021056&hl=en&as_sdt=0,5)].
 
-* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2543173389101020482&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2543173389101020482&hl=en&as_sdt=0,5)].
 
-* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5)].
 
-* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes)].
+* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
 
