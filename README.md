@@ -555,7 +555,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)].
 
-* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)].
+* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)].
+
+* [Learning to Perform Physics Experiments via Deep Reinforcement Learning](https://openreview.net/forum?id=r1nTpv9eg) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=13142558595749186250&hl=en&as_sdt=0,5)].
 
 * [Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation](https://ieeexplore.ieee.org/abstract/document/9387127) - ***Robotics and Automation Letters***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=3140653562829320759&hl=en&as_sdt=0,5)].
 
