@@ -1211,6 +1211,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***Developmental Psychology***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)].
 
+* [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&cluster=9247917261616759689)].
+
 * [Word, thought, and deed: the role of object categories in children's inductive inferences and exploratory play](https://psycnet.apa.org/record/2008-12114-008) - ***Developmental Psychology***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=13947689064550390312&hl=en&as_sdt=0,5)].
 
 * [Where science starts: Spontaneous experiments in preschoolers' exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916) - ***Cognition***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16321989770180281706)].
