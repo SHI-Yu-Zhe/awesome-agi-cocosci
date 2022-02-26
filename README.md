@@ -34,8 +34,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Language Compositionality](#lcps)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#hmprobsol)
-      * [Model-Based Planning](#mbplan)
-      * [Model-Free Reinforcement Learning](#mfrl)
+      * [Planning](#planning)
+      * [Reinforcement Learning](#reinforcement-learning)
       * [Inverse Reinforcement Learning](#irl)
     * [System 1 & System 2](#system-1--system-2)
     * [Explainability](#explainability)
@@ -511,8 +511,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "mbplan"></span>
-#### Model-Based Planning
+#### Planning
 
 * [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)].
 
@@ -530,8 +529,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "mfrl"></span>
-#### Model-Free Reinforcement Learning
+#### Reinforcement Learning
 
 * [Reinforcement learning: An introduction](https://www-inst.eecs.berkeley.edu//~cs188/sp20/assets/files/SuttonBartoIPRLBook2ndEd.pdf) - ***MIT Press***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8821915215029978039&hl=en&as_sdt=0,5)].
 
