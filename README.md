@@ -377,6 +377,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8517395712319798436&hl=en&as_sdt=0,5)].
 
+* [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801&hl=en&as_sdt=0,5)].
+
 * [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NIPS'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729&hl=en&as_sdt=0,5)].
 
 * [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172) - ***ICRA'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210&hl=en&as_sdt=0,5)].
