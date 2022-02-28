@@ -511,6 +511,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Intrinsic Exploration as Empowerment in a Richly Structured Online Game](https://psyarxiv.com/ybs7g/) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12321757821600526668)].
 
+* [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***Nature Human Behavior***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Planning
