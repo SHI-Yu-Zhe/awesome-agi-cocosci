@@ -1261,6 +1261,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Rethinking Executive Function and Its Development](https://journals.sagepub.com/doi/pdf/10.1177/1745691620904771) - ***Psychological Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16570230278367237499&hl=en&as_sdt=2005&sciodt=0,5)].
 
+* [Perception of partly occluded objects in infancy](https://www.harvardlds.org/wp-content/uploads/2017/01/Perception-of-partly-occluded-objects-in-infancy-1.pdf) - ***Cognitive Psychology***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=4182861116190610992&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "ow"></span>
