@@ -599,7 +599,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-#### Neuro-Symbolic AI
+#### Neural-Symbolic AI
 
 * [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5)].
 
