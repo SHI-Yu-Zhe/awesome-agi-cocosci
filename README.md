@@ -599,6 +599,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Two Forms of Knowledge Representations in the Human Brain](https://www.sciencedirect.com/science/article/pii/S0896627320302798) - ***Neuron***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16941965185680116049)].
 
+* [Organizational Principles of Abstract Words in the Human Brain](http://bilab.bnu.edu.cn/paper/2018/Wang_2018_Cerebral_Cortex.pdf) - ***Cerebral Cortex***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15272192531353715481)].
+
 *[Back to Top](#c)
 
 #### Neural-Symbolic AI
@@ -609,7 +611,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf) - ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7361406080192630148&hl=en&as_sdt=0,5)].
 
-* [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge.](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf) - ***AAAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14477085725208589393&hl=en&as_sdt=0,5)].
+* [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf) - ***AAAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14477085725208589393&hl=en&as_sdt=0,5)].
 
 * [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=18074632043038701502&hl=en&as_sdt=0,5)].
 
