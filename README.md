@@ -38,6 +38,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Reinforcement Learning](#reinforcement-learning)
       * [Inverse Reinforcement Learning](#irl)
     * [System 1 & System 2](#system-1--system-2)
+      * [Dual-Coding Theory](#dual-coding-theory)
+      * [Neural-Symbolic AI](#neural-symbolic-ai)
     * [Explainability](#explainability)
     * [Embodied Intelligence](#embodied-intelligence)
     * [Human Intelligence Experiments](#human-intelligence-experiments)
@@ -591,7 +593,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "nsl"></span>
 ### System 1 & System 2
 
+#### Dual-Coding Theory
+
 * [Dual coding of knowledge in the human brain](https://www.sciencedirect.com/science/article/pii/S1364661321001765) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11751507203561842501&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Neuro-Symbolic AI
 
 * [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5)].
 
