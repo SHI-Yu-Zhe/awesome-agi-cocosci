@@ -1053,6 +1053,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Verbosity: A Game for Collecting Common-Sense Facts](http://www.aladdin.cs.cmu.edu/papers/pdfs/y2006/verbosity.pdf) - ***CHI'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=7793704394155465847&hl=en&as_sdt=0,5)].
 
+* [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - ***Communications of the ACM***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595&hl=en&as_sdt=2005&sciodt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "lp"></span>
