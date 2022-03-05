@@ -1055,6 +1055,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - ***Communications of the ACM***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595&hl=en&as_sdt=2005&sciodt=0,5)].
 
+* [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "lp"></span>
