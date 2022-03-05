@@ -1026,6 +1026,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "commonsense-reasoning"></span>
 #### AI Commonsense Reasoning
 
+* [Representations of Commonsense Knowledge](https://www.sciencedirect.com/book/9781483207704/representations-of-commonsense-knowledge) - ***Morgan Kaufmann***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=8861902735724600978&hl=en&as_sdt=0,5)].
+
 * [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)].
 
 * [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/~cs125/reading/commonsenseAI.pdf) - ***Communications of the ACM***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203&hl=en&as_sdt=0,5)].
