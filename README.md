@@ -516,6 +516,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***Nature Human Behavior***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
 
+* [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Planning
