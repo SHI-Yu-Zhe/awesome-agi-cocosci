@@ -580,6 +580,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730&hl=en&as_sdt=0,5)].
 
+* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "irl"></span>
