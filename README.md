@@ -803,6 +803,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622) - ***Current Opinion in Behavioral Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)].
 
+* [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***Nature Neuroscience***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "metacog"></span>
