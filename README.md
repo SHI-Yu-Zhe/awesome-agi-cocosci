@@ -551,6 +551,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
 
+* [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Reinforcement Learning
@@ -568,8 +570,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)].
 
 * [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689) - ***ICRA'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7155333517647976638&hl=en&as_sdt=0,5)].
-
-* [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)].
 
 * [Learning to act: qualitative learning of deterministic action models](https://academic.oup.com/logcom/article-abstract/28/2/337/4695480) - ***Journal of Logic and Computation***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14570482854600886953&hl=en&as_sdt=0,5)].
 
