@@ -18,6 +18,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Programming](#programming)
     * [Paper Writing](#paper-writing)
     * [Paper Reading](#paper-reading)
+    * [Resource Organizing](#resource-organizing)
 * [Papers](#papers)
     * [Abduction](#abduction)
       * [Computational Explanation](#compexp)
