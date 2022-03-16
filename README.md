@@ -113,6 +113,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5)]. 
 
+### Resource Organizing
+
+* [How to keep up with the scientific literature](https://www.science.org/content/article/how-keep-scientific-literature) - ***Science***, 2016. Science interview on organizing scientific papers.
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
