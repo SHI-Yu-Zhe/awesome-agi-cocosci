@@ -100,13 +100,15 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature official guidelines for abstracts***.
 
+* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
+
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***Guidelines for introducing a reproducible machine learning algorithm***.
 
 *[Back to Top](#c)
 
 ### Paper Reading
 
-* [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) - ***Science***, 2016. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=How+to+%28seriously%29+read+a+scientific+paper&btnG=)].
+* [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) - ***Science***, 2016. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=How+to+%28seriously%29+read+a+scientific+paper&btnG=)]. Science interview on reading scientific papers.
 
 *[Back to Top](#c)
 
