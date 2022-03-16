@@ -115,6 +115,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5)]. 
 
+* [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
+
 ### Resource Organizing
 
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***.
