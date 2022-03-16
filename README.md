@@ -17,6 +17,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Courses](#courses)
     * [Programming](#programming)
     * [Paper Writing](#paper-writing)
+    * [Paper Reading](#paper-reading)
 * [Papers](#papers)
     * [Abduction](#abduction)
       * [Computational Explanation](#compexp)
@@ -100,6 +101,12 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature official guidelines for abstracts***.
 
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***Guidelines for introducing a reproducible machine learning algorithm***.
+
+*[Back to Top](#c)
+
+### Paper Reading
+
+* [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) - ***Science***, 2016. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=How+to+%28seriously%29+read+a+scientific+paper&btnG=)].
 
 *[Back to Top](#c)
 
