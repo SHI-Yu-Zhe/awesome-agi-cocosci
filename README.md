@@ -121,6 +121,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [How to keep up with the scientific literature](https://www.science.org/content/article/how-keep-scientific-literature) - ***Science***, 2016. Science interview on organizing scientific papers.
 
+* [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=9898832432826237365&hl=en&as_sdt=0,5)]. Perspective on handling the redundant information from scientific literature.
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
