@@ -110,6 +110,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) - ***Science***, 2016. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=How+to+%28seriously%29+read+a+scientific+paper&btnG=)]. Science interview on reading scientific papers.
 
+* [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5)]. 
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
