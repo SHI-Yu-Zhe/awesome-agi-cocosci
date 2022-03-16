@@ -115,6 +115,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Resource Organizing
 
+* [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***.
+
 * [How to keep up with the scientific literature](https://www.science.org/content/article/how-keep-scientific-literature) - ***Science***, 2016. Science interview on organizing scientific papers.
 
 *[Back to Top](#c)
