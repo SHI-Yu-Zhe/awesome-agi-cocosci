@@ -468,7 +468,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***.
 
-* [Predicting Pragmatic Reasoning in Language Games](https://science.sciencemag.org/content/336/6084/998) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5)].
+* [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5)].
 
 * [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5)].
 
