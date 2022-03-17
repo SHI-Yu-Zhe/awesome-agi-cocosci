@@ -431,7 +431,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257&hl=en&as_sdt=0,5)].
 
-* [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001), ***Journal of Experimental Psychology***, 1995. [[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472&hl=en&as_sdt=0,5)].
+* [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***Journal of Experimental Psychology***, 1995. [[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472&hl=en&as_sdt=0,5)].
+
+* [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
 
