@@ -117,6 +117,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
 
+*[Back to Top](#c)
+
 ### Resource Organizing
 
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***.
