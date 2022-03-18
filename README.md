@@ -328,6 +328,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***Predicting Structured Data, MIT Press***, 2006. [[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768&hl=en&as_sdt=0,5)].
 
+* [Unsupervised Representaton Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - ***ICLR'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3321343160055675528&hl=en&as_sdt=0,5)].
+
 * [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317&hl=en&as_sdt=0,5)].
 
 * [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444&hl=en&as_sdt=0,5)].
