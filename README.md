@@ -655,6 +655,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Dual-Coding Theory
 
+* [Mental Representations: A Dual Coding Approach](https://zh.pb1lib.org/book/1004349/825277) - ***Oxford University Press***, 1990. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=mental+representations:+a+dual+coding+approach)].
+
 * [Dual coding of knowledge in the human brain](https://www.sciencedirect.com/science/article/pii/S1364661321001765) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11751507203561842501&hl=en&as_sdt=0,5)].
 
 * [Two Forms of Knowledge Representations in the Human Brain](https://www.sciencedirect.com/science/article/pii/S0896627320302798) - ***Neuron***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16941965185680116049)].
