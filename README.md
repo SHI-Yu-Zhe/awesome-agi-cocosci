@@ -661,6 +661,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Organizational Principles of Abstract Words in the Human Brain](http://bilab.bnu.edu.cn/paper/2018/Wang_2018_Cerebral_Cortex.pdf) - ***Cerebral Cortex***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15272192531353715481)].
 
+* [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***Journal of Visualized Experiments***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Neural-Symbolic AI
