@@ -478,6 +478,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
 
+* [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579&hl=en&as_sdt=2005&sciodt=0,5)].
+
 * [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920&hl=en&as_sdt=0,5)].
 
 * [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf) - ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394&hl=en&as_sdt=0,5)].
