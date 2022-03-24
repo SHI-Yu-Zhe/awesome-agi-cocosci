@@ -99,7 +99,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [BibTex Template](BibTex/template.bib) - ***BibTex***. BibTex Template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
 
-* [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature official guidelines for abstracts***.
+* [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
 
 * [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
 
