@@ -480,6 +480,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579&hl=en&as_sdt=2005&sciodt=0,5)].
 
+* [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***Transactions of the Association for Computational Linguistics***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059&hl=en&as_sdt=2005&sciodt=0,5)].
+
 * [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920&hl=en&as_sdt=0,5)].
 
 * [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599&hl=en&as_sdt=2005)].
