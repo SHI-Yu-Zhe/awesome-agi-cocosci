@@ -97,7 +97,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Paper Writing
 
-* [BibTex Template](BibTex/template.bib) - ***BibTex***. BibTex Template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
+* [LaTex Configuration]() - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
+
+* [BibTex Template](BibTex/template.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
 
