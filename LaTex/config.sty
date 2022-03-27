@@ -1,0 +1,112 @@
+% Common packages
+\usepackage[margin=20mm]{geometry}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{cite}
+% \usepackage[linesnumbered,boxed, lined, ruled, vlined]{algorithm2e}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{acronym}
+\usepackage{tabularx,colortbl,multirow,array,makecell}
+\usepackage{overpic}
+\usepackage{cite}
+\usepackage{natbib}
+\usepackage{appendix}    
+\usepackage{mathbbol}
+\usepackage{amsmath}
+\usepackage{authblk}
+\usepackage{subfigure}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{bm}
+\usepackage{balance}
+\usepackage{xspace,setspace}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+\usepackage{tikz}
+\usetikzlibrary{positioning, calc, shapes.geometric, shapes, shapes.multipart, arrows.meta, arrows, decorations.markings, external, trees}
+\usepackage{lscape}
+\usepackage{fancyvrb}
+\usepackage{parskip}
+\usepackage{framed}
+\usepackage[utf8]{inputenc}
+\usepackage[pagebackref,breaklinks,colorlinks]{hyperref}
+\hypersetup{colorlinks=true,allcolors=gray}
+\lstset{style=mystyle}
+\pagestyle{fancy}
+\lhead{Y.-Z. Shi}
+
+
+% \usepackage[dvipsnames]{xcolor}
+
+% change the reference style
+% \renewcommand{\citepunct}{,\penalty\citepunctpenalty\,}
+% \renewcommand{\citedash}{--}
+
+\makeatletter
+\DeclareRobustCommand\onedot{\futurelet\@let@token\@onedot}
+\def\@onedot{\ifx\@let@token.\else.\null\fi\xspace}
+\def\eg{\emph{e.g}\onedot} \def\Eg{\emph{E.g}\onedot}
+\def\ie{\emph{i.e}\onedot} \def\Ie{\emph{I.e}\onedot}
+\def\cf{\emph{c.f}\onedot} \def\Cf{\emph{C.f}\onedot}
+\def\etc{\emph{etc}\onedot} \def\vs{\emph{vs}\onedot}
+\def\wrt{w.r.t\onedot} \def\dof{d.o.f\onedot}
+\def\etal{\emph{et al}\onedot}
+\makeatother
+
+\newtheorem{proof}{\hspace{2em}Proof}
+\newtheorem{lemma}{\hspace{2em}Lemma}
+\newtheorem{definition}{\hspace{2em}Definition}
+\newtheorem{proposition}{\hspace{2em}Proposition}
+
+% Handy math ops
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\kl}{KL}
+
+% Spacing
+\frenchspacing
+% \medmuskip=2mu   % reduce spacing around binary operators
+% \thickmuskip=3mu % reduce spacing around relational operators
+% \setlength{\abovedisplayskip}{0pt}
+% \setlength{\belowdisplayskip}{0pt}
+% \setlength\abovecaptionskip{0pt}
+% \setlength\belowcaptionskip{0pt}
+\setlength\floatsep{0.2\baselineskip plus 3pt minus 2pt}
+\setlength\textfloatsep{0.2\baselineskip plus 3pt minus 2pt}
+\setlength\dbltextfloatsep{0.2\baselineskip plus 3pt minus 2 pt}
+\setlength\intextsep{0.2\baselineskip plus 3pt minus 2 pt}
+
+\makeatletter
+\def\BState{\State\hskip-\ALG@thistlm}
+\makeatother
+
+
+% Handy Colors
+\definecolor{gblue}{HTML}{4285F4}
+\definecolor{gred}{HTML}{DB4437}
+
