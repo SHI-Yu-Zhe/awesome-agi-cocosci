@@ -97,7 +97,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Paper Writing
 
-* [LaTex Configuration]() - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
+* [LaTex Configuration](LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
 
 * [BibTex Template](BibTex/template.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
 
