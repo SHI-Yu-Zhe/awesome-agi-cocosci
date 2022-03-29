@@ -599,6 +599,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)].
 
+* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2015/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) - ***NIPS'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9262504233068870193&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Reinforcement Learning
