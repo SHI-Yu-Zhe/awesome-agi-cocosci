@@ -593,6 +593,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***Frontiers in Neurorobotics***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353&hl=en&as_sdt=0,5)].
 
+* [Curiosity-driven Exploration by Self-supervised Prediction](https://proceedings.mlr.press/v70/pathak17a.html) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9379743003299559904&hl=en&as_sdt=0,5)].
+
 * [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
 
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)].
