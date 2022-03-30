@@ -681,6 +681,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***Journal of Visualized Experiments***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
 
+* [Seeing and speaking: How verbal “description length” encodes visual complexity](https://psycnet.apa.org/record/2021-83037-001) - ***Journal of Experimental Psychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Neural-Symbolic AI
