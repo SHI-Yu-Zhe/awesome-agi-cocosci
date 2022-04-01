@@ -647,6 +647,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5)].
 
+* [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214&hl=en&as_sdt=0,5)].
+
 * [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008&hl=en&as_sdt=0,5)]. [[Project](https://github.com/flowersteam/TeachMyAgent)].
 
 *[Back to Top](#c)
