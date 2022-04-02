@@ -37,7 +37,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#hmprobsol)
       * [Planning](#planning)
-      * [Exploration](#exploration)
+      * [Intrinsic Motivation](#intrinsic-motivation)
       * [Reinforcement Learning](#reinforcement-learning)
       * [Inverse Reinforcement Learning](#irl)
     * [System 1 & System 2](#system-1--system-2)
@@ -587,7 +587,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-#### Exploration
+#### Intrinsic Motivation
 
 * [Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html) - ***NIPS'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=9736217847061704054&hl=en&as_sdt=0,5)].
 
