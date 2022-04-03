@@ -45,6 +45,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Neural-Symbolic AI](#neural-symbolic-ai)
     * [Explainability](#explainability)
     * [Embodied Intelligence](#embodied-intelligence)
+    * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Human Intelligence Experiments](#human-intelligence-experiments)
     * [Metacognition](#metacognition)
       * [Gestalt](#gestalt)
@@ -840,6 +841,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf) - ***RSS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4316276917607326251&hl=en&as_sdt=0,5)].
 
 * [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://www.biorxiv.org/content/10.1101/2021.07.08.451333v1) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+### Evolutionary Intelligence
 
 *[Back to Top](#c)
 
