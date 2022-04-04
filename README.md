@@ -442,6 +442,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529&hl=en&as_sdt=0,5)].
 
+* [Interplay between rule learning and rule switching in a perceptual categorization task](https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7461559646167397406&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "prgmcomm"></span>
