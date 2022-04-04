@@ -690,6 +690,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Seeing and speaking: How verbal “description length” encodes visual complexity](https://psycnet.apa.org/record/2021-83037-001) - ***Journal of Experimental Psychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233&hl=en&as_sdt=0,5)].
 
+* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Neural-Symbolic AI
