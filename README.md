@@ -852,6 +852,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080&hl=en&as_sdt=0,5)].
 
+* [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354&hl=en&as_sdt=0,5)].
+
 * [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
