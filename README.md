@@ -137,6 +137,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
+*[Back to Top](#c)
+
 <span id = "p"></span>
 ## Papers
 <span id = "abd"></span>
