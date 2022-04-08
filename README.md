@@ -873,6 +873,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Methodologies for Experiments
 
+#### Qualitative Approaches
+
+*[Back to Top](#c)
+
 #### Scaling Up Behavioral Studies
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)].
@@ -887,6 +891,14 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Question Answering
 
+* [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3398849603439166012&hl=en&as_sdt=0,5)].
+
+* [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=34641833161282231&hl=en&as_sdt=0,5)].
+
+* [Do People Ask Good Questions?](https://link.springer.com/article/10.1007/s42113-018-0005-5) - ***Computational Brain & Behavior***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=14595996621617337270&hl=en&as_sdt=0,5)].
+
+* [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf) - ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=14185546187726917682&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5)].
@@ -896,14 +908,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017.
 
 * [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short) - ***Proceedings of National Academy of Sciences***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11085043350027609187&hl=en&as_sdt=0,5)].
-
-* [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3398849603439166012&hl=en&as_sdt=0,5)].
-
-* [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=34641833161282231&hl=en&as_sdt=0,5)].
-
-* [Do People Ask Good Questions?](https://link.springer.com/article/10.1007/s42113-018-0005-5) - ***Computational Brain & Behavior***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=14595996621617337270&hl=en&as_sdt=0,5)].
-
-* [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf) - ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=14185546187726917682&hl=en&as_sdt=0,5)].
 
 * [People Infer Recursive Visual Concepts from Just a Few Examples](https://link.springer.com/content/pdf/10.1007/s42113-019-00053-y.pdf) - ***Computational Brain & Behavior***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3871396883970734141&hl=en&as_sdt=0,5)].
 
