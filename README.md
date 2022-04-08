@@ -51,7 +51,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Quantitative Analysis](quantitative-analysis) 
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
-      * [Human-Machine Comparison](#human--machine-comparison)
+      * [Human-Machine Comparison](#human-machine-comparison)
     * [Metacognition](#metacognition)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
