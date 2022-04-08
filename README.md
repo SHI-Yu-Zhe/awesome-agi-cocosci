@@ -48,6 +48,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
+      * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
+      * [Question Answering](#question-answering)
     * [Metacognition](#metacognition)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
@@ -870,6 +872,14 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 *[Back to Top](#c)
 
 ### Methodologies for Experiments
+
+#### Scaling Up Behavioral Studies
+
+*[Back to Top](#c)
+
+#### Question Answering
+
+*[Back to Top](#c)
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5)].
 
