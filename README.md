@@ -875,6 +875,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Scaling Up Behavioral Studies
 
+* [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Question Answering
