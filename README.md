@@ -48,9 +48,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
-      * [Quantitative Approaches](quantitative-approaches) 
+      * [Quantitative Analysis](quantitative-analysis) 
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
+      * [Human-Machine Comparison](#human---machine-comparison)
     * [Metacognition](#metacognition)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
@@ -874,7 +875,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Methodologies for Experiments
 
-#### Quantitative Approaches
+#### Quantitative Analysis
+
+* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
 
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017.
 
@@ -903,6 +906,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf) - ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=14185546187726917682&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
+
+#### Human-Machine Comparison
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5)].
 
