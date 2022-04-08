@@ -48,6 +48,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
+      * [Quantitative Approaches](quantitative-approaches) 
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
     * [Metacognition](#metacognition)
@@ -873,7 +874,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Methodologies for Experiments
 
-#### Qualitative Approaches
+#### Quantitative Approaches
 
 *[Back to Top](#c)
 
