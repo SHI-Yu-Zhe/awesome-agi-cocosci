@@ -328,7 +328,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774)].
 
-* [Learning Latent Space Energy-Based Prior Model](https://arxiv.org/abs/2006.08205) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9945264852135249894)]. [[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. [[Code](https://github.com/bpucla/latent-space-EBM-prior)].
+* [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9945264852135249894)]. [[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. [[Code](https://github.com/bpucla/latent-space-EBM-prior)].
 
 * [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4399294843209736764)]. [[Code](https://github.com/ruiqigao/recovery_likelihood)].
 
