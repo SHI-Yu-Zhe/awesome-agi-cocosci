@@ -53,7 +53,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Question Answering](#question-answering)
       * [Human-Machine Comparison](#human-machine-comparison)
     * [Meta-Level Considerations](#meta-level-considerations)
-      * [Meta Gradient](#meta-gradient)
+      * [Meta Learning](#meta-learning)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
       * [Cognitive Architecture](#cogarch)
@@ -936,7 +936,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Meta-Level Considerations
 
-#### Meta Gradients
+#### Meta Learning
 
 *[Back to Top](#c)
 
