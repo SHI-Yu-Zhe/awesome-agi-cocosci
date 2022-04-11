@@ -942,7 +942,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "gestalt"></span>
 #### Gestalt
 
 * [Gestalt theory](https://psycnet.apa.org/record/2007-10344-001) - ***A source book of Gestalt psychology***, 1938. [[All Versions](https://scholar.google.com/scholar?cluster=18133275659218646817&hl=en&as_sdt=0,5)].
