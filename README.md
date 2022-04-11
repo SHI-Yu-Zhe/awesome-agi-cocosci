@@ -650,8 +650,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [On the Expressivity of Markov Reward](https://papers.nips.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211&hl=en&as_sdt=0,5)].
 
-* [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5)].
-
 * [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185&hl=en&as_sdt=0,5)].
 
 * [Balancing Constraints and Rewards with Meta-Gradient D4PG](https://openreview.net/forum?id=TQt98Ya7UMP) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2805226315118298313&hl=en&as_sdt=0,5)].
@@ -933,6 +931,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 ### Meta-Level Considerations
 
 #### Meta Learning
+
+* [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5)].
 
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)].
 
