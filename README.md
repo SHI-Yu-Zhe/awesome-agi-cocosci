@@ -652,12 +652,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185&hl=en&as_sdt=0,5)].
 
-* [Balancing Constraints and Rewards with Meta-Gradient D4PG](https://openreview.net/forum?id=TQt98Ya7UMP) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2805226315118298313&hl=en&as_sdt=0,5)].
-
-* [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730&hl=en&as_sdt=0,5)].
-
-* [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
-
 * [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
 
 * [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5)].
@@ -937,6 +931,12 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)].
 
 * [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](http://proceedings.mlr.press/v97/rakelly19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15379570585451726919&hl=en&as_sdt=0,5)].
+
+* [Balancing Constraints and Rewards with Meta-Gradient D4PG](https://openreview.net/forum?id=TQt98Ya7UMP) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2805226315118298313&hl=en&as_sdt=0,5)].
+
+* [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730&hl=en&as_sdt=0,5)].
+
+* [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
 
