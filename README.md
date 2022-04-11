@@ -48,11 +48,12 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
-      * [Quantitative Analysis](quantitative-analysis) 
+      * [Quantitative Analysis](#quantitative-analysis) 
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
       * [Human-Machine Comparison](#human-machine-comparison)
-    * [Metacognition](#metacognition)
+    * [Meta-Level Considerations](#meta-level-considerations)
+      * [Meta Gradient](#meta-gradient)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
       * [Cognitive Architecture](#cogarch)
@@ -933,8 +934,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "metacog"></span>
-### Metacognition
+### Meta-Level Considerations
+
+#### Meta Gradients
+
+*[Back to Top](#c)
 
 <span id = "gestalt"></span>
 #### Gestalt
