@@ -632,6 +632,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404&hl=en&as_sdt=0,5)]. [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf)].
 
+* [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) - ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7721047641895252765&hl=en&as_sdt=0,5)].
+
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)].
 
 * [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689) - ***ICRA'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7155333517647976638&hl=en&as_sdt=0,5)].
