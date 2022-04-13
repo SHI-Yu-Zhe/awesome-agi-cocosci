@@ -886,6 +886,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Integrating explanation and prediction in computational social science](http://jakehofman.com/pdfs/integrating-prediction-and-explanation.pdf) - ***Nature***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=288245575125750925&hl=en&as_sdt=0,5)].
 
+* [Exploring human cognition using large image databases](https://cocosci.princeton.edu/josh/papers/griffiths-largeimagedatabases-topics2016.pdf) - ***Topics in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3629906005701226294&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Question Answering
