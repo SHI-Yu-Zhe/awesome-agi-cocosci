@@ -781,7 +781,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963&hl=en&as_sdt=0,5)].
 
-* [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783&hl=en&as_sdt=0,5)]. [[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. 
+* [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783&hl=en&as_sdt=0,5)]. [[Project](http://netdissect.csail.mit.edu/)]. [[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. 
 
 * [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810&hl=en&as_sdt=0,5)].
 
