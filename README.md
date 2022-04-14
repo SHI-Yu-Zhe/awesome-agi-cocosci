@@ -816,6 +816,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5)].
 
+* [Individual differences among deep neural network models](https://kriegeskortelab.zuckermaninstitute.columbia.edu/sites/default/files/content/MehrerKietzmann_2020_NatureComms.pdf) - ***Nature Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8259893575188417318&hl=en&as_sdt=2005&sciodt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "ei"></span>
