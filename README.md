@@ -30,6 +30,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Generative Model](#generative-model)
       * [Nonparametric Model](#nonparametric-model)
       * [Bayesian Optimization](#bayesian-optimization)
+    * [Complexity](#complexity)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
       * [Non-Verbal Communication](#nvcomm)
@@ -392,6 +393,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf) - ***NIPS'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705&hl=en&as_sdt=0,5)].
 
 * [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+### Complexity
 
 *[Back to Top](#c)
 
