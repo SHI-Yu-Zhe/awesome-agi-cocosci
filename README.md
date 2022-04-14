@@ -803,6 +803,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183&hl=en&as_sdt=0,5)].
 
+* [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "ei"></span>
