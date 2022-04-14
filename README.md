@@ -400,6 +400,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Visual complexity: a review](https://psycnet.apa.org/record/2006-00818-005) - ***Psychological Bulletin***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939&hl=en&as_sdt=0,5)].
 
+* [Image complexity and spatial information](https://stefan.winklerbros.net/Publications/qomex2013si.pdf) - ***International Workshop on Quality of Multimedia Experience***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=16011036229039693102&hl=en&as_sdt=0,5)].
+
 * [Seeing and speaking: How verbal “description length” encodes visual complexity](https://psycnet.apa.org/record/2021-83037-001) - ***Journal of Experimental Psychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
