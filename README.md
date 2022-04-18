@@ -412,6 +412,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138&hl=en&as_sdt=0,5)].
 
+* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Visual Complexity
