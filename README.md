@@ -49,6 +49,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Neural-Symbolic AI](#neural-symbolic-ai)
     * [Explainability](#explainability)
       * [Strong Machine Learning](#strong-machine-learning)
+      * [Trustworthy AI](#trustworthy-ai)
       * [Neural Networks](#neural-networks)
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
@@ -808,6 +809,16 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "xai"></span>
 ### Explainability
 
+#### Trustworthy AI
+
+* [A tale of two explanations: Enhancing human trust by explaining robot behavior](https://yzhu.io/publication/openbottle2019scirob/paper.pdf) - ***Science Robotics***, 2019. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3985046411399524590)].
+
+* [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf) - 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923&hl=en&as_sdt=0,5)].
+
+* [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
 #### Strong Machine Learning
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913&hl=en&as_sdt=0,5)].
@@ -835,10 +846,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088&hl=en&as_sdt=0,5)]. [[Project](https://gradientscience.org/background/)].
 
 * [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007&hl=en&as_sdt=0,5)]. [[Project](https://github.com/LAMDA-NJU/Deep-Forest)].
-
-* [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf) - 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923&hl=en&as_sdt=0,5)].
-
-* [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183&hl=en&as_sdt=0,5)].
 
 * [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5)].
 
