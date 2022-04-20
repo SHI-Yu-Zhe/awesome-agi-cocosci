@@ -810,15 +810,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Strong Machine Learning
 
-*[Back to Top](#c)
-
-#### Neural Networks
-
-*[Back to Top](#c)
-
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913&hl=en&as_sdt=0,5)].
 
 * [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Neural Networks
 
 * [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783&hl=en&as_sdt=0,5)]. [[Project](http://netdissect.csail.mit.edu/)]. [[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. 
 
