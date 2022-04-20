@@ -48,6 +48,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Dual-Coding Theory](#dual-coding-theory)
       * [Neural-Symbolic AI](#neural-symbolic-ai)
     * [Explainability](#explainability)
+      * [Strong Machine Learning](#strong-machine-learning)
+      * [Neural Networks](#neural-networks)
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
@@ -805,6 +807,14 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "xai"></span>
 ### Explainability
+
+#### Strong Machine Learning
+
+*[Back to Top](#c)
+
+#### Neural Networks
+
+*[Back to Top](#c)
 
 * [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913&hl=en&as_sdt=0,5)].
 
