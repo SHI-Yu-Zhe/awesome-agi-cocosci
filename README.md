@@ -825,6 +825,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963&hl=en&as_sdt=0,5)].
 
+* [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007&hl=en&as_sdt=0,5)]. [[Project](https://github.com/LAMDA-NJU/Deep-Forest)].
+
+* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819&hl=en&as_sdt=0,5)]. [[code](https://github.com/alvinwan/neural-backed-decision-trees)].
+
 *[Back to Top](#c)
 
 #### Neural Networks
@@ -841,11 +845,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526&hl=en&as_sdt=0,5)].
 
-* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819&hl=en&as_sdt=0,5)]. [[code](https://github.com/alvinwan/neural-backed-decision-trees)].
-
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088&hl=en&as_sdt=0,5)]. [[Project](https://gradientscience.org/background/)].
-
-* [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007&hl=en&as_sdt=0,5)]. [[Project](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 * [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5)].
 
