@@ -494,6 +494,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281&hl=en&as_sdt=0,5)].
 
+* [On the information bottleneck theory of deep learning](https://artemyk.github.io/assets/pdf/papers/Saxe%20et%20al_2019_On%20the%20information%20bottleneck%20theory%20of%20deep%20learning.pdf) - ***Journal of Statistical Mechanics: Theory and Experiment***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=12271240925674881982&hl=en&as_sdt=2005&sciodt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "prgmcomm"></span>
