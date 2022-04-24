@@ -492,6 +492,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Interplay between rule learning and rule switching in a perceptual categorization task](https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7461559646167397406&hl=en&as_sdt=0,5)].
 
+* [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "prgmcomm"></span>
