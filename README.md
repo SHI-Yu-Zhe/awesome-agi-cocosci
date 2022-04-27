@@ -345,6 +345,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4399294843209736764)]. [[Code](https://github.com/ruiqigao/recovery_likelihood)].
 
+* [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS&utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14592788616550656262)].
+
 * [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](http://proceedings.mlr.press/v119/li20i.html) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9592355331559392684&hl=en&as_sdt=0,5)].
 
 * [Minimax entropy principle and its application to texture modeling](https://www.dam.brown.edu/people/mumford/vision/papers/1997e--MinimaxEntropy-NC.pdf) - ***Neural Computing***, 1997. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=407872717119429940)].
