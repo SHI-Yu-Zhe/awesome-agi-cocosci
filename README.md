@@ -316,8 +316,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NIPS'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794&hl=en&as_sdt=0,5&as_vis=1)].
 
-* [The rational basis of representativeness](http://web.mit.edu/cocosci/archive/Papers/cogsci01_final.pdf) - ***CogSci'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=11464039134248091466&hl=en&as_sdt=0,5)].
-
 * [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343) - ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446&hl=en&as_sdt=0,5)].
 
 * [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5476233692839102256)]. [[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)].
@@ -327,6 +325,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)].
 
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5)].
+
+* [The rational basis of representativeness](http://web.mit.edu/cocosci/archive/Papers/cogsci01_final.pdf) - ***CogSci'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=11464039134248091466&hl=en&as_sdt=0,5)].
+
+* [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NIPS'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
 
