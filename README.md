@@ -434,6 +434,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***Science***, 2000. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907)].
 
+* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Visual Complexity
