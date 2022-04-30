@@ -32,7 +32,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Bayesian Optimization](#bayesian-optimization)
     * [Complexity & Information Theory](#complexity--information-theory)
       * [Theory](#theory)
-      * [Compression](#compression)
+      * [Dimensionality Reduction](#dimensionality-reduction)
       * [Visual Complexity](#visual-complexity)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
@@ -430,7 +430,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-#### Compression
+#### Dimensionality Reduction
 
 *[Back to Top](#c)
 
