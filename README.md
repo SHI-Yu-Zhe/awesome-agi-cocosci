@@ -417,6 +417,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Theory
 
+* [A Mathematical Theory of Communication](http://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf) - ***The Bell System Technical Journal***, 1948. Shannon's original paper on the Information Theory. [[All Versions](https://scholar.google.com/scholar?cluster=8313213127749369813&hl=en&as_sdt=0,5)].
+
 * [An introduction to Kolmogorov complexity and its applications](https://link.springer.com/content/pdf/10.1007/978-3-030-11298-1.pdf) - ***Springer***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8746708322477453221&hl=en&as_sdt=0,5)].
 
 * [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138&hl=en&as_sdt=0,5)].
