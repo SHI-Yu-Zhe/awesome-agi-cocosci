@@ -30,7 +30,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Generative Model](#generative-model)
       * [Nonparametric Model](#nonparametric-model)
       * [Bayesian Optimization](#bayesian-optimization)
-    * [Complexity](#complexity)
+    * [Complexity & Information Theory](#complexity--information-theory)
       * [Theory](#theory)
       * [Visual Complexity](#visual-complexity)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
@@ -413,7 +413,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-### Complexity
+### Complexity & Information Theory
 
 #### Theory
 
