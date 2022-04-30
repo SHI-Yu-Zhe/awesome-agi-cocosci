@@ -32,6 +32,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Bayesian Optimization](#bayesian-optimization)
     * [Complexity & Information Theory](#complexity--information-theory)
       * [Theory](#theory)
+      * [Compression](#compression)
       * [Visual Complexity](#visual-complexity)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
@@ -426,6 +427,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5)].
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
+
+*[Back to Top](#c)
+
+#### Compression
 
 *[Back to Top](#c)
 
