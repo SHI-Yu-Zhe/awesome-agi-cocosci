@@ -317,6 +317,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NIPS'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794&hl=en&as_sdt=0,5&as_vis=1)].
 
+* [Rules and Similarity in Concept Learning](https://cowles.yale.edu/sites/default/files/files/conf/2007/crp_tenenbaum2.pdf) - ***NIPS'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417&hl=en&as_sdt=0,5)].
+
 * [Theory-based Bayesian models of inductive learning and reasoning](https://www.sciencedirect.com/science/article/pii/S1364661306001343) - ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446&hl=en&as_sdt=0,5)].
 
 * [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5476233692839102256)]. [[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)].
