@@ -753,6 +753,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Organizational Principles of Abstract Words in the Human Brain](http://bilab.bnu.edu.cn/paper/2018/Wang_2018_Cerebral_Cortex.pdf) - ***Cerebral Cortex***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15272192531353715481)].
 
+* [Different computational relations in language are captured by distinct brain systems](http://bilab.bnu.edu.cn/paper/2022/Fu_2022_CC.pdf) - ***Cerebral Cortex***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=720215181903530260&hl=en&as_sdt=0,5)].
+
 * [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***Journal of Visualized Experiments***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
 
 * [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
