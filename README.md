@@ -444,7 +444,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Visual Complexity
 
-* [Visual complexity: a review](https://psycnet.apa.org/record/2006-00818-005) - ***Psychological Bulletin***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2006-00818-005)].
+* [Visual complexity: a review](https://www.researchgate.net/profile/Don-Donderi-2/publication/7337589_Visual_Complexity_A_Review/links/5f0875ed45851550509a3a7a/Visual-Complexity-A-Review.pdf) - ***Psychological Bulletin***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2006-00818-005)].
 
 * [Image complexity and spatial information](https://stefan.winklerbros.net/Publications/qomex2013si.pdf) - ***International Workshop on Quality of Multimedia Experience***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=16011036229039693102&hl=en&as_sdt=0,5)].
 
