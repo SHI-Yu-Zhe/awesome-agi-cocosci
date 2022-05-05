@@ -25,7 +25,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Computational Explanation](#compexp)
       * [Computational Scientific Discovery](#compscidsc)
       * [Applications in AI](#abdappai)
-    * [Bayesian Modeling & Learning](#bayesian-modeling--learning)
+    * [Bayesian Modeling](#bayesian-modeling)
       * [Bayesian Induction](#bayesian-induction)
       * [Generative Model](#generative-model)
       * [Nonparametric Model](#nonparametric-model)
@@ -303,9 +303,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "bml"></span>
-### Bayesian Modeling & Learning
-
+### Bayesian Modeling
 <span id = "bayesian-induction"></span>
 #### Bayesian Induction
 
