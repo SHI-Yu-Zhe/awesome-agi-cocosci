@@ -765,6 +765,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
 
+* [Rational arbitration between statistics and rules in human sequence processing](https://www.nature.com/articles/s41562-021-01259-6) - ***Nature Human Behavior***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9856085207409198966&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Neural-Symbolic AI
