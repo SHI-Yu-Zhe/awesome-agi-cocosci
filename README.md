@@ -143,6 +143,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=9898832432826237365&hl=en&as_sdt=0,5)]. Perspective on handling overloaded information from scientific literature.
 
+* [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. A software tool for constructing and visualizing bibliometric networks.
+
 *[Back to Top](#c)
 
 ### Visualization
