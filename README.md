@@ -143,7 +143,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=9898832432826237365&hl=en&as_sdt=0,5)]. Perspective on handling overloaded information from scientific literature.
 
-* [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) - ***Microsoft Research***. Heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study.
+* [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) - ***Microsoft Research***. Heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study. 
+
+* [An Overview of Microsoft Academic Service (MAS) and Applications](http://sonyis.me/paperpdf/Microsoft%20Academic%20Graph%20WWW%202015.pdf) - ***WWW'15***, 2015. [[All Versios](https://scholar.google.com/scholar?cluster=9075899176667058496&hl=en&as_sdt=0,5)]. Original paper on Microsoft Academic Graph.
 
 * [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
 
