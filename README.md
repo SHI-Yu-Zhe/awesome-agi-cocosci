@@ -19,7 +19,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Paper Writing](#paper-writing)
     * [Paper Reading](#paper-reading)
     * [Resource Organizing](#resource-organizing)
-    * [Visualization](#visualization)
 * [Papers](#papers)
     * [Abduction](#abduction)
       * [Computational Explanation](#compexp)
@@ -152,12 +151,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd.***. For interactive literature map construction and linked document management.
 
 * [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
-
-*[Back to Top](#c)
-
-### Visualization
-
-* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 *[Back to Top](#c)
 
@@ -877,6 +870,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 *[Back to Top](#c)
 
 #### Neural Networks
+
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 * [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783&hl=en&as_sdt=0,5)]. [[Project](http://netdissect.csail.mit.edu/)]. [[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. 
 
