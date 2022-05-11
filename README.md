@@ -152,6 +152,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
 
+* [StateOfTheArt.AI](https://www.stateoftheart.ai/). For tracking, collecting and visualizing the development of AI research. 
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
