@@ -436,6 +436,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138&hl=en&as_sdt=0,5)].
 
+* [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE Transactions on Information Theory***, 1962. [[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864&hl=en&as_sdt=0,5)].
+
 * [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5)].
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
