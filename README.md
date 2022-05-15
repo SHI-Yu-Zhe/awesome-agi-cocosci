@@ -50,7 +50,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Explainability](#explainability)
       * [Trustworthy AI](#trustworthy-ai)
       * [Strong Machine Learning](#strong-machine-learning)
-      * [Neural Networks](#neural-networks)
+      * [Explainable Deep Learning](#explainable-deep-learning)
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
@@ -874,7 +874,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-#### Neural Networks
+#### Explainable Deep Learning
 
 * [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
