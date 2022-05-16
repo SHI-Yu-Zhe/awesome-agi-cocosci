@@ -1870,7 +1870,7 @@ Scientific philosophor, the founder of scientific verification theories.
 
 ### John Hopcroft
 
-Applied Mathematician, computer scientist.
+Applied Mathematician, theoretical computer scientist.
 
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) - ***Cambridge University Press***. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1802704438630899850)].
 
