@@ -967,6 +967,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017.
 
+* [Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions](https://journals.sagepub.com/doi/pdf/10.1177/2515245918805755) - ***Advances in Methods and Practices in Psychological Science***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12010185803500406162&hl=en&as_sdt=0,5)]. An alternative method to test the statistical significance of U-shaped relationships.
+
 *[Back to Top](#c)
 
 #### Scaling Up Behavioral Studies
