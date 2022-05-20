@@ -464,6 +464,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Seeing and speaking: How verbal “description length” encodes visual complexity](https://perception.jhu.edu/files/PDFs/21_Complexity_Speaking/SunFirestone_SpeakingSeeing_2021_JEPG.pdf) - ***Journal of Experimental Psychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2021-83037-001)].
 
+* [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "lcp"></span>
