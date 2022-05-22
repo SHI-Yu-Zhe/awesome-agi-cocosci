@@ -1309,6 +1309,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning](https://aclanthology.org/2021.emnlp-main.162/) - ***EMNLP'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12305856131717604775&hl=en&as_sdt=0,5)].
 
+* [Human-like property induction is a challenge for large language models](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022. 
+
 *[Back to Top](#c)
 
 #### Commonsense Knowledgebase
