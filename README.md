@@ -613,6 +613,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767&hl=en&as_sdt=0,5)].
 
+* [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
+
 *[Back to Top](#c)
 
 <span id = "probsol"></span>
