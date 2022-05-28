@@ -466,6 +466,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972&hl=en&as_sdt=0,5)].
 
+* [Identifying concept libraries from language about object structure](https://arxiv.org/pdf/2205.05666.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=4019205027627496528&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "lcp"></span>
