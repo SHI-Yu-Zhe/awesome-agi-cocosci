@@ -635,6 +635,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608&hl=en&as_sdt=0,5)].
 
+* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5)].
+
 * [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094&context=jps) - ***The Journal of Problem Solving***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883&hl=en&as_sdt=0,5)].
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***Machine Learning***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)].
