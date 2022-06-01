@@ -1290,7 +1290,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "commonsense-reasoning"></span>
 #### AI Commonsense Reasoning
 
 * [Representations of Commonsense Knowledge](https://www.sciencedirect.com/book/9781483207704/representations-of-commonsense-knowledge) - ***Morgan Kaufmann***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=8861902735724600978&hl=en&as_sdt=0,5)].
