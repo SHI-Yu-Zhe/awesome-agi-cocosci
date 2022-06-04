@@ -1308,6 +1308,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [VisualCOMET: Reasoning About the Dynamic Context of a Still Image](https://link.springer.com/chapter/10.1007%2F978-3-030-58558-7_30) - ***ECCV'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7681600847940772451&hl=en&as_sdt=0,5)].
 
+* [The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning](https://arxiv.org/abs/2202.04800) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18355807581692234364)].
+
 * [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5)].
 
 * [Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning](https://aclanthology.org/2021.emnlp-main.162/) - ***EMNLP'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12305856131717604775&hl=en&as_sdt=0,5)].
