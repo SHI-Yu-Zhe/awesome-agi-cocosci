@@ -1496,6 +1496,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=8852566070856662412)].
 
+* [Learning Program Representations for Food Images and Cooking Recipes](https://openaccess.thecvf.com/content/CVPR2022/html/Papadopoulos_Learning_Program_Representations_for_Food_Images_and_Cooking_Recipes_CVPR_2022_paper.html) - ***CVPR'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=7690010749576063125)].
+
 *[Back to Top](#c)
 
 <span id = "cogdev"></span>
