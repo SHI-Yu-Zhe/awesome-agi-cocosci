@@ -1351,6 +1351,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) - ***Foundations and Trends in Programming Languages***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421&hl=en&as_sdt=0,5)].
 
+* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5)].
+
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].
 
 * [Meta-interpretive learning: application to grammatical inference](https://link.springer.com/article/10.1007/s10994-013-5358-3) - ***Machine Learning***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592&hl=en&as_sdt=0,5)].
