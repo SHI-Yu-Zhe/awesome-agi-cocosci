@@ -1355,7 +1355,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].
 
-* [Meta-interpretive learning: application to grammatical inference](https://link.springer.com/article/10.1007/s10994-013-5358-3) - ***Machine Learning***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592&hl=en&as_sdt=0,5)].
+* [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592&hl=en&as_sdt=0,5)].
 
 * [Learning Efficient Logical Robot Strategies Involving Composable Objects](http://andrewcropper.com/pubs/ijcai15-metagolo.pdf) - ***IJCAI'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=5109851972354087162&hl=en&as_sdt=0,5)].
 
