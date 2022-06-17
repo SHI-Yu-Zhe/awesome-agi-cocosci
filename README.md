@@ -35,7 +35,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Visual Complexity](#visual-complexity)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
-      * [Non-Verbal Communication](#nvcomm)
+      * [Visual Communication](#visual-communication)
       * [Rational Speech Act](#rsa)
       * [Language Compositionality](#lcps)
     * [Problem Solving](#problem-solving)
@@ -540,8 +540,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "prgmcomm"></span>
 ### Communications & Pragmatics
 
-<span id = "nvcomm"></span>
-#### Non-Verbal Communication
+#### Visual Communication
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5)].
 
