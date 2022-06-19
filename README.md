@@ -87,6 +87,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [BIGAI](#bigai)
 * [People & Book](#people--book)
     * [Ulf Grenander](#ulf-grenander)
+    * [David Marr](#david-marr)
     * [Michael Tomasello](#michael-tomasello)
     * [Judea Pearl](#judea-pearl)
     * [Susan Carey](#susan-carey)
@@ -1827,6 +1828,12 @@ Applied mathematician, the founder of General Pattern Theory.
 * [A Calculus of Ideas: A Mathematical Study of Thinking](https://www.dam.brown.edu/ptg/REPORTS/calculustext.PDF) - ***World Scientific Publishing Company***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=12182416000849265255&hl=en&as_sdt=0,5)].
 
 * [General Pattern Theory: A Mathematical Study of Regular Structures](https://global.oup.com/academic/product/general-pattern-theory-9780198536710?cc=lt&lang=de#) - ***Oxford University Press***, 1993. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=General+Pattern+Theory&btnG=)].
+
+*[Back to Top](#c)
+
+### David Marr
+
+Computational Cognitive Neuroscientist, the establisher of the Levels of Analysis.
 
 *[Back to Top](#c)
 
