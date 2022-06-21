@@ -1227,6 +1227,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057&hl=en&as_sdt=0,5)].
 
+* [Preschoolers and adults make inferences from novel metaphors](https://escholarship.org/content/qt3j2576vv/qt3j2576vv.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16038983545360341739&hl=en&as_sdt=0,44)].
+
 *[Back to Top](#c)
 
 <span id = "caus"></span>
