@@ -1246,6 +1246,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036) - ***Communications of the ACM***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13296019510897277617&hl=en&as_sdt=0,5)].
 
+* [Toward Causal Representation Learning](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf) - ***Proceedings of the IEEE***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15629454810797806102&hl=en&as_sdt=0,5)].
+
 * [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***Psychological Review***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5)].
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5)].
