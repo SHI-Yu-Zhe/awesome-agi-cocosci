@@ -1507,7 +1507,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "cogdev"></span>
 ### Cognitive Development
 
 * [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)].
