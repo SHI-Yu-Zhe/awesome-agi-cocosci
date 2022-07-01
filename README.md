@@ -156,6 +156,14 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [StateOfTheArt.AI](https://www.stateoftheart.ai/). For tracking, collecting and visualizing the development of AI research. 
 
+* [Roam Research](https://roamresearch.com/). For linked document management, visualization, and sharing. 
+
+* [Foam](https://foambubble.github.io/foam/) - ***Foambubble***. For linked document management, visualization, and sharing, opensourced softward built on VSCode.
+
+* [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC.***. Connecting ideas in graphs.
+
+* [The Zettelkasten Method](https://zettelkasten.de/). Connecting ideas in graphs.
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
