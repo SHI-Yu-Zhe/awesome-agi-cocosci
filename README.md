@@ -148,6 +148,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [An Overview of Microsoft Academic Service (MAS) and Applications](http://sonyis.me/paperpdf/Microsoft%20Academic%20Graph%20WWW%202015.pdf) - ***WWW'15***, 2015. [[All Versios](https://scholar.google.com/scholar?cluster=9075899176667058496&hl=en&as_sdt=0,5)]. Original paper on Microsoft Academic Graph.
 
+* [Goodbye, Microsoft Academic – Hello, open research infrastructure?](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/) - ***LSE Impact Blog***, 2021. An interpretation of Microsoft's strategy on research infrastructure.
+
 * [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
 
 * [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd.***. For interactive literature map construction and linked document management.
