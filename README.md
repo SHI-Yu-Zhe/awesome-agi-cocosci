@@ -1416,6 +1416,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833&hl=en&as_sdt=0,5)].
 
+* [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NIPS'21 AIPLANS Workshop***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State&btnG=)].
+
 *[Back to Top](#c)
 
 <span id = "kr"></span>
