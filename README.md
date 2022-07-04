@@ -571,6 +571,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of National Academy of Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508&hl=en&as_sdt=0,5)].
 
+* [Bridging cultural and cognitive perspectives on similarity reasoning](https://github.com/YuzheSHI/awesome-agi-cocosci/edit/master/README.md) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bridging+cultural+and+cognitive+perspectives+on+similarity+reasoning&btnG=)].
+
 *[Back to Top](#c)
 
 <span id = "rsa"></span>
