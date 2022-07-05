@@ -1003,6 +1003,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Exploring human cognition using large image databases](https://cocosci.princeton.edu/josh/papers/griffiths-largeimagedatabases-topics2016.pdf) - ***Topics in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3629906005701226294&hl=en&as_sdt=0,5)].
 
+* [Visual Search at Pinterest](https://web.archive.org/web/20170809024454id_/http://www.kevinjing.com/visual_search_at_pinterest.pdf) - ***KDD'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2051024301293529405&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Question Answering
