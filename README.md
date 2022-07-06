@@ -180,6 +180,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/) - ***Plato Stanford***. 
 
+* [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/) - ***Plato Stanford***.
+
 * [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/) - ***Plato Stanford***.
 
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592&hl=en&as_sdt=0,5)].
