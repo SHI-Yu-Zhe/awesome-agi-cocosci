@@ -60,7 +60,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Human-Machine Comparison](#human-machine-comparison)
     * [Meta-Level Considerations](#meta-level-considerations)
       * [Meta Learning](#meta-learning)
-      * [Marr's Levels of Analysis](#marr-s-levels-of-analysis)
+      * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
       * [Cognitive Architecture](#cogarch)
@@ -1067,7 +1067,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-#### Marr's Levels of Analysis
+#### Marr Levels of Analysis
 
 * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
 
