@@ -22,7 +22,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Papers](#papers)
     * [Abduction](#abduction)
       * [Computational Explanation](#compexp)
-      * [Computational Scientific Discovery](#compscidsc)
+      * [Scientific Discovery](#scientific-discovery)
       * [Applications in AI](#abdappai)
     * [Bayesian Modeling](#bayesian-modeling)
       * [Bayesian Induction](#bayesian-induction)
@@ -250,8 +250,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "compscidsc"></span>
-#### Computational Scientific Discovery
+#### Scientific Discovery
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/) - ***Plato Stanford***.
 
