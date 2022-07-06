@@ -1073,6 +1073,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=11150567121969913334)].
 
+* [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Gestalt
