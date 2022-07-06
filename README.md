@@ -60,7 +60,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Human-Machine Comparison](#human-machine-comparison)
     * [Meta-Level Considerations](#meta-level-considerations)
       * [Meta Learning](#meta-learning)
-      * [Marr's Levels of Analysis](#marr's-levels-of-analysis)
+      * [Marr's Levels of Analysis](#marr-s-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
       * [Cognitive Architecture](#cogarch)
