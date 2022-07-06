@@ -60,6 +60,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Human-Machine Comparison](#human-machine-comparison)
     * [Meta-Level Considerations](#meta-level-considerations)
       * [Meta Learning](#meta-learning)
+      * [Marr's Levels of Analysis](#marr's-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
       * [Cognitive Architecture](#cogarch)
@@ -1063,6 +1064,12 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730&hl=en&as_sdt=0,5)].
 
 * [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Marr's Levels of Analysis
+
+* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
 
 *[Back to Top](#c)
 
