@@ -103,6 +103,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford***. Courses on computational cognitive science from MIT, Harvard, Stanford.
 
+* [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
+
 *[Back to Top](#c)
 
 ### Programming
