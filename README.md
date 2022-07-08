@@ -1852,7 +1852,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Others
 
-* [Yixin Zhu](https://yzhu.io/) - ***School for AI, Institute for AI, Peking University***.
+* [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University***.
 
 *[Back to Top](#c)
 
