@@ -85,7 +85,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [UC Berkeley](#uc-berkeley)
     * [UCSD](#ucsd)
     * [NYU](#nyu)
-    * [BIGAI](#bigai)
+    * [Others](#others)
 * [People & Book](#people--book)
     * [Ulf Grenander](#ulf-grenander)
     * [David Marr](#david-marr)
@@ -1797,11 +1797,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/) - ***Department of Statistics, UCLA***.
 
+* [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
+
 * [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) - ***Department of Statistics, UCLA***.
 
-* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, UCLA***.
+* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
 
-* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, UCLA***.
+* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, Department of Statistics, UCLA***.
 
 * [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
 
@@ -1848,14 +1850,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "bigai"></span>
-### BIGAI
+### Others
 
-* [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/) - ***Beijing***.
-
-* [Yixin Zhu](https://yzhu.io/) - ***BIGAI & PKU***.
-
-* [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***BIGAI & PKU***.
+* [Yixin Zhu](https://yzhu.io/) - ***School for AI, Institute for AI, Peking University***.
 
 *[Back to Top](#c)
 
