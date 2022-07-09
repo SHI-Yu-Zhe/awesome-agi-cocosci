@@ -21,56 +21,56 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Resource Organizing](#resource-organizing)
 * [Papers](#papers)
     * [Abduction](#abduction)
-      <!--* [Computational Explanation](#compexp)
+      * [Computational Explanation](#compexp)
       * [Scientific Discovery](#scientific-discovery)
-      * [Applications in AI](#abdappai)-->
+      * [Applications in AI](#abdappai)
     * [Bayesian Modeling](#bayesian-modeling)
-      <!--* [Bayesian Induction](#bayesian-induction)
+      * [Bayesian Induction](#bayesian-induction)
       * [Generative Model](#generative-model)
       * [Nonparametric Model](#nonparametric-model)
-      * [Bayesian Optimization](#bayesian-optimization)-->
+      * [Bayesian Optimization](#bayesian-optimization)
     * [Complexity & Information Theory](#complexity--information-theory)
-      <!--* [Theory](#theory)
+      * [Theory](#theory)
       * [Dimensionality Reduction](#dimensionality-reduction)
-      * [Visual Complexity](#visual-complexity)-->
+      * [Visual Complexity](#visual-complexity)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
-      <!--* [Visual Communication](#visual-communication)
+      * [Visual Communication](#visual-communication)
       * [Rational Speech Act](#rsa)
-      * [Language Compositionality](#lcps)-->
+      * [Language Compositionality](#lcps)
     * [Problem Solving](#problem-solving)
-      <!--* [Human-Level Problem Solving](#hmprobsol)
+      * [Human-Level Problem Solving](#hmprobsol)
       * [Planning](#planning)
       * [Intrinsic Motivation](#intrinsic-motivation)
       * [Reinforcement Learning](#reinforcement-learning)
-      * [Inverse Reinforcement Learning](#irl)-->
+      * [Inverse Reinforcement Learning](#irl)
     * [System 1 & System 2](#system-1--system-2)
-      <!--* [Dual-Coding Theory](#dual-coding-theory)
-      * [Neural-Symbolic AI](#neural-symbolic-ai)-->
+      * [Dual-Coding Theory](#dual-coding-theory)
+      * [Neural-Symbolic AI](#neural-symbolic-ai)
     * [Explainability](#explainability)
-      <!--* [Trustworthy AI](#trustworthy-ai)
+      * [Trustworthy AI](#trustworthy-ai)
       * [Strong Machine Learning](#strong-machine-learning)
-      * [Explainable Deep Learning](#explainable-deep-learning)-->
+      * [Explainable Deep Learning](#explainable-deep-learning)
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
-      <!--* [Quantitative Analysis](#quantitative-analysis) 
+      * [Quantitative Analysis](#quantitative-analysis) 
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
-      * [Human-Machine Comparison](#human-machine-comparison)-->
+      * [Human-Machine Comparison](#human-machine-comparison)
     * [Meta-Level Considerations](#meta-level-considerations)
-      <!--* [Meta Learning](#meta-learning)
+      * [Meta Learning](#meta-learning)
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
-      * [Cognitive Architecture](#cogarch)-->
+      * [Cognitive Architecture](#cogarch)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
     * [Commonsense](#commonsense)
-      <!--* [Intuitive Physics](#intuitive-physics)
+      * [Intuitive Physics](#intuitive-physics)
       * [AI Commonsense Reasoning](#ai-commonsense-reasoning)
-      * [Commonsense Knowledgebase](#commonsense-knowledgebase)-->
+      * [Commonsense Knowledgebase](#commonsense-knowledgebase)
     * [Inductive Logic & Program Synthesis](#inductive-logic--program-synthesis)
     * [Knowledge Representation](#knowledge-representation)
     * [Cognitive Development](#cognitive-development)
@@ -105,19 +105,19 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Programming
 
 * [Probabilistic Models of Cognition](https://probmods.org/) - ***MIT***. The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Paper Writing
 
-<!-- * [LaTex Configuration](LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference). -->
+* [LaTex Configuration](LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
 
-<!-- * [BibTex Template](BibTex/template.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences. -->
+* [BibTex Template](BibTex/template.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
 
@@ -125,7 +125,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Paper Reading
 
@@ -137,7 +137,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Resource Organizing
 
@@ -155,11 +155,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
 
-<!-- * [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd.***. For interactive literature map construction and linked document management. -->
+* [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd.***. For interactive literature map construction and linked document management.
 
 * [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
 
-* [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArt***. For tracking, collecting and visualizing the development of AI research. 
+* [StateOfTheArt.AI](https://www.stateoftheart.ai/). For tracking, collecting and visualizing the development of AI research. 
 
 * [Roam Research](https://roamresearch.com/) - ***Roam Research***. For linked document management, visualization, and sharing. 
 
@@ -167,9 +167,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
 
-* [The Zettelkasten Method](https://zettelkasten.de/) - ***Zettelkasten***. Connecting ideas in graphs.
+* [The Zettelkasten Method](https://zettelkasten.de/). Connecting ideas in graphs.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "p"></span>
 ## Papers
@@ -253,7 +253,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***Behavioral and Brain Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648&hl=en&as_sdt=2005&sciodt=2005)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Scientific Discovery
 
@@ -287,7 +287,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Abduction and styles of scientifc thinking](https://link.springer.com/content/pdf/10.1007/s11229-019-02127-7.pdf) - ***Synthese***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9336871656706514469&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "abdappai"></span>
 #### Applications in AI
@@ -324,7 +324,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Discovering a symbolic planning language from continuous experience](https://joaoloula.github.io/Discovering_a_Symbolic_Planning_Language_From_Continuous_Experience.pdf) - ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=14400178089019636923&scipsc=&q=Discovering+a+symbolic+planning+language+from+continuous+experience&btnG=)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Bayesian Modeling
 <span id = "bayesian-induction"></span>
@@ -356,7 +356,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Constructing a hypothesis space from the Web for large-scale Bayesian word learning](https://cocosci.princeton.edu/tom/papers/abbott_cogsci2012_wordnet.pdf) - ***CogSci'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9266416266046851766&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "generative-modeling"></span>
 #### Generative Model
@@ -399,7 +399,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235&hl=en&as_sdt=2005&sciodt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "nonparametric-model"></span>
 #### Nonparametric Model
@@ -428,7 +428,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704&hl=en&as_sdt=2005&sciodt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "bayesian-optimization"></span>
 #### Bayesian Optimization
@@ -439,7 +439,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Complexity & Information Theory
 
@@ -457,7 +457,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Dimensionality Reduction
 
@@ -469,7 +469,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293&hl=en&as_sdt=2005&sciodt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Visual Complexity
 
@@ -483,7 +483,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Identifying concept libraries from language about object structure](https://arxiv.org/pdf/2205.05666.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=4019205027627496528&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "lcp"></span>
 ### Learning with Cognitive Plausibility
@@ -550,7 +550,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [On the information bottleneck theory of deep learning](https://artemyk.github.io/assets/pdf/papers/Saxe%20et%20al_2019_On%20the%20information%20bottleneck%20theory%20of%20deep%20learning.pdf) - ***Journal of Statistical Mechanics: Theory and Experiment***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=12271240925674881982&hl=en&as_sdt=2005&sciodt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "prgmcomm"></span>
 ### Communications & Pragmatics
@@ -577,7 +577,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Bridging cultural and cognitive perspectives on similarity reasoning](https://github.com/YuzheSHI/awesome-agi-cocosci/edit/master/README.md) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bridging+cultural+and+cognitive+perspectives+on+similarity+reasoning&btnG=)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "rsa"></span>
 #### Rational Speech Act
@@ -610,7 +610,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "lcps"></span>
 #### Language Compositionality
@@ -631,9 +631,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767&hl=en&as_sdt=0,5)].
 
-<!-- * [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022. -->
+* [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "probsol"></span>
 ### Problem Solving
@@ -679,9 +679,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***Nature Human Behavior***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
 
-<!-- * [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)]. -->
+* [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Planning
 
@@ -693,13 +693,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5)].
 
-<!-- * [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf) - ***CogSci'21***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. -->
+* [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf) - ***CogSci'21***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)].
 
 * [What Is the Model in Model-Based Planning?](https://onlinelibrary.wiley.com/doi/ftr/10.1111/cogs.12928) - ***Cognitive Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10598397017491369972&hl=en&scisbd=1&as_sdt=2005&sciodt=0,5)].
 
-<!-- * [Discovering State and Action Abstractions for Generalized Task and Motion Planning](https://arxiv.org/pdf/2109.11082.pdf) - ***AAAI'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1054368060554971920)]. -->
+* [Discovering State and Action Abstractions for Generalized Task and Motion Planning](https://arxiv.org/pdf/2109.11082.pdf) - ***AAAI'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1054368060554971920)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Intrinsic Motivation
 
@@ -717,7 +717,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2015/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) - ***NIPS'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9262504233068870193&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Reinforcement Learning
 
@@ -759,7 +759,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008&hl=en&as_sdt=0,5)]. [[Project](https://github.com/flowersteam/TeachMyAgent)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "irl"></span>
 #### Inverse Reinforcement Learning
@@ -776,7 +776,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Inverse Constrained Reinforcement Learning](https://proceedings.mlr.press/v139/malik21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Inverse+Constrained+Reinforcement+Learning+S+Malik&btnG=)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "nsl"></span>
 ### System 1 & System 2
@@ -799,7 +799,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Rational arbitration between statistics and rules in human sequence processing](https://www.nature.com/articles/s41562-021-01259-6) - ***Nature Human Behavior***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9856085207409198966&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Neural-Symbolic AI
 
@@ -871,7 +871,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346&hl=en&as_sdt=0,5)]. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "xai"></span>
 ### Explainability
@@ -884,7 +884,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Strong Machine Learning
 
@@ -896,7 +896,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819&hl=en&as_sdt=0,5)]. [[code](https://github.com/alvinwan/neural-backed-decision-trees)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Explainable Deep Learning
 
@@ -920,7 +920,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Individual differences among deep neural network models](https://kriegeskortelab.zuckermaninstitute.columbia.edu/sites/default/files/content/MehrerKietzmann_2020_NatureComms.pdf) - ***Nature Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8259893575188417318&hl=en&as_sdt=2005&sciodt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "ei"></span>
 ### Embodied Intelligence
@@ -971,7 +971,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://www.biorxiv.org/content/10.1101/2021.07.08.451333v1) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Evolutionary Intelligence
 
@@ -981,19 +981,19 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Methodologies for Experiments
 
 #### Quantitative Analysis
 
-<!-- * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)]. -->
+* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
 
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6652444619934494760&hl=en&as_sdt=0,5)].
 
 * [Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions](https://journals.sagepub.com/doi/pdf/10.1177/2515245918805755) - ***Advances in Methods and Practices in Psychological Science***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12010185803500406162&hl=en&as_sdt=0,5)]. An alternative method to test the statistical significance of U-shaped relationships.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Scaling Up Behavioral Studies
 
@@ -1009,7 +1009,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Visual Search at Pinterest](https://web.archive.org/web/20170809024454id_/http://www.kevinjing.com/visual_search_at_pinterest.pdf) - ***KDD'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2051024301293529405&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Question Answering
 
@@ -1021,7 +1021,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Asking goal-oriented questions and learning from answers](http://nyuccl.org/papers/Rothe-Lake-Gureckis-2019-Cogsci.pdf) - ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=14185546187726917682&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Human-Machine Comparison
 
@@ -1047,7 +1047,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***Nature Neuroscience***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Meta-Level Considerations
 
@@ -1067,11 +1067,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Marr Levels of Analysis
 
-<!-- * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. -->
+* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
 
 * [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=11150567121969913334)].
 
@@ -1083,7 +1083,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Levels of Analysis for Machine Learning](https://baicsworkshop.github.io/pdf/BAICS_6.pdf) - ***ICLR'20 Bridging AI and Cognitive Science Workshop***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13819038971626384115&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Gestalt
 
@@ -1099,7 +1099,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***Cambridge University Press***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=231021877034210140)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "r&r"></span>
 #### Rationality & Rationalization 
@@ -1118,12 +1118,12 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145&hl=en&as_sdt=2005&sciodt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "cogarch"></span>
 #### Cognitive Architecture
 
-* [The secret life of predictive brains: what's spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)].
+* [The secret life of predictive brains: what’s spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)].
 
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506) - ***Artificial Intelligence***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)].
 
@@ -1137,7 +1137,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "tom"></span>
 ### Theory of Mind
@@ -1222,7 +1222,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16340001407726295133)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "anl"></span>
 ### Analogy
@@ -1263,7 +1263,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Preschoolers and adults make inferences from novel metaphors](https://escholarship.org/content/qt3j2576vv/qt3j2576vv.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16038983545360341739&hl=en&as_sdt=0,44)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "caus"></span>
 ### Causality
@@ -1274,7 +1274,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/) - ***Plato Stanford***.
 
-<!-- * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)]. -->
+* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
 
 * [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)].
 
@@ -1304,7 +1304,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "cms"></span>
 ### Commonsense
@@ -1325,7 +1325,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Partial Mental Simulation Explains Fallacies in Physical Reasoning](https://psyarxiv.com/y4a8x/download?format=pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15541954459060383152&hl=en&as_sdt=2005)]. 
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### AI Commonsense Reasoning
 
@@ -1351,9 +1351,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning](https://aclanthology.org/2021.emnlp-main.162/) - ***EMNLP'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12305856131717604775&hl=en&as_sdt=0,5)].
 
-<!-- * [Human-like property induction is a challenge for large language models](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.  -->
+* [Human-like property induction is a challenge for large language models](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022. 
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 #### Commonsense Knowledgebase
 
@@ -1367,7 +1367,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "lp"></span>
 ### Inductive Logic & Program Synthesis
@@ -1424,7 +1424,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Meta-Interpretive Learning as Metarule Specialisation](https://arxiv.org/pdf/2106.07464.pdf) - ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14684315775211086859&hl=en&as_sdt=0,5)].
 
-<!-- * [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386&hl=en&as_sdt=0,5)] -->
+* [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386&hl=en&as_sdt=0,5)]
 
 * [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf) - ***IJCAI'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=15955040483290586781&hl=en&as_sdt=0,5)].
 
@@ -1442,7 +1442,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NIPS'21 AIPLANS Workshop***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State&btnG=)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "kr"></span>
 ### Knowledge Representation
@@ -1543,11 +1543,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Cognitive Development
 
-<!-- * [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)]. -->
+* [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)].
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***Wikipedia***.
 
@@ -1607,7 +1607,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Perception of partly occluded objects in infancy](https://www.harvardlds.org/wp-content/uploads/2017/01/Perception-of-partly-occluded-objects-in-infancy-1.pdf) - ***Cognitive Psychology***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=4182861116190610992&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "ow"></span>
 ### Learning in the Open World
@@ -1658,7 +1658,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <!--<span id = "te"></span>
 ### Tasks & Environments
@@ -1736,7 +1736,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070) - ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial'20***, 2020.
 
-<!--<!--*[Back to Top](#c)-->-->
+<!--*[Back to Top](#c)-->
 
 
 <span id = "r&l"></span>
@@ -1756,7 +1756,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Stanford
 
@@ -1770,7 +1770,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Jiajun Wu](https://jiajunwu.com/) - ***Department of Computer Science, Stanford***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Princeton
 
@@ -1778,7 +1778,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Harvard
 
@@ -1788,7 +1788,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Department of Psychology, Harvard***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### UCLA
 
@@ -1804,7 +1804,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### UC Berkeley
 
@@ -1818,7 +1818,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Celeste Kidd](http://www.celestekidd.com/) - ***UCB***, [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### UCSD
 
@@ -1828,7 +1828,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### NYU
 
@@ -1842,13 +1842,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***NYU***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***NYU***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### Others
 
 * [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University***.
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "bk"></span>
 ## People & Book
@@ -1861,15 +1861,15 @@ Applied mathematician, the founder of General Pattern Theory.
 
 * [General Pattern Theory: A Mathematical Study of Regular Structures](https://global.oup.com/academic/product/general-pattern-theory-9780198536710?cc=lt&lang=de#) - ***Oxford University Press***, 1993. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=General+Pattern+Theory&btnG=)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### David Marr
 
 Computational Cognitive Neuroscientist, the establisher of the Levels of Analysis.
 
-<!-- * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. -->
+* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "mt"></span>
 ### Michael Tomasello
@@ -1880,7 +1880,7 @@ Cognitive scientist, set up the foundations of studying human communications.
 
 * [The cultural origins of human cognition](https://hk1lib.org/book/541275/1452f8?id=541275&secret=1452f8) - ***Havard University Press***, 2000. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5000469061641945144)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "jp"></span>
 ### Judea Pearl
@@ -1891,7 +1891,7 @@ Applied mathematician, proposed causal intervention on siamese bayesian networks
 
 * [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***Cambridge University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "sc"></span>
 ### Susan Carey
@@ -1902,7 +1902,7 @@ Developmental psychologist, proposed *object* as a core knowledge of human intel
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "dk"></span>
 ### Daniel Kahneman
@@ -1911,7 +1911,7 @@ Computational cognitive scientist and Economist, set up the foundations for Deci
 
 * [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569&secret=f5e85a) - ***Farrar Straus Giroux***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3255681708785115121)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 <span id = "kpp"></span>
 ### Karl Popper
@@ -1922,7 +1922,7 @@ Scientific philosophor, the founder of scientific verification theories.
 
 * [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
 ### John Hopcroft
 
@@ -1930,5 +1930,5 @@ Applied Mathematician, theoretical computer scientist.
 
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) - ***Cambridge University Press***. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1802704438630899850)].
 
-<!--*[Back to Top](#c)-->
+*[Back to Top](#c)
 
