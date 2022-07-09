@@ -13,70 +13,70 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "c"></span>
 ## Contents
-<!--* [Academic Tools](#academic-tools)-->
+* [Academic Tools](#academic-tools)
     * [Courses](#courses)
     * [Programming](#programming)
     * [Paper Writing](#paper-writing)
     * [Paper Reading](#paper-reading)
     * [Resource Organizing](#resource-organizing)
-<!--* [Papers](#papers)-->
+* [Papers](#papers)
     * [Abduction](#abduction)
-      * [Computational Explanation](#compexp)
+      <!--* [Computational Explanation](#compexp)
       * [Scientific Discovery](#scientific-discovery)
-      * [Applications in AI](#abdappai)
+      * [Applications in AI](#abdappai)-->
     * [Bayesian Modeling](#bayesian-modeling)
-      * [Bayesian Induction](#bayesian-induction)
+      <!--* [Bayesian Induction](#bayesian-induction)
       * [Generative Model](#generative-model)
       * [Nonparametric Model](#nonparametric-model)
-      * [Bayesian Optimization](#bayesian-optimization)
+      * [Bayesian Optimization](#bayesian-optimization)-->
     * [Complexity & Information Theory](#complexity--information-theory)
-      * [Theory](#theory)
+      <!--* [Theory](#theory)
       * [Dimensionality Reduction](#dimensionality-reduction)
-      * [Visual Complexity](#visual-complexity)
+      * [Visual Complexity](#visual-complexity)-->
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications & Pragmatics](#communications--pragmatics)
-      * [Visual Communication](#visual-communication)
+      <!--* [Visual Communication](#visual-communication)
       * [Rational Speech Act](#rsa)
-      * [Language Compositionality](#lcps)
+      * [Language Compositionality](#lcps)-->
     * [Problem Solving](#problem-solving)
-      * [Human-Level Problem Solving](#hmprobsol)
+      <!--* [Human-Level Problem Solving](#hmprobsol)
       * [Planning](#planning)
       * [Intrinsic Motivation](#intrinsic-motivation)
       * [Reinforcement Learning](#reinforcement-learning)
-      * [Inverse Reinforcement Learning](#irl)
+      * [Inverse Reinforcement Learning](#irl)-->
     * [System 1 & System 2](#system-1--system-2)
-      * [Dual-Coding Theory](#dual-coding-theory)
-      * [Neural-Symbolic AI](#neural-symbolic-ai)
+      <!--* [Dual-Coding Theory](#dual-coding-theory)
+      * [Neural-Symbolic AI](#neural-symbolic-ai)-->
     * [Explainability](#explainability)
-      * [Trustworthy AI](#trustworthy-ai)
+      <!--* [Trustworthy AI](#trustworthy-ai)
       * [Strong Machine Learning](#strong-machine-learning)
-      * [Explainable Deep Learning](#explainable-deep-learning)
+      * [Explainable Deep Learning](#explainable-deep-learning)-->
     * [Embodied Intelligence](#embodied-intelligence)
     * [Evolutionary Intelligence](#evolutionary-intelligence)
     * [Methodologies for Experiments](#methodologies-for-experiments)
-      * [Quantitative Analysis](#quantitative-analysis) 
+      <!--* [Quantitative Analysis](#quantitative-analysis) 
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
-      * [Human-Machine Comparison](#human-machine-comparison)
+      * [Human-Machine Comparison](#human-machine-comparison)-->
     * [Meta-Level Considerations](#meta-level-considerations)
-      * [Meta Learning](#meta-learning)
+      <!--* [Meta Learning](#meta-learning)
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [Rationality & Rationalization](#r&r)
-      * [Cognitive Architecture](#cogarch)
+      * [Cognitive Architecture](#cogarch)-->
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
     * [Commonsense](#commonsense)
-      * [Intuitive Physics](#intuitive-physics)
+      <!--* [Intuitive Physics](#intuitive-physics)
       * [AI Commonsense Reasoning](#ai-commonsense-reasoning)
-      * [Commonsense Knowledgebase](#commonsense-knowledgebase)
+      * [Commonsense Knowledgebase](#commonsense-knowledgebase)-->
     * [Inductive Logic & Program Synthesis](#inductive-logic--program-synthesis)
     * [Knowledge Representation](#knowledge-representation)
     * [Cognitive Development](#cognitive-development)
     * [Learning in the Open World](#learning-in-the-open-world)
     <!--* [Tasks & Environments](#te)-->
-<!--* [Institute & Researcher](#institute--researcher)-->
+* [Institute & Researcher](#institute--researcher)
     * [MIT](#mit)
     * [Stanford](#stanford)
     * [Princeton](#princeton)
@@ -86,7 +86,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [UCSD](#ucsd)
     * [NYU](#nyu)
     * [Others](#others)
-<!--* [People & Book](#people--book)-->
+* [People & Book](#people--book)
     * [Ulf Grenander](#ulf-grenander)
     * [David Marr](#david-marr)
     * [Michael Tomasello](#michael-tomasello)
