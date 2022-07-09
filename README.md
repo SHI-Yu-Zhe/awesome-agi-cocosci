@@ -169,6 +169,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Zettelkasten Method](https://zettelkasten.de/). Connecting ideas in graphs.
 
+* [Zotero](https://www.zotero.org/) - ***Digital Scholar*** For reference management to manage bibliographic data and research related materials.
+
 *[Back to Top](#c)
 
 <span id = "p"></span>
