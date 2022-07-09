@@ -13,13 +13,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 <span id = "c"></span>
 ## Contents
-* [Academic Tools](#academic-tools)
+<!--* [Academic Tools](#academic-tools)-->
     * [Courses](#courses)
     * [Programming](#programming)
     * [Paper Writing](#paper-writing)
     * [Paper Reading](#paper-reading)
     * [Resource Organizing](#resource-organizing)
-* [Papers](#papers)
+<!--* [Papers](#papers)-->
     * [Abduction](#abduction)
       * [Computational Explanation](#compexp)
       * [Scientific Discovery](#scientific-discovery)
@@ -76,7 +76,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Cognitive Development](#cognitive-development)
     * [Learning in the Open World](#learning-in-the-open-world)
     <!--* [Tasks & Environments](#te)-->
-* [Institute & Researcher](#institute--researcher)
+<!--* [Institute & Researcher](#institute--researcher)-->
     * [MIT](#mit)
     * [Stanford](#stanford)
     * [Princeton](#princeton)
@@ -86,7 +86,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [UCSD](#ucsd)
     * [NYU](#nyu)
     * [Others](#others)
-* [People & Book](#people--book)
+<!--* [People & Book](#people--book)-->
     * [Ulf Grenander](#ulf-grenander)
     * [David Marr](#david-marr)
     * [Michael Tomasello](#michael-tomasello)
