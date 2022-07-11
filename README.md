@@ -34,9 +34,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Dimensionality Reduction](#dimensionality-reduction)
       * [Visual Complexity](#visual-complexity)
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
-    * [Communications & Pragmatics](#communications--pragmatics)
+    * [Communications](#communications)
       * [Visual Communication](#visual-communication)
-      * [Rational Speech Act](#rsa)
+      * [Rational Speech Act & Pragmatics](#rational-speech-act--pragmatics)
       * [Language Compositionality](#lcps)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#hmprobsol)
@@ -552,8 +552,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "prgmcomm"></span>
-### Communications & Pragmatics
+
+### Communications
 
 #### Visual Communication
 
@@ -579,8 +579,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "rsa"></span>
-#### Rational Speech Act
+#### Rational Speech Act & Pragmatics
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***.
 
