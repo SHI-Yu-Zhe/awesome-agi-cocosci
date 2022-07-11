@@ -36,7 +36,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     * [Communications](#communications)
       * [Visual Communication](#visual-communication)
-      * [Rational Speech Act & Pragmatics](#rational-speech-act--pragmatics)
+      * [Pragmatics](#pragmatics)
       * [Language Compositionality](#lcps)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#hmprobsol)
@@ -579,7 +579,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-#### Rational Speech Act & Pragmatics
+#### Pragmatics
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***.
 
