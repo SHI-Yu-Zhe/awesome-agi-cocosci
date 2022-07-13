@@ -43,7 +43,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Planning](#planning)
       * [Intrinsic Motivation](#intrinsic-motivation)
       * [Reinforcement Learning](#reinforcement-learning)
-      * [Inverse Reinforcement Learning](#irl)
+      * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
     * [System 1 & System 2](#system-1--system-2)
       * [Dual-Coding Theory](#dual-coding-theory)
       * [Neural-Symbolic AI](#neural-symbolic-ai)
@@ -760,7 +760,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "irl"></span>
 #### Inverse Reinforcement Learning
 
 * [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430) - ***ICML'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707&hl=en&as_sdt=0,5)].
