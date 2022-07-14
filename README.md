@@ -37,6 +37,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Communications](#communications)
       * [Visual Communication](#visual-communication)
       * [Pragmatics](#pragmatics)
+      * [Pointing & Pantomime](#pointing--pantomime)
       * [Language Compositionality](#lcps)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#hmprobsol)
@@ -608,6 +609,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3) - ***Philosophical Studies***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10912415595149303257&hl=en&as_sdt=0,5)].
 
 * [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Pointing & Pantomime
 
 *[Back to Top](#c)
 
