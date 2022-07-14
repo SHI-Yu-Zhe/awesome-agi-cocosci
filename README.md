@@ -616,6 +616,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)].
 
+* [12- and 18-Month-Olds Point to Provide Information for Others](https://pure.mpg.de/rest/items/item_64467_4/component/file_64468/content) - ***Journal of Cognition and Development***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=7322772656439413984&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "lcps"></span>
