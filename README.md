@@ -614,6 +614,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Pointing & Pantomime
 
+* [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "lcps"></span>
