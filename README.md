@@ -63,7 +63,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Meta Learning](#meta-learning)
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
-      * [Rationality & Rationalization](#r&r)
+      * [Rationality & Rationalization](#rationality--rationalization)
       * [Cognitive Architecture](#cogarch)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
@@ -1108,7 +1108,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "r&r"></span>
 #### Rationality & Rationalization 
 
 * [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/) - ***Plato Stanford***.
