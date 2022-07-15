@@ -24,7 +24,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Computational Explanation](#compexp)
       * [Scientific Discovery](#scientific-discovery)
       * [Rationalization](#rationalization)
-      * [Applications in AI](#abdappai)
+      * [Applications in AI](#application-in-ai)
     * [Bayesian Modeling](#bayesian-modeling)
       * [Bayesian Induction](#bayesian-induction)
       * [Generative Model](#generative-model)
@@ -305,7 +305,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "abdappai"></span>
 #### Applications in AI
 
 * [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) - ***Nature***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182&hl=en&as_sdt=0,5)].
