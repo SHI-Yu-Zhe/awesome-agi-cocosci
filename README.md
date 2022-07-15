@@ -1116,6 +1116,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5)].
 
+* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://cocosci.princeton.edu/papers/lieder_resource.pdf)].
+
 * [Imagination and the generation of new ideas](https://www.sciencedirect.com/science/article/abs/pii/S0885201414000744) - ***Cognitive Development***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=16920774374067505248&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](http://web.mit.edu/maxs/www/papers/cogsci_2016_vapors.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958&hl=en&as_sdt=2005&sciodt=0,5)].
