@@ -60,6 +60,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
       * [Human-Machine Comparison](#human-machine-comparison)
+      * [Virtual Reality](#virtual-reality)
     * [Meta-Level Considerations](#meta-level-considerations)
       * [Meta Learning](#meta-learning)
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
@@ -1067,6 +1068,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Humans can decipher adversarial images](https://perception.jhu.edu/files/PDFs/19_Adversarial_Deciphering/ZhouFirestone-AdversarialDeciphering.pdf) - ***Nature Communications***. 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4423950118844131054&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***Nature Neuroscience***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Virtual Reality
 
 *[Back to Top](#c)
 
