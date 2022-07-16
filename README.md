@@ -1075,6 +1075,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Virtual reality in behavioral neuroscience and beyond](https://www.nature.com/articles/nn948) - ***Nature Neuroscience***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12168354203281280346&hl=en&as_sdt=0,5)].
 
+* [Virtual reality: A survival guide for the social scientist](https://stanfordvr.com/mm/2009/fox-jmp-vr-survival.pdf) - ***Journal of Media Psychology***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=17318470193315023264&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 ### Meta-Level Considerations
