@@ -1077,6 +1077,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Virtual reality: A survival guide for the social scientist](https://stanfordvr.com/mm/2009/fox-jmp-vr-survival.pdf) - ***Journal of Media Psychology***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=17318470193315023264&hl=en&as_sdt=0,5)].
 
+* [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***The psychology of technology: Social science research in the age of Big Data (pp. 155–193), American Psychological Association***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021)].
+
 *[Back to Top](#c)
 
 ### Meta-Level Considerations
