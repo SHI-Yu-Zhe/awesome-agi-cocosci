@@ -39,7 +39,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Visual Communication](#visual-communication)
       * [Pragmatics](#pragmatics)
       * [Pointing & Pantomime](#pointing--pantomime)
-      * [Language Compositionality](#lcps)
+      * [Language Compositionality](#language-compositionality)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#hmprobsol)
       * [Planning](#planning)
@@ -635,7 +635,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "lcps"></span>
 #### Language Compositionality
 
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/) - ***Plato Stanford***.
