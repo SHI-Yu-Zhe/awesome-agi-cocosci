@@ -174,9 +174,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "p"></span>
+
 ## Papers
-<span id = "abd"></span>
+
 ### Abduction
 
 <span id = "compexp"></span>
