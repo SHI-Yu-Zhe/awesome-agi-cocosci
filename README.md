@@ -179,6 +179,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***.
 
+* [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 
