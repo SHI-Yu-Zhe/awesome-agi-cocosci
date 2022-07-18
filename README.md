@@ -19,6 +19,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Paper Writing](#paper-writing)
     * [Paper Reading](#paper-reading)
     * [Resource Organizing](#resource-organizing)
+    * [Knowledge Management](#knowledge-management)
 * [Papers](#papers)
     * [Abduction](#abduction)
       * [Computational Explanation](#compexp)
@@ -171,6 +172,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
 
 * [The Zettelkasten Method](https://zettelkasten.de/). Connecting ideas in graphs.
+
+*[Back to Top](#c)
+
+### Knowledge Management
 
 *[Back to Top](#c)
 
