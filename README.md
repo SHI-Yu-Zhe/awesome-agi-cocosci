@@ -177,6 +177,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Zettelkasten Method](https://zettelkasten.de/). Relating ideas in graphs and multi-labels.
 
+* [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***.
+
 *[Back to Top](#c)
 
 
