@@ -171,11 +171,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
 
-* [The Zettelkasten Method](https://zettelkasten.de/). Connecting ideas in graphs.
-
 *[Back to Top](#c)
 
 ### Knowledge Management
+
+* [The Zettelkasten Method](https://zettelkasten.de/). Relating ideas in graphs and multi-labels.
 
 *[Back to Top](#c)
 
