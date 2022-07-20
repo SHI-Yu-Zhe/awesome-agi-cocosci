@@ -185,6 +185,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Niklas Luhmann’s Card Index: The Fabrication of Serendipity](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf) - ***Sociologica***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12440286698665929622&hl=en&as_sdt=0,5)].
 
+* [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) - 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Communicating+with+slip+boxes+luhmann&btnG=)].
+
 *[Back to Top](#c)
 
 
