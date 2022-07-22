@@ -715,7 +715,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369) - ***Cell***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)].
 
-* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]. A piece of evidence on creative tool use in animals.
+* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]. A piece of evidence on creative tool use in intelligent animals.
 
 * [Intrinsic Exploration as Empowerment in a Richly Structured Online Game](https://psyarxiv.com/ybs7g/) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12321757821600526668)].
 
@@ -724,7 +724,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)].
 
 *[Back to Top](#c)
-
+* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
 #### Planning
 
 * [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)]. Leslie Kaelbling's review on hierarchical Task-and-Motion-Planning (hierarchical TAMP).
@@ -781,7 +781,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)].
 
-* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)].
+* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)]. A formal treatment on the generalization problem in reinforcement learning.
 
 * [Learning to Perform Physics Experiments via Deep Reinforcement Learning](https://openreview.net/forum?id=r1nTpv9eg) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=13142558595749186250&hl=en&as_sdt=0,5)].
 
@@ -805,7 +805,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Inverse Reinforcement Learning
 
-* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430) - ***ICML'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707&hl=en&as_sdt=0,5)].
+* [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430) - ***ICML'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707&hl=en&as_sdt=0,5)]. Pieter Abbeel and Andrew Ng's original paper on inverse reinforcement learning (IRL).
 
 * [Bayesian Inverse Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/416.pdf) - ***IJCAI'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=4154724070362583557&hl=en&as_sdt=0,5)].
 
