@@ -401,13 +401,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
 
-* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303)].
+* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
 
-* [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)].
+* [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)]. 
 
 * [Cooperative Training of Descriptor and Generator Networks](https://ieeexplore.ieee.org/ielaam/34/8922815/8519332-aam.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=18202808849093155435&hl=en&as_sdt=0,5)].
 
-* [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9945264852135249894)]. [[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. [[Code](https://github.com/bpucla/latent-space-EBM-prior)].
+* [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NIPS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9945264852135249894)]. [[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. [[Code](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
 
 * [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4399294843209736764)]. [[Code](https://github.com/ruiqigao/recovery_likelihood)].
 
@@ -419,19 +419,19 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Parameter Expansion for Data Augmentation](http://www.stat.ucla.edu/~ywu/research/papers/PXDA.pdf) - ***Journal of the American Statistical Association***, 1999. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15342818142955984734)].
 
-* [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491&hl=en&as_sdt=0,5)].
+* [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491&hl=en&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
 
 * [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NIPS'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760&hl=en&as_sdt=0,5)].
 
-* [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***Predicting Structured Data, MIT Press***, 2006. [[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768&hl=en&as_sdt=0,5)].
+* [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***Predicting Structured Data, MIT Press***, 2006. [[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768&hl=en&as_sdt=0,5)]. Yann LeCun's tutorial on energy-based learning.
 
 * [Unsupervised Representaton Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - ***ICLR'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3321343160055675528&hl=en&as_sdt=0,5)].
 
-* [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317&hl=en&as_sdt=0,5)].
+* [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317&hl=en&as_sdt=0,5)]. 
 
 * [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444&hl=en&as_sdt=0,5)].
 
-* [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235&hl=en&as_sdt=2005&sciodt=0,5)]. A Bayesian account for modeling basic rules as the hypothesis space.
 
 *[Back to Top](#c)
 
