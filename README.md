@@ -18,7 +18,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Programming](#programming)
     * [Paper Writing](#paper-writing)
     * [Paper Reading](#paper-reading)
-    * [Resource Organizing](#resource-organizing)
+    * [Literature Management](#literature-management)
     * [Knowledge Management](#knowledge-management)
 * [Papers](#papers)
     * [Abduction](#abduction)
@@ -143,9 +143,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-### Resource Organizing
-
-* [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***.
+### Literature Management
 
 * [How to keep up with the scientific literature](https://www.science.org/content/article/how-keep-scientific-literature) - ***Science***, 2016. Science interview on organizing scientific papers.
 
@@ -159,7 +157,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
 
-* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)].
+* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
 
 * [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd.***. For interactive literature map construction and linked document management.
 
@@ -176,6 +174,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 *[Back to Top](#c)
 
 ### Knowledge Management
+
+* [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***. Wikipedia on knowledge organization methods.
 
 * [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
 
