@@ -22,7 +22,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
     * [Knowledge Management](#knowledge-management)
 * [Papers](#papers)
     * [Abduction](#abduction)
-      * [Computational Explanation](#compexp)
+      * [Explanation](#explanation)
       * [Scientific Discovery](#scientific-discovery)
       * [Rationalization](#rationalization)
       * [Applications in AI](#application-in-ai)
@@ -198,8 +198,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Abduction
 
-<span id = "compexp"></span>
-#### Computational Explanation
+#### Explanation
 
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html) - ***Plato Stanford***. 
 
