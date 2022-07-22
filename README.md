@@ -509,13 +509,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Visual Complexity
 
-* [Visual complexity: a review](https://www.researchgate.net/profile/Don-Donderi-2/publication/7337589_Visual_Complexity_A_Review/links/5f0875ed45851550509a3a7a/Visual-Complexity-A-Review.pdf) - ***Psychological Bulletin***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2006-00818-005)].
+* [Visual complexity: a review](https://www.researchgate.net/profile/Don-Donderi-2/publication/7337589_Visual_Complexity_A_Review/links/5f0875ed45851550509a3a7a/Visual-Complexity-A-Review.pdf) - ***Psychological Bulletin***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2006-00818-005)]. A psychological account on visual complexity.
 
 * [Image complexity and spatial information](https://stefan.winklerbros.net/Publications/qomex2013si.pdf) - ***International Workshop on Quality of Multimedia Experience***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=16011036229039693102&hl=en&as_sdt=0,5)].
 
-* [Seeing and speaking: How verbal “description length” encodes visual complexity](https://perception.jhu.edu/files/PDFs/21_Complexity_Speaking/SunFirestone_SpeakingSeeing_2021_JEPG.pdf) - ***Journal of Experimental Psychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2021-83037-001)].
+* [Seeing and speaking: How verbal “description length” encodes visual complexity](https://perception.jhu.edu/files/PDFs/21_Complexity_Speaking/SunFirestone_SpeakingSeeing_2021_JEPG.pdf) - ***Journal of Experimental Psychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2021-83037-001)]. Empirical evidencs showing the relation between visual complexity and description length.
 
-* [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972&hl=en&as_sdt=0,5)].
+* [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972&hl=en&as_sdt=0,5)]. A comprehensive review on the trade-off between variability and generalization ability.
 
 * [Identifying concept libraries from language about object structure](https://arxiv.org/pdf/2205.05666.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=4019205027627496528&hl=en&as_sdt=0,5)].
 
