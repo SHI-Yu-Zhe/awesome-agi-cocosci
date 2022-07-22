@@ -617,7 +617,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Pragmatics
 
-* [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of 
+* [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
 
 * [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5)]. The original paper on Rational Speech Act (RSA).
 
@@ -657,13 +657,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Language Compositionality
 
-* [Compositionality](https://plato.stanford.edu/entries/compositionality/) - ***Plato Stanford***.
+* [Compositionality](https://plato.stanford.edu/entries/compositionality/) - ***Plato Stanford***. A computational philosophy account on compositionality, one of the distinctive feature of language.
 
-* [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf) - ***Topoi***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=10899040818001759322&hl=en&as_sdt=0,5)].
+* [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf) - ***Topoi***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=10899040818001759322&hl=en&as_sdt=0,5)]. The original paper on the principle of semantic compositionality.
 
-* [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***Proceedings of the Evolution of Language Conference'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5)].
+* [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***Proceedings of the Evolution of Language Conference'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5)]. The original paper on the emergence of compositionality.
 
-* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5)].
+* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) - ***ICLR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5)]. The original paper on the emergence of language in multi-agent reinforcement learning.
 
 * [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808&hl=en&as_sdt=0,5)].
 
