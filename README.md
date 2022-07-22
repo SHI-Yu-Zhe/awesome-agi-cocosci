@@ -448,21 +448,21 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134)]. Application on scientific paper ananlysis for hierarchical topic model.
 
-* [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5)].
+* [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5)]. The original paper for nested Chinese restaurant process.
 
 * [Learning Systems of Concepts with an Infinite Relational Model](https://www.aaai.org/Papers/AAAI/2006/AAAI06-061.pdf) - ***AAAI'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=3207350432755252565&hl=en&as_sdt=0,5)].
 
 * [The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies](https://dl.acm.org/doi/abs/10.1145/1667053.1667056) - ***Journal of the ACM***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=8216933258869737505&hl=en&as_sdt=0,5)].
 
-* [Infinite Latent Feature Models and the Indian Buffet Process](http://mlg.eng.cam.ac.uk/zoubin/papers/ibptr.pdf) - ***Gatsby Computational Neuroscience Unit Technical Report 2005-001***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=13180738480564152907&hl=en&as_sdt=0,5)]. Tom Griffiths and Zoubin Ghahramani's review on infinite models.
+* [Infinite Latent Feature Models and the Indian Buffet Process](http://mlg.eng.cam.ac.uk/zoubin/papers/ibptr.pdf) - ***Gatsby Computational Neuroscience Unit Technical Report 2005-001***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=13180738480564152907&hl=en&as_sdt=0,5)]. 
 
-* [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)].
+* [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)]. Tom Griffiths and Zoubin Ghahramani's review on infinite models, including the Chinese Restaurant Process (CRP) and the Indian Buffet Process (IBP).
 
-* [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) - ***UAI'05***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095&hl=en&as_sdt=0,5)].
+* [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) - ***UAI'05***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095&hl=en&as_sdt=0,5)]. The first paper integrating logic into non-parametric model.
 
 * [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704&hl=en&as_sdt=2005&sciodt=0,5)]. Treating predicate invention as a non-parametric problem, in the account of statistics.
 
 *[Back to Top](#c)
 
