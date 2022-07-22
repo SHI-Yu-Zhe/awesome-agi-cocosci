@@ -222,11 +222,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6) - ***Springer***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188&hl=en&as_sdt=0,5)].
 
-* [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf) - ***The Oxford Handbook of Thinking and Reasoning***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562&hl=en&as_sdt=0,5)].
+* [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf) - ***The Oxford Handbook of Thinking and Reasoning***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562&hl=en&as_sdt=0,5)]. A handbook on the formulations of Abduction.
 
-* [Probabilistic models of cognition: Conceptual foundations](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec7/chater2006probabilistica.pdf) - ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12857321660837478492)].
+* [Probabilistic models of cognition: Conceptual foundations](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec7/chater2006probabilistica.pdf) - ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12857321660837478492)]. A Bayesian account of Abduction.
 
-* [The structure and function of explanations](https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf) - ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2849189270394400667&hl=en&as_sdt=0,5)].
+* [The structure and function of explanations](https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf) - ***Trends in Cognitive Sciences***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=2849189270394400667&hl=en&as_sdt=0,5)]. Basic computation modes of Abduction.
 
 * [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf) - ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465&hl=en&as_sdt=0,5)]. An account showing that inductive bias is critical for explanation.
 
