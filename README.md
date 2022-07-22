@@ -232,11 +232,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***Cognition***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
-* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)].
+* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
-* [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***Journal of Experimental Psychology***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201)].
+* [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***Journal of Experimental Psychology***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201)]. A subjective probability account of Abduction.
 
-* [How explanation guides belief change](https://www.sciencedirect.com/science/article/pii/S1364661321001790) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15240531165875981526&hl=en&as_sdt=2005&sciodt=2005)].
+* [How explanation guides belief change](https://www.sciencedirect.com/science/article/pii/S1364661321001790) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15240531165875981526&hl=en&as_sdt=2005&sciodt=2005)]. A review on the subjective probability account of Abduction.
 
 * [Use of current explanations in multicausal abductive reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2506_2) - ***Cognitive Science***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=7816050625957759346&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -248,7 +248,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744) - ***Philosophy of Science***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=13895790050138832555&hl=en&as_sdt=0,5)].
 
-* [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***Synthese***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)].
+* [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***Synthese***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]. 
 
 * [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***Synthese***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
 
