@@ -163,13 +163,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
 
-* [StateOfTheArt.AI](https://www.stateoftheart.ai/). For tracking, collecting and visualizing the development of AI research. 
-
-* [Roam Research](https://roamresearch.com/) - ***Roam Research***. For linked document management, visualization, and sharing. 
-
-* [Foam](https://foambubble.github.io/foam/) - ***Foambubble***. For linked document management, visualization, and sharing, opensourced softward built on VSCode.
-
-* [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
+* [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArt.AI***. For tracking, collecting and visualizing the development of AI research. 
 
 *[Back to Top](#c)
 
@@ -180,6 +174,12 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
 
 * [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***.
+
+* [Roam Research](https://roamresearch.com/) - ***Roam Research***. For linked document management, visualization, and sharing. 
+
+* [Foam](https://foambubble.github.io/foam/) - ***Foambubble***. For linked document management, visualization, and sharing, opensourced softward built on VSCode.
+
+* [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
 
 * [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
 
