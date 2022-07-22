@@ -278,7 +278,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/) - ***Plato Stanford***. A computational philosophy account on Scientific Discovery, the process or product of successful scientific inquiry, sometimes an Abduction-like or an inverse-Abduction-like thinking pattern.
 
-* [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***Springer***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5)].
+* [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***Springer***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5)]. The original book on search as scientific thinking.
 
 * [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***MIT Press***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5)].
 
@@ -286,7 +286,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Exploring science: The cognition and development of discovery processes](https://psycnet.apa.org/record/2000-03968-000) - ***MIT Press***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=13091264356550286420&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1) - ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1) - ***Cognitive Science***, 1988. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5)]. The original paper on the dual space search as scientific thinking theory.
 
 * [Complexity Management in a Discovery Task](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/schunn-klahr.pdf) - ***CogSci'92***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974&hl=en&as_sdt=2005&sciodt=0,5)].
 
