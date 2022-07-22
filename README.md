@@ -200,11 +200,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Explanation
 
-* [Abduction](https://plato.stanford.edu/entries/abduction/index.html) - ***Plato Stanford***. 
+* [Abduction](https://plato.stanford.edu/entries/abduction/index.html) - ***Plato Stanford***. A computational philosophy account on Abduction, one of the three thinking patterns besides Induction and Deduction, being unique for its potential to introduce new ideas into current knowledge.
 
-* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/) - ***Plato Stanford***. 
+* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/) - ***Plato Stanford***. A computational philosophy account on Scientific Explanation, a canonical application of Abduction.
 
-* [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/) - ***Plato Stanford***.
+* [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/) - ***Plato Stanford***. A computational philosophy account on Scientific Reduction, a causal treatment of Abduction.
 
 * [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/) - ***Plato Stanford***.
 
