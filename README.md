@@ -133,7 +133,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Paper Reading
 
-* [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM Computer Communication Review***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587&hl=en&as_sdt=0,5)].
+* [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM Computer Communication Review***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587&hl=en&as_sdt=0,5)]. A comprehensive tutorial on reading scientific papers.
 
 * [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) - ***Science***, 2016. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=How+to+%28seriously%29+read+a+scientific+paper&btnG=)]. Science interview on reading scientific papers.
 
@@ -165,7 +165,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
 
-* [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArt.AI***. For tracking, collecting and visualizing the development of AI research. 
+* [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArtAI***. For tracking, collecting and visualizing the development of AI research. 
 
 *[Back to Top](#c)
 
@@ -175,7 +175,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
 
-* [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***.
+* [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***. Wikipedia on the Zettelkasten method.
 
 * [Roam Research](https://roamresearch.com/) - ***Roam Research***. For linked document management, visualization, and sharing. 
 
@@ -185,7 +185,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
 
-* [Where Does Niklas Luhmann’s Card Index Come From?](https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf) - ***Erudition and the Republic of Letters***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8279465066043884141&hl=en&as_sdt=0,5)].
+* [Where Does Niklas Luhmann’s Card Index Come From?](https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf) - ***Erudition and the Republic of Letters***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8279465066043884141&hl=en&as_sdt=0,5)]. A simplified introduction on Luhmann's Zettelkasten.
 
 * [Niklas Luhmann’s Card Index: The Fabrication of Serendipity](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf) - ***Sociologica***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12440286698665929622&hl=en&as_sdt=0,5)].
 
