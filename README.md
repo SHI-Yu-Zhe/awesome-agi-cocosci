@@ -157,6 +157,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
 
+* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5)]. Semantic Scholar with extracting feature and metadata from raw paper data.
+
 * [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
 
 * [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd.***. For interactive literature map construction and linked document management.
