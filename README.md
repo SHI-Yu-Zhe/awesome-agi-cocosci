@@ -483,13 +483,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A Mathematical Theory of Communication](http://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf) - ***The Bell System Technical Journal***, 1948. [[All Versions](https://scholar.google.com/scholar?cluster=8313213127749369813&hl=en&as_sdt=0,5)]. Shannon's original paper on Information Theory.
 
-* [An introduction to Kolmogorov complexity and its applications](https://link.springer.com/content/pdf/10.1007/978-3-030-11298-1.pdf) - ***Springer***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8746708322477453221&hl=en&as_sdt=0,5)].
+* [An introduction to Kolmogorov complexity and its applications](https://link.springer.com/content/pdf/10.1007/978-3-030-11298-1.pdf) - ***Springer***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8746708322477453221&hl=en&as_sdt=0,5)]. The introductory book for Algorithmic Information Theory, especially the Kolmogorov complexity theory.
 
-* [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138&hl=en&as_sdt=0,5)].
+* [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138&hl=en&as_sdt=0,5)]. Herbert Simon's review on subjective complexity.
 
 * [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE Transactions on Information Theory***, 1962. [[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864&hl=en&as_sdt=0,5)].
 
-* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5)].
+* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5)]. Chaitin's original paper on Algorithmic Information Theory.
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
 
@@ -497,13 +497,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Dimensionality Reduction
 
-* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***Science***, 2000. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907)].
+* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***Science***, 2000. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907)]. The original paper on spectrum clustering.
 
-* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5)].
+* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5)]. The original paper on Variational Autoencoder.
 
-* [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088&hl=en&as_sdt=0,5)].
+* [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088&hl=en&as_sdt=0,5)]. Yoshua Bengio's review on representation learning.
 
-* [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293&hl=en&as_sdt=2005&sciodt=0,5)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
 
 *[Back to Top](#c)
 
