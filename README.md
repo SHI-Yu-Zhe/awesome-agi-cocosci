@@ -438,15 +438,15 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "nonparametric-model"></span>
 #### Nonparametric Model
 
-* [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***The Annals of Statistics***, 1973. [[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902&hl=en&as_sdt=0,5)].
+* [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***The Annals of Statistics***, 1973. [[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902&hl=en&as_sdt=0,5)]. A classic review on non-parametric problems.
 
-* [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046&hl=en&as_sdt=0,5)].
+* [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046&hl=en&as_sdt=0,5)]. The original paper on Dirichlet Process modeling for non-parametric problems.
 
-* [Latent Semantic Indexing: A Probabilistic Analysis](https://www.sciencedirect.com/science/article/pii/S0022000000917112) - ***Journal of Computer and System Sciences***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=7296120469860429813&hl=en&as_sdt=0,5)].
+* [Latent Semantic Indexing: A Probabilistic Analysis](https://www.sciencedirect.com/science/article/pii/S0022000000917112) - ***Journal of Computer and System Sciences***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=7296120469860429813&hl=en&as_sdt=0,5)]. The original paper on hierarchical topic model.
 
 * [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***Statistical Science***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
-* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134)].
+* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134)]. Application on scientific paper ananlysis for hierarchical topic model.
 
 * [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5)].
 
@@ -454,7 +454,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies](https://dl.acm.org/doi/abs/10.1145/1667053.1667056) - ***Journal of the ACM***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=8216933258869737505&hl=en&as_sdt=0,5)].
 
-* [Infinite Latent Feature Models and the Indian Buffet Process](http://mlg.eng.cam.ac.uk/zoubin/papers/ibptr.pdf) - ***Gatsby Computational Neuroscience Unit Technical Report 2005-001***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=13180738480564152907&hl=en&as_sdt=0,5)].
+* [Infinite Latent Feature Models and the Indian Buffet Process](http://mlg.eng.cam.ac.uk/zoubin/papers/ibptr.pdf) - ***Gatsby Computational Neuroscience Unit Technical Report 2005-001***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=13180738480564152907&hl=en&as_sdt=0,5)]. Tom Griffiths and Zoubin Ghahramani's review on infinite models.
 
 * [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***Journal of Machine Learning Research***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5)].
 
