@@ -242,7 +242,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short) - ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)].
 
-* [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4) - ***Synthese***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385&hl=en&as_sdt=0,5)].
+* [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4) - ***Synthese***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385&hl=en&as_sdt=0,5)]. A categorization for Abduction in the account of pure philosophy.
 
 * [Abduction: A categorical characterization](https://www.sciencedirect.com/science/article/pii/S1570868314000895) - ***Journal of Applied Logic***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=17834260152484836885&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -264,13 +264,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The order effect in human abductive reasoning: an empirical and computational study](https://www.tandfonline.com/doi/full/10.1080/09528130600558141?scroll=top&needAccess=true) - ***Journal of Experimental & Theoretical Artificial Intelligence***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=3803536062463585043&hl=en&as_sdt=0,5)].
 
-* [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5) - ***Model-Based Reasoning in Science and Technology***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=14979764682921693390&hl=en&as_sdt=0,5)].
+* [Abduction, Induction, and Analogy](https://link.springer.com/chapter/10.1007%2F978-3-642-15223-8_5) - ***Model-Based Reasoning in Science and Technology***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=14979764682921693390&hl=en&as_sdt=0,5)]. The distinctions and relations between Abduction, Induction, and Analogy.
 
-* [Remembrance of inferences past: Amortization in human hypothesis generation](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301094) - ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=190340622765037472&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Remembrance of inferences past: Amortization in human hypothesis generation](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301094) - ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=190340622765037472&hl=en&as_sdt=2005&sciodt=0,5)]. A rational account of human hypothesis generation.
 
 * [The AHA! Experience: Creativity Through Emergent Binding in Neural Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2010.01142.x) - ***Cognitive Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10006889101167052798&hl=en&as_sdt=0,5)].
 
-* [Explanation-seeking curiosity in childhood](https://www.sciencedirect.com/science/article/pii/S2352154620300851) - ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4167956555501133663&hl=en&as_sdt=2005)].
+* [Explanation-seeking curiosity in childhood](https://www.sciencedirect.com/science/article/pii/S2352154620300851) - ***Current Opinion in Behavioral Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4167956555501133663&hl=en&as_sdt=2005)]. A developmental pshchological evidence for Abduction in young children.
 
 * [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***Behavioral and Brain Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648&hl=en&as_sdt=2005&sciodt=2005)].
 
