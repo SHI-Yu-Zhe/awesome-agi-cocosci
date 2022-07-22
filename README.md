@@ -683,17 +683,17 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "hmprobsol"></span>
 #### Human-Level Problem Solving
 
-* [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)].
+* [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]. Herbert Simon's original idea on human problem solving.
 
-* [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)].
+* [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5)]. Herbert Simon's classic idea of human problem solving as search.
 
 * [Learning to Solve Problems: A Handbook for Designing Problem-Solving Learning Environments](http://196.223.158.148/bitstream/handle/123456789/2978/596.pdf?sequence=1&isAllowed=y) - ***Taylorfrancis***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=13262690779319271809&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***Science***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5)].
+* [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***Science***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5)]. Daniel Kahneman's classic idea of prospective theory.
 
-* [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608&hl=en&as_sdt=0,5)].
+* [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608&hl=en&as_sdt=0,5)]. A piece of evidence on hierarchical human planning. 
 
-* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5)].
+* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5)]. A computational account on rational problem representation in human planning.
 
 * [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094&context=jps) - ***The Journal of Problem Solving***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883&hl=en&as_sdt=0,5)].
 
@@ -703,7 +703,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)].
 
-* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)]. [[Project](https://sites.google.com/view/virtualtoolsgame/home)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)].
+* [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923&hl=en&as_sdt=0,5)]. [[Project](https://sites.google.com/view/virtualtoolsgame/home)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]. A computational account on rapid trail-and-error problem solving with a noisy prior model.
 
 * [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
 
@@ -715,7 +715,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369) - ***Cell***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)].
 
-* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)].
+* [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]. A piece of evidence on creative tool use in animals.
 
 * [Intrinsic Exploration as Empowerment in a Richly Structured Online Game](https://psyarxiv.com/ybs7g/) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12321757821600526668)].
 
@@ -727,13 +727,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Planning
 
-* [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)].
+* [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)]. Leslie Kaelbling's review on hierarchical Task-and-Motion-Planning (hierarchical TAMP).
+
+* [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5)]. Leslie Kaelbling's review on Task-and-Motion-Planning (TAMP).
 
 * [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626) - ***Robotics: Science and Systems***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10342169019935480143&hl=en&as_sdt=0,5)].
-
-* [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860&hl=en&as_sdt=0,5)].
-
-* [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5)].
 
 * [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf) - ***CogSci'21***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)].
 
@@ -745,7 +743,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Intrinsic Motivation
 
-* [Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html) - ***NIPS'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=9736217847061704054&hl=en&as_sdt=0,5)].
+* [Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html) - ***NIPS'04***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=9736217847061704054&hl=en&as_sdt=0,5)]. A comprehensive review on intrinsic reward functions in classic reinforcement learning.
 
 * [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***Frontiers in Neurorobotics***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353&hl=en&as_sdt=0,5)].
 
@@ -769,7 +767,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)].
 
-* [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404&hl=en&as_sdt=0,5)]. [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf)].
+* [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860&hl=en&as_sdt=0,5)].
+
+* [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404&hl=en&as_sdt=0,5)]. [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf)]. Sergey Levine's tutorial on probabilistic reinforcement learning.
 
 * [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) - ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7721047641895252765&hl=en&as_sdt=0,5)].
 
