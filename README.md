@@ -747,29 +747,29 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***Frontiers in Neurorobotics***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353&hl=en&as_sdt=0,5)].
 
-* [Curiosity-driven Exploration by Self-supervised Prediction](https://proceedings.mlr.press/v70/pathak17a.html) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9379743003299559904&hl=en&as_sdt=0,5)].
+* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
+
+* [Curiosity-driven Exploration by Self-supervised Prediction](https://proceedings.mlr.press/v70/pathak17a.html) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9379743003299559904&hl=en&as_sdt=0,5)]. The original paper on curiosity as intrinsic motivation.
 
 * [UCB Exploration via Q-Ensembles](https://arxiv.org/abs/1706.01502) - 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13260404166621290240)].
 
-* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
-
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)].
 
-* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2015/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) - ***NIPS'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9262504233068870193&hl=en&as_sdt=0,5)].
+* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2015/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) - ***NIPS'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9262504233068870193&hl=en&as_sdt=0,5)]. The original paper on empowerment as intrinsic motivation.
 
 *[Back to Top](#c)
 
 #### Reinforcement Learning
 
-* [Reinforcement learning: An introduction](https://www.andrew.cmu.edu/user/rmorina/papers/SuttonBook.pdf) - ***MIT Press***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8821915215029978039&hl=en&as_sdt=0,5)].
+* [Reinforcement learning: An introduction](https://www.andrew.cmu.edu/user/rmorina/papers/SuttonBook.pdf) - ***MIT Press***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8821915215029978039&hl=en&as_sdt=0,5)]. Richard Sutton's comprehensive book on reinforcement learning.
 
-* [Reinforcement learning: A survey](https://www.jair.org/index.php/jair/article/view/10166) - ***Journal of Artificial Intelligence Research***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4983604491168613713)].
+* [Reinforcement learning: A survey](https://www.jair.org/index.php/jair/article/view/10166) - ***Journal of Artificial Intelligence Research***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4983604491168613713)]. Leslie Kaelbling's review on reinforcement learning.
 
-* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)].
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]. The original paper on operation reinforcement learning.
 
 * [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860&hl=en&as_sdt=0,5)].
 
-* [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404&hl=en&as_sdt=0,5)]. [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf)]. Sergey Levine's tutorial on probabilistic reinforcement learning.
+* [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404&hl=en&as_sdt=0,5)]. [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf)]. Sergey Levine's tutorial on treating reinforcement learning probabilisticly.
 
 * [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) - ***NIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7721047641895252765&hl=en&as_sdt=0,5)].
 
@@ -789,13 +789,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A Survey of Preference-Based Reinforcement Learning Methods](https://www.jmlr.org/papers/volume18/16-634/16-634.pdf) - ***Journal of Machine Learning Research***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=13278778479251450967&hl=en&as_sdt=0,5)].
 
-* [On the Expressivity of Markov Reward](https://papers.nips.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211&hl=en&as_sdt=0,5)].
+* [On the Expressivity of Markov Reward](https://papers.nips.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211&hl=en&as_sdt=0,5)]. A formal treatment of tasks and rewards in reinforcement learning modeling.
 
-* [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185&hl=en&as_sdt=0,5)].
+* [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185&hl=en&as_sdt=0,5)]. The original paper on constrained reinforcement learning (safe reinforcement learning).
 
 * [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
 
-* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5)].
+* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5)]. Richard Sutton's perspective on the future directions of reinforcement learning research.
 
 * [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214&hl=en&as_sdt=0,5)].
 
