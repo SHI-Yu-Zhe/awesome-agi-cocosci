@@ -1177,7 +1177,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Basic functional trade-offs in cognition: An integrative framework](https://www.sciencedirect.com/science/article/pii/S0010027718301604) - ***Cognition***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11475742130443069967&hl=en&as_sdt=0,5)].
 
-* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942&hl=en&as_sdt=0,5)].
+* [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942&hl=en&as_sdt=0,5)]. A perspective on the two levels of consciousness in machine intelligence.
 
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
@@ -1186,7 +1186,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "tom"></span>
 ### Theory of Mind
 
-* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***.
+* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 
 * [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***Plato Stanford***.
 
