@@ -1038,25 +1038,25 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Scaling Up Behavioral Studies
 
-* [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)].
+* [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)]. The statistical and ecological basis for scaling up behavioral studies.
 
 * [Machine-generated theories of human decision-making](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/a/511/files/2021/06/Bhatia-He-Science.pdf) - ***Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7065547001880027350&hl=en&as_sdt=0,5)].
 
-* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) - ***Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5)].
+* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) - ***Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5)]. A piece of evidence for the merits brought by large-scale behavioral studies in social science.
 
 * [Integrating explanation and prediction in computational social science](http://jakehofman.com/pdfs/integrating-prediction-and-explanation.pdf) - ***Nature***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=288245575125750925&hl=en&as_sdt=0,5)].
 
 * [Exploring human cognition using large image databases](https://cocosci.princeton.edu/josh/papers/griffiths-largeimagedatabases-topics2016.pdf) - ***Topics in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3629906005701226294&hl=en&as_sdt=0,5)].
 
-* [Visual Search at Pinterest](https://web.archive.org/web/20170809024454id_/http://www.kevinjing.com/visual_search_at_pinterest.pdf) - ***KDD'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2051024301293529405&hl=en&as_sdt=0,5)].
+* [Visual Search at Pinterest](https://web.archive.org/web/20170809024454id_/http://www.kevinjing.com/visual_search_at_pinterest.pdf) - ***KDD'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2051024301293529405&hl=en&as_sdt=0,5)]. Large scale user study in the development of the recommendations system by Pinterest.
 
 *[Back to Top](#c)
 
 #### Question Answering
 
-* [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3398849603439166012&hl=en&as_sdt=0,5)].
+* [Searching large hypothesis spaces by asking questions](https://cogsci.mindmodeling.org/2016/papers/0122/paper0122.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3398849603439166012&hl=en&as_sdt=0,5)]. A behavioral study for the 20 questions game.
 
-* [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=34641833161282231&hl=en&as_sdt=0,5)].
+* [Asking and evaluating natural language questions](https://gureckislab.org/papers/RotheLakeGureckis-2016cogsci.pdf) - ***CogSci'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=34641833161282231&hl=en&as_sdt=0,5)]. A behavioral study for the battleship game.
 
 * [Do People Ask Good Questions?](https://link.springer.com/article/10.1007/s42113-018-0005-5) - ***Computational Brain & Behavior***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=14595996621617337270&hl=en&as_sdt=0,5)].
 
@@ -1066,7 +1066,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Human-Machine Comparison
 
-* [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5)].
+* [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5)]. Herbert Simon's early experiments on computer aided behavioral studies.
 
 * [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***Knowledge and cognition***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
 
@@ -1092,11 +1092,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Virtual Reality
 
-* [Virtual reality in behavioral neuroscience and beyond](https://www.nature.com/articles/nn948) - ***Nature Neuroscience***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12168354203281280346&hl=en&as_sdt=0,5)].
+* [Virtual reality in behavioral neuroscience and beyond](https://www.nature.com/articles/nn948) - ***Nature Neuroscience***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12168354203281280346&hl=en&as_sdt=0,5)]. A classic review on the early applications of Virtual Reality to behavioral studies.
 
 * [Virtual reality: A survival guide for the social scientist](https://stanfordvr.com/mm/2009/fox-jmp-vr-survival.pdf) - ***Journal of Media Psychology***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=17318470193315023264&hl=en&as_sdt=0,5)].
 
-* [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***The psychology of technology: Social science research in the age of Big Data (pp. 155–193), American Psychological Association***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021)].
+* [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***The psychology of technology: Social science research in the age of Big Data (pp. 155–193), American Psychological Association***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021)]. Jeremy Bailenson's review on the applications of Virtual Reality to behavioral studies.
 
 *[Back to Top](#c)
 
@@ -1104,11 +1104,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Meta Learning
 
-* [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5)].
+* [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5)]. A comprehensive review on AutoRL.
 
-* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)].
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)]. Chelsea Finn's original paper on Model-Agnostic Meta-Learning (MAML).
 
-* [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5)].
+* [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5)]. A Bayesian account on MAML.
 
 * [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](http://proceedings.mlr.press/v97/rakelly19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15379570585451726919&hl=en&as_sdt=0,5)].
 
@@ -1122,17 +1122,17 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Marr Levels of Analysis
 
-* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
+* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. David Marr's original book on the levels of analysis.
 
 * [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=11150567121969913334)].
 
-* [Bridging Levels of Analysis for Probabilistic Models of Cognition](https://cocosci.princeton.edu/tom/papers/LabPublications/BridgingLevelsAnalysis.pdf) - ***Current Directions in Psychological Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5063382112136991296&hl=en&as_sdt=0,5)].
+* [Bridging Levels of Analysis for Probabilistic Models of Cognition](https://cocosci.princeton.edu/tom/papers/LabPublications/BridgingLevelsAnalysis.pdf) - ***Current Directions in Psychological Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5063382112136991296&hl=en&as_sdt=0,5)]. A Marr's paradigm account on probabilistic models.
 
 * [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***Topics in Cognitive Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368&hl=en&as_sdt=0,5)].
 
-* [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844&hl=en&as_sdt=0,5)].
+* [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844&hl=en&as_sdt=0,5)]. A Marr's paradigm account on computational social science.
 
-* [Levels of Analysis for Machine Learning](https://baicsworkshop.github.io/pdf/BAICS_6.pdf) - ***ICLR'20 Bridging AI and Cognitive Science Workshop***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13819038971626384115&hl=en&as_sdt=0,5)].
+* [Levels of Analysis for Machine Learning](https://baicsworkshop.github.io/pdf/BAICS_6.pdf) - ***ICLR'20 Bridging AI and Cognitive Science Workshop***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13819038971626384115&hl=en&as_sdt=0,5)]. A Marr's paradigm account on machine learning.
 
 *[Back to Top](#c)
 
