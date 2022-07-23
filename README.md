@@ -733,7 +733,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [What Is the Model in Model-Based Planning?](https://onlinelibrary.wiley.com/doi/ftr/10.1111/cogs.12928) - ***Cognitive Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10598397017491369972&hl=en&scisbd=1&as_sdt=2005&sciodt=0,5)].
 
-* [Discovering State and Action Abstractions for Generalized Task and Motion Planning](https://arxiv.org/pdf/2109.11082.pdf) - ***AAAI'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1054368060554971920)].
+<!-- * [Discovering State and Action Abstractions for Generalized Task and Motion Planning](https://arxiv.org/pdf/2109.11082.pdf) - ***AAAI'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1054368060554971920)]. -->
 
 <!-- *[Back to Top](#c) -->
 
@@ -967,7 +967,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "ei"></span>
 ### Embodied Intelligence
 
-* [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/) - ***Plato Stanford***. A computational philosophy account on Embodied Cognition, which emphasizes the significance of an agent’s physical body in cognitive abilities.
+* [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/) - ***Plato Stanford***. A computational philosophy account on Embodied Cognition, which emphasizes the significance of an agent's physical body in cognitive abilities.
 
 * [Externalism About the Mind](https://plato.stanford.edu/entries/content-externalism/) - ***Plato Stanford***. A computational philosophy account on mind externalism, a long-term debate about the boundary of embodied intelligence.
 
@@ -1029,7 +1029,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Quantitative Analysis
 
-* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)]. The original paper on Instrumental Variables for natural sociology studies.
+<!-- * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)]. The original paper on Instrumental Variables for natural sociology studies. -->
 
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6652444619934494760&hl=en&as_sdt=0,5)]. A comprehensive review of the quantitative analysis techniques for behavioral studies.
 
@@ -1123,7 +1123,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Marr Levels of Analysis
 
-* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. David Marr's original book on the levels of analysis.
+<!-- * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. David Marr's original book on the levels of analysis. -->
 
 * [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=11150567121969913334)].
 
@@ -1168,7 +1168,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "cogarch"></span>
 #### Cognitive Architecture
 
-* [The secret life of predictive brains: what’s spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)]. A neuroscience account on brain as a generative model.
+* [The secret life of predictive brains: what's spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)]. A neuroscience account on brain as a generative model.
 
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506) - ***Artificial Intelligence***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)].
 
@@ -1319,7 +1319,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Causal Theories of Mental Content](https://plato.stanford.edu/entries/content-causal/) - ***Plato Stanford***. A computational philosophy account on causal theories of mental content, which attempts to explain how thoughts can be about things. 
 
-* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
+<!-- * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)]. -->
 
 * [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)].
 
@@ -1471,7 +1471,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Meta-Interpretive Learning as Metarule Specialisation](https://arxiv.org/pdf/2106.07464.pdf) - ***Machine Learning***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14684315775211086859&hl=en&as_sdt=0,5)].
 
-* [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386&hl=en&as_sdt=0,5)]
+* [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386&hl=en&as_sdt=0,5)].
 
 * [Derivative-free optimization of high-dimensional non-convex functions by sequential random embeddings](https://www.ijcai.org/Proceedings/16/Papers/278.pdf) - ***IJCAI'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=15955040483290586781&hl=en&as_sdt=0,5)].
 
@@ -1504,7 +1504,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/) - ***Plato Stanford***. A computational philosophy account on scientific representation, focusing on how scientific models represent their target systems.
 
-* [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/) - ***Plato Stanford***. A computational philosophy account on self-knowledge, which standardly refers to knowledge of one’s own mental states—that is, of what one is feeling or thinking, or what one believes or desires.
+* [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/) - ***Plato Stanford***. A computational philosophy account on self-knowledge, which standardly refers to knowledge of one's own mental states—that is, of what one is feeling or thinking, or what one believes or desires.
 
 * [Common Knowledge](https://plato.stanford.edu/entries/common-knowledge/) - ***Plato Stanford***.
 
@@ -1594,7 +1594,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Cognitive Development
 
-* [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)]. DARPA's perspective on integrating core knowledge from development psychology into machine intelligence systems.
+* [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)]. DARPA's perspective on integrating core knowledge from development psychology into machine intelligence systems.
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***Wikipedia***. 
 
@@ -1916,7 +1916,7 @@ Applied mathematician, the founder of General Pattern Theory.
 
 Computational Cognitive Neuroscientist, the establisher of the Levels of Analysis.
 
-* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
+<!-- * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. -->
 
 <!-- *[Back to Top](#c) -->
 
