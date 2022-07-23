@@ -161,7 +161,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
 
-* [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd.***. For interactive literature map construction and linked document management.
+* [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd***. For interactive literature map construction and linked document management.
 
 * [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
 
@@ -185,9 +185,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
 
-* [Where Does Niklas Luhmann’s Card Index Come From?](https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf) - ***Erudition and the Republic of Letters***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8279465066043884141&hl=en&as_sdt=0,5)]. A simplified introduction on Luhmann's Zettelkasten.
+* [Where Does Niklas Luhmann's Card Index Come From?](https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf) - ***Erudition and the Republic of Letters***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8279465066043884141&hl=en&as_sdt=0,5)]. A simplified introduction on Luhmann's Zettelkasten.
 
-* [Niklas Luhmann’s Card Index: The Fabrication of Serendipity](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf) - ***Sociologica***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12440286698665929622&hl=en&as_sdt=0,5)].
+* [Niklas Luhmann's Card Index: The Fabrication of Serendipity](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf) - ***Sociologica***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12440286698665929622&hl=en&as_sdt=0,5)].
 
 * [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) - 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Communicating+with+slip+boxes+luhmann&btnG=)].
 
@@ -673,7 +673,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767&hl=en&as_sdt=0,5)].
 
-* [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
+<!-- * [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022. -->
 
 <!-- *[Back to Top](#c) -->
 
@@ -717,14 +717,10 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of National Academy of Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]. A piece of evidence on creative tool use in intelligent animals.
 
-* [Intrinsic Exploration as Empowerment in a Richly Structured Online Game](https://psyarxiv.com/ybs7g/) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12321757821600526668)].
-
-* [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***Nature Human Behavior***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
-
-* [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)].
+<!-- * [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)]. -->
 
 <!-- *[Back to Top](#c) -->
-* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
+
 #### Planning
 
 * [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879&hl=en&as_sdt=0,5)]. Leslie Kaelbling's review on hierarchical Task-and-Motion-Planning (hierarchical TAMP).
@@ -756,6 +752,11 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)].
 
 * [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2015/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) - ***NIPS'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9262504233068870193&hl=en&as_sdt=0,5)]. The original paper on empowerment as intrinsic motivation.
+
+* [Intrinsic Exploration as Empowerment in a Richly Structured Online Game](https://psyarxiv.com/ybs7g/) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12321757821600526668)].
+
+* [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***Nature Human Behavior***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
+
 
 <!-- *[Back to Top](#c) -->
 
