@@ -1138,9 +1138,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 #### Gestalt
 
-* [Gestalt theory](https://psycnet.apa.org/record/2007-10344-001) - ***A source book of Gestalt psychology***, 1938. [[All Versions](https://scholar.google.com/scholar?cluster=18133275659218646817&hl=en&as_sdt=0,5)].
+* [Gestalt theory](https://psycnet.apa.org/record/2007-10344-001) - ***A source book of Gestalt psychology***, 1938. [[All Versions](https://scholar.google.com/scholar?cluster=18133275659218646817&hl=en&as_sdt=0,5)]. The original book on Gestalt psychology.
 
-* [Gestalt Psychology](https://link.springer.com/article/10.1007/BF00422382) - ***Psychologische Forschung***, 1967. [[All Versions](https://scholar.google.com/scholar?cluster=16023098380090751616&hl=en&as_sdt=0,5)].
+* [Gestalt Psychology](https://link.springer.com/article/10.1007/BF00422382) - ***Psychologische Forschung***, 1967. [[All Versions](https://scholar.google.com/scholar?cluster=16023098380090751616&hl=en&as_sdt=0,5)]. Wolfgang Köhler's review on Gestalt psychology.
 
 * [Restructuring revisited I. Summary and critique of the Gestalt theory of problem solving](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01001.x) - ***Scandinavian Journal of Psychology***, 1984. [[All Versions](https://scholar.google.com/scholar?cluster=1540079499182933565&hl=en&as_sdt=0,5)].
 
@@ -1148,30 +1148,30 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***Cambridge University Press***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=231021877034210140)].
+* [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***Cambridge University Press***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=231021877034210140)]. 
 
 *[Back to Top](#c)
 
 #### Rationality
 
-* [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/) - ***Plato Stanford***.
+* [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/) - ***Plato Stanford***. A computational philosophy account on Bounded Rationality, an elementary hypothesis of human intelligence in psychology and ecology.
 
-* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/) - ***Plato Stanford***.
+* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/) - ***Plato Stanford***. A computational philosophy account on Instrumental Rationality, a dabate on whether an agent's decision is made intentionally or out of rational coherence.
 
-* [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5)].
+* [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5)]. A comprehensive review on the rationality of Bayesian computational models.
 
-* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5)].
+* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5)]. A resource-rational account on interpreting human intelligence.
 
 *[Back to Top](#c)
 
 <span id = "cogarch"></span>
 #### Cognitive Architecture
 
-* [The secret life of predictive brains: what’s spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)].
+* [The secret life of predictive brains: what’s spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)]. A neuroscience account on brain as a generative model.
 
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506) - ***Artificial Intelligence***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)].
 
-* [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052&hl=en&as_sdt=0,5)].
+* [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052&hl=en&as_sdt=0,5)]. The original paper introducing the adaptation perspective of human intelligence, the theoretical basis of the ACT cognitive architecture.
 
 * [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530) - ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)].
 
