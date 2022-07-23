@@ -1271,33 +1271,33 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "anl"></span>
 ### Analogy
 
-* [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***.
+* [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 
-* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/#:~:text=Analogical%20reasoning%20is%20any%20type%20of%20thinking%20that,support%20the%20conclusion%20that%20some%20further%20similarity%20exists.) - ***Plato Stanford***.
+* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
 
-* [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+cognitive+theory+of+metaphor&btnG=)].
+* [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+cognitive+theory+of+metaphor&btnG=)]. A cognitive account on Metaphor.
 
-* [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775) - ***Artificial Intelligence***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=16104901325436513899&hl=en&as_sdt=0,5)].
+* [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775) - ***Artificial Intelligence***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=16104901325436513899&hl=en&as_sdt=0,5)]. A computational implementation of analogy.
 
-* [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830&hl=en&as_sdt=0,5)]. 
+* [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830&hl=en&as_sdt=0,5)]. A perspective unifying analogy and similarity judgement.
 
-* [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122&hl=en&as_sdt=0,5)].
+* [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122&hl=en&as_sdt=0,5)]. A comprehensive review on the perspective of treating analogy as cross-domain generalization.
 
-* [Emergence of analogy from relation learning](https://www.pnas.org/content/pnas/116/10/4176.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4877125748339538047&hl=en&as_sdt=0,5)].
+* [Emergence of analogy from relation learning](https://www.pnas.org/content/pnas/116/10/4176.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4877125748339538047&hl=en&as_sdt=0,5)]. Analogy feature in language models.
 
-* [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253&hl=en&as_sdt=0,5)].
+* [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253&hl=en&as_sdt=0,5)]. Explaining the analogy capability in word embeddings.
 
 * [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246&hl=en&as_sdt=0,5)].
 
 * [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862&hl=en&as_sdt=0,5)].
 
-* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf) - ***ICML'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=9332855910734484101&hl=en&as_sdt=0,5)].
+* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf) - ***ICML'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=9332855910734484101&hl=en&as_sdt=0,5)]. The first application of analogy to machine learning.
 
 * [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NIPS'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654&hl=en&as_sdt=0,5)].
 
 * [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16686853801653819556&hl=en&as_sdt=0,5)].
 
-* [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863) - ***Artificial Intelligence***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=1397905953174123757&hl=en&as_sdt=0,5)].
+* [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863) - ***Artificial Intelligence***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=1397905953174123757&hl=en&as_sdt=0,5)]. A mathematical account on analogy.
 
 * [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120) - ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15521573039503233138&hl=en&as_sdt=0,5)].
 
@@ -1305,7 +1305,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057&hl=en&as_sdt=0,5)].
 
-* [Preschoolers and adults make inferences from novel metaphors](https://escholarship.org/content/qt3j2576vv/qt3j2576vv.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16038983545360341739&hl=en&as_sdt=0,44)].
+* [Preschoolers and adults make inferences from novel metaphors](https://escholarship.org/content/qt3j2576vv/qt3j2576vv.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16038983545360341739&hl=en&as_sdt=0,44)]. A piece of evidence that understanding metaphors is capable for different cognitive development phases.
 
 *[Back to Top](#c)
 
