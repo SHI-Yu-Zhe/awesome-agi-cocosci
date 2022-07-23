@@ -25,7 +25,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
       * [Explanation](#explanation)
       * [Scientific Discovery](#scientific-discovery)
       * [Rationalization](#rationalization)
-      * [Applications in AI](#application-in-ai)
+      * [Applications in AI](#applications-in-ai)
     * [Bayesian Modeling](#bayesian-modeling)
       * [Bayesian Induction](#bayesian-induction)
       * [Generative Model](#generative-model)
