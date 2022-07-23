@@ -1782,7 +1782,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070) - ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial'20***, 2020.
 
-<!--<!-- *[Back to Top](#c) -->-->
+<!-- *[Back to Top](#c) -->
 
 
 <span id = "r&l"></span>
