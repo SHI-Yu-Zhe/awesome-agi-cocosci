@@ -1418,27 +1418,27 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "lp"></span>
 ### Inductive Logic & Program Synthesis
 
-* [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/) - ***Plato Stanford***.
+* [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/) - ***Plato Stanford***. A computational philosophy account on Inductive Logic, which is a logic of evidential support.
 
-* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/) - ***Plato Stanford***.
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/) - ***Plato Stanford***. A computational philosophy account on First-order Model Theory, which is a branch of mathematics that deals with the relationships between descriptions in first-order languages and the structures that satisfy these descriptions.
 
-* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/) - ***Plato Stanford***.
+* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/) - ***Plato Stanford***. A computational philosophy account on Paraconsistent Logic, where any logic is paraconsistent as long as it is not explosive.
 
-* [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/) - ***Plato Stanford***.
+* [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/) - ***Plato Stanford***. A computational philosophy account on Logical Consequence, which is about the relation between premises and conclusions in valid arguments.
 
-* [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/) - ***Plato Stanford***.
+* [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/) - ***Plato Stanford***. A computational philosophy account on Logic Pluralism, which is the view that there is more than one correct logic.
 
-* [The Emergence of First-Order Logic](https://plato.stanford.edu/entries/logic-firstorder-emergence/) - ***Plato Stanford***.
+* [The Emergence of First-Order Logic](https://plato.stanford.edu/entries/logic-firstorder-emergence/) - ***Plato Stanford***. A computational philosophy account on the emergence of first-order logic, mainly about first-order logic is natural retrospect.
 
-* [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***Plato Stanford***.
+* [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***Plato Stanford***. 
 
-* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) - ***Foundations and Trends in Programming Languages***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421&hl=en&as_sdt=0,5)].
+* [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) - ***Foundations and Trends in Programming Languages***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421&hl=en&as_sdt=0,5)]. Sumit Gulwani's comprehensive review on program synthesis.
 
-* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5)].
+* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5)]. The original paper on second-order metarules.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].
 
-* [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592&hl=en&as_sdt=0,5)].
+* [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592&hl=en&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
 
 * [Learning Efficient Logical Robot Strategies Involving Composable Objects](http://andrewcropper.com/pubs/ijcai15-metagolo.pdf) - ***IJCAI'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=5109851972354087162&hl=en&as_sdt=0,5)].
 
@@ -1462,7 +1462,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Turning 30: New Ideas in Inductive Logic Programming](https://www.ijcai.org/proceedings/2020/673) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17980870844719684257&hl=en&as_sdt=0,5)].
 
-* [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302&hl=en&as_sdt=0,5)].
+* [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302&hl=en&as_sdt=0,5)]. A 30-year comprehensive review on Inductive Logic Programming.
 
 * [Learning programs by learning from failures](https://arxiv.org/pdf/2005.02259.pdf) - ***Machine Learning***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6797200487935462023&hl=en&as_sdt=0,5)].
 
@@ -1476,7 +1476,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Finitely Generated Groups and First-Order Logic](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/S0024610704006106) - ***Journal of The London Mathematical Society-second Series***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=3457158221419711506&hl=en&as_sdt=0,5)].
 
-* [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844&hl=en&as_sdt=0,5)].
+* [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844&hl=en&as_sdt=0,5)]. A incremental learning version of Bayesian program learning.
 
 * [Leveraging Language for Abstraction and Program Search](https://vigilworkshop.github.io/static/papers-2021/25.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Language+for+Abstraction+and+Program+Search&btnG=)].
 
@@ -1493,43 +1493,43 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 <span id = "kr"></span>
 ### Knowledge Representation
 
-* [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***Elsevier***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5)].
+* [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***Elsevier***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5)]. A pragmatical handbook for all kinds of knowledge representation modes.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/) - ***Plato Stanford***.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/) - ***Plato Stanford***. A computational philosophy account on logic and ontology, mainly about the intersections of logic and ontology in many significant philosophy problems.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/) - ***Plato Stanford***.
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/) - ***Plato Stanford***. A computational philosophy account on the laugnage of though hypothesis, which proposes that thinking occurs in a mental language.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***Plato Stanford***.
 
-* [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/) - ***Plato Stanford***.
+* [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/) - ***Plato Stanford***. A computational philosophy account on scientific representation, focusing on how scientific models represent their target systems.
 
-* [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/) - ***Plato Stanford***.
+* [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/) - ***Plato Stanford***. A computational philosophy account on self-knowledge, which standardly refers to knowledge of one’s own mental states—that is, of what one is feeling or thinking, or what one believes or desires.
 
 * [Common Knowledge](https://plato.stanford.edu/entries/common-knowledge/) - ***Plato Stanford***.
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***Plato Stanford***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/) - ***Plato Stanford***.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/) - ***Plato Stanford***. A computational philosophy account on supervenience, where a set of properties A supervenes upon another set B just in case no two things can differ with respect to A-properties without also differing with respect to their B-properties.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/) - ***Plato Stanford***.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/) - ***Plato Stanford***. A computational philosophy account on dialogical logic, which is a dialogue-based approach to logic and argumentation rooted in a research tradition that goes back to dialectics in Greek Antiquity, when problems were approached through dialogues in which opposing parties discussed a thesis through questions and answers.
 
-* [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***Plato Stanford***.
+* [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***Plato Stanford***. 
 
-* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***.
+* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, which is a logic formalism designed for representing and reasoning about dynamical domains.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/) - ***Plato Stanford***.
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/) - ***Plato Stanford***. A computational philosophy account on Modal Logic, which is the study of the deductive behavior of the expressions 'it is necessary that' and 'it is possible that'.
 
-* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/) - ***Plato Stanford***.
+* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/) - ***Plato Stanford***. A computational philosophy account on Epistemic Logic, which is a subfield of epistemology concerned with logical approaches to knowledge, belief and related notions.
 
 * [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic) - ***Wikipedia***.
 
-* [The Perception of Relations](https://perception.jhu.edu/files/PDFs/21_Relations/HafriFirestone_2021_SeeingRelations_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12190078466818849725&hl=en&as_sdt=2005&sciodt=0,5)].
+* [The Perception of Relations](https://perception.jhu.edu/files/PDFs/21_Relations/HafriFirestone_2021_SeeingRelations_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12190078466818849725&hl=en&as_sdt=2005&sciodt=0,5)]. Chaz Firestone's review on the perception of relation, in constrast to the conventional reasoning view.
 
 * [Commonsense reasoning about causality: Deriving behavior from structure](https://www.sciencedirect.com/science/article/abs/pii/0004370284900390) - ***Artificial Intelligence***, 1984. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14940738362673077704)].
 
-* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)].
+* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
 
-* [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465)].
+* [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.
 
 * [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9033452473914228535)].
 
@@ -1537,9 +1537,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***Knowledge Acquisition***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)].
 
-* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5)].
+* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
 
-* [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645&hl=en&as_sdt=0,5)].
+* [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645&hl=en&as_sdt=0,5)]. 
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf) - ***Physica D: Nonlinear Phenomena***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=6279614024681929496&hl=en&as_sdt=0,5)].
 
@@ -1547,13 +1547,13 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning Causal Schemata](https://escholarship.org/content/qt19v2r2ws/qt19v2r2ws.pdf) - ***CogSci'07***, 2007, [[All Versions](https://scholar.google.com/scholar?cluster=5008191267417189643&hl=en&as_sdt=0,5)].
 
-* [The discovery of structural form](https://www.pnas.org/content/105/31/10687) - ***Proceedings of National Academy of Sciences***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486&hl=en&as_sdt=0,5)].
+* [The discovery of structural form](https://www.pnas.org/content/105/31/10687) - ***Proceedings of National Academy of Sciences***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486&hl=en&as_sdt=0,5)]. Chales Kemp's review on theory induction.
 
 * [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071) - ***Cognitive Science***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=7765061503727822620&hl=en&as_sdt=0,5)].
 
 * [Modeling semantic cognition as logical dimensionality reduction](https://escholarship.org/content/qt50r1c7qh/qt50r1c7qh.pdf) - ***CogSci'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=17061801746839695691&hl=en&as_sdt=0,5)].
 
-* [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf) - ***CogSci'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749&hl=en&as_sdt=0,5)].
+* [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf) - ***CogSci'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749&hl=en&as_sdt=0,5)]. 
 
 * [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf) - ***CogSci'10***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=16324634056226561429&hl=en&as_sdt=0,5)].
 
@@ -1587,21 +1587,25 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Learning Program Representations for Food Images and Cooking Recipes](https://openaccess.thecvf.com/content/CVPR2022/html/Papadopoulos_Learning_Program_Representations_for_Food_Images_and_Cooking_Recipes_CVPR_2022_paper.html) - ***CVPR'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=7690010749576063125)].
 
-* [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)].
+* [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. Microsoft's programming language for representing biology protocols.
 
 *[Back to Top](#c)
 
 ### Cognitive Development
 
-* [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)].
+* [Machine Common Sense Concept Paper](https://arxiv.org/pdf/2109.11082.pdf) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)]. DARPA's perspective on integrating core knowledge from development psychology into machine intelligence systems.
 
-* [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***Wikipedia***.
+* [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***Wikipedia***. 
 
 * [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+Development%3A+an+information+processing+approach&btnG=) - ***B.Blackwell***, 1991. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cognitive+development%3A+An+information+processing+approach&btnG=)].
 
-* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)].
+* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]. Alison Gopnik's review on the constructivism idea of developmental research.
 
-* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)].
+* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***Psychological Review***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)]. Fei Xu's review extending Gopnik's view of constructivism, with the rationality as constraint.
+
+* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***Trends in Cognitive Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5)]. Laura Schulz's review on children's exploratory play.
+
+* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5)]. Laura Schulz's review on children's exploratory play, which proposes a new perspective on exploratory play to explain the emergence of irrational behaviors in play.
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001) - ***Developmental Psychology***, 1981. [[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545&hl=en&as_sdt=0,5)].
 
@@ -1616,8 +1620,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Where science starts: Spontaneous experiments in preschoolers' exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916) - ***Cognition***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16321989770180281706)].
 
 * [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508&hl=en&as_sdt=2005)].
-
-* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***Trends in Cognitive Sciences***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5)].
 
 * [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf) - ***Advances in Child Development and Behavior***, 2012. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+new+facts%3B+thinking+new+thoughts&btnG=)]. 
 
@@ -1636,8 +1638,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Exploratory play, rational action, and efficient search](https://psyarxiv.com/9yra2/) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17529638197045429028&hl=en&as_sdt=0,5)].
 
 * [Children selectively endorse speculative conjectures](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13647?saml_referrer) - ***Child Development***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5672344544260882286&hl=en&as_sdt=2005&sciodt=0,5)].
-
-* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003) - ***Developmental Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914&hl=en&as_sdt=0,5)].
 
@@ -1660,15 +1660,15 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Online learning of symbolic concepts](https://www.sciencedirect.com/science/article/abs/pii/S002224961730010X) - ***Journal of Mathematical Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8036476579458645432&scipsc=)].
 
-* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5)].
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5)]. A comprehensive review on zero-shot learning.
 
-* [Generalizing from a few examples: A survey on few-shot learning](https://www.4paradigm.com/upload/file/20210427/20210427225045_12063.pdf) - ***ACM Computing Survey***. [[All Versions](https://scholar.google.com/scholar?cluster=7932202448069313464&hl=en&as_sdt=0,5)].
+* [Generalizing from a few examples: A survey on few-shot learning](https://www.4paradigm.com/upload/file/20210427/20210427225045_12063.pdf) - ***ACM Computing Survey***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7932202448069313464&hl=en&as_sdt=0,5)].
 
-* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799) - ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529&hl=en&as_sdt=0,5)]. 
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799) - ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529&hl=en&as_sdt=0,5)]. The first paper introducing the problem of open-world recognition.
 
 * [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542) - ***CVPR'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3571743951915089896&hl=en&as_sdt=0,5)].
 
-* [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346&hl=en&as_sdt=0,5)].
+* [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346&hl=en&as_sdt=0,5)]. A comprehensive review on incremental machine learning.
 
 * [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11617966867048191189&hl=en&as_sdt=0,5)].
 
