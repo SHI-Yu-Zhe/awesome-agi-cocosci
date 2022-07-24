@@ -1895,7 +1895,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Others
 
-* [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University***.
+* [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University (PKU)***.
+
+* [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, John Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
 *[Back to Top](#c)
 
