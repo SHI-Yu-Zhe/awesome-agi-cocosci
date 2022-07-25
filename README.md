@@ -466,7 +466,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 *[Back to Top](#c)
 
-<span id = "bayesian-optimization"></span>
 #### Bayesian Optimization
 
 * [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583&hl=en&as_sdt=0,5)]. 
