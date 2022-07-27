@@ -191,6 +191,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) - 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Communicating+with+slip+boxes+luhmann&btnG=)].
 
+* [Zotero](https://www.zotero.org/) - ***Digital Scholar*** For reference management to manage bibliographic data and research related materials.
+
 *[Back to Top](#c)
 
 
