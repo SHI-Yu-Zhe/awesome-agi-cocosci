@@ -10,6 +10,10 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 Obviously this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of literature reviews when the author is working on Abduction, other non-Abduction topics are also collected with biases, more or less. Abduction is the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings and applications to AI. Please feel free to reach out.
 
+## Contributing
+
+Contributing is greatly welcomed! Please read the [Contributing Guidelines](Contributing.md) before taking actions.
+
 
 <span id = "c"></span>
 ## Contents
@@ -119,9 +123,9 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Paper Writing
 
-* [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
+* [LaTex Configuration](LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
 
-* [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/BibTex/template.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
+* [BibTex Template](BibTex/template.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
 
