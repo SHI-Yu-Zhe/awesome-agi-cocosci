@@ -4,7 +4,7 @@ Here I describe the potential contributing situations. Contributors could follow
 
 ## I am adding a link to a paper or a piece of resource
 
-Please open a new Pull Request and append the line(s) to the bottom of the current directory of your target topic/subtopic.
+Please open a new `Pull Request` and append the line(s) to the bottom of the current directory of your target topic/subtopic.
 
 If this is a published paper, the avenue and publish year should be included. If this is a preprint paper, only publish year should be included. If this is a piece of resource, only the maintainer or initiator should be included, as follows:
 
@@ -38,7 +38,9 @@ At the last, you should append a short description or summary of the link to the
 
 ```
 
+## I am adding a new topic/subtopic or modifying the structure of existing ones
 
+Please feel free to open an `Issue` to share your perspective!
 
 
 Please ensure your pull request adheres to the following guidelines:
