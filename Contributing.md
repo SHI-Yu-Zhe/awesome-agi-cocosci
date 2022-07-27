@@ -1,5 +1,17 @@
 # Contribution Guidelines
 
+Here I describe the potential contributing situations. Contributors could follow the hints below.
+
+## If adding a link to a paper or a piece of resource
+
+Please open a new Pull Request and append the line(s) to the bottom of the current directory of your target topic/subtopic, in the form of 
+
+```
+
+* [Paper Name](publicly-accessible-link-to-the-paper) - ***Journal/Conference/Maintainer/Initiator***, year. [[All Versions](link-to-google-scholar-all-versions-page-for-the-paper)]. [[Resource Name](publicly-accessible-link-to-the-paper)]. Discription in natural language.
+
+```
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
