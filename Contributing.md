@@ -43,6 +43,8 @@ At the last, you should append a short description or summary of the link to the
 Please feel free to open an `Issue` to share your perspective!
 
 
+## General Guidelines
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
