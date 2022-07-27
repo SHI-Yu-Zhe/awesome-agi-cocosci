@@ -2,15 +2,44 @@
 
 Here I describe the potential contributing situations. Contributors could follow the hints below.
 
-## If adding a link to a paper or a piece of resource
+## I am adding a link to a paper or a piece of resource
 
-Please open a new Pull Request and append the line(s) to the bottom of the current directory of your target topic/subtopic, in the form of 
+Please open a new Pull Request and append the line(s) to the bottom of the current directory of your target topic/subtopic.
+
+If this is a published paper, the avenue and publish year should be included. If this is a preprint paper, only publish year should be included. If this is a piece of resource, only the maintainer or initiator should be included, as follows:
+
+```
+
+* [Paper Name](publicly-accessible-link-to-the-paper) - ***Journal/Conference/Maintainer/Initiator***, year.
+
+```
+
+And if the paper is retrievable on Google Scholar, the link to the `All Versions` page for the paper should be appended, as follows:
+
+```
+
+[[All Versions](link-to-google-scholar-all-versions-page-for-the-paper)].
+
+```
+
+Links to more resources may be appended, as follows:
+
+```
+
+[[Resource Name](publicly-accessible-link-to-the-paper)].
+
+```
+
+At the last, you should append a short description or summary of the link to the end of the line.
 
 ```
 
 * [Paper Name](publicly-accessible-link-to-the-paper) - ***Journal/Conference/Maintainer/Initiator***, year. [[All Versions](link-to-google-scholar-all-versions-page-for-the-paper)]. [[Resource Name](publicly-accessible-link-to-the-paper)]. Discription in natural language.
 
 ```
+
+
+
 
 Please ensure your pull request adheres to the following guidelines:
 
