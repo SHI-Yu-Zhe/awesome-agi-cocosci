@@ -1,6 +1,8 @@
 # Contribution Guidelines
 
-Here I describe the potential contributing situations. Contributors could follow the hints below.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
+Please check the hints below to determine what to do in your contribution.
 
 ## I am adding a link to a paper or a piece of resource
 
