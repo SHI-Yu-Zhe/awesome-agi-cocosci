@@ -12,7 +12,7 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ## Contributing
 
-Contributing is greatly welcomed! Please read the [Contributing Guidelines](Contributing.md) before taking actions.
+Contributing is greatly welcomed! Please read the [Contributing Guidelines](Contributing.md) before taking any action.
 
 
 <span id = "c"></span>
