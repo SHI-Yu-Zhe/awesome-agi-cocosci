@@ -825,7 +825,6 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "nsl"></span>
 ### System 1 & System 2
 
 #### Dual-Coding Theory
