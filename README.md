@@ -113,6 +113,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
 
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. [[Book: Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
+
 *[Back to Top](#c)
 
 ### Programming
