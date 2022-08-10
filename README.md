@@ -1121,6 +1121,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5)]. A Bayesian account on MAML.
 
+* [Meta-Q-Learning](https://openreview.net/forum?id=SJeD3CEFPH) - ***ICLR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2865388954464396222&hl=en&as_sdt=0,5)]. The milestone paper on context Meta-RL.
+
 * [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](http://proceedings.mlr.press/v97/rakelly19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15379570585451726919&hl=en&as_sdt=0,5)].
 
 * [Balancing Constraints and Rewards with Meta-Gradient D4PG](https://openreview.net/forum?id=TQt98Ya7UMP) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2805226315118298313&hl=en&as_sdt=0,5)].
