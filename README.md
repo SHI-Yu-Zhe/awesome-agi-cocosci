@@ -1919,6 +1919,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, John Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
+* [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology***.
+
 *[Back to Top](#c)
 
 <span id = "bk"></span>
