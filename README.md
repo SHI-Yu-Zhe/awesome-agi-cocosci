@@ -1333,6 +1333,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
 
+* [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***Journal of Experimental Psychology***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939&hl=en&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
+
 * [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)].
 
 * [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
