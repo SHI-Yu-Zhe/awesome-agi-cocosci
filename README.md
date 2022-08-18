@@ -1510,6 +1510,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 <span id = "kr"></span>
 ### Knowledge Representation
 
+* [Concepts](https://plato.stanford.edu/entries/concepts/) - ***Plato Stanford***. A collection of the computational philosophical debates about the concepts.
+
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***Elsevier***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5)]. A pragmatical handbook for all kinds of knowledge representation modes.
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/) - ***Plato Stanford***. A computational philosophy account on logic and ontology, mainly about the intersections of logic and ontology in many significant philosophy problems.
