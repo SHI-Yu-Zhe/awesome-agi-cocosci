@@ -726,6 +726,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)].
 
+* [The successor representation in human reinforcement learning](https://gershmanlab.com/pubs/Momennejad17.pdf) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7317529612823134939&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Planning
