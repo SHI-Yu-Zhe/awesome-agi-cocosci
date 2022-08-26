@@ -131,6 +131,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
 
+* [How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x) - ***Nature***, 2020. Nature speaks to old hands and first timers about the work they did to make their reviews sing.
+
 * [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
 
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
