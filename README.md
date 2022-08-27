@@ -36,7 +36,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
       * [Nonparametric Model](#nonparametric-model)
       * [Bayesian Optimization](#bayesian-optimization)
     * [Concepts](#concepts)
-      * [Concept Theories](#concept-theories)
+      * [Theory](#theory)
       * [Conceptual Knowledge](#conceptual-knowledge)
       * [AI Concept Representation](#ai-concept-representation)
     * [Complexity & Information Theory](#complexity--information-theory)
