@@ -499,6 +499,14 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Theory-theory](https://en.wikipedia.org/wiki/Theory-theory) - ***Wikipedia***. Wikipedia for the Theory theory, a perspective that contextualizes concepts in theoretical (or empirical) systems.
 
+* [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=)]. Susan Carey's book on the theory theory of concepts in child development.
+
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***MIT Press***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5)]. Alison Gopnik's book that articulates and defends the" theory theory" of cognitive and semantic development, the idea that infants and young children, like scientists, learn about the world by forming and revising theories-a view of the origins of knowledge and meaning that has broad implications for cognitive science.
+
+* [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***Oxford University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)]. Susan Carey's extended book on the theory theory of concepts in child development.
+
+* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]. Alison Gopnik's review on the constructivism idea of developmental research, including the theory theory of concepts.
+
 *[Back to Top](#c)
 
 #### Conceptual Knowledge
