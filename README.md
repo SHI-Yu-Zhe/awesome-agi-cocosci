@@ -36,7 +36,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
       * [Nonparametric Model](#nonparametric-model)
       * [Bayesian Optimization](#bayesian-optimization)
     * [Concepts](#concepts)
-      * [Theory](#theory)
+      * [Theory of Concepts](#theory-of-concepts)
       * [Conceptual Knowledge](#conceptual-knowledge)
       * [AI Concept Representation](#ai-concept-representation)
     * [Complexity & Information Theory](#complexity--information-theory)
@@ -493,7 +493,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 ### Concepts
 
-#### Theory
+#### Theory of Concepts
 
 * [Concepts](https://plato.stanford.edu/entries/concepts/) - ***Plato Stanford***. A collection of the computational philosophical debates about the concepts.
 
