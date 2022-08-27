@@ -1106,6 +1106,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 #### Implicit Association Test
 
+* [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***Journal of Personality and Social Psychology***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580&hl=en&as_sdt=0,5)]. The original paper introducing the Implicit Association Test.
+
 *[Back to Top](#c)
 
 #### Virtual Reality
