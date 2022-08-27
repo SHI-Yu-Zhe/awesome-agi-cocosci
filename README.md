@@ -491,6 +491,16 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 *[Back to Top](#c)
 
+### Concepts
+
+#### Theory
+
+* [Concepts](https://plato.stanford.edu/entries/concepts/) - ***Plato Stanford***. A collection of the computational philosophical debates about the concepts.
+
+* [Theory-theory](https://en.wikipedia.org/wiki/Theory-theory) - ***Wikipedia***. Wikipedia for the Theory theory, a perspective that contextualizes concepts in theoretical (or empirical) systems.
+
+*[Back to Top](#c)
+
 ### Complexity & Information Theory
 
 #### Theory
@@ -1531,10 +1541,6 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 
 <span id = "kr"></span>
 ### Knowledge Representation
-
-* [Concepts](https://plato.stanford.edu/entries/concepts/) - ***Plato Stanford***. A collection of the computational philosophical debates about the concepts.
-
-* [Theory-theory](https://en.wikipedia.org/wiki/Theory-theory) - ***Wikipedia***. Wikipedia for the Theory theory, a perspective that contextualizes concepts in theoretical (or empirical) systems.
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***Elsevier***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5)]. A pragmatical handbook for all kinds of knowledge representation modes.
 
