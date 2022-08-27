@@ -501,6 +501,15 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 *[Back to Top](#c)
 
+#### Conceptual Knowledge
+
+*[Back to Top](#c)
+
+#### AI Concept Representation
+
+*[Back to Top](#c)
+
+
 ### Complexity & Information Theory
 
 #### Theory
