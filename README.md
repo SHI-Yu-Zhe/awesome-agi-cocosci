@@ -65,6 +65,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
       * [Scaling Up Behavioral Studies](#scaling-up-behavioral-studies)
       * [Question Answering](#question-answering)
       * [Human-Machine Comparison](#human-machine-comparison)
+      * [Implicit Association Test](#implicit-association-test)
       * [Virtual Reality](#virtual-reality)
     * [Meta-Level Considerations](#meta-level-considerations)
       * [Meta Learning](#meta-learning)
@@ -1100,6 +1101,10 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 * [Humans can decipher adversarial images](https://perception.jhu.edu/files/PDFs/19_Adversarial_Deciphering/ZhouFirestone-AdversarialDeciphering.pdf) - ***Nature Communications***. 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4423950118844131054&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***Nature Neuroscience***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Implicit Association Test
 
 *[Back to Top](#c)
 
