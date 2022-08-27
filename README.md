@@ -1108,7 +1108,9 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***Journal of Personality and Social Psychology***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580&hl=en&as_sdt=0,5)]. The original paper introducing the Implicit Association Test.
 
-* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***Social psychology and the unconscious: The automaticity of higher mental processes, Psychology Press***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5)].
+* [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***Zeitschrift für Experimentelle Psychologie***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5)]. The 3rd year review for the IAT.
+
+* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***Social psychology and the unconscious: The automaticity of higher mental processes, Psychology Press***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5)]. The 7th year review for the IAT.
 
 *[Back to Top](#c)
 
