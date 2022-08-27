@@ -1112,6 +1112,9 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***Social psychology and the unconscious: The automaticity of higher mental processes (pp. 265–292), Psychology Press***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5)]. The 7th year review for the IAT.
 
+* [A Meta-Analysis on the Correlation Between the Implicit Association Test and Explicit Self-Report Measures](http://faculty.washington.edu/agg/IATmaterials/PDFs/Hofmann%20&%20al%20(PSPB,2005).pdf) - ***
+Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4888328728717829047&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Virtual Reality
