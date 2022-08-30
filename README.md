@@ -1082,6 +1082,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 #### Scaling Up Behavioral Studies
 
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***Brain and Behavioral Sciences***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5)]. The original paper on rethinking and tackling the sample bias in behaivoral studies, where most subjects are drawn from Western, Educated, Industrialized, Rich, and Democratic (WEIRD) societies.
+
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)]. The statistical and ecological basis for scaling up behavioral studies.
 
 * [Machine-generated theories of human decision-making](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/a/511/files/2021/06/Bhatia-He-Science.pdf) - ***Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7065547001880027350&hl=en&as_sdt=0,5)].
