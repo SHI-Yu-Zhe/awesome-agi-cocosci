@@ -1370,6 +1370,8 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057&hl=en&as_sdt=0,5)].
 
+* [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749&hl=en&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
+
 * [Preschoolers and adults make inferences from novel metaphors](https://escholarship.org/content/qt3j2576vv/qt3j2576vv.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16038983545360341739&hl=en&as_sdt=0,44)]. A piece of evidence that understanding metaphors is capable for different cognitive development phases.
 
 *[Back to Top](#c)
