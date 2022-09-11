@@ -1374,6 +1374,8 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 
 * [Preschoolers and adults make inferences from novel metaphors](https://escholarship.org/content/qt3j2576vv/qt3j2576vv.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16038983545360341739&hl=en&as_sdt=0,44)]. A piece of evidence that understanding metaphors is capable for different cognitive development phases.
 
+* [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***Psychological Science***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "caus"></span>
