@@ -1223,6 +1223,8 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 
 * [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/) - ***Plato Stanford***. A computational philosophy account on Instrumental Rationality, a dabate on whether an agent's decision is made intentionally or out of rational coherence.
 
+* [The Adaptive Nature of Human Categorization Behavior](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2012/12/89AdaptiveNature.pdf) - ***Psychological Review***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=7349048316173616836&hl=en&as_sdt=0,5)]. The original paper that relates cognitive resource limitation with Bayesian rational analysis, in the case of categorization behavior.
+
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5)]. A comprehensive review on the rationality of Bayesian computational models.
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5)]. A resource-rational account on interpreting human intelligence.
