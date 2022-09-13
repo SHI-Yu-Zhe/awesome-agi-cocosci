@@ -1231,6 +1231,8 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5)]. A resource-rational account on interpreting human intelligence.
 
+* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
+
 *[Back to Top](#c)
 
 <span id = "cogarch"></span>
