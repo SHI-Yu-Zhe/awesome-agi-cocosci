@@ -404,6 +404,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Constructing a hypothesis space from the Web for large-scale Bayesian word learning](https://cocosci.princeton.edu/tom/papers/abbott_cogsci2012_wordnet.pdf) - ***CogSci'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9266416266046851766&hl=en&as_sdt=0,5)].
 
+* [Modeling rules and similarity in colexification](https://escholarship.org/content/qt1md755ng/qt1md755ng.pdf) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11578380234126546169)]. Rule- and similarity-based generalization in colexification.
+
 *[Back to Top](#c)
 
 
