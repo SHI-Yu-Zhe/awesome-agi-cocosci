@@ -1576,6 +1576,8 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 
 * [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NIPS'21 AIPLANS Workshop***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State&btnG=)].
 
+* [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***Nature Communications***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 <span id = "kr"></span>
