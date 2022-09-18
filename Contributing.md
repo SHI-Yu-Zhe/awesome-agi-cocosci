@@ -42,8 +42,76 @@ At the last, you should append a short description or summary of the link to the
 
 ## I am adding a new topic/subtopic or modifying the structure of existing ones
 
-Please feel free to open an `Issue` to share your perspective!
+If you are not very sure about your proposal, please feel free to open an `Issue` to share your perspective and have an open discussion in the community!
 
+If you are very confident about your proposal, please open a new `Pull Request`.
+
+First, modify the TOC, as follows:
+
+```
+
+* [First Level Title](#first-level-title)
+    * [Second Level Title](#second-level-title)
+      * [Third Level Title](#third-level-title)
+
+```
+
+The semantics of the three levels of TOC are:
+
+```
+
+* [Resource Category](#resource-category)
+    * [Topic](#topic)
+      * [Subtopic](#subtopic)
+
+```
+
+Resource categories are things such as `Courses`, `Papers`, and `Peoples & Books`; topics are things like `Abduction`, `Bayesian Modeling`, and `Concepts`; subtopics are things like `Explanation`, `Scientific Discovery`, and `Rationalization`. In most times resource categories are not modified. 
+
+For example,
+
+```
+
+* [Papers](#papers)
+    * [Abduction](#abduction)
+      * [Explanation](#explanation)
+
+```
+
+Aftered registering your modification in the TOC, you add or modify the content.
+
+Add resource category title as follows:
+
+```
+## Resource Category
+
+```
+
+Add topic title as follows:
+
+```
+
+### Topic
+
+```
+
+Add subtopic title as follows:
+
+```
+
+#### Subtopic
+
+```
+
+Each topic and subtopic must end with a `back-to-top` button, as follows:
+
+```
+
+*[Back to Top](#c)
+
+```
+
+Please note that the `back-to-top` button should not be duplicated if a topic is nested with a subtopic which ends with a `back-to-top` button.
 
 ## General Guidelines
 
