@@ -11,33 +11,25 @@ Please open a new `Pull Request` and append the line(s) to the bottom of the cur
 If this is a published paper, the avenue and publish year should be included. If this is a preprint paper, only publish year should be included. If this is a piece of resource, only the maintainer or initiator should be included, as follows:
 
 ```
-
 * [Paper Name](publicly-accessible-link-to-the-paper) - ***Journal/Conference/Maintainer/Initiator***, year.
-
 ```
 
 And if the paper is retrievable on Google Scholar, the link to the `All Versions` page for the paper should be appended, as follows:
 
 ```
-
 [[All Versions](link-to-google-scholar-all-versions-page-for-the-paper)].
-
 ```
 
 Links to more resources may be appended, as follows:
 
 ```
-
 [[Resource Name](publicly-accessible-link-to-the-paper)].
-
 ```
 
 At the last, you should append a short description or summary of the link to the end of the line.
 
 ```
-
 * [Paper Name](publicly-accessible-link-to-the-paper) - ***Journal/Conference/Maintainer/Initiator***, year. [[All Versions](link-to-google-scholar-all-versions-page-for-the-paper)]. [[Resource Name](publicly-accessible-link-to-the-paper)]. Discription in natural language.
-
 ```
 
 ## I am adding a new topic/subtopic or modifying the structure of existing ones
@@ -49,21 +41,17 @@ If you are very confident about your proposal, please open a new `Pull Request`.
 First, modify the TOC, as follows:
 
 ```
-
 * [First Level Title](#first-level-title)
     * [Second Level Title](#second-level-title)
       * [Third Level Title](#third-level-title)
-
 ```
 
 The semantics of the three levels of TOC are:
 
 ```
-
 * [Resource Category](#resource-category)
     * [Topic](#topic)
       * [Subtopic](#subtopic)
-
 ```
 
 Resource categories are things such as `Courses`, `Papers`, and `Peoples & Books`; topics are things like `Abduction`, `Bayesian Modeling`, and `Concepts`; subtopics are things like `Explanation`, `Scientific Discovery`, and `Rationalization`. In most times resource categories are not modified. 
@@ -71,11 +59,9 @@ Resource categories are things such as `Courses`, `Papers`, and `Peoples & Books
 For example,
 
 ```
-
 * [Papers](#papers)
     * [Abduction](#abduction)
       * [Explanation](#explanation)
-
 ```
 
 Aftered registering your modification in the TOC, you add or modify the content.
@@ -84,31 +70,24 @@ Add resource category title as follows:
 
 ```
 ## Resource Category
-
 ```
 
 Add topic title as follows:
 
 ```
-
 ### Topic
-
 ```
 
 Add subtopic title as follows:
 
 ```
-
 #### Subtopic
-
 ```
 
 Each topic and subtopic must end with a `back-to-top` button, as follows:
 
 ```
-
 *[Back to Top](#c)
-
 ```
 
 Please note that the `back-to-top` button should not be duplicated if a topic is nested with a subtopic which ends with a `back-to-top` button.
