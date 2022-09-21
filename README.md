@@ -37,6 +37,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
       * [Bayesian Optimization](#bayesian-optimization)
     * [Concepts](#concepts)
       * [Theory of Concepts](#theory-of-concepts)
+      * [Human Concept Represenataion](#human-concept-representation)
       * [AI Concept Representation](#ai-concept-representation)
     * [Complexity & Information Theory](#complexity--information-theory)
       * [Theory](#theory)
@@ -512,6 +513,10 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***Oxford University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)]. Susan Carey's extended book on the theory theory of concepts in child development.
 
 * [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]. Alison Gopnik's review on the constructivism idea of developmental research, including the theory theory of concepts.
+
+*[Back to Top](#c)
+
+#### Human Concept Representation
 
 *[Back to Top](#c)
 
