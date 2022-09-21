@@ -518,6 +518,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 #### Human Concept Representation
 
+* [Organizing conceptual knowledge in humans with a gridlike code](http://behavioralhealth2000.com/wp-content/uploads/2017/01/Organizing-conceptual-knowledge-in-humans-with-a-gridlike-code.pdf) - ***Science***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=10995575332310321503&hl=en&as_sdt=0,5)]. Original findings suggest that global relational codes may be used to organize nonspatial conceptual representations and that these codes may have a hexagonal gridlike pattern when conceptual knowledge is laid out in two continuous dimensions.
+
 *[Back to Top](#c)
 
 #### AI Concept Representation
