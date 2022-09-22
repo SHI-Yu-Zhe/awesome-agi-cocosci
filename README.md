@@ -89,6 +89,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
     * [Knowledge Representation](#knowledge-representation)
     * [Cognitive Development](#cognitive-development)
     * [Learning in the Open World](#learning-in-the-open-world)
+    * [Science of Science](#science-of-science)
     <!--* [Tasks & Environments](#te)-->
 * [Institute & Researcher](#institute--researcher)
     * [MIT](#mit)
