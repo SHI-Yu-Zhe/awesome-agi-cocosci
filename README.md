@@ -89,6 +89,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
     * [Knowledge Representation](#knowledge-representation)
     * [Cognitive Development](#cognitive-development)
     * [Learning in the Open World](#learning-in-the-open-world)
+    * [Science of Science](#science-of-science)
     <!--* [Tasks & Environments](#te)-->
 * [Institute & Researcher](#institute--researcher)
     * [MIT](#mit)
@@ -1804,6 +1805,20 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5)].
 
 * [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+### Science of Science
+
+* [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
+
+* [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***Science***, 2018. A review.
+
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***PNAS***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5)]. Thomas L. Griffiths's analysis of scientific topics using Bayesian model.
+
+* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***PNAS***, 2017. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
+
+* [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***PNAS***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
 
 *[Back to Top](#c)
 
