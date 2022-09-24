@@ -521,6 +521,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Organizing conceptual knowledge in humans with a gridlike code](http://behavioralhealth2000.com/wp-content/uploads/2017/01/Organizing-conceptual-knowledge-in-humans-with-a-gridlike-code.pdf) - ***Science***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=10995575332310321503&hl=en&as_sdt=0,5)]. Original findings suggest that global relational codes may be used to organize nonspatial conceptual representations and that these codes may have a hexagonal gridlike pattern when conceptual knowledge is laid out in two continuous dimensions.
 
+* [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***Psychological Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5)]. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals.
+
 *[Back to Top](#c)
 
 #### AI Concept Representation
