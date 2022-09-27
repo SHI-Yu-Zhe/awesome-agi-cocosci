@@ -1813,7 +1813,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
 
-* [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***Science***, 2018. A review.
+* [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***Science***, 2018. A comprehensive large-scale review on the science of science.
 
 * [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5)]. Thomas L. Griffiths's analysis of scientific topics using Bayesian model.
 
