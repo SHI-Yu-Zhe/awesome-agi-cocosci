@@ -77,7 +77,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [Rationality](#rationality)
-      * [Cognitive Architecture](#cogarch)
+      * [Cognitive Architecture](#cognitive-architecture)
     * [Science of Science](#science-of-science)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
@@ -1255,7 +1255,6 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "cogarch"></span>
 #### Cognitive Architecture
 
 * [The secret life of predictive brains: what's spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)]. A neuroscience account on brain as a generative model.
