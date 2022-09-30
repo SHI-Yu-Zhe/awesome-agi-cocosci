@@ -1462,7 +1462,6 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "cms"></span>
 ### Commonsense
 
 #### Intuitive Physics
