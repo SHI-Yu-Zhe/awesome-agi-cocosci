@@ -1285,6 +1285,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
 
+* [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166&hl=en&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
+
 *[Back to Top](#c)
 
 <span id = "tom"></span>
