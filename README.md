@@ -78,7 +78,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
       * [Gestalt](#gestalt)
       * [Rationality](#rationality)
       * [Cognitive Architecture](#cognitive-architecture)
-    * [Science of Science](#science-of-science)
+    * [Metascience](#metascience)
+      * [Science of Science](#science-of-science)
       * [Literature Mining](#literature-mining)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
@@ -1274,7 +1275,9 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 *[Back to Top](#c)
 
-### Science of Science
+### Metascience
+
+#### Science of Science
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
 
