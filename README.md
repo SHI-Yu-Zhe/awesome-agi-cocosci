@@ -79,6 +79,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
       * [Rationality](#rationality)
       * [Cognitive Architecture](#cognitive-architecture)
     * [Science of Science](#science-of-science)
+      * [Literature Mining](#literature-mining)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
