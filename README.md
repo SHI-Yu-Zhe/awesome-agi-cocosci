@@ -81,6 +81,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
     * [Metascience](#metascience)
       * [Science of Science](#science-of-science)
       * [Literature Mining](#literature-mining)
+      * [Literature Visualization](#literature-visualization)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
@@ -1296,6 +1297,10 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 #### Literature Mining
 
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Literature Visualization
 
 *[Back to Top](#c)
 
