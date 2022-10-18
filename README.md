@@ -6,6 +6,8 @@
 
 An **awesome & curated** list for **Artificial General Intelligence**, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences as majority, alone with probability and statistics, formal logic, cognitive and developmental psychology, computational philosophy, cognitive neuroscience, and computational sociology. We are promoting high-level machine intelligence by getting inspirations from the way that human learns and thinks, while obtaining a deeper understanding of human cognition simultaneously. We believe that this kind of reciprocative research is a potential way towards our big picture: building human-level intelligent agents with capabilities such as abstracting, explaining, learning, planning, and making decisions. And such intelligence may generally help people improve scientific research, engineering, and the arts, which are the hallmarks of human intelligence.
 
+***Awesome AGI & CoCoSci*** is an all-in-one collection, consisting of recources from basic courses and entries, to papers and books around multiple topics. Both junior and senior researchers, whether learning or working on AGI, meet their interest here.
+
 ## Contributing
 
 Contributing is greatly welcomed! Please read the [Contributing Guidelines](Contributing.md) before taking any action.
