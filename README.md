@@ -10,7 +10,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 ## Contributing
 
-Contributing is greatly welcomed! Please read the [Contributing Guidelines](Contributing.md) before taking any action.
+Contributing is greatly welcomed! Please read the [Contribution Guidelines](Contributing.md) before taking any action.
 
 
 <span id = "c"></span>
