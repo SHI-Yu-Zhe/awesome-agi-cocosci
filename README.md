@@ -1302,6 +1302,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](Cont
 
 #### Literature Visualization
 
+* [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ******, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 ### Theory of Mind
