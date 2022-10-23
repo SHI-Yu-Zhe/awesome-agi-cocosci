@@ -738,7 +738,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "probsol"></span>
+
 ### Problem Solving
 
 <span id = "hmprobsol"></span>
