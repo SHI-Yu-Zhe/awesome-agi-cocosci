@@ -2073,7 +2073,6 @@ Cognitive scientist, set up the foundations of studying human communications.
 
 *[Back to Top](#c)
 
-<span id = "jp"></span>
 ### Judea Pearl
 
 Applied mathematician, proposed causal intervention on siamese bayesian networks. 
@@ -2104,7 +2103,6 @@ Computational cognitive scientist and Economist, set up the foundations for Deci
 
 *[Back to Top](#c)
 
-<span id = "kpp"></span>
 ### Karl Popper
 
 Scientific philosophor, the founder of scientific verification theories.
