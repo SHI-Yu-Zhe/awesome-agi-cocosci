@@ -74,7 +74,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [Meta Learning](#meta-learning)
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
-      * [Insight](#insight)
+      * [The Aha! Moment](#the-aha!-moment)
       * [Rationality](#rationality)
       * [Cognitive Architecture](#cognitive-architecture)
     * [Metascience](#metascience)
@@ -1242,7 +1242,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-#### Insight
+#### The Aha! Moment
 
 * [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
