@@ -74,7 +74,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [Meta Learning](#meta-learning)
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
-      * [The Aha! Moment](#the-aha!-moment)
+      * [The Aha! Moment](#the-aha-moment)
       * [Rationality](#rationality)
       * [Cognitive Architecture](#cognitive-architecture)
     * [Metascience](#metascience)
