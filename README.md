@@ -72,7 +72,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [Virtual Reality](#virtual-reality)
     * [Meta-Level Considerations](#meta-level-considerations)
       * [Meta Learning](#meta-learning)
-      * [Marr's Levels of Analysis](#marr-s-levels-of-analysis)
+      * [Marr's Levels of Analysis](#marrs-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [The Aha! Moment](#the-aha-moment)
       * [Rationality](#rationality)
