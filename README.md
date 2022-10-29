@@ -298,8 +298,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/) - ***Plato Stanford***. A computational philosophy account on Scientific Discovery, the process or product of successful scientific inquiry, sometimes an Abduction-like (Explanation) thinking pattern.
 
-* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
-
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***Springer***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5)]. The original book on search as scientific thinking.
 
 * [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***MIT Press***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5)]. A computational account unifying Scientific Discovery with the creativity feature of Abduction.
@@ -1245,6 +1243,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 *[Back to Top](#c)
 
 #### Insight
+
+* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 *[Back to Top](#c)
 
