@@ -74,6 +74,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [Meta Learning](#meta-learning)
       * [Marr Levels of Analysis](#marr-levels-of-analysis)
       * [Gestalt](#gestalt)
+      * [Insight](#insight)
       * [Rationality](#rationality)
       * [Cognitive Architecture](#cognitive-architecture)
     * [Metascience](#metascience)
@@ -1240,6 +1241,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 * [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***Cambridge University Press***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=231021877034210140)]. 
+
+*[Back to Top](#c)
+
+#### Insight
 
 *[Back to Top](#c)
 
