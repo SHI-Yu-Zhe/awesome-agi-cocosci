@@ -72,7 +72,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [Virtual Reality](#virtual-reality)
     * [Meta-Level Considerations](#meta-level-considerations)
       * [Meta Learning](#meta-learning)
-      * [Marr Levels of Analysis](#marr-levels-of-analysis)
+      * [Marr's Levels of Analysis](#marr-s-levels-of-analysis)
       * [Gestalt](#gestalt)
       * [The Aha! Moment](#the-aha-moment)
       * [Rationality](#rationality)
@@ -1210,7 +1210,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-#### Marr Levels of Analysis
+#### Marr's Levels of Analysis
 
 * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. David Marr's original book on the levels of analysis.
 
