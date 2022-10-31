@@ -81,6 +81,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [Science of Science](#science-of-science)
       * [Literature Mining](#literature-mining)
       * [Literature Visualization](#literature-visualization)
+      * [Scientific Writing](#scientific-writing)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
@@ -1313,6 +1314,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 * [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923&hl=en&as_sdt=0,5)].
 
 * [Galex: Exploring the evolution and intersection of disciplines](http://cic.tju.edu.cn/faculty/zhangjiawan/Jiawan_Zhang_files/paper/zeyuli2020.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13313104491218225635&hl=en&as_sdt=0,5)].
+
+*[Back to Top](#c)
+
+#### Scientific Writing
 
 *[Back to Top](#c)
 
