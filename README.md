@@ -1319,6 +1319,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 #### Scientific Writing
 
+* [A tagmemic approach to paragraph analysis](https://www.jstor.org/stable/355200) - ***College Composition and Communication***, 1965. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Tagmemic+Approach+to+Paragraph+Analysis+AL+Becker&btnG=)]. The original paper on analyzing the structure of expository paragraphs, with the two patterns---the Topic-Restriction-Illustration pattern and the Problem-Solution pattern.
+
 *[Back to Top](#c)
 
 ### Theory of Mind
