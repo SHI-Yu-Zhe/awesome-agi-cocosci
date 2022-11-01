@@ -1323,6 +1323,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Towards an argument interchange format](https://pure.mpg.de/rest/items/item_3020351/component/file_3045811/content) - ***The Knowledge Engineering Review***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=11123720528835823517&hl=en&as_sdt=0,5)]. The original paper introducing the Argument Interchange Format (AIF) framework for argumentation analysis.
 
+* [Speech Acts of Argumentation: Inference Anchors and Peripheral Cues in Dialogue](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/viewFile/3940/4244) - ***AAAI'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9761955212933152906&hl=en&as_sdt=0,5)]. The original paper introducing the Information Anchoring Theory (IAT) as an alternate for AIF. 
+
 *[Back to Top](#c)
 
 ### Theory of Mind
