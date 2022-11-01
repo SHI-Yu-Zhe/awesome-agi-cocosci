@@ -1321,6 +1321,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [A tagmemic approach to paragraph analysis](https://www.jstor.org/stable/355200) - ***College Composition and Communication***, 1965. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Tagmemic+Approach+to+Paragraph+Analysis+AL+Becker&btnG=)]. The original paper on analyzing the structure of expository paragraphs, with the two patterns---the Topic-Restriction-Illustration pattern and the Problem-Solution pattern.
 
+* [The uses and complexity of argument structures in expert and student persuasive writing](https://journals.sagepub.com/doi/abs/10.1177/0741088398015002004) - ***Written Communication***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=3218190258774062869&hl=en&as_sdt=0,5)]. A behaviorial study revealing the argument structures exploited by people in argumentative writing.
+
 * [Towards an argument interchange format](https://pure.mpg.de/rest/items/item_3020351/component/file_3045811/content) - ***The Knowledge Engineering Review***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=11123720528835823517&hl=en&as_sdt=0,5)]. The original paper introducing the Argument Interchange Format (AIF) framework for argumentation analysis.
 
 * [Speech Acts of Argumentation: Inference Anchors and Peripheral Cues in Dialogue](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/viewFile/3940/4244) - ***AAAI'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9761955212933152906&hl=en&as_sdt=0,5)]. The original paper introducing the Information Anchoring Theory (IAT) as an alternate for AIF. 
