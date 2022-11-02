@@ -1247,6 +1247,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
+* [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.
+
 *[Back to Top](#c)
 
 #### Rationality
