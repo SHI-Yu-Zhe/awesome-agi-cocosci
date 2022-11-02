@@ -1249,6 +1249,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.
 
+* [Epiphany](https://en.wikipedia.org/wiki/Epiphany_(feeling)) - ***Wikipedia***. Wikipedia on epiphany, the "feeling" when the Aha! moment comes.
+
 *[Back to Top](#c)
 
 #### Rationality
