@@ -511,7 +511,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=)]. Susan Carey's book on the theory theory of concepts in child development.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***MIT Press***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5)]. Alison Gopnik's book that articulates and defends the" theory theory" of cognitive and semantic development, the idea that infants and young children, like scientists, learn about the world by forming and revising theories-a view of the origins of knowledge and meaning that has broad implications for cognitive science.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***MIT Press***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5)]. Alison Gopnik's book that articulates and defends the "theory theory" of cognitive and semantic development, the idea that infants and young children, like scientists, learn about the world by forming and revising theories-a view of the origins of knowledge and meaning that has broad implications for cognitive science.
+
+* [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***Mapping the mind: Domain specificity in cognition and culture, Cambridge University Press***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5)]. Alison Gopnik's original paper on the theory theory.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***Oxford University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)]. Susan Carey's extended book on the theory theory of concepts in child development.
 
