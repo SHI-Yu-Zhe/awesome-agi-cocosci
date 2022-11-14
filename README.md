@@ -1236,6 +1236,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
 
+* [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***Sociological Theory***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
+
 * [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 
 * [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5)]. Thomas L. Griffiths's analysis of scientific topics using Bayesian model.
