@@ -1598,7 +1598,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "kr"></span>
+
 ### Knowledge Representation
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***Elsevier***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5)]. A pragmatical handbook for all kinds of knowledge representation modes.
