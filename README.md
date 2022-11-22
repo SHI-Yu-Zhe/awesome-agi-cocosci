@@ -1257,6 +1257,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 #### Literature Mining
 
+* [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
+
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
