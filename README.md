@@ -915,7 +915,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "xai"></span>
 ### Explainability
 
 #### Trustworthy AI
