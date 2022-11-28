@@ -769,7 +769,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Reinforcement learning: A survey](https://www.jair.org/index.php/jair/article/view/10166) - ***Journal of Artificial Intelligence Research***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4983604491168613713)]. Leslie Kaelbling's review on reinforcement learning.
 
-* [Human-level control through deep reinforcement learning](https://klab.tch.harvard.edu/academia/classes/Neuro230/ReadingAssignments/MnihEtAlHassibis15NatureControlDeepRL.pdf) - ***Nature***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=12439121588427761338&hl=en&as_sdt=0,5)].
+* [Human-level control through deep reinforcement learning](https://klab.tch.harvard.edu/academia/classes/Neuro230/ReadingAssignments/MnihEtAlHassibis15NatureControlDeepRL.pdf) - ***Nature***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=12439121588427761338&hl=en&as_sdt=0,5)]. The original paper on solving Atari games via Deep Q-Network.
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5)]. The original paper on operation reinforcement learning.
 
