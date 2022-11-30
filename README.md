@@ -1961,7 +1961,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 *[Back to Top](#c)-->
 
 
-<span id = "r&l"></span>
 ## Institute & Researcher
 
 ### MIT
