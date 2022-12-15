@@ -1372,7 +1372,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "anl"></span>
+
 ### Analogy
 
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
