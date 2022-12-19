@@ -1266,6 +1266,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
+* [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Literature Visualization
