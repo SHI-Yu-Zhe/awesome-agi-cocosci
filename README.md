@@ -1530,7 +1530,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "lp"></span>
+
 ### Inductive Logic & Program Synthesis
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/) - ***Plato Stanford***. A computational philosophy account on Inductive Logic, which is a logic of evidential support.
