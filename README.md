@@ -1482,7 +1482,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Limits on Simulation Approaches in Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S0010028521000190) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6329029167380621767)]. Ernest Davis's perspective against intuitive physics, that physcial reasoning is logical reasoning instead of intuition.
 
-* [Partial Mental Simulation Explains Fallacies in Physical Reasoning](https://psyarxiv.com/y4a8x/download?format=pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15541954459060383152&hl=en&as_sdt=2005)]. 
+* [Partial Mental Simulation Explains Fallacies in Physical Reasoning](https://psyarxiv.com/y4a8x/download?format=pdf) - ***Cognitive Neuropsychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=15541954459060383152&hl=en&as_sdt=2005)]. 
 
 * [PHYRE: A New Benchmark for Physical Reasoning](https://proceedings.neurips.cc/paper/2019/hash/4191ef5f6c1576762869ac49281130c9-Abstract.html) - ***NeurIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9555658528231205655&hl=en&as_sdt=0,5)]. A benchmark for AI physical reasoning.
 
