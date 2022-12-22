@@ -2089,9 +2089,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-<span id = "bk"></span>
+
 ## People & Book
-<span id = "ug"></span>
+
 ### Ulf Grenander
 
 Applied mathematician, the founder of General Pattern Theory.
