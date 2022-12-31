@@ -2131,7 +2131,7 @@ Applied mathematician, proposed causal intervention on siamese bayesian networks
 
 *[Back to Top](#c)
 
-<span id = "sc"></span>
+
 ### Susan Carey
 
 Developmental psychologist, proposed *object* as a core knowledge of human intelligence. 
