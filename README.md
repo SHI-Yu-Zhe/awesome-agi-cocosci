@@ -1018,6 +1018,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://www.biorxiv.org/content/10.1101/2021.07.08.451333v1) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702&hl=en&as_sdt=0,5)].
 
+* [3D dynamic scene graphs: Actionable spatial perception with places, objects, and humans](https://arxiv.org/abs/2002.06289) - ***RSS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4428742298455436054&hl=en&as_sdt=0,5)]. A system for modeling 3D dynamic scene graphs on multiple levels (metric-semantic mesh, objects and agents, places and structures, rooms, and buildings).
+
 *[Back to Top](#c)
 
 ### Evolutionary Intelligence
