@@ -919,6 +919,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346&hl=en&as_sdt=0,5)]. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
+* [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***Machine Learning***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485&hl=en&as_sdt=0,5)]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming.
+
 *[Back to Top](#c)
 
 ### Explainability
