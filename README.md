@@ -190,6 +190,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 ### Knowledge Management
 
+* [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA.
+
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***. Wikipedia on knowledge organization methods.
 
 * [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
