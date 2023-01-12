@@ -190,7 +190,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 ### Knowledge Management
 
-* [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA.
+* [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA (PDF only).
+
+* [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). [[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
 
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***. Wikipedia on knowledge organization methods.
 
