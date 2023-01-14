@@ -194,6 +194,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). [[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
 
+* [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
+
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***. Wikipedia on knowledge organization methods.
 
 * [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
