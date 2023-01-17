@@ -76,7 +76,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [The Aha! Moment](#the-aha-moment)
       * [Rationality](#rationality)
       * [Cognitive Architecture](#cognitive-architecture)
-    * [Metascience](#metascience)
+    * [Science Logology](#science-logology)
       * [Science of Science](#science-of-science)
       * [Literature Mining](#literature-mining)
       * [Literature Visualization](#literature-visualization)
@@ -1251,7 +1251,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 *[Back to Top](#c)
 
-### Metascience
+### Science Logology
 
 #### Science of Science
 
