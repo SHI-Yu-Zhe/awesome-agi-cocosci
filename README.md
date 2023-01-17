@@ -1307,7 +1307,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 #### Science Education
 
-* [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166&hl=en&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
+* [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166&hl=en&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education research.
 
 *[Back to Top](#c)
 
