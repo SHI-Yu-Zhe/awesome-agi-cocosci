@@ -81,6 +81,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
       * [Literature Mining](#literature-mining)
       * [Literature Visualization](#literature-visualization)
       * [Scientific Writing](#scientific-writing)
+      * [Science Education](#science-education)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
@@ -1268,8 +1269,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
 
-* [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166&hl=en&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
-
 * [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
 *[Back to Top](#c)
@@ -1305,6 +1304,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 * [Towards an argument interchange format](https://pure.mpg.de/rest/items/item_3020351/component/file_3045811/content) - ***The Knowledge Engineering Review***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=11123720528835823517&hl=en&as_sdt=0,5)]. The original paper introducing the Argument Interchange Format (AIF) framework for argumentation analysis.
 
 * [Speech Acts of Argumentation: Inference Anchors and Peripheral Cues in Dialogue](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/viewFile/3940/4244) - ***AAAI'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9761955212933152906&hl=en&as_sdt=0,5)]. The original paper introducing the Information Anchoring Theory (IAT) as an alternate for AIF. 
+
+#### Science Education
+
+* [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166&hl=en&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
 
 *[Back to Top](#c)
 
