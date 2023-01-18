@@ -705,6 +705,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608&hl=en&as_sdt=0,5)]. A piece of evidence on hierarchical human planning. 
 
+* [Hierarchical reasoning by neural circuits in the frontal cortex](https://www.cnbc.cmu.edu/braingroup/papers/sarafyazd_jazayeri_2019.pdf) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9875733886908769773&hl=en&as_sdt=0,5)]. Neuroscience evidence supporting rule switch.
+
 * [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220&hl=en&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
 
 * [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5)]. A computational account on rational problem representation in human planning.
