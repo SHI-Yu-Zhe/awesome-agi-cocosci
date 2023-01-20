@@ -1341,7 +1341,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Memory](https://plato.stanford.edu/entries/memory/) - ***Plato Stanford***.-->
 
-* [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM.
+<!-- * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM. -->
 
 * [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763&hl=en&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
 
