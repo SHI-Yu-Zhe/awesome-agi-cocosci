@@ -781,7 +781,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***Nature Human Behavior***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
 
-
 *[Back to Top](#c)
 
 #### Reinforcement Learning
