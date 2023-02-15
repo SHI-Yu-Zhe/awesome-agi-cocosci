@@ -1238,7 +1238,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5)]. A resource-rational account on interpreting human intelligence.
 
-* [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***Topics in Cognitive Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368&hl=en&as_sdt=0,5)]. Earlier version of the last paper.
+* [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***Topics in Cognitive Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368&hl=en&as_sdt=0,5)]. An earlier version of the paper above.
 
 * [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
 
