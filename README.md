@@ -77,6 +77,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
       * [Rationality](#rationality)
       * [Cognitive Architecture](#cognitive-architecture)
     * [Science Logology](#science-logology)
+      * [Philosophy of Science](#philosophy-of-science)
       * [Science of Science](#science-of-science)
       * [Literature Mining](#literature-mining)
       * [Literature Visualization](#literature-visualization)
@@ -1268,9 +1269,11 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 ### Science Logology
 
-#### Science of Science
+#### Philosophy of Science
 
-* [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
+* [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5)]. Thomas Kuhn's original book on the emergence and the shift of scientific paradigms.
+
+#### Science of Science
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
 
