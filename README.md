@@ -1273,11 +1273,11 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 * [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5)]. Thomas Kuhn's original book on the emergence and the shift of scientific paradigms.
 
+* [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***Sociological Theory***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
+
 #### Science of Science
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
-
-* [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***Sociological Theory***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
 * [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 
