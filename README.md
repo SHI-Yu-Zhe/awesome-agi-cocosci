@@ -1275,6 +1275,10 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 * [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***Sociological Theory***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
+* [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
+
+*[Back to Top](#c)
+
 #### Science of Science
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
@@ -1286,8 +1290,6 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***Proceedings of the National Academy of Sciences***, 2017. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
-
-* [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
 *[Back to Top](#c)
 
