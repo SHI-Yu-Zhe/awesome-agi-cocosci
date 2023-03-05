@@ -2156,7 +2156,6 @@ Computational Cognitive Neuroscientist, the establisher of the Levels of Analysi
 
 *[Back to Top](#c)
 
-
 ### Michael Tomasello
 
 Cognitive scientist, set up the foundations of studying human communications. 
@@ -2176,7 +2175,6 @@ Applied mathematician, proposed causal intervention on siamese bayesian networks
 * [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***Cambridge University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
 
 *[Back to Top](#c)
-
 
 ### Susan Carey
 
