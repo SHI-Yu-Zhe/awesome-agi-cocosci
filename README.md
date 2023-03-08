@@ -429,7 +429,6 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
-
 #### Generative Model
 
 * [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***Chapman and Hall/CRC***, 1995. [[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689&hl=en&as_sdt=0,5)]. Don Rubin's introductory book on Bayesian models.
