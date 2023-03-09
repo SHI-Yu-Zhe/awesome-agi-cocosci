@@ -473,7 +473,6 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
-
 #### Nonparametric Model
 
 * [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***The Annals of Statistics***, 1973. [[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902&hl=en&as_sdt=0,5)]. A classic review on non-parametric problems.
