@@ -846,6 +846,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### System 1 & System 2
 
 #### Dual-Coding Theory
