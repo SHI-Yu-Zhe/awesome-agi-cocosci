@@ -2,11 +2,14 @@
 	<img width="400" height="253" src="assets/abd_map.png" alt="Roadmap of studying Abduction">
 </div>
 
+
 # Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An **awesome & curated** list for **Artificial General Intelligence**, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences as majority, alone with probability and statistics, formal logic, cognitive and developmental psychology, computational philosophy, cognitive neuroscience, and computational sociology. We are promoting high-level machine intelligence by getting inspirations from the way that human learns and thinks, while obtaining a deeper understanding of human cognition simultaneously. We believe that this kind of reciprocative research is a potential way towards our big picture: building human-level intelligent systems with capabilities such as abstracting, explaining, learning, planning, and making decisions. And such intelligence may generally help people improve scientific research, engineering, and the arts, which are the hallmarks of human intelligence.
 
 ***Awesome AGI & CoCoSci*** is an all-in-one collection, consisting of recources from basic courses and tutorials, to papers and books around diverse topics in mutiple perspectives. Both junior and senior researchers, whether learning, working on, or working around AGI, meet their interest here.
+
+
 
 ## Contributing
 
@@ -118,6 +121,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [About](#about)
 
 
+
 ## Academic Tools
 
 
@@ -138,6 +142,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### Paper Writing
 
 * [LaTex Configuration](LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
@@ -154,6 +159,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### Paper Reading
 
 * [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM Computer Communication Review***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587&hl=en&as_sdt=0,5)]. A comprehensive tutorial on reading scientific papers.
@@ -165,6 +171,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
 
 *[Back to Top](#c)
+
 
 ### Literature Management
 
@@ -191,6 +198,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArtAI***. For tracking, collecting and visualizing the development of AI research. 
 
 *[Back to Top](#c)
+
 
 ### Knowledge Management
 
@@ -231,7 +239,9 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 *[Back to Top](#c)
 
 
+
 ## Papers
+
 
 ### Abduction
 
