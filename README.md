@@ -1781,6 +1781,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### Cognitive Development
 
 * [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)]. DARPA's perspective on integrating core knowledge from development psychology into machine intelligence systems.
