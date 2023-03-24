@@ -1846,6 +1846,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### Learning in the Open World
 
 * [Online learning of symbolic concepts](https://www.sciencedirect.com/science/article/abs/pii/S002224961730010X) - ***Journal of Mathematical Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8036476579458645432&scipsc=)].
