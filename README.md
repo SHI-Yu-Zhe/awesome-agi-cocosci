@@ -1897,6 +1897,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### Learning with Cognitive Plausibility
 
 * [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
