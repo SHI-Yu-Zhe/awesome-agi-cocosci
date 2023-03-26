@@ -1535,6 +1535,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 #### Intuitive Physics
 
+* [Intuitive Physics Reading List](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List). - ***Github***. Shiqian Li's reading list on intuitive physics.
+
 * [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
 
 * [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf) - ***Proceedings of National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=5892822406285231676&hl=en&as_sdt=0,5)]. [[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]. The first attempt to computationally simulate intuitive physics.
