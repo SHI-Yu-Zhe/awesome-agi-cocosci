@@ -1535,7 +1535,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 #### Intuitive Physics
 
-* [Intuitive Physics Reading List](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List). - ***Github***. Shiqian Li's reading list on intuitive physics.
+* [Intuitive Physics Reading List](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***Github***. Shiqian Li's reading list on intuitive physics.
 
 * [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
 
