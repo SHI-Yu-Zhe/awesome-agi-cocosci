@@ -2080,6 +2080,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### Princeton
 
 * [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
@@ -2087,6 +2088,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
 
 *[Back to Top](#c)
+
 
 ### Harvard
 
@@ -2099,6 +2101,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
 
 *[Back to Top](#c)
+
 
 ### UCLA
 
@@ -2116,6 +2119,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### UC Berkeley
 
 * [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
@@ -2130,6 +2134,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
+
 ### UCSD
 
 * [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***UCSD***.
@@ -2139,6 +2144,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
 
 *[Back to Top](#c)
+
 
 ### NYU
 
@@ -2153,6 +2159,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 * [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***NYU***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***NYU***.
 
 *[Back to Top](#c)
+
 
 ### Others
 
