@@ -2188,6 +2188,7 @@ Applied mathematician, the founder of General Pattern Theory.
 
 *[Back to Top](#c)
 
+
 ### David Marr
 
 Computational Cognitive Neuroscientist, the establisher of the Levels of Analysis.
