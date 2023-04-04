@@ -2197,6 +2197,7 @@ Computational Cognitive Neuroscientist, the establisher of the Levels of Analysi
 
 *[Back to Top](#c)
 
+
 ### Michael Tomasello
 
 Cognitive scientist, set up the foundations of studying human communications. 
