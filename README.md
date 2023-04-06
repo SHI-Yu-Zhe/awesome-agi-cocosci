@@ -2208,6 +2208,7 @@ Cognitive scientist, set up the foundations of studying human communications.
 
 *[Back to Top](#c)
 
+
 ### Judea Pearl
 
 Applied mathematician, proposed causal intervention on siamese bayesian networks. 
