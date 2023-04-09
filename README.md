@@ -2230,6 +2230,7 @@ Developmental psychologist, proposed *object* as a core knowledge of human intel
 
 *[Back to Top](#c)
 
+
 ### Daniel Kahneman
 
 Computational cognitive scientist and Economist, set up the foundations for Decision Theory.
