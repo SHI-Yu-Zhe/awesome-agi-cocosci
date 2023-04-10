@@ -2239,6 +2239,7 @@ Computational cognitive scientist and Economist, set up the foundations for Deci
 
 *[Back to Top](#c)
 
+
 ### Karl Popper
 
 Scientific philosophor, the founder of scientific verification theories.
