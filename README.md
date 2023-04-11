@@ -2250,6 +2250,7 @@ Scientific philosophor, the founder of scientific verification theories.
 
 *[Back to Top](#c)
 
+
 ### John Hopcroft
 
 Applied Mathematician, theoretical computer scientist.
