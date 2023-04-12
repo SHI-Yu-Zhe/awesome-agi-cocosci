@@ -2260,6 +2260,7 @@ Applied Mathematician, theoretical computer scientist.
 *[Back to Top](#c)
 
 
+
 ## About
 
 The initiator of this repo has been struggling to taxonomize related topics, since there are so many perspectives to follow, such as task-oriented, technique-oriented, and metaphysics-oriented. Finally he decided to focus on the perspective of ***The Sciences of Intelligence***---each topic describes a phenomenon of intelligence, or an intelligent behavior---they show the objectives of reverse-engineering human intelligence for computational methods. These topics are never restricted to specific technical methods or tasks, but are trying to organize the nature of intelligence---from both *the software perspective* and *the hardware perspective*.
