@@ -1994,16 +1994,13 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
   * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)]. [[Publications](http://visualexperiencedatabase.org/publications.html)].
 
- 
 #### Abstract Reasoning Challenge
   * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf) - ***Google Research***, 2019.
   * [Abstract Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/)
 
-
 #### AI Birds Challenge
   * [AI-Birds](https://aibirds.org) - ***IJCAI***.
   * [Hi-Phy: A Benchmark for Hierarchical Physical Reasoning](https://openreview.net/forum?id=AcL1ORzw0Nf), 2021.
-
 
 #### Minecraft
   * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278) - ***Journal on Eduction Technology & Society***, 2016.
