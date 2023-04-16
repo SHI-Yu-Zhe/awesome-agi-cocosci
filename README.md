@@ -18,6 +18,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 Contributions are greatly welcomed! Please read the [Contribution Guidelines](Contributing.md) before taking any action.
 
 
+
 <span id = "c"></span>
 ## Contents
 * [Academic Tools](#academic-tools)
