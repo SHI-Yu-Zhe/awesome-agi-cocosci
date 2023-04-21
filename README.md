@@ -89,6 +89,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
       * [Literature Visualization](#literature-visualization)
       * [Scientific Writing](#scientific-writing)
       * [Science Education](#science-education)
+      * [Democratization](#democratization)
     * [Theory of Mind](#theory-of-mind)
     * [Analogy](#analogy)
     * [Causality](#causality)
@@ -1351,6 +1352,10 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 #### Science Education
 
 * [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166&hl=en&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education research.
+
+*[Back to Top](#c)
+
+#### Democratization
 
 *[Back to Top](#c)
 
