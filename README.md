@@ -1363,6 +1363,10 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 * [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592&hl=en&as_sdt=0,5)].
 
+* [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=14553083883464125776&hl=en&as_sdt=0,5)].
+
+* [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 
