@@ -1355,6 +1355,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 #### Democratization
 
+* [Reproducibility](https://www.science.org/doi/full/10.1126/science.1250475) - ***Science***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=676974831306442279&hl=en&as_sdt=0,10)].
+
 * [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095&hl=en&as_sdt=0,5)].
 
 * [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159&hl=en&as_sdt=0,5)].
