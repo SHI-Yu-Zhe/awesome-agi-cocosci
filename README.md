@@ -1355,6 +1355,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 #### Democratization
 
+* [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512&hl=en&as_sdt=0,5)].
+
 * [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095&hl=en&as_sdt=0,5)].
 
 * [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159&hl=en&as_sdt=0,5)].
