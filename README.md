@@ -1355,6 +1355,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 #### Democratization
 
+* [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7#Sec1) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767&hl=en&as_sdt=0,5)].
+
 * [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512&hl=en&as_sdt=0,5)].
 
 * [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095&hl=en&as_sdt=0,5)].
