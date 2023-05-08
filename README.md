@@ -1819,6 +1819,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](Co
 
 * [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. Microsoft's programming language for representing biology protocols.
 
+* [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 
