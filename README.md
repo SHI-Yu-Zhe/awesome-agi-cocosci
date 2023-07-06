@@ -1405,6 +1405,8 @@ Contributions are greatly welcomed! Please refer to the [Contribution Guidelines
 
 * [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
 
+* [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369&hl=en&as_sdt=0,10)].
+
 *[Back to Top](#c)
 
 
