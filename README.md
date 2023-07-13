@@ -15,7 +15,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 ## Contributing
 
-Contributions are greatly welcomed! Please refer to the [Contribution Guidelines](Contributing.md) before taking any action.
+Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Contributing.md) before taking any action.
 
 
 
