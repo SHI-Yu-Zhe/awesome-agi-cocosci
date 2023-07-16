@@ -854,7 +854,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185&hl=en&as_sdt=0,5)]. The original paper on constrained reinforcement learning (safe reinforcement learning).
 
-* [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707&hl=en&as_sdt=0,5)].
+* [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707&hl=en&as_sdt=0,5)]. [[Post](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)].
 
 * [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
 
