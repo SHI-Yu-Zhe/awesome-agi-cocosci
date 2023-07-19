@@ -1270,6 +1270,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094&context=jps) - ***The Journal of Problem Solving***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883&hl=en&as_sdt=0,5)].
 
+* [Insight Is Not in the Problem: Investigating Insight in Problem Solving across Task Types](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01424/full) - ***Frontiers in Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=4564128114316001308&hl=en&as_sdt=2005&sciodt=0,5)].
+
 *[Back to Top](#c)
 
 #### Rationality
