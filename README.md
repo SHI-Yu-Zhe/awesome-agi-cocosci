@@ -2257,7 +2257,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
-* [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***.
+* [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***, [Computation and Decision-Making Lab](https://codec-lab.github.io/) - ***SIT***.
 
 *[Back to Top](#c)
 
