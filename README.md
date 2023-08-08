@@ -2135,7 +2135,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 ### MIT
 
-* [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***NSF***.
+* [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***MIT***.
 
 * [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***MIT***.
 
