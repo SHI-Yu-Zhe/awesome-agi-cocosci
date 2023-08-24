@@ -2166,6 +2166,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Jiajun Wu](https://jiajunwu.com/) - ***Computer Science Department, Stanford***.
 
+* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***Department of Psychology, Stanford***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***Stanford***.
+
 *[Back to Top](#c)
 
 
@@ -2224,8 +2226,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 
 ### UCSD
-
-* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***UCSD***.
 
 * [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
 
