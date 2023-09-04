@@ -113,6 +113,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
     * [UCSD](#ucsd)
     * [NYU](#nyu)
     * [BNU](#bnu)
+    * [PKU](#pku)
     * [Others](#others)
 * [People & Book](#people--book)
     * [Ulf Grenander](#ulf-grenander)
@@ -2255,9 +2256,12 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 * [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
 
 
-### Others
+### PKU
 
 * [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+
+
+### Others
 
 * [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
