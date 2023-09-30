@@ -1392,6 +1392,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166&hl=en&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education research.
 
+* [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890&hl=en&as_sdt=0,5)]. Research on facilitating the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework, for scientific research training in higher education.
+
 *[Back to Top](#c)
 
 #### Democratization of Science
