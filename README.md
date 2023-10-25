@@ -134,7 +134,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 ### Courses
 
-* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford***. Courses on computational cognitive science from MIT, Harvard, Stanford.
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT***. Courses on computational cognitive science from MIT, Harvard, and Stanford.
 
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
 
