@@ -48,7 +48,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Dimensionality Reduction](#dimensionality-reduction)
       * [Visual Complexity](#visual-complexity)
     * [Communications](#communications)
-      * [Visual Communication](#visual-communication)
+      * [Non-Verbal Communication](#non-verbal-communication)
       * [Pragmatics](#pragmatics)
       * [Pointing & Pantomime](#pointing--pantomime)
       * [Emergence of Language](#emergence-of-language)
@@ -657,7 +657,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 ### Communications
 
-#### Visual Communication
+#### Non-Verbal Communication
 
 * [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5)]. Nicolas Fay's original paper on iconicity.
 
