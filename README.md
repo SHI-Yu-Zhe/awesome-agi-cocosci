@@ -50,7 +50,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
     * [Communications](#communications)
       * [Non-Verbal Communication](#non-verbal-communication)
       * [Pragmatics](#pragmatics)
-      * [Pointing & Pantomime](#pointing--pantomime)
       * [Emergence of Language](#emergence-of-language)
       * [Coordination](#coordination)
     * [Problem Solving](#problem-solving)
@@ -679,6 +678,10 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Bridging cultural and cognitive perspectives on similarity reasoning](https://escholarship.org/content/qt9p70d5s9/qt9p70d5s9.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bridging+cultural+and+cognitive+perspectives+on+similarity+reasoning&btnG=)]. 
 
+* [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)]. The original paper on child pointing.
+
+* [12- and 18-Month-Olds Point to Provide Information for Others](https://pure.mpg.de/rest/items/item_64467_4/component/file_64468/content) - ***Journal of Cognition and Development***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=7322772656439413984&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Pragmatics
@@ -710,14 +713,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 * [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3) - ***Philosophical Studies***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10912415595149303257&hl=en&as_sdt=0,5)].
 
 * [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
-
-*[Back to Top](#c)
-
-#### Pointing & Pantomime
-
-* [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)]. The original paper on child pointing.
-
-* [12- and 18-Month-Olds Point to Provide Information for Others](https://pure.mpg.de/rest/items/item_64467_4/component/file_64468/content) - ***Journal of Cognition and Development***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=7322772656439413984&hl=en&as_sdt=0,5)].
 
 *[Back to Top](#c)
 
