@@ -714,6 +714,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
 
+* [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 #### Emergence of Language
