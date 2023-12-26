@@ -50,7 +50,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
     * [Communications](#communications)
       * [Non-Verbal Communication](#non-verbal-communication)
       * [Pragmatics](#pragmatics)
-      * [Emergence of Language](#emergence-of-language)
+      * [Language Compositionality](#language-compositionality)
       * [Coordination](#coordination)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
@@ -728,7 +728,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 *[Back to Top](#c)
 
-#### Emergence of Language
+#### Language Compositionality
 
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/) - ***Plato Stanford***. A computational philosophy account on compositionality, one of the distinctive feature of language.
 
