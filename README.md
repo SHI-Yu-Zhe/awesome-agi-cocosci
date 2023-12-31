@@ -762,7 +762,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 ### Domain Specific Language
 
-*
+* [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 
 *[Back to Top](#c)
 
