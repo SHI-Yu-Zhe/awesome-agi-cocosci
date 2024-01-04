@@ -1027,6 +1027,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Trustworthy AI
 
+* [Bayesian modeling of human–AI complementarity](https://www.pnas.org/doi/full/10.1073/pnas.2111547119) - ***Proceedings of National Academy of Sciences***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=15735143859968841009&hl=en&as_sdt=0,5)]. A Bayesian framework for combining the predictions and different types of confidence scores from humans and machines.
+
 * [A tale of two explanations: Enhancing human trust by explaining robot behavior](https://yzhu.io/publication/openbottle2019scirob/paper.pdf) - ***Science Robotics***, 2019. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3985046411399524590)]. The original paper on human believable robot, a result of the DAPAR-XAI.
 
 * [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf) - 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923&hl=en&as_sdt=0,5)]. Introducing the idea of AI estimating human users' knowledge in to explainable AI.
