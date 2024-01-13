@@ -53,6 +53,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Language Compositionality](#language-compositionality)
       * [Coordination](#coordination)
     * [Domain Specific Language](#domain-specific-language)
+      * [Design Theory](#design-theory)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
       * [Planning](#planning)
@@ -761,6 +762,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 
 ### Domain Specific Language
+
+#### Design Theory
 
 * [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 
