@@ -54,6 +54,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Coordination](#coordination)
     * [Domain Specific Language](#domain-specific-language)
       * [Design Theory](#design-theory)
+      * [Domain Specified Applications](#domain-specified-applications)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
       * [Planning](#planning)
