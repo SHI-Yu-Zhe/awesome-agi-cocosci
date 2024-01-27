@@ -1967,6 +1967,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Learning Program Representations for Food Images and Cooking Recipes](https://openaccess.thecvf.com/content/CVPR2022/html/Papadopoulos_Learning_Program_Representations_for_Food_Images_and_Cooking_Recipes_CVPR_2022_paper.html) - ***CVPR'22***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=7690010749576063125)].
 
+* [Reasoning about Procedures with Natural Language Processing: A Tutorial](https://arxiv.org/abs/2205.07455) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11364086808527515615&hl=en&as_sdt=0,5)].
+
 *[Back to Top](#c)
 
 
