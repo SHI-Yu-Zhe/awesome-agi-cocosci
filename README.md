@@ -796,6 +796,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314&hl=en&as_sdt=0,5)].
 
+* [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494&hl=en&as_sdt=0,5)]. A reference model and platform agnostic language for smart contracts.
+
 *[Back to Top](#c)
 
 
