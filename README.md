@@ -1058,6 +1058,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***Machine Learning***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485&hl=en&as_sdt=0,5)]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming.
 
+* [Visual Programming: Compositional Visual Reasoning Without Training](https://openaccess.thecvf.com/content/CVPR2023/html/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.html) - ***CVPR'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=16156060658942400125&hl=en&as_sdt=0,5)]. VISPROG, a neuro-symbolic approach to solving complex and compositional visual tasks given natural language instructions, using the in-context learning ability of large language models to generate python-like modular programs, which are then executed to get both the solution and a comprehensive and interpretable rationale.
+
 *[Back to Top](#c)
 
 
