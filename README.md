@@ -804,6 +804,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494&hl=en&as_sdt=0,5)]. A reference model and platform agnostic language for smart contracts.
 
+* [Infinite Photorealistic Worlds Using Procedural Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Raistrick_Infinite_Photorealistic_Worlds_Using_Procedural_Generation_CVPR_2023_paper.html) - ***CVPR'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11620922717915489091&hl=en&as_sdt=0,5)]. [[Website](https://infinigen.org/)]. [[Supplementary Text](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Raistrick_Infinite_Photorealistic_Worlds_CVPR_2023_supplemental.pdf)]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition.
+
 *[Back to Top](#c)
 
 
