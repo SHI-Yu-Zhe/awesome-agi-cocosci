@@ -1893,6 +1893,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd40d0d65bfebb894ccc9ea822b47fa8-Abstract-Conference.html) - ***NeurIPS'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11694070042468483715&hl=en&as_sdt=0,5)]. Grammar prompting, a simple approach to enable LLMs to use external knowledge and domain-specific constraints, expressed through a grammar in Backus--Naur Form (BNF), during in-context learning.
 
+* [Large Language Models Meet NL2Code: A Survey](https://aclanthology.org/2023.acl-long.411/) - ***ACL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11868015824802341463&hl=en&as_sdt=0,5)]. [[NL2Code Website](https://nl2code.github.io/)]. A paper presenting a comprehensive survey of 27 existing large language models for NL2Code, and also review benchmarks and metrics, suggesting that the key factors contributing to the success of large language models for NL2Code are “Large Size, Premium Data, Expert Tuning”.
+
 *[Back to Top](#c)
 
 
