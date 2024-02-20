@@ -1806,7 +1806,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553&hl=en&as_sdt=0,5)].
 
-* [Visual Concept Programming: A Visual Analytics Approach to Injecting Human Intelligence at Scale](https://ieeexplore.ieee.org/abstract/document/9904017) - , 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10724509334112758172&hl=en&as_sdt=0,5)]. This paper presents Visual Concept Programming, a first-of-its-kind visual analytics approach of using visual concepts to program image data at scale while requiring a few human efforts.
+* [Visual Concept Programming: A Visual Analytics Approach to Injecting Human Intelligence at Scale](https://ieeexplore.ieee.org/abstract/document/9904017) - ***IEEE Transactions on Visualization and Computer Graphics***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10724509334112758172&hl=en&as_sdt=0,5)]. This paper presents Visual Concept Programming, a first-of-its-kind visual analytics approach of using visual concepts to program image data at scale while requiring a few human efforts.
 
 *[Back to Top](#c)
 
