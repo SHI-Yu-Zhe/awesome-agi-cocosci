@@ -660,6 +660,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Identifying concept libraries from language about object structure](https://arxiv.org/pdf/2205.05666.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=4019205027627496528&hl=en&as_sdt=0,5)].
 
+* [Show or tell? Exploring when (and why) teaching with language outperforms demonstration](https://www.sciencedirect.com/science/article/pii/S0010027722003158) - ***Cognition***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11837154580063293174&hl=en&as_sdt=0,5)]. The findings of this paper suggest that language communicates complex concepts by directly transmitting abstract rules. In contrast, demonstrations transmit examples, requiring the learner to infer the rules.
+
 *[Back to Top](#c)
 
 
