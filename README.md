@@ -695,6 +695,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [12- and 18-Month-Olds Point to Provide Information for Others](https://pure.mpg.de/rest/items/item_64467_4/component/file_64468/content) - ***Journal of Cognition and Development***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=7322772656439413984&hl=en&as_sdt=0,5)].
 
+* [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511&as_sdt=0,5)]. 
+
 *[Back to Top](#c)
 
 #### Pragmatics
