@@ -56,6 +56,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Design Theory](#design-theory)
       * [Design Practises](#design-practises)
       * [Domain Specified Applications](#domain-specified-applications)
+      * [DSL Program Synthesis](#dsl-program-synthesis)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
       * [Planning](#planning)
@@ -818,7 +819,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 *[Back to Top](#c)
 
-### DSL Program Synthesis
+#### DSL Program Synthesis
 
 *[Back to Top](#c)
 
