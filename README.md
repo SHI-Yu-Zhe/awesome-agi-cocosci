@@ -1430,6 +1430,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Foundations of intuitive power analyses in children and adults](https://eccl.mit.edu/s/Pelz_Foundations-of-intuitive-power-analyses-in-children-and-adults.pdf) - ***Nature Human Behavior***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=4370839893505978405&hl=en&as_sdt=0,5)]. Evidences support that people have some of the foundations for 'intuitive power analyses', which help people use intuitive statistical reasoning and metacognitive strategies to estimate how much information they might need to solve different discrimination problems.
 
+* [Cognitive Science as a Source of Forward and Inverse Models of Human Decisions for Robotics and Control](https://cocosci.princeton.edu/papers/ho2022cognitive.pdf) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&cluster=14055765901243029337)]. The review focuses on how cognitive science can provide forward models of human decision-making and inverse models of how humans think about others’ decision-making. The authors highlight relevant recent developments, including approaches that synthesize black box and theory-driven modeling, accounts that recast heuristics and biases as forms of bounded optimality, and models that characterize human theory of mind and communication in decision-theoretic terms.
+
 *[Back to Top](#c)
 
 #### Cognitive Architecture
