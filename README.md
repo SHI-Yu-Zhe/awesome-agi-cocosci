@@ -1560,6 +1560,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Reproducibility](https://www.science.org/doi/full/10.1126/science.1250475) - ***Science***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=676974831306442279&hl=en&as_sdt=0,10)].
 
+* [Bridging the information gap in organic chemical reactions](https://www.nature.com/articles/s41557-024-01470-8) - ***Nature Chemistry***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=5365091261196953334)]. This perspective article formulates eight principles to improve data management in scientific publications relating to data standardization, reproducibility and evaluation, and encourage scientists to go beyond current publication standards. 
+
 * [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900&hl=en&as_sdt=0,10)].
 
 * [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824&hl=en&as_sdt=0,5)].
