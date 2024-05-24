@@ -56,6 +56,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Design Theory](#design-theory)
       * [Design Practises](#design-practises)
       * [Imperative DSL Applications](#imperative-dsl-applications)
+      * [Declarative DSL Applications](#declarative-dsl-applications)
       * [DSL Program Synthesis](#dsl-program-synthesis)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
@@ -840,6 +841,10 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [OpenLaw](https://docs.openlaw.io/) - ***OpenLaw.io***. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation "smart" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications.
 
 * [PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming](https://proceedings.mlr.press/v130/lew21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2892523061439714130)]. This work presents PClean, a probabilistic programming language (PPL) for leveraging dataset-specific knowledge to automate Bayesian cleaning, automating Bayesian approaches given the diversity of real-world error patterns and the hardness of inference.
+
+*[Back to Top](#c)
+
+#### Declarative DSL Applications
 
 *[Back to Top](#c)
 
