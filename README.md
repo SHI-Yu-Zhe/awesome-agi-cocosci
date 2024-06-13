@@ -57,6 +57,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Design Practises](#design-practises)
       * [Imperative DSL Applications](#imperative-dsl-applications)
       * [Declarative DSL Applications](#declarative-dsl-applications)
+      * [Logic DSL Applications](#logic-dsl-applications)
       * [DSL Program Synthesis](#dsl-program-synthesis)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
@@ -857,6 +858,10 @@ English-language description for use by biologists.
 * [PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming](https://proceedings.mlr.press/v130/lew21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2892523061439714130)]. This work presents PClean, a probabilistic programming language (PPL) for leveraging dataset-specific knowledge to automate Bayesian cleaning, automating Bayesian approaches given the diversity of real-world error patterns and the hardness of inference.
 
 * [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. [[Project](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do. 
+
+*[Back to Top](#c)
+
+#### Logic DSL Applications
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
 
