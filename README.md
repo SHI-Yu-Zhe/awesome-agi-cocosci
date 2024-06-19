@@ -1551,6 +1551,8 @@ English-language description for use by biologists.
 
 * [Automated extraction of chemical synthesis actions from experimental procedures](https://www.nature.com/articles/s41467-020-17266-6) - ***Nature Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1626689948540815082)]. This paper presents a method to convert unstructured experimental procedures written in English to structured synthetic steps (action sequences) reflecting all the operations needed to successfully conduct the corresponding chemical reactions. 
 
+* [Inferring experimental procedures from text-based representations of chemical reactions](https://www.nature.com/articles/s41467-021-22951-1) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15772647675166217556)]. This paper presents data-driven models for predicting the entire sequence of synthesis steps starting from a textual representation of a chemical equation, for application in batch organic chemistry.
+
 * [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
