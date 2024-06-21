@@ -93,7 +93,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Philosophy of Science](#philosophy-of-science)
       * [Science of Science](#science-of-science)
       * [Literature Mining](#literature-mining)
-      * [Literature Visualization](#literature-visualization)
       * [Scientific Writing](#scientific-writing)
       * [Science Education](#science-education)
       * [Democratization of Science](#democratization-of-science)
@@ -1560,10 +1559,6 @@ English-language description for use by biologists.
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 * [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679&hl=en&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
-
-*[Back to Top](#c)
-
-#### Literature Visualization
 
 * [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923&hl=en&as_sdt=0,5)].
 
