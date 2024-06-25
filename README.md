@@ -125,6 +125,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
     * [JHU](#jhu)
     * [SIT](#sit)
 * [People & Book](#people--book)
+    * [John Hopcroft](#john-hopcroft)
     * [Ulf Grenander](#ulf-grenander)
     * [David Marr](#david-marr)
     * [Michael Tomasello](#michael-tomasello)
@@ -132,7 +133,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
     * [Susan Carey](#susan-carey)
     * [Daniel Kahneman](#daniel-kahneman)
     * [Karl Popper](#karl-popper)
-    * [John Hopcroft](#john-hopcroft)
 * [About](#about)
 
 
