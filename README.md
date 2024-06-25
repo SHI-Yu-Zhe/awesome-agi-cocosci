@@ -2612,6 +2612,8 @@ Scientific philosophor, the founder of scientific verification theories.
 
 Applied Mathematician, theoretical computer scientist.
 
+* [Introduction to Automata Theory, Languages, and Computation](http://elib.vku.udn.vn/bitstream/123456789/2543/1/2007.%20Introduction%20to%20Automata%20Theory%2C%20Languages%2C%20and%20Computations%20%283rd%20edition%29.pdf) - ***Pearson***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=326269839585842480)].
+
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) - ***Cambridge University Press***. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1802704438630899850)].
 
 *[Back to Top](#c)
