@@ -1914,6 +1914,8 @@ English-language description for use by biologists.
 
 * [The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning](https://arxiv.org/abs/2202.04800) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18355807581692234364)].
 
+* [UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://aclanthology.org/2024.naacl-long.469/) - ***NAACL'24***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=470445696014235795)]. This paper explores the task of uncommonsense abductive reasoning. Given a piece of context with an unexpected outcome, this task requires reasoning abductively to generate an explanation that makes the unexpected outcome more likely in the context.
+
 * [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5)]. A perspective on the furture of computational linguistics research---commonsense-driven and embodied language.
 
 * [Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning](https://aclanthology.org/2021.emnlp-main.162/) - ***EMNLP'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12305856131717604775&hl=en&as_sdt=0,5)].
