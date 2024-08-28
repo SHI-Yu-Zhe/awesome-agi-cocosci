@@ -49,6 +49,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
     * [Domain Specific Language](#domain-specific-language)
       * [Design Theory](#design-theory)
       * [Design Practises](#design-practises)
+      * [Automated DSL Design](#automated-dsl-design)
       * [Imperative DSL Applications](#imperative-dsl-applications)
       * [Declarative DSL Applications](#declarative-dsl-applications)
       * [Logic DSL Applications](#logic-dsl-applications)
@@ -698,6 +699,10 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
 
 *[Back to Top](#c)
+
+#### Automated DSL Design
+
+* [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. [[All Versions]()]. [[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
 
 #### Imperative DSL Applications
 
