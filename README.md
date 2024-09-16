@@ -180,7 +180,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Use of current explanations in multicausal abductive reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2506_2) - ***Cognitive Science***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=7816050625957759346&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short) - ***Proceedings of the National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588&hl=en&as_sdt=0,5)].
+* [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short) - ***Proceedings of the National Academy of Sciences***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588)]. This paper presents a theory, and its computer implementation, of how mental simulations underlie the abductions of informal algorithms and deductions from these algorithms. Three experiments tested the theory’s predictions, using an environment of a single railway track and a siding. The results corroborated the use of a kinematic mental model in creating and testing informal algorithms and showed that individuals differ reliably in the ability to carry out these tasks.
 
 * [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4) - ***Synthese***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385&hl=en&as_sdt=0,5)]. A categorization for Abduction in the account of pure philosophy.
 
