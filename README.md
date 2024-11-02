@@ -1270,6 +1270,8 @@ English-language description for use by biologists.
 
 * [Agent: automatic generation of experimental protocol runtime](https://dl.acm.org/doi/abs/10.1145/3139131.3139152) - ***VRST'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=3511549412244980073)]. This paper proposes the use of Domain-Specific Languages (DSLs) to ease the description and generation of VR experiments, thus letting experiment designers focus on their core tasks: designing, conducting, and reporting experiments.
 
+* [What's the Game, then? Opportunities and Challenges for Runtime Behavior Generation](https://dl.acm.org/doi/abs/10.1145/3654777.3676358) - ***UIST'24***, 2024. [[All Versions]()]. Procedural content generation (PCG), the process of algorithmically creating game components instead of manually, has been a common tool of game development for decades. Recent advances in large language models (LLMs) enable the generation of game behaviors based on player input at runtime. Such code generation brings with it the possibility of entirely new gameplay interactions that may be difficult to integrate with typical game development workflows. This work explores these implications through GROMIT, a novel LLM-based runtime behavior generation system for Unity. When triggered by a player action, GROMIT generates a relevant behavior which is compiled without developer intervention and incorporated into the game.
+
 *[Back to Top](#c)
 
 
