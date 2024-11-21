@@ -54,6 +54,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
       * [Declarative DSL Applications](#declarative-dsl-applications)
       * [Logic DSL Applications](#logic-dsl-applications)
       * [DSL Program Synthesis](#dsl-program-synthesis)
+      * [Cognitive Foundations](#cognitive-foundations)
     * [Problem Solving](#problem-solving)
       * [Human-Level Problem Solving](#human-level-problem-solving)
       * [Planning](#planning)
