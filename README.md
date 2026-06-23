@@ -2109,6 +2109,8 @@ We applied our framework to three visual recognition tasks, namely, image classi
 
 * [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.  
 
+* [Swarm](https://github.com/JohTandou/agent-swarm) - ***GitHub***, 2025. Specialized multi-agent pipeline for software engineering: 9 agents handle classification, planning, implementation, testing, and review through 5 complexity routes. Demonstrates how agent specialization and quality gates reduce LLM API costs by 5–8×.
+
 *[Back to Top](#c)
 
 
