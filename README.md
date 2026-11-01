@@ -1552,6 +1552,8 @@ We applied our framework to three visual recognition tasks, namely, image classi
 
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
+* [Cadence: an architecture for a continuous and efficient stream of intelligence](https://philpapers.org/rec/MUECAP-2) - 2026. [[Code](https://github.com/muellerberndt/cadence)]. A brain-inspired architecture for agents that learn from live experience while they act, using local plasticity instead of backpropagation, with working, associative and episodic memory.
+
 *[Back to Top](#c)
 
 
